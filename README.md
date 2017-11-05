@@ -1,28 +1,11 @@
 # Summary
 
+This is the English portion of the Parallel Universal Dependencies (PUD)
+treebanks created for the CoNLL 2017 shared task on Multilingual Parsing
+from Raw Text to Universal Dependencies 
+(http://universaldependencies.org/conll17/).
+
 # Introduction
-
-# Acknowledgments
-
-# Metadata
-
-```
-=== Machine-readable metadata (DO NOT REMOVE!) ================================
-Lemmas: automatic
-UPOS: manual native
-XPOS: manual native
-Features: automatic
-Relations: manual native
-Data available since: UD v2.1
-License: CC BY-SA 3.0
-Includes text: yes
-Genre: news wiki
-Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Kirchner, Jesse; Lambertino, Lorenzo; Popel, Martin; Zeman, Daniel; Manning, Christopher; Schuster, Sebastian; Reddy, Siva
-Contributing: elsewhere
-Contact: syntacticdependencies@lists.stanford.edu
-===============================================================================
-```
-
 
 This is a part of the Parallel Universal Dependencies (PUD) treebanks created
 for the CoNLL 2017 shared task on Multilingual Parsing from Raw Text to
@@ -42,7 +25,10 @@ Korean, Portuguese, Russian, Thai and Turkish has been provided by DFKI and
 performed (except for German) by professional translators. Then the data has
 been annotated morphologically and syntactically by Google according to Google
 universal annotation guidelines; finally, it has been converted by members of
-the UD community to UD v2 guidelines.
+the UD community to UD v2 guidelines. Martin Popel automatically converted
+the data to UD v2 and Sebastian Schuster, Siva Reddy, and Christopher Manning
+manually corrected incorrect UPOS tags and syntactic annotations. Morphological
+features and lemmata were added automatically using Stanford CoreNLP.
 
 Additional languages have been provided (both translation and native UD v2
 annotation) by other teams: Czech by Charles University, Finnish by University
@@ -52,6 +38,38 @@ The entire treebank is labeled as test set (and was used for testing in the
 shared task). If it is used for training in future research, the users should
 employ ten-fold cross-validation.
 
+
+# Acknowledgments
+
+The sentences were were provided by DKFI, and the 250 sentences in German, 
+French, Italian, and Spanish were translated to English by professional
+translators.
+
+Syntactic and morphological annotations were originally provided by Google
+according to Google universal annotation guidelines, then automatically
+converted by Martin Popel, and finally manually corrected by Sebastian
+Schuster, Siva Reddy, and Christopher Manning. Morphological features and
+lemmate were added by Sebastian Schuster.
+
+
+# Metadata
+
+```
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
+Lemmas: automatic
+UPOS: manual native
+XPOS: manual native
+Features: automatic
+Relations: manual native
+Data available since: UD v2.1
+License: CC BY-SA 3.0
+Includes text: yes
+Genre: news wiki
+Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Kirchner, Jesse; Lambertino, Lorenzo; Popel, Martin; Zeman, Daniel; Manning, Christopher; Schuster, Sebastian; Reddy, Siva
+Contributing: elsewhere
+Contact: syntacticdependencies@lists.stanford.edu
+===============================================================================
+```
 
 # Original Annotation
 
