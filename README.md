@@ -27,8 +27,8 @@ been annotated morphologically and syntactically by Google according to Google
 universal annotation guidelines; finally, it has been converted by members of
 the UD community to UD v2 guidelines. Martin Popel automatically converted
 the data to UD v2 and Sebastian Schuster, Siva Reddy, and Christopher Manning
-manually corrected incorrect UPOS tags and syntactic annotations. Morphological
-features and lemmata were added automatically using Stanford CoreNLP.
+manually corrected UPOS tags and syntactic annotations. Morphological features
+and lemmata were added automatically using Stanford CoreNLP.
 
 Additional languages have been provided (both translation and native UD v2
 annotation) by other teams: Czech by Charles University, Finnish by University
@@ -41,15 +41,15 @@ employ ten-fold cross-validation.
 
 # Acknowledgments
 
-The sentences were were provided by DKFI, and the 250 sentences in German, 
+The sentences were provided by DKFI, and the 250 sentences in German, 
 French, Italian, and Spanish were translated to English by professional
 translators.
 
-Syntactic and morphological annotations were originally provided by Google
+Syntactic and morphological annotations were originally added by Google
 according to Google universal annotation guidelines, then automatically
-converted by Martin Popel, and finally manually corrected by Sebastian
-Schuster, Siva Reddy, and Christopher Manning. Morphological features and
-lemmate were added by Sebastian Schuster.
+converted to UD v2 by Martin Popel, and finally manually corrected by 
+Sebastian Schuster, Siva Reddy, and Christopher Manning. Morphological 
+features and lemmata were added by Sebastian Schuster.
 
 
 # Metadata
