@@ -2,7 +2,7 @@
 
 This is the English portion of the Parallel Universal Dependencies (PUD)
 treebanks created for the CoNLL 2017 shared task on Multilingual Parsing
-from Raw Text to Universal Dependencies 
+from Raw Text to Universal Dependencies
 (http://universaldependencies.org/conll17/).
 
 # Introduction
@@ -41,15 +41,25 @@ employ ten-fold cross-validation.
 
 # Acknowledgments
 
-The sentences were provided by DKFI, and the 250 sentences in German, 
+The sentences were provided by DKFI, and the 250 sentences in German,
 French, Italian, and Spanish were translated to English by professional
 translators.
 
 Syntactic and morphological annotations were originally added by Google
 according to Google universal annotation guidelines, then automatically
-converted to UD v2 by Martin Popel, and finally manually corrected by 
-Sebastian Schuster, Siva Reddy, and Christopher Manning. Morphological 
+converted to UD v2 by Martin Popel, and finally manually corrected by
+Sebastian Schuster, Siva Reddy, and Christopher Manning. Morphological
 features and lemmata were added by Sebastian Schuster.
+
+
+# Changelog
+
+* 2018-04-15 v2.2
+  * Automatically added enhanced dependencies (These have not been manually checked!)
+
+* 2017-11-15 v2.1
+  * First official release after it was used as a surprise dataset in the
+    CoNLL 2017 shared task.
 
 
 # Metadata
@@ -73,9 +83,9 @@ Contact: syntacticdependencies@lists.stanford.edu
 
 # Original Annotation
 
-This treebank was originally annotated by Google, Inc. according to slightly 
-modified Stanford Dependencies annotation guidelines. The following README was 
-included with the original annotations. 
+This treebank was originally annotated by Google, Inc. according to slightly
+modified Stanford Dependencies annotation guidelines. The following README was
+included with the original annotations.
 
 ```
 
