@@ -1,15 +1,11 @@
-Sun Feb 11 20:38:30 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_English-PUD
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
+Date:   Wed Apr 11 09:21:53 2018 +0200
 Evaluating the following revision of UD_English-PUD:
-commit cb50cf78e8f36ada8ad8ccc9c6ed47086f4d0dd1
+commit c05eabae1039750845d63dc410b866a36d5deb2b
+Merge: 712b952 6d2d0bb
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 11 13:54:44 2017 +0100
 Size: counted 21176 of 21176 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.1057369298496.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -26,6 +22,9 @@ Universal relations: source of annotation (from README) factor is 1.
 Udapi: found 319 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 21176 words.
 Genres: found 2 out of 14 known.
+validate.py --lang en --max-err=10 UD_English-PUD/en_pud-ud-test.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.142857142857143) = 0.010989010989011
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
@@ -37,5 +36,3 @@ Genres: found 2 out of 14 known.
 (TOTAL score=0.614312363832235) * (availability=1) * (validity=1) = 0.614312363832235
 STARS = 3
 UD_English-PUD	0.614312363832235	3
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
