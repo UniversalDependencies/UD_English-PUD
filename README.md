@@ -54,6 +54,9 @@ features and lemmata were added by Sebastian Schuster.
 
 # Changelog
 
+* 2018-11-15 v2.3
+  * No changes to previous version
+
 * 2018-04-15 v2.2
   * Automatically added enhanced dependencies (These have not been manually checked!)
 
