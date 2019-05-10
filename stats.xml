@@ -6,18 +6,21 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1000</sentences><tokens>21176</tokens><words>21176</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>21176</tokens><words>21176</words><fused>0</fused></test>
   </size>
-  <lemmas unique="4595" /><!-- the, ,, ., be, of, in, to, and, a, have, he, that, ", as, it -->
+  <lemmas unique="4591" /><!-- the, ,, ., be, of, in, to, and, a, have, he, that, ", as, it -->
   <forms unique="5370" /><!-- the, ,, ., of, in, to, and, a, was, is, that, ", as, it, for -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">1540</tag><!-- new, many, more, first, other, such, last, great, high, own -->
-    <tag name="ADP">2497</tag><!-- of, in, to, for, on, with, by, as, at, from -->
-    <tag name="ADV">843</tag><!-- also, when, so, only, more, not, where, however, most, well -->
-    <tag name="AUX">1010</tag><!-- be, have, will, would, can, do, could, may, ’s, might -->
-    <tag name="CCONJ">574</tag><!-- and, but, or, both, either, &, /, yet -->
-    <tag name="DET">2089</tag><!-- the, a, this, all, that, some, these, each, no, both -->
+    <tag name="ADP">2493</tag><!-- of, in, to, for, on, with, by, as, at, from -->
+    <tag name="ADV">848</tag><!-- also, when, so, only, more, not, where, however, most, well -->
+    <tag name="AUX">1014</tag><!-- be, have, would, will, can, do, could, may, might, should -->
+    <tag name="CCONJ">576</tag><!-- and, but, or, both, either, &, /, yet -->
+    <tag name="DET">2086</tag><!-- the, a, this, all, that, some, these, each, no, both -->
     <tag name="INTJ">1</tag><!-- hey -->
     <tag name="NOUN">4040</tag><!-- year, time, people, city, government, state, day, part, war, century -->
     <tag name="NUM">455</tag><!-- one, two, three, million, 10, four, 1, six, 3, 2014 -->
@@ -27,7 +30,7 @@
     <tag name="PUNCT">2451</tag><!-- ,, ., ", -, (, ), “, ”, :, ' -->
     <tag name="SCONJ">290</tag><!-- that, as, of, if, after, while, by, for, because, in -->
     <tag name="SYM">42</tag><!-- %, £, $, -, € -->
-    <tag name="VERB">2154</tag><!-- have, be, say, take, make, use, become, work, begin, include -->
+    <tag name="VERB">2150</tag><!-- have, say, be, take, make, use, become, work, begin, include -->
     <tag name="X">16</tag><!-- de, andes, andino, coup, force, grâce, maiorum, mare, mos, nostrum -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -72,10 +75,10 @@
     <dep name="acl">193</dep>
     <dep name="acl:relcl">211</dep>
     <dep name="advcl">293</dep>
-    <dep name="advmod">856</dep>
+    <dep name="advmod">852</dep>
     <dep name="amod">1336</dep>
-    <dep name="appos">142</dep>
-    <dep name="aux">411</dep>
+    <dep name="appos">143</dep>
+    <dep name="aux">410</dep>
     <dep name="aux:pass">274</dep>
     <dep name="case">2499</dep>
     <dep name="cc">574</dep>
@@ -93,11 +96,11 @@
     <dep name="discourse">1</dep>
     <dep name="dislocated">2</dep>
     <dep name="expl">62</dep>
-    <dep name="fixed">104</dep>
-    <dep name="flat">229</dep>
+    <dep name="fixed">103</dep>
+    <dep name="flat">230</dep>
     <dep name="goeswith">1</dep>
     <dep name="iobj">10</dep>
-    <dep name="mark">555</dep>
+    <dep name="mark">556</dep>
     <dep name="nmod">1076</dep>
     <dep name="nmod:npmod">19</dep>
     <dep name="nmod:poss">365</dep>
@@ -105,9 +108,9 @@
     <dep name="nsubj">1393</dep>
     <dep name="nsubj:pass">239</dep>
     <dep name="nummod">254</dep>
-    <dep name="obj">875</dep>
+    <dep name="obj">876</dep>
     <dep name="obl">1237</dep>
-    <dep name="obl:npmod">18</dep>
+    <dep name="obl:npmod">20</dep>
     <dep name="obl:tmod">18</dep>
     <dep name="orphan">7</dep>
     <dep name="parataxis">97</dep>
