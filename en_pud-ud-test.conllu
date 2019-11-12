@@ -5355,7 +5355,7 @@
 3	at	at	ADP	IN	_	4	case	4:case	_
 4	motocross	motocross	NOUN	NN	Number=Sing	2	obl	2:obl:at	_
 5	and	and	CCONJ	CC	_	16	cc	16:cc	_
-6	the	the	DET	DT	Definite=Def|PronType=Art	7	mark	7:mark	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	more	more	ADV	RBR	_	9	advmod	9:advmod	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 9	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	16:advcl	SpaceAfter=No

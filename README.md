@@ -54,6 +54,9 @@ features and lemmata were added by Sebastian Schuster.
 
 # Changelog
 
+* 2019-11-15 v2.5
+  * Fixed relation of one determiner
+  
 * 2019-05-15 v2.4
   * Fixed malformed enhanced UD graphs
   * Fixed some POS tags, lemmata, and syntactic relations
