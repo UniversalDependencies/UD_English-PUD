@@ -54,6 +54,9 @@ features and lemmata were added by Sebastian Schuster.
 
 # Changelog
 
+* 2020-05-15 v2.6
+  * No changes to previous version
+
 * 2019-11-15 v2.5
   * Fixed relation of one determiner
   
