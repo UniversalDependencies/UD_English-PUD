@@ -9028,7 +9028,7 @@
 # sent_id = w01004051
 # text = The Greek city-state of Athens in the 5th century BC, which was dependent on grain imports from Scythia, maintained critical alliances with cities which controlled the straits, such as the Megarian colony Byzantium.
 1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-2	Greek	greek	ADJ	JJ	Degree=Pos	5	amod	5:amod	Proper=True
+2	Greek	Greek	ADJ	JJ	Degree=Pos	5	amod	5:amod	Proper=True
 3	city	city	NOUN	NN	Number=Sing	5	compound	5:compound	SpaceAfter=No
 4	-	-	PUNCT	HYPH	_	5	punct	5:punct	SpaceAfter=No
 5	state	state	NOUN	NN	Number=Sing	23	nsubj	16:nsubj|23:nsubj	_
@@ -9097,7 +9097,7 @@
 6	,	,	PUNCT	,	_	10	punct	10:punct	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 8	coastal	coastal	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
-9	Greek	greek	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
+9	Greek	Greek	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
 10	cities	city	NOUN	NNS	Number=Plur	5	conj	4:obj|5:conj:and	SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	14:punct	_
 12	and	and	CCONJ	CC	_	14	cc	14:cc	_
@@ -9162,7 +9162,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 6	Macedonian	macedonian	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
-8	Persian	persian	ADJ	JJ	Degree=Pos	6	conj	6:conj:and|9:amod	Proper=True
+8	Persian	Persian	ADJ	JJ	Degree=Pos	6	conj	6:conj:and|9:amod	Proper=True
 9	elite	elite	NOUN	NN	Number=Sing	3	nmod	3:nmod:of	_
 10	intermarried	intermarry	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	10:punct	_
@@ -10047,7 +10047,7 @@
 10	antiquity	antiquity	NOUN	NN	Number=Sing	7	nmod	7:nmod:in	_
 11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	15:cop	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
-13	Greek	greek	ADJ	JJ	Degree=Pos	15	amod	15:amod	Proper=True
+13	Greek	Greek	ADJ	JJ	Degree=Pos	15	amod	15:amod	Proper=True
 14	city	city	NOUN	NN	Number=Sing	15	compound	15:compound	_
 15	states	state	NOUN	NNS	Number=Plur	0	root	0:root|20:nmod	_
 16	and	and	CCONJ	CC	_	18	cc	18:cc	_
@@ -22736,7 +22736,7 @@
 20	to	to	PART	TO	_	21	mark	21:mark	_
 21	create	create	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
 22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
-23	Greek	greek	ADJ	JJ	Degree=Pos	24	amod	24:amod	Proper=True
+23	Greek	Greek	ADJ	JJ	Degree=Pos	24	amod	24:amod	Proper=True
 24	alphabet	alphabet	NOUN	NN	Number=Sing	21	obj	21:obj	SpaceAfter=No
 25	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -22750,7 +22750,7 @@
 6	,	,	PUNCT	,	_	11	punct	11:punct	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 8	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	10:amod	_
-9	Greek	greek	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
+9	Greek	Greek	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
 10	texts	text	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj|13:nsubj:xsubj	_
 11	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	to	to	PART	TO	_	13	mark	13:mark	_
@@ -22776,7 +22776,7 @@
 15	largely	largely	ADV	RB	_	16	advmod	16:advmod	_
 16	dictated	dictate	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
 17	by	by	ADP	IN	_	19	case	19:case	_
-18	Greek	greek	ADJ	JJ	Degree=Pos	19	amod	19:amod	Proper=True
+18	Greek	Greek	ADJ	JJ	Degree=Pos	19	amod	19:amod	Proper=True
 19	geography	geography	NOUN	NN	Number=Sing	16	obl	16:obl:by	SpaceAfter=No
 20	:	:	PUNCT	:	_	3	punct	3:punct	_
 21	every	every	DET	DT	_	22	det	22:det	_
