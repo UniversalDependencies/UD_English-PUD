@@ -10,23 +10,23 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>21176</tokens><words>21176</words><fused>0</fused></test>
   </size>
-  <lemmas unique="4591" /><!-- the, ,, ., be, of, in, to, and, a, have, he, that, ", as, it -->
+  <lemmas unique="4597" /><!-- the, ,, ., be, of, in, to, and, a, have, he, that, ", as, it -->
   <forms unique="5370" /><!-- the, ,, ., of, in, to, and, a, was, is, that, ", as, it, for -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">1540</tag><!-- new, many, more, first, other, such, last, great, high, own -->
+    <tag name="ADJ">1530</tag><!-- new, many, more, other, first, such, last, high, own, several -->
     <tag name="ADP">2493</tag><!-- of, in, to, for, on, with, by, as, at, from -->
     <tag name="ADV">848</tag><!-- also, when, so, only, more, not, where, however, most, well -->
     <tag name="AUX">1014</tag><!-- be, have, would, will, can, do, could, may, might, should -->
     <tag name="CCONJ">576</tag><!-- and, but, or, both, either, &, /, yet -->
     <tag name="DET">2086</tag><!-- the, a, this, all, that, some, these, each, no, both -->
     <tag name="INTJ">1</tag><!-- hey -->
-    <tag name="NOUN">4040</tag><!-- year, time, people, city, government, state, day, part, war, century -->
+    <tag name="NOUN">4036</tag><!-- year, time, people, city, government, day, state, part, war, century -->
     <tag name="NUM">455</tag><!-- one, two, three, million, 10, four, 1, six, 3, 2014 -->
     <tag name="PART">426</tag><!-- to, 's, not, ’s, ', n’t, up -->
     <tag name="PRON">1021</tag><!-- he, it, they, she, that, which, I, we, who, its -->
-    <tag name="PROPN">1727</tag><!-- China, sea, October, Trump, north, America, April, Europe, France, war -->
+    <tag name="PROPN">1741</tag><!-- China, Sea, October, Trump, North, America, April, Europe, France, war -->
     <tag name="PUNCT">2451</tag><!-- ,, ., ", -, (, ), “, ”, :, ' -->
     <tag name="SCONJ">290</tag><!-- that, as, of, if, after, while, by, for, because, in -->
     <tag name="SYM">42</tag><!-- %, £, $, -, € -->
@@ -40,7 +40,7 @@
     <feat name="Definite" value="Def" upos="DET">1441</feat><!-- the -->
     <feat name="Definite" value="Ind" upos="DET">444</feat><!-- a, an -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">68</feat><!-- more, earlier, greater, longer, better, less, higher, fewer, lower, Elder -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV">1482</feat><!-- new, many, first, other, such, last, well, great, high, own -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,PROPN">1481</feat><!-- new, many, other, first, such, last, well, great, high, own -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">46</feat><!-- best, least, most, biggest, latest, worst, tallest, largest, deepest, earliest -->
     <feat name="Foreign" value="Yes" upos="X">6</feat><!-- de, Andes, Force, coup, tipo -->
     <feat name="Gender" value="Fem" upos="PRON">79</feat><!-- her, she, herself -->
@@ -48,10 +48,10 @@
     <feat name="Gender" value="Neut" upos="PRON">191</feat><!-- it, its, itself -->
     <feat name="Mood" value="Ind" upos="AUX,NOUN,VERB">1570</feat><!-- was, is, are, were, has, had, have, said, 's, did -->
     <feat name="Number" value="Plur" upos="DET,NOUN,NUM,PRON,PROPN">1389</feat><!-- their, they, people, years, we, these, them, our, police, those -->
-    <feat name="Number" value="Sing" upos="ADJ,ADV,AUX,DET,NOUN,PRON,PROPN,SYM,VERB">5893</feat><!-- was, is, it, he, his, this, has, I, her, its -->
+    <feat name="Number" value="Sing" upos="ADJ,ADV,AUX,DET,NOUN,PRON,PROPN,SYM,VERB">5894</feat><!-- was, is, it, he, his, this, has, I, her, its -->
     <feat name="NumType" value="Card" upos="NUM,PROPN">460</feat><!-- one, two, three, million, 10, four, 1, six, 3, 2014 -->
     <feat name="NumType" value="Mult" upos="ADV">4</feat><!-- once, twice -->
-    <feat name="NumType" value="Ord" upos="ADJ">56</feat><!-- first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th -->
+    <feat name="NumType" value="Ord" upos="ADJ">55</feat><!-- first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th -->
     <feat name="Person" value="1" upos="AUX,PRON">111</feat><!-- I, we, our, my, us, me, am -->
     <feat name="Person" value="2" upos="PRON">20</feat><!-- you, your -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">1240</feat><!-- was, is, it, he, his, has, their, they, her, its -->
