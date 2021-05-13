@@ -1,11 +1,11 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_English-PUD:
-commit 7a325e0f769bf5223d98cca9696d303eab6fe37d
+commit 1c42b5bb3de5a8042a8dddb9171f5e60e7c8e329
+Merge: 436ff58 c7cc02b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 17:53:11 2020 +0200
 Size: counted 21176 of 21176 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.1057369298496.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,9 @@ Features: 14177 out of 21176 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 308 bugs.
+Udapi:
+               TOTAL        317
+Udapi: found 317 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 21176 words.
 Genres: found 2 out of 17 known.
 validate.py --lang en --max-err=10 UD_English-PUD/en_pud-ud-test.conllu
@@ -31,8 +33,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.441947976097764) = 0.113319993871222
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.854552323384964) = 0.262939176426143
+(weight=0.307692307692308) * (score{udapi}=0.850302228938421) = 0.261631455057976
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.613971452715529) * (availability=1) * (validity=1) = 0.613971452715529
+(TOTAL score=0.612663731347362) * (availability=1) * (validity=1) = 0.612663731347362
 STARS = 3
-UD_English-PUD	0.613971452715529	3
+UD_English-PUD	0.612663731347362	3
