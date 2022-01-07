@@ -6169,9 +6169,9 @@
 17	so	so	ADV	RB	_	16	advmod	16:advmod	_
 18	three	three	NUM	CD	NumType=Card	19	nummod	19:nummod	_
 19	times	time	NOUN	NNS	Number=Plur	16	obl:npmod	16:obl:npmod	_
-20	is	is	ADP	IN	_	22	case	22:case	_
+20	is	in	ADP	IN	Typo=Yes	22	case	22:case	CorrectForm=in
 21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
-22	row	row	NOUN	NN	Number=Sing	19	nmod	19:nmod:is	_
+22	row	row	NOUN	NN	Number=Sing	19	nmod	19:nmod:in	_
 23	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	9:conj:but	_
 24	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	25:det	_
 25	weakness	weakness	NOUN	NN	Number=Sing	23	obj	23:obj	SpaceAfter=No
@@ -7322,8 +7322,8 @@
 12	coating	coat	VERB	VBG	VerbForm=Ger	9	conj	9:conj:or|19:nsubj	_
 13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
 14	surface	surface	NOUN	NN	Number=Sing	12	obj	12:obj	_
-15	is	is	ADP	IN	_	16	case	16:case	_
-16	material	material	NOUN	NN	Number=Sing	12	obl	12:obl:is	_
+15	is	in	ADP	IN	Typo=Yes	16	case	16:case	CorrectForm=in
+16	material	material	NOUN	NN	Number=Sing	12	obl	12:obl:in	_
 17	–	–	PUNCT	:	_	12	punct	12:punct	_
 18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	19:aux	_
 19	flying	fly	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
