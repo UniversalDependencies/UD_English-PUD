@@ -16,7 +16,7 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">1530</tag><!-- new, many, more, other, first, such, last, high, own, several -->
-    <tag name="ADP">2493</tag><!-- of, in, to, for, on, with, by, as, at, from -->
+    <tag name="ADP">2492</tag><!-- of, in, to, for, on, with, by, as, at, from -->
     <tag name="ADV">848</tag><!-- also, when, so, only, more, not, where, however, most, well -->
     <tag name="AUX">1014</tag><!-- be, have, would, will, can, do, could, may, might, should -->
     <tag name="CCONJ">576</tag><!-- and, but, or, both, either, &, /, yet -->
@@ -31,10 +31,10 @@
     <tag name="SCONJ">290</tag><!-- that, as, of, if, after, while, by, for, because, in -->
     <tag name="SYM">42</tag><!-- %, £, $, -, € -->
     <tag name="VERB">2150</tag><!-- have, say, be, take, make, use, become, work, begin, include -->
-    <tag name="X">16</tag><!-- de, andes, andino, coup, force, grâce, maiorum, mare, mos, nostrum -->
+    <tag name="X">17</tag><!-- de, _, andes, andino, coup, force, grâce, maiorum, mare, mos -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="34">
+  <feats unique="35">
     <feat name="Case" value="Acc" upos="PRON">96</feat><!-- it, him, them, her, us, me, himself, themselves, itself, You -->
     <feat name="Case" value="Nom" upos="PRON">388</feat><!-- it, he, they, I, she, we, you -->
     <feat name="Definite" value="Def" upos="DET">1441</feat><!-- the -->
@@ -65,6 +65,7 @@
     <feat name="Reflex" value="Yes" upos="PRON">10</feat><!-- himself, themselves, itself -->
     <feat name="Tense" value="Past" upos="AUX,NOUN,VERB">1461</feat><!-- was, were, had, been, said, used, did, took, began, became -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">738</feat><!-- is, are, has, have, 's, says, do, ’s, does, include -->
+    <feat name="Typo" value="Yes" upos="ADP,NOUN">3</feat><!-- is, after -->
     <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">1735</feat><!-- was, is, are, were, has, had, have, will, would, can -->
     <feat name="VerbForm" value="Ger" upos="AUX,VERB">291</feat><!-- being, according, following, including, having, making, playing, using, getting, working -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">507</feat><!-- be, have, take, do, go, keep, help, make, see, come -->
