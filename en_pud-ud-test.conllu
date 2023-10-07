@@ -9120,7 +9120,7 @@
 11	Macedonian	Macedonian	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	king	king	NOUN	NN	Number=Sing	15	nsubj	15:nsubj|20:nsubj	_
 13	Amyntas	Amyntas	PROPN	NNP	Number=Sing	12	appos	12:appos	_
-14	I	i	NUM	CD	NumType=Card	13	fixed	13:fixed	_
+14	I	i	NUM	CD	NumType=Card	13	flat	13:flat	_
 15	accepted	accept	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 17	Achaemenid	achaemenid	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
@@ -23313,8 +23313,8 @@
 3	1969	1969	NUM	CD	NumType=Card	2	nummod	2:nummod	SpaceAfter=No
 4	,	,	PUNCT	,	_	8	punct	8:punct	_
 5	Pope	Pope	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj|17:nsubj	_
-6	Paul	Paul	PROPN	NNP	Number=Sing	5	fixed	5:fixed	_
-7	VI	vi	PROPN	CD	NumType=Card	5	fixed	5:fixed	_
+6	Paul	Paul	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+7	VI	vi	PROPN	CD	NumType=Card	5	flat	5:flat	_
 8	removed	remove	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 10	death	death	NOUN	NN	Number=Sing	11	compound	11:compound	_
