@@ -605,7 +605,7 @@
 4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
-7	either	either	DET	DT	_	8	det	8:det	_
+7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
 8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
@@ -903,7 +903,7 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	responsibility	responsibility	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
 11	of	of	ADP	IN	_	14	case	14:case	_
-12	each	each	DET	DT	_	14	det	14:det	_
+12	each	each	DET	DT	PronType=Tot	14	det	14:det	_
 13	airline	airline	NOUN	NN	Number=Sing	14	compound	14:compound	_
 14	brand	brand	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_
 15	to	to	PART	TO	_	16	mark	16:mark	_
@@ -988,7 +988,7 @@
 # sent_id = n01019005
 # text = But some security experts raised questions about the need for the course and the intent behind it.
 1	But	but	CCONJ	CC	_	5	cc	5:cc	_
-2	some	some	DET	DT	_	4	det	4:det	_
+2	some	some	DET	DT	PronType=Ind	4	det	4:det	_
 3	security	security	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	experts	expert	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 5	raised	raise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -1448,7 +1448,7 @@
 24	months	month	NOUN	NNS	Number=Plur	16	obl	16:obl:for	_
 25	without	without	SCONJ	IN	_	26	mark	26:mark	_
 26	having	have	VERB	VBG	VerbForm=Ger	14	advcl	14:advcl:without	_
-27	any	any	DET	DT	_	29	det	29:det	_
+27	any	any	DET	DT	PronType=Ind	29	det	29:det	_
 28	significant	significant	ADJ	JJ	Degree=Pos	29	amod	29:amod	_
 29	impacts	impact	NOUN	NNS	Number=Plur	26	obj	26:obj	_
 30	on	on	ADP	IN	_	32	case	32:case	_
@@ -1810,7 +1810,7 @@
 21	"	"	PUNCT	''	_	20	punct	20:punct	_
 22	but	but	CCONJ	CC	_	28	cc	28:cc	_
 23	that	that	SCONJ	IN	_	28	mark	28:mark	_
-24	no	no	DET	DT	Polarity=Neg	25	det	25:det	_
+24	no	no	DET	DT	PronType=Neg	25	det	25:det	_
 25	injuries	injury	NOUN	NNS	Number=Plur	28	nsubj:pass	28:nsubj:pass	_
 26	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28	aux	28:aux	_
 27	been	be	AUX	VBN	Tense=Past|VerbForm=Part	28	aux:pass	28:aux:pass	_
@@ -1942,7 +1942,7 @@
 11	beliefs	belief	NOUN	NNS	Number=Plur	5	nmod	5:nmod:with	_
 12	who	who	PRON	WP	PronType=Rel	13	nsubj	5:ref	_
 13	oppose	oppose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	_
-14	any	any	DET	DT	_	16	det	16:det	_
+14	any	any	DET	DT	PronType=Ind	16	det	16:det	_
 15	new	new	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
 16	legislation	legislation	NOUN	NN	Number=Sing	13	obj	13:obj	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	3:punct	_
@@ -2716,7 +2716,7 @@
 30	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	31	amod	31:amod	_
 31	$	$	SYM	$	_	22	conj	20:nmod:of|22:conj:or	SpaceAfter=No
 32	15,000	15,000	NUM	CD	NumType=Card	31	nummod	31:nummod	_
-33	each	each	DET	DT	_	31	obl:npmod	31:obl:npmod	_
+33	each	each	DET	DT	PronType=Tot	31	obl:npmod	31:obl:npmod	_
 34	on	on	ADP	IN	_	35	case	35:case	_
 35	average	average	NOUN	NN	Number=Sing	31	nmod	31:nmod:on	SpaceAfter=No
 36	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -2757,7 +2757,7 @@
 11	bonus	bonus	NOUN	NN	Number=Sing	12	compound	12:compound	_
 12	levels	level	NOUN	NNS	Number=Plur	9	conj	5:obl:on|9:conj:and	_
 13	for	for	ADP	IN	_	15	case	15:case	_
-14	each	each	DET	DT	_	15	det	15:det	_
+14	each	each	DET	DT	PronType=Tot	15	det	15:det	_
 15	department	department	NOUN	NN	Number=Sing	9	nmod	9:nmod:for	SpaceAfter=No
 16	,	,	PUNCT	,	_	26	punct	26:punct	_
 17	but	but	CCONJ	CC	_	26	cc	26:cc	_
@@ -2878,7 +2878,7 @@
 2	There	there	PRON	EX	_	7	expl	7:expl	_
 3	should	should	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	7	cop	7:cop	_
-5	no	no	DET	DT	Polarity=Neg	7	det	7:det	_
+5	no	no	DET	DT	PronType=Neg	7	det	7:det	_
 6	preferential	preferential	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	access	access	NOUN	NN	Number=Sing	0	root	0:root	_
 8	to	to	ADP	IN	_	9	case	9:case	_
@@ -2942,7 +2942,7 @@
 23	cleared	clear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	advcl	20:advcl:when	_
 24	Duffy	Duffy	PROPN	NNP	Number=Sing	23	obj	23:obj	_
 25	of	of	ADP	IN	_	27	case	27:case	_
-26	all	all	DET	DT	_	27	det	27:det	_
+26	all	all	DET	DT	PronType=Tot	27	det	27:det	_
 27	charges	charge	NOUN	NNS	Number=Plur	23	obl	23:obl:of	SpaceAfter=No
 28	.	.	PUNCT	.	_	13	punct	13:punct	_
 
@@ -3295,7 +3295,7 @@
 12	in	in	ADP	IN	_	13	case	13:case	_
 13	one	one	NUM	CD	NumType=Card	11	obl	11:obl:in	_
 14	of	of	ADP	IN	_	17	case	17:case	_
-15	every	every	DET	DT	_	17	det	17:det	_
+15	every	every	DET	DT	PronType=Tot	17	det	17:det	_
 16	35,000	35,000	NUM	CD	NumType=Card	17	nummod	17:nummod	_
 17	births	birth	NOUN	NNS	Number=Plur	13	nmod	13:nmod:of	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -3344,7 +3344,7 @@
 # sent_id = n01053008
 # text = "Some men get it and Bono is one of those guys," Leive said in a recent interview.
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	Some	some	DET	DT	_	3	det	3:det	_
+2	Some	some	DET	DT	PronType=Ind	3	det	3:det	_
 3	men	man	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 4	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
@@ -4182,7 +4182,7 @@
 9	story	story	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
 10	,	,	PUNCT	,	_	6	punct	6:punct	_
 11	not	not	ADV	RB	Polarity=Neg	12	advmod	12:advmod	_
-12	all	all	DET	DT	_	13	nsubj	13:nsubj	_
+12	all	all	DET	DT	PronType=Tot	13	nsubj	13:nsubj	_
 13	factual	factual	ADJ	JJ	Degree=Pos	6	parataxis	6:parataxis	SpaceAfter=No
 14	.	.	PUNCT	.	_	6	punct	6:punct	_
 
@@ -4539,7 +4539,7 @@
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	point	point	NOUN	NN	Number=Sing	0	root	0:root	_
 8	of	of	ADP	IN	_	10	case	10:case	_
-9	no	no	DET	DT	Polarity=Neg	10	det	10:det	_
+9	no	no	DET	DT	PronType=Neg	10	det	10:det	_
 10	return	return	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	_
 11	and	and	CCONJ	CC	_	13	cc	13:cc	_
 12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	13:nsubj|16:nsubj:xsubj|18:nsubj:xsubj	_
@@ -4799,7 +4799,7 @@
 17	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	ccomp	15:ccomp	_
 18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	SpaceAfter=No
 19	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	_
-20	another	another	DET	DT	_	21	det	21:det	_
+20	another	another	DET	DT	PronType=Ind	21	det	21:det	_
 21	assistant	assistant	NOUN	NN	Number=Sing	17	ccomp	17:ccomp	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -5583,7 +5583,7 @@
 19	to	to	PART	TO	_	21	mark	21:mark	_
 20	publicly	publicly	ADV	RB	_	21	advmod	21:advmod	_
 21	question	question	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
-22	each	each	DET	DT	_	23	det	23:det	_
+22	each	each	DET	DT	_	23	fixed	23:fixed	_
 23	other	other	ADJ	JJ	Degree=Pos	21	obj	21:obj	_
 24	about	about	ADP	IN	_	26	case	26:case	_
 25	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	nmod:poss	26:nmod:poss	_
@@ -5745,7 +5745,7 @@
 15	through	through	ADP	IN	_	17	case	17:case	_
 16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
 17	disapproval	disapproval	NOUN	NN	Number=Sing	14	obl	14:obl:through	_
-18	all	all	DET	PDT	_	20	det:predet	20:det:predet	_
+18	all	all	DET	PDT	PronType=Tot	20	det:predet	20:det:predet	_
 19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
 20	hatred	hatred	NOUN	NN	Number=Sing	14	obj	14:obj	_
 21	of	of	ADP	IN	_	23	case	23:case	_
@@ -5883,7 +5883,7 @@
 20	and	and	CCONJ	CC	_	21	cc	21:cc	_
 21	covered	cover	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	conj	17:conj:and	_
 22	almost	almost	ADV	RB	_	23	advmod	23:advmod	_
-23	every	every	DET	DT	_	24	det	24:det	_
+23	every	every	DET	DT	PronType=Tot	24	det	24:det	_
 24	state	state	NOUN	NN	Number=Sing	21	obj	21:obj	_
 25	in	in	ADP	IN	_	27	case	27:case	_
 26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
@@ -5942,7 +5942,7 @@
 # sent_id = n01098044
 # text = At each station, a red-capped guard presides over the platform and a wheel-tapper walks along the train with a hammer, gently knocking the undercarriage.
 1	At	at	ADP	IN	_	3	case	3:case	_
-2	each	each	DET	DT	_	3	det	3:det	_
+2	each	each	DET	DT	PronType=Tot	3	det	3:det	_
 3	station	station	NOUN	NN	Number=Sing	10	obl	10:obl:at	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
 5	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -6263,7 +6263,7 @@
 13	be	be	AUX	VB	VerbForm=Inf	14	aux	14:aux	_
 14	seeking	seek	VERB	VBG	Tense=Pres|VerbForm=Part	11	xcomp	11:xcomp	_
 15	answers	answer	NOUN	NNS	Number=Plur	14	obj	14:obj	_
-16	all	all	DET	PDT	_	18	det:predet	18:det:predet	_
+16	all	all	DET	PDT	PronType=Tot	18	det:predet	18:det:predet	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 18	time	time	NOUN	NN	Number=Sing	14	obl:tmod	14:obl:tmod	SpaceAfter=No
 19	.	.	PUNCT	.	_	8	punct	8:punct	_
@@ -6783,7 +6783,7 @@
 # sent_id = n01113021
 # text = After some genius surgery and a lot of very tough rehab, I have made a full recovery.
 1	After	after	ADP	IN	_	4	case	4:case	_
-2	some	some	DET	DT	_	4	det	4:det	_
+2	some	some	DET	DT	PronType=Ind	4	det	4:det	_
 3	genius	genius	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	surgery	surgery	NOUN	NN	Number=Sing	15	obl	15:obl:after	_
 5	and	and	CCONJ	CC	_	7	cc	7:cc	_
@@ -6931,7 +6931,7 @@
 # text = Where does all her energy come from? Or that voice, which can blast out with a force to induce shockwaves?
 1	Where	where	ADV	WRB	PronType=Int	6	obl	6:obl:from	_
 2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
-3	all	all	DET	PDT	_	5	det:predet	5:det:predet	_
+3	all	all	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	_
 4	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	energy	energy	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 6	come	come	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -6978,7 +6978,7 @@
 4	Glenda	Glenda	PROPN	NNP	Number=Sing	3	obj	3:obj|6:nsubj:xsubj	_
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	score	score	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
-7	such	such	DET	PDT	_	9	det:predet	9:det:predet	_
+7	such	such	DET	PDT	PronType=Ind	9	det:predet	9:det:predet	_
 8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
 9	blinder	blinder	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	13:punct	_
@@ -7206,7 +7206,7 @@
 11	that	that	PRON	WDT	PronType=Rel	12	nsubj	8:ref	_
 12	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	_
 13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj|17:nsubj:xsubj	_
-14	all	all	DET	PDT	_	16	advmod	16:advmod	_
+14	all	all	DET	PDT	PronType=Tot	16	advmod	16:advmod	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	14	fixed	14:fixed	_
 16	more	more	ADV	RBR	_	17	advmod	17:advmod	_
 17	appealing	appealing	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	SpaceAfter=No
@@ -7299,7 +7299,7 @@
 8	occur	occur	VERB	VB	VerbForm=Inf	0	root	0:root	_
 9	due	due	ADP	IN	_	12	case	12:case	_
 10	to	to	ADP	IN	_	9	fixed	9:fixed	_
-11	some	some	DET	DT	_	12	det	12:det	_
+11	some	some	DET	DT	PronType=Ind	12	det	12:det	_
 12	sort	sort	NOUN	NN	Number=Sing	8	obl	8:obl:due_to	_
 13	of	of	ADP	IN	_	14	case	14:case	_
 14	compulsion	compulsion	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	_
@@ -7480,7 +7480,7 @@
 # sent_id = n01128017
 # text = After all, our organizational performance is seldom measured in terms of how safe we are or how many rules we follow.
 1	After	after	ADP	IN	_	9	advmod	9:advmod	_
-2	all	all	DET	DT	_	1	fixed	1:fixed	SpaceAfter=No
+2	all	all	DET	DT	PronType=Tot	1	fixed	1:fixed	SpaceAfter=No
 3	,	,	PUNCT	,	_	9	punct	9:punct	_
 4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 5	organizational	organizational	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
@@ -7522,7 +7522,7 @@
 15	and	and	CCONJ	CC	_	16	cc	16:cc	_
 16	attachments	attachment	NOUN	NNS	Number=Plur	14	conj	12:obl:on|14:conj:and	_
 17	with	with	ADP	IN	_	20	case	20:case	_
-18	nary	nary	DET	PDT	_	20	det:predet	20:det:predet	_
+18	nary	nary	DET	PDT	PronType=Neg	20	det:predet	20:det:predet	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
 20	thought	thought	NOUN	NN	Number=Sing	8	obl	8:obl:with	_
 21	of	of	ADP	IN	_	23	case	23:case	_
@@ -8340,7 +8340,7 @@
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	1:ref	_
 4	produced	produce	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
-5	some	some	DET	DT	_	4	obj	4:obj	_
+5	some	some	DET	DT	PronType=Ind	4	obj	4:obj	_
 6	of	of	ADP	IN	_	9	case	9:case	_
 7	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 8	best	best	ADJ	JJS	Degree=Sup	9	amod	9:amod	_
@@ -8351,7 +8351,7 @@
 13	at	at	ADP	IN	_	15	case	15:case	_
 14	one	one	NUM	CD	NumType=Card	15	nummod	15:nummod	_
 15	set	set	NOUN	NN	Number=Sing	12	obl	12:obl:at	_
-16	all	all	DET	DT	_	12	obj	12:obj	_
+16	all	all	DET	DT	PronType=Tot	12	obj	12:obj	_
 17	and	and	CCONJ	CC	_	18	cc	18:cc	_
 18	forced	force	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	conj	4:advcl:as|12:conj:and	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
@@ -8542,7 +8542,7 @@
 # text = There is no parade and there never has been.
 1	There	there	PRON	EX	_	2	expl	2:expl	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	no	no	DET	DT	Polarity=Neg	4	det	4:det	_
+3	no	no	DET	DT	PronType=Neg	4	det	4:det	_
 4	parade	parade	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
 5	and	and	CCONJ	CC	_	9	cc	9:cc	_
 6	there	there	PRON	EX	_	9	expl	9:expl	_
@@ -8598,7 +8598,7 @@
 24	to	to	PART	TO	_	25	mark	25:mark	_
 25	put	put	VERB	VB	VerbForm=Inf	23	acl	23:acl:to	_
 26	on	on	ADP	RP	_	25	compound:prt	25:compound:prt	_
-27	such	such	DET	PDT	_	29	det:predet	29:det:predet	_
+27	such	such	DET	PDT	PronType=Ind	29	det:predet	29:det:predet	_
 28	a	a	DET	DT	Definite=Ind|PronType=Art	29	det	29:det	_
 29	show	show	NOUN	NN	Number=Sing	25	obj	25:obj	SpaceAfter=No
 30	.	.	PUNCT	.	_	13	punct	13:punct	_
@@ -8712,7 +8712,7 @@
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	capital	capital	NOUN	NN	Number=Sing	6	obj	6:obj	_
 9	in	in	ADP	IN	_	12	case	12:case	_
-10	all	all	DET	PDT	_	12	det:predet	12:det:predet	_
+10	all	all	DET	PDT	PronType=Tot	12	det:predet	12:det:predet	_
 11	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
 12	glory	glory	NOUN	NN	Number=Sing	6	obl	6:obl:in	SpaceAfter=No
 13	,	,	PUNCT	,	_	18	punct	18:punct	_
@@ -8757,7 +8757,7 @@
 # sent_id = n01148035
 # text = Not all transformations in the region have been successful.
 1	Not	not	ADV	RB	Polarity=Neg	2	advmod	2:advmod	_
-2	all	all	DET	DT	_	3	det	3:det	_
+2	all	all	DET	DT	PronType=Tot	3	det	3:det	_
 3	transformations	transformation	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 4	in	in	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -8813,7 +8813,7 @@
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
 5	see	see	VERB	VB	VerbForm=Inf	0	root	0:root	_
-6	some	some	DET	DT	_	7	det	7:det	_
+6	some	some	DET	DT	PronType=Ind	7	det	7:det	_
 7	people	people	NOUN	NNS	Number=Plur	5	obj	5:obj	_
 8	on	on	ADP	IN	_	10	case	10:case	_
 9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
@@ -8843,7 +8843,7 @@
 14	and	and	CCONJ	CC	_	20	cc	20:cc	SpaceAfter=No
 15	,	,	PUNCT	,	_	18	punct	18:punct	_
 16	to	to	ADP	IN	_	18	case	18:case	_
-17	some	some	DET	DT	_	18	det	18:det	_
+17	some	some	DET	DT	PronType=Ind	18	det	18:det	_
 18	extent	extent	NOUN	NN	Number=Sing	20	obl	20:obl:to	SpaceAfter=No
 19	,	,	PUNCT	,	_	18	punct	18:punct	_
 20	blur	blur	VERB	VB	VerbForm=Inf	5	conj	5:conj:and	_
@@ -8890,7 +8890,7 @@
 14	sculptural	sculptural	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	appearance	appearance	NOUN	NN	Number=Sing	12	obj	12:obj	_
 16	and	and	CCONJ	CC	_	19	cc	19:cc	_
-17	every	every	DET	DT	_	18	det	18:det	_
+17	every	every	DET	DT	PronType=Tot	18	det	18:det	_
 18	detail	detail	NOUN	NN	Number=Sing	19	nsubj	19:nsubj	_
 19	carries	carry	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	12:conj:and	_
 20	meaning	mean	VERB	VBG	VerbForm=Ger	19	obj	19:obj	SpaceAfter=No
@@ -10090,7 +10090,7 @@
 20	tended	tend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 21	to	to	PART	TO	_	22	mark	22:mark	_
 22	have	have	VERB	VB	VerbForm=Inf	20	xcomp	20:xcomp	_
-23	some	some	DET	DT	_	24	det	24:det	_
+23	some	some	DET	DT	PronType=Ind	24	det	24:det	_
 24	extent	extent	NOUN	NN	Number=Sing	22	obj	22:obj	_
 25	of	of	ADP	IN	_	27	case	27:case	_
 26	intertwined	intertwine	VERB	VBN	Tense=Past|VerbForm=Part	27	amod	27:amod	_
@@ -10120,7 +10120,7 @@
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 18	Phoenicians	Phoenicians	PROPN	NNPS	Number=Plur	15	conj	15:conj:and|20:nmod	SpaceAfter=No
 19	,	,	PUNCT	,	_	15	punct	15:punct	_
-20	both	both	DET	DT	_	24	nsubj	24:nsubj	_
+20	both	both	DET	DT	PronType=Tot	24	nsubj	24:nsubj	_
 21	of	of	ADP	IN	_	22	case	22:case	_
 22	which	which	PRON	WDT	PronType=Int	20	nmod	15:ref	_
 23	extensively	extensively	ADV	RB	_	24	advmod	24:advmod	_
@@ -10319,7 +10319,7 @@
 13	,	,	PUNCT	,	_	21	punct	21:punct	_
 14	and	and	CCONJ	CC	_	21	cc	21:cc	_
 15	almost	almost	ADV	RB	_	16	advmod	16:advmod	_
-16	all	all	DET	DT	_	21	nsubj	21:nsubj	_
+16	all	all	DET	DT	PronType=Tot	21	nsubj	21:nsubj	_
 17	of	of	ADP	IN	_	20	case	20:case	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
 19	Danish	Danish	ADJ	JJ	Degree=Pos	20	amod	20:amod	Proper=True
@@ -10805,7 +10805,7 @@
 22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
 23	Po	Po	PROPN	NNP	Number=Sing	11	conj	3:nmod:such_as|11:conj:and|25:nmod:such_as	SpaceAfter=No
 24	,	,	PUNCT	,	_	28	punct	28:punct	_
-25	all	all	DET	DT	_	28	nsubj	28:nsubj|34:nsubj	_
+25	all	all	DET	DT	PronType=Tot	28	nsubj	28:nsubj|34:nsubj	_
 26	of	of	ADP	IN	_	27	case	27:case	_
 27	which	which	PRON	WDT	PronType=Int	25	nmod	11:ref	_
 28	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
@@ -11341,7 +11341,7 @@
 14	worst	worst	ADJ	JJS	Degree=Sup	18	obl	18:obl:at	_
 15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	_
 16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	18:cop	_
-17	no	no	DET	DT	Polarity=Neg	18	det	18:det	_
+17	no	no	DET	DT	PronType=Neg	18	det	18:det	_
 18	more	more	ADJ	JJR	Degree=Cmp	10	advcl	10:advcl:until	_
 19	than	than	ADP	IN	_	22	case	22:case	_
 20	an	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
@@ -11460,7 +11460,7 @@
 3	wind	wind	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	speeds	speed	NOUN	NNS	Number=Plur	9	obl	9:obl:at	SpaceAfter=No
 5	,	,	PUNCT	,	_	9	punct	9:punct	_
-6	some	some	DET	DT	_	7	det	7:det	_
+6	some	some	DET	DT	PronType=Ind	7	det	7:det	_
 7	particles	particle	NOUN	NNS	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
 8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 9	lifted	lift	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
@@ -11552,7 +11552,7 @@
 8	of	of	ADP	IN	_	13	case	13:case	_
 9	close	close	ADJ	JJ	Degree=Pos	13	advmod	13:advmod	_
 10	to	to	ADP	IN	_	9	fixed	9:fixed	_
-11	half	half	DET	PDT	_	13	compound	13:compound	_
+11	half	half	DET	PDT	NumForm=Word|NumType=Frac|PronType=Ind	13	compound	13:compound	_
 12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
 13	million	million	NUM	CD	NumType=Card	7	nmod	7:nmod:of	SpaceAfter=No
 14	,	,	PUNCT	,	_	5	punct	5:punct	_
@@ -12315,7 +12315,7 @@
 16	Tunip	Tunip	PROPN	NNP	Number=Sing	9	nmod	9:nmod:in	SpaceAfter=No
 17	,	,	PUNCT	,	_	24	punct	24:punct	_
 18	where	where	ADV	WRB	PronType=Rel	24	advmod	24:advmod	_
-19	no	no	DET	DT	_	21	det	21:det	_
+19	no	no	DET	DT	PronType=Neg	21	det	21:det	_
 20	Egyptian	Egyptian	ADJ	JJ	Degree=Pos	21	amod	21:amod	Proper=True
 21	soldier	soldier	NOUN	NN	Number=Sing	24	nsubj:pass	24:nsubj:pass	_
 22	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	24	aux	24:aux	_
@@ -12546,7 +12546,7 @@
 26	from	from	ADP	IN	_	27	case	27:case	_
 27	Latium	Latium	PROPN	NNP	Number=Sing	25	obl	25:obl:from	_
 28	into	into	ADP	IN	_	30	case	30:case	_
-29	all	all	DET	DT	_	30	det	30:det	_
+29	all	all	DET	DT	PronType=Tot	30	det	30:det	_
 30	Italy	Italy	PROPN	NNP	Number=Sing	25	obl	25:obl:into	SpaceAfter=No
 31	.	.	PUNCT	.	_	2	punct	2:punct	_
 
@@ -12829,7 +12829,7 @@
 13	times	time	NOUN	NNS	Number=Plur	7	obl:tmod	7:obl:tmod	SpaceAfter=No
 14	,	,	PUNCT	,	_	19	punct	19:punct	_
 15	but	but	CCONJ	CC	_	19	cc	19:cc	_
-16	each	each	DET	DT	_	17	det	17:det	_
+16	each	each	DET	DT	PronType=Tot	17	det	17:det	_
 17	time	time	NOUN	NN	Number=Sing	19	obl:tmod	19:obl:tmod	_
 18	Augustus	Augustus	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	_
 19	refused	refuse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
@@ -13172,7 +13172,7 @@
 23	Buddha	Buddha	PROPN	NNP	Number=Sing	24	compound	24:compound	_
 24	images	image	NOUN	NNS	Number=Plur	20	nmod	20:nmod:to	_
 25	for	for	ADP	IN	_	27	case	27:case	_
-26	each	each	DET	DT	_	27	det	27:det	_
+26	each	each	DET	DT	PronType=Tot	27	det	27:det	_
 27	day	day	NOUN	NN	Number=Sing	24	nmod	24:nmod:for	_
 28	of	of	ADP	IN	_	30	case	30:case	_
 29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
@@ -13195,7 +13195,7 @@
 12	with	with	ADP	IN	_	13	case	13:case	_
 13	respect	respect	NOUN	NN	Number=Sing	11	obl	11:obl:with	_
 14	to	to	ADP	IN	_	15	case	15:case	_
-15	both	both	DET	DT	_	13	nmod	13:nmod:to	SpaceAfter=No
+15	both	both	DET	DT	PronType=Tot	13	nmod	13:nmod:to	SpaceAfter=No
 16	,	,	PUNCT	,	_	11	punct	11:punct	_
 17	as	as	SCONJ	IN	_	20	mark	20:mark	_
 18	these	these	PRON	DT	Number=Plur|PronType=Dem	20	nsubj:pass	20:nsubj:pass	_
@@ -13263,7 +13263,7 @@
 2	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obl	6:obl:despite	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj|9:nsubj:xsubj	_
-5	both	both	DET	DT	_	4	det	4:det	_
+5	both	both	DET	DT	PronType=Tot	4	det	4:det	_
 6	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	to	to	PART	TO	_	9	mark	9:mark	_
 8	have	have	AUX	VB	VerbForm=Inf	9	aux	9:aux	_
@@ -13761,7 +13761,7 @@
 2	in	in	ADP	IN	_	3	case	3:case	_
 3	Lahore	Lahore	PROPN	NNP	Number=Sing	1	obl	1:obl:in	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
-5	some	some	DET	DT	_	9	det	9:det	_
+5	some	some	DET	DT	PronType=Ind	9	det	9:det	_
 6	thirty	thirty	NUM	CD	NumType=Card	8	nummod	8:nummod	SpaceAfter=No
 7	-	-	PUNCT	HYPH	_	8	punct	8:punct	SpaceAfter=No
 8	nine	nine	NUM	CD	NumType=Card	9	nummod	9:nummod	_
@@ -13838,7 +13838,7 @@
 11	economic	economic	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	growth	growth	NOUN	NN	Number=Sing	13	compound	13:compound	_
 13	rate	rate	NOUN	NN	Number=Sing	5	conj	5:conj:and|15:nsubj	_
-14	all	all	DET	DT	_	5	det	5:det	_
+14	all	all	DET	DT	PronType=Tot	5	det	5:det	_
 15	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 16	significant	significant	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 17	effects	effect	NOUN	NNS	Number=Plur	15	obj	15:obj	_
@@ -13933,7 +13933,7 @@
 # sent_id = w01075039
 # text = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
 1	Phrased	phrase	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-2	another	another	DET	DT	_	3	det	3:det	_
+2	another	another	DET	DT	PronType=Ind	3	det	3:det	_
 3	way	way	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 4	:	:	PUNCT	:	_	1	punct	1:punct	_
 5	young	young	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
@@ -14960,7 +14960,7 @@
 15	and	and	CCONJ	CC	_	17	cc	17:cc	_
 16	to	to	PART	TO	_	17	mark	17:mark	_
 17	rename	rename	VERB	VB	VerbForm=Inf	10	conj	8:csubj|10:conj:and	_
-18	each	each	DET	DT	_	19	det	19:det	_
+18	each	each	DET	DT	PronType=Tot	19	det	19:det	_
 19	Emperor	emperor	NOUN	NN	Number=Sing	17	obj	17:obj	_
 20	after	after	ADP	IN	_	22	case	22:case	_
 21	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
@@ -15136,7 +15136,7 @@
 
 # sent_id = w01097104
 # text = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
-1	Some	some	DET	DT	_	2	det	2:det	_
+1	Some	some	DET	DT	PronType=Ind	2	det	2:det	_
 2	historians	historian	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_
 4	such	such	ADJ	JJ	Degree=Pos	6	case	6:case	_
@@ -15484,7 +15484,7 @@
 5	that	that	SCONJ	IN	_	7	mark	7:mark	_
 6	there	there	PRON	EX	_	7	expl	7:expl	_
 7	be	be	AUX	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
-8	no	no	DET	DT	Polarity=Neg	10	det	10:det	_
+8	no	no	DET	DT	PronType=Neg	10	det	10:det	_
 9	excessive	excessive	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
 10	displays	display	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
 11	of	of	ADP	IN	_	13	case	13:case	_
@@ -15493,7 +15493,7 @@
 14	towards	towards	ADP	IN	_	15	case	15:case	_
 15	Churchill	Churchill	PROPN	NNP	Number=Sing	13	nmod	13:nmod:towards	_
 16	and	and	CCONJ	CC	_	19	cc	19:cc	_
-17	no	no	DET	DT	Polarity=Neg	19	det	19:det	_
+17	no	no	DET	DT	PronType=Neg	19	det	19:det	_
 18	official	official	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
 19	awards	award	NOUN	NNS	Number=Plur	10	conj	7:nsubj|10:conj:and	_
 20	without	without	ADP	IN	_	23	case	23:case	_
@@ -15704,7 +15704,7 @@
 23	in	in	ADP	IN	_	24	case	24:case	_
 24	use	use	NOUN	NN	Number=Sing	4	conj	4:conj:and	_
 25	in	in	ADP	IN	_	27	case	27:case	_
-26	some	some	DET	DT	_	27	det	27:det	_
+26	some	some	DET	DT	PronType=Ind	27	det	27:det	_
 27	countries	country	NOUN	NNS	Number=Plur	24	nmod	24:nmod:in	_
 28	in	in	ADP	IN	_	30	case	30:case	_
 29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
@@ -16018,7 +16018,7 @@
 # text = Disney won another Honorary Academy Award, which consisted of one full-sized and seven miniature Oscar statuettes.
 1	Disney	Disney	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	won	win	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	another	another	DET	DT	_	6	det	6:det	_
+3	another	another	DET	DT	PronType=Ind	6	det	6:det	_
 4	Honorary	honorary	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 5	Academy	academy	PROPN	NN	Number=Sing	6	compound	6:compound	_
 6	Award	award	PROPN	NN	Number=Sing	2	obj	2:obj|9:nsubj	SpaceAfter=No
@@ -16305,7 +16305,7 @@
 
 # sent_id = w01116100
 # text = Some Christian scholars criticize Tolle's teachings, while others praise them.
-1	Some	some	DET	DT	_	3	det	3:det	_
+1	Some	some	DET	DT	PronType=Ind	3	det	3:det	_
 2	Christian	Christian	ADJ	JJ	Degree=Pos	3	amod	3:amod	Proper=True
 3	scholars	scholar	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 4	criticize	criticize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -16472,7 +16472,7 @@
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
 3	there	there	PRON	EX	_	4	expl	4:expl	_
 4	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	no	no	DET	DT	Polarity=Neg	8	det	8:det	_
+5	no	no	DET	DT	PronType=Neg	8	det	8:det	_
 6	further	further	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 7	public	public	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	recognition	recognition	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -17630,7 +17630,7 @@
 
 # sent_id = w01139090
 # text = Another theme of the Skylark novels involves precursors of modern information technology.
-1	Another	another	DET	DT	_	2	det	2:det	_
+1	Another	another	DET	DT	PronType=Ind	2	det	2:det	_
 2	theme	theme	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 3	of	of	ADP	IN	_	6	case	6:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -18360,7 +18360,7 @@
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 12	ambassadors	ambassador	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj	_
 13	of	of	ADP	IN	_	17	case	17:case	_
-14	all	all	DET	DT	_	17	det	17:det	_
+14	all	all	DET	DT	PronType=Tot	17	det	17:det	_
 15	six	six	NUM	CD	NumType=Card	17	nummod	17:nummod	_
 16	Great	Great	PROPN	NNP	Degree=Pos	17	compound	17:compound	_
 17	Powers	Powers	PROPN	NNPS	Number=Plur	12	nmod	12:nmod:of	_
@@ -18405,7 +18405,7 @@
 7	Empire	Empire	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj	_
 8	would	would	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
 9	lose	lose	VERB	VB	VerbForm=Inf	3	csubj	3:csubj	_
-10	all	all	DET	DT	_	9	obj	9:obj	_
+10	all	all	DET	DT	PronType=Tot	9	obj	9:obj	_
 11	of	of	ADP	IN	_	12	case	12:case	_
 12	Macedonia	Macedonia	PROPN	NNP	Number=Sing	10	nmod	10:nmod:of	_
 13	and	and	CCONJ	CC	_	16	cc	16:cc	_
@@ -18667,7 +18667,7 @@
 5	in	in	ADP	IN	_	7	case	7:case	_
 6	which	which	DET	WDT	PronType=Int	7	det	7:det	_
 7	way	way	NOUN	NN	Number=Sing	12	obl	12:obl:in	_
-8	both	both	DET	DT	_	9	det	9:det	_
+8	both	both	DET	DT	PronType=Tot	9	det	9:det	_
 9	dramatists	dramatist	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj	_
 10	would	would	AUX	MD	VerbForm=Fin	12	aux	12:aux	_
 11	have	have	AUX	VB	VerbForm=Inf	12	aux	12:aux	_
@@ -18762,7 +18762,7 @@
 21	have	have	VERB	VB	VerbForm=Inf	3	parataxis	3:parataxis	_
 22	to	to	PART	TO	_	23	mark	23:mark	_
 23	withdraw	withdraw	VERB	VB	VerbForm=Inf	21	xcomp	21:xcomp	_
-24	all	all	DET	DT	_	23	obj	23:obj	_
+24	all	all	DET	DT	PronType=Tot	23	obj	23:obj	_
 25	of	of	ADP	IN	_	27	case	27:case	_
 26	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	nmod:poss	27:nmod:poss	_
 27	troops	troops	NOUN	NNS	Number=Plur	24	nmod	24:nmod:of	_
@@ -18775,7 +18775,7 @@
 34	2000	2000	NUM	CD	NumType=Card	31	obl	31:obl:after	SpaceAfter=No
 35	,	,	PUNCT	,	_	36	punct	36:punct	_
 36	rescind	rescind	VERB	VB	VerbForm=Inf	23	conj	21:xcomp|23:conj:as_well_as	_
-37	all	all	DET	DT	_	36	obj	36:obj	_
+37	all	all	DET	DT	PronType=Tot	36	obj	36:obj	_
 38	of	of	ADP	IN	_	40	case	40:case	_
 39	the	the	DET	DT	Definite=Def|PronType=Art	40	det	40:det	_
 40	sanctions	sanction	NOUN	NNS	Number=Plur	37	nmod	37:nmod:of	_
@@ -18985,12 +18985,12 @@
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	because	because	SCONJ	IN	_	12	mark	12:mark	_
-4	each	each	DET	DT	_	7	det	7:det	_
+4	each	each	DET	DT	PronType=Tot	7	det	7:det	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
-6	every	every	DET	DT	_	4	conj	4:conj:and|7:det	_
+6	every	every	DET	DT	PronType=Tot	4	conj	4:conj:and|7:det	_
 7	miracle	miracle	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
 8	and	and	CCONJ	CC	_	11	cc	11:cc	_
-9	each	each	DET	DT	_	11	det	11:det	_
+9	each	each	DET	DT	PronType=Tot	11	det	11:det	_
 10	specialized	specialized	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	district	district	NOUN	NN	Number=Sing	7	conj	7:conj:and|12:nsubj	_
 12	occupies	occupy	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	_
@@ -19645,7 +19645,7 @@
 # text = It is no surprise that the federal and state governments have classified the National Natural Heritage as a nation-wide endeavor of the highest priority and have documented it starting in 2005 in a coalition contract.
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-3	no	no	DET	DT	Polarity=Neg	4	det	4:det	_
+3	no	no	DET	DT	PronType=Neg	4	det	4:det	_
 4	surprise	surprise	NOUN	NN	Number=Sing	0	root	0:root	_
 5	that	that	SCONJ	IN	_	12	mark	12:mark	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
@@ -20055,7 +20055,7 @@
 21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	ccomp	28:ccomp	_
 22	n't	not	ADV	RB	Polarity=Neg	23	advmod	23:advmod	_
 23	really	really	ADV	RB	_	21	advmod	21:advmod	_
-24	any	any	DET	DT	_	25	det	25:det	_
+24	any	any	DET	DT	PronType=Ind	25	det	25:det	_
 25	consultation	consultation	NOUN	NN	Number=Sing	21	nsubj	21:nsubj	SpaceAfter=No
 26	,	,	PUNCT	,	_	28	punct	28:punct	SpaceAfter=No
 27	"	"	PUNCT	''	_	28	punct	28:punct	_
@@ -20215,7 +20215,7 @@
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	existence	existence	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
 8	of	of	ADP	IN	_	11	case	11:case	_
-9	such	such	DET	PDT	_	11	det:predet	11:det:predet	_
+9	such	such	DET	PDT	PronType=Ind	11	det:predet	11:det:predet	_
 10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
 11	document	document	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	_
 12	could	could	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
@@ -20515,7 +20515,7 @@
 11	there	there	PRON	EX	_	15	expl	15:expl	_
 12	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
 13	be	be	AUX	VB	VerbForm=Inf	15	cop	15:cop	_
-14	no	no	DET	DT	Polarity=Neg	15	det	15:det	_
+14	no	no	DET	DT	PronType=Neg	15	det	15:det	_
 15	rise	rise	NOUN	NN	Number=Sing	5	ccomp	5:ccomp	_
 16	in	in	ADP	IN	_	17	case	17:case	_
 17	VAT	vat	NOUN	NN	Number=Sing	15	nmod	15:nmod:in	SpaceAfter=No
@@ -20532,7 +20532,7 @@
 2	level	level	NOUN	NN	Number=Sing	0	root	0:root|7:nsubj	_
 3	that	that	PRON	WDT	PronType=Rel	7	nsubj	2:ref	_
 4	in	in	ADP	IN	_	6	case	6:case	_
-5	both	both	DET	DT	_	6	det	6:det	_
+5	both	both	DET	DT	PronType=Tot	6	det	6:det	_
 6	cases	case	NOUN	NNS	Number=Plur	7	obl	7:obl:in	_
 7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 8	at	at	ADP	IN	_	10	case	10:case	_
@@ -21066,7 +21066,7 @@
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	deal	deal	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 9	with	with	ADP	IN	_	13	case	13:case	_
-10	another	another	DET	DT	_	13	det	13:det	_
+10	another	another	DET	DT	PronType=Ind	13	det	13:det	_
 11	"	"	PUNCT	``	_	13	punct	13:punct	SpaceAfter=No
 12	hot	hot	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	potato	potato	NOUN	NN	Number=Sing	8	obl	8:obl:with	SpaceAfter=No
@@ -21298,7 +21298,7 @@
 19	but	but	CCONJ	CC	_	27	cc	27:cc	_
 20	flicking	flick	VERB	VBG	VerbForm=Ger	27	nsubj	27:nsubj	_
 21	at	at	ADP	IN	_	23	case	23:case	_
-22	each	each	DET	DT	_	23	det	23:det	_
+22	each	each	DET	DT	_	23	fixed	23:fixed	_
 23	other	other	ADJ	JJ	Degree=Pos	20	obl	20:obl:at	_
 24	and	and	CCONJ	CC	_	26	cc	26:cc	_
 25	slapstick	slapstick	NOUN	NN	Number=Sing	26	compound	26:compound	_
@@ -21865,7 +21865,7 @@
 11	able	able	ADJ	JJ	Degree=Pos	0	root	0:root	_
 12	to	to	PART	TO	_	13	mark	13:mark	_
 13	win	win	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
-14	all	all	DET	DT	_	17	det	17:det	_
+14	all	all	DET	DT	PronType=Tot	17	det	17:det	_
 15	seven	seven	NUM	CD	NumType=Card	17	nummod	17:nummod	_
 16	voting	voting	NOUN	NN	Number=Sing	17	compound	17:compound	_
 17	districts	district	NOUN	NNS	Number=Plur	13	obj	13:obj	SpaceAfter=No
@@ -22202,7 +22202,7 @@
 9	earlier	earlier	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	_
 10	than	than	ADP	IN	_	14	case	14:case	_
 11	in	in	ADP	IN	_	14	case	14:case	_
-12	any	any	DET	DT	_	14	det	14:det	_
+12	any	any	DET	DT	PronType=Ind	14	det	14:det	_
 13	other	other	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	country	country	NOUN	NN	Number=Sing	9	obl	9:obl:in	SpaceAfter=No
 15	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -22266,7 +22266,7 @@
 5	in	in	ADP	IN	_	6	case	6:case	_
 6	1917	1917	NUM	CD	NumType=Card	4	nmod	4:nmod:in	SpaceAfter=No
 7	,	,	PUNCT	,	_	21	punct	21:punct	_
-8	some	some	DET	DT	_	9	det	9:det	_
+8	some	some	DET	DT	PronType=Ind	9	det	9:det	_
 9	countries	country	NOUN	NNS	Number=Plur	21	nsubj	21:nsubj	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	9:punct	_
 11	such	such	ADJ	JJ	Degree=Pos	13	case	13:case	_
@@ -22325,7 +22325,7 @@
 13	care	care	NOUN	NN	Number=Sing	11	obj	11:obj|15:nsubj:xsubj	_
 14	to	to	PART	TO	_	15	mark	15:mark	_
 15	treat	treat	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
-16	both	both	DET	DT	_	15	obj	15:obj	_
+16	both	both	DET	DT	PronType=Tot	15	obj	15:obj	_
 17	of	of	ADP	IN	_	19	case	19:case	_
 18	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
 19	monarchies	monarchy	NOUN	NNS	Number=Plur	16	nmod	16:nmod:of	_
@@ -22478,7 +22478,7 @@
 2	censorship	censorship	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	disposed	dispose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	of	of	ADP	IN	_	7	case	7:case	_
-5	all	all	DET	DT	_	7	det	7:det	_
+5	all	all	DET	DT	PronType=Tot	7	det	7:det	_
 6	undesirable	undesirable	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	opinions	opinion	NOUN	NNS	Number=Plur	3	obl	3:obl:of	SpaceAfter=No
 8	;	;	PUNCT	:	_	3	punct	3:punct	_
@@ -22902,7 +22902,7 @@
 18	Greek	Greek	ADJ	JJ	Degree=Pos	19	amod	19:amod	Proper=True
 19	geography	geography	NOUN	NN	Number=Sing	16	obl	16:obl:by	SpaceAfter=No
 20	:	:	PUNCT	:	_	3	punct	3:punct	_
-21	every	every	DET	DT	_	22	det	22:det	_
+21	every	every	DET	DT	PronType=Tot	22	det	22:det	_
 22	island	island	NOUN	NN	Number=Sing	28	nsubj:pass	28:nsubj:pass	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	24:punct	_
 24	valley	valley	NOUN	NN	Number=Sing	22	conj	22:conj:and|28:nsubj:pass	_
@@ -23127,7 +23127,7 @@
 3	away	away	ADV	RB	_	2	advmod	2:advmod	_
 4	from	from	ADP	IN	_	5	case	5:case	_
 5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obl	2:obl:from	_
-6	all	all	DET	DT	_	5	det	5:det	SpaceAfter=No
+6	all	all	DET	DT	PronType=Tot	5	det	5:det	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	Remis	Remis	PROPN	NNPS	Number=Plur	10	nsubj	10:nsubj	_
@@ -23452,7 +23452,7 @@
 17	revoked	revoke	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	conj	8:conj:and	_
 18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	17:obj	_
 19	from	from	ADP	IN	_	21	case	21:case	_
-20	all	all	DET	DT	_	21	det	21:det	_
+20	all	all	DET	DT	PronType=Tot	21	det	21:det	_
 21	offences	offence	NOUN	NNS	Number=Plur	17	obl	17:obl:from	SpaceAfter=No
 22	.	.	PUNCT	.	_	8	punct	8:punct	_
 
@@ -23494,7 +23494,7 @@
 10	hilly	hilly	ADJ	JJ	Degree=Pos	8	conj	8:conj:and	SpaceAfter=No
 11	,	,	PUNCT	,	_	8	punct	8:punct	_
 12	with	with	ADP	IN	_	15	case	15:case	_
-13	no	no	DET	DT	_	15	det	15:det	_
+13	no	no	DET	DT	PronType=Neg	15	det	15:det	_
 14	clear	clear	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	distinction	distinction	NOUN	NN	Number=Sing	8	obl	8:obl:with	_
 16	between	between	ADP	IN	_	18	case	18:case	_
@@ -23560,7 +23560,7 @@
 9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
 10	used	use	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 11	by	by	ADP	IN	_	13	case	13:case	_
-12	some	some	DET	DT	_	13	det	13:det	_
+12	some	some	DET	DT	PronType=Ind	13	det	13:det	_
 13	authors	author	NOUN	NNS	Number=Plur	10	obl	10:obl:by	_
 14	to	to	PART	TO	_	15	mark	15:mark	_
 15	signify	signify	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	_
@@ -23750,7 +23750,7 @@
 30	Lord	Lord	PROPN	NNP	Number=Sing	29	appos	29:appos	_
 31	Grenville	Grenville	PROPN	NNP	Number=Sing	30	flat	30:flat	_
 32	refused	refuse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	_
-33	any	any	DET	DT	_	34	det	34:det	_
+33	any	any	DET	DT	PronType=Ind	34	det	34:det	_
 34	agreement	agreement	NOUN	NN	Number=Sing	32	obj	32:obj	SpaceAfter=No
 35	,	,	PUNCT	,	_	32	punct	32:punct	_
 36	and	and	CCONJ	CC	_	38	cc	38:cc	_
@@ -23892,13 +23892,13 @@
 14	at	at	ADP	IN	_	15	case	15:case	_
 15	dinner	dinner	NOUN	NN	Number=Sing	13	nmod	13:nmod:at	SpaceAfter=No
 16	;	;	PUNCT	:	_	2	punct	2:punct	_
-17	some	some	DET	DT	_	21	nsubj:pass	21:nsubj:pass	_
+17	some	some	DET	DT	PronType=Ind	21	nsubj:pass	21:nsubj:pass	_
 18	of	of	ADP	IN	_	19	case	19:case	_
 19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	nmod	17:nmod:of	_
 20	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21	aux:pass	21:aux:pass	_
 21	written	write	VERB	VBN	Tense=Past|VerbForm=Part	2	parataxis	2:parataxis	_
 22	by	by	ADP	IN	_	23	case	23:case	_
-23	both	both	DET	DT	_	21	obl	21:obl:by	_
+23	both	both	DET	DT	PronType=Tot	21	obl	21:obl:by	_
 24	together	together	ADV	RB	_	21	advmod	21:advmod	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	2:punct	_
 
@@ -23945,7 +23945,7 @@
 13	two	two	NUM	CD	NumType=Card	10	nmod	10:nmod:between	_
 14	conceived	conceive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	csubj	9:csubj	_
 15	of	of	ADP	IN	_	18	case	18:case	_
-16	some	some	DET	DT	_	18	det	18:det	_
+16	some	some	DET	DT	PronType=Ind	18	det	18:det	_
 17	stylistic	stylistic	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
 18	solutions	solution	NOUN	NNS	Number=Plur	14	obl	14:obl:of	_
 19	in	in	ADP	IN	_	21	case	21:case	_
@@ -23955,7 +23955,7 @@
 23	later	later	ADV	RB	_	24	advmod	24:advmod	_
 24	on	on	ADV	RB	_	25	advmod	25:advmod	_
 25	characterised	characterise	VERB	VBN	Tense=Past|VerbForm=Part	21	acl:relcl	21:acl:relcl	_
-26	both	both	DET	DT	_	27	det	27:det	_
+26	both	both	DET	DT	PronType=Tot	27	det	27:det	_
 27-28	artists'	_	_	_	_	_	_	_	_
 27	artists	artist	NOUN	NNS	Number=Plur	29	nmod:poss	29:nmod:poss	_
 28	'	'	PART	POS	_	27	case	27:case	_
@@ -24132,7 +24132,7 @@
 13	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	_
 14	legalised	legalise	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	9:conj:and	SpaceAfter=No
 15	,	,	PUNCT	,	_	21	punct	21:punct	_
-16	all	all	DET	DT	_	21	nsubj:pass	21:nsubj:pass|23:nsubj:xsubj	_
+16	all	all	DET	DT	PronType=Tot	21	nsubj:pass	21:nsubj:pass|23:nsubj:xsubj	_
 17	of	of	ADP	IN	_	19	case	19:case	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 19	exiled	exiled	ADJ	JJ	Degree=Pos	16	nmod	16:nmod:of	_
@@ -24527,7 +24527,7 @@
 24	what	what	PRON	WP	PronType=Int	23	obj	23:obj	_
 25	would	would	AUX	MD	VerbForm=Fin	29	aux	29:aux	_
 26	be	be	AUX	VB	VerbForm=Inf	29	cop	29:cop	_
-27	another	another	DET	DT	_	29	det	29:det	_
+27	another	another	DET	DT	PronType=Ind	29	det	29:det	_
 28	remarkable	remarkable	ADJ	JJ	Degree=Pos	29	amod	29:amod	_
 29	success	success	NOUN	NN	Number=Sing	24	acl:relcl	24:acl:relcl	_
 30	for	for	ADP	IN	_	31	case	31:case	_
