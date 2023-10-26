@@ -1283,8 +1283,9 @@
 11	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:in	_
 12	to	to	ADP	IN	_	13	case	13:case	_
 13	$	$	SYM	$	_	6	obl	6:obl:to	SpaceAfter=No
-14	221bn	221bn	NUM	CD	NumType=Card	13	nummod	13:nummod	SpaceAfter=No
-15	.	.	PUNCT	.	_	6	punct	6:punct	_
+14	221	221	NUM	CD	NumForm=Digit|NumType=Card	15	compound	15:compound	SpaceAfter=No
+15	bn	billion	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
+16	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n01022027
 # text = It's fantastic that they got the Paris Agreement but their contributions at the moment are nowhere near the 1.5-degree target.
@@ -5583,8 +5584,8 @@
 19	to	to	PART	TO	_	21	mark	21:mark	_
 20	publicly	publicly	ADV	RB	_	21	advmod	21:advmod	_
 21	question	question	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
-22	each	each	DET	DT	_	23	fixed	23:fixed	_
-23	other	other	ADJ	JJ	Degree=Pos	21	obj	21:obj	_
+22	each	each	DET	DT	_	21	obj	21:obj	_
+23	other	other	ADJ	JJ	Degree=Pos	22	fixed	22:fixed	_
 24	about	about	ADP	IN	_	26	case	26:case	_
 25	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	nmod:poss	26:nmod:poss	_
 26	plans	plan	NOUN	NNS	Number=Plur	21	obl	21:obl:about	_
@@ -6381,10 +6382,11 @@
 19	more	more	ADJ	JJR	Degree=Cmp	21	advmod	21:advmod	_
 20	than	than	ADP	IN	_	19	fixed	19:fixed	_
 21	€	€	SYM	$	_	18	obj	18:obj	SpaceAfter=No
-22	16bn	16bn	NUM	CD	NumType=Card	21	nummod	21:nummod	_
-23	of	of	ADP	IN	_	24	case	24:case	_
-24	provisions	provision	NOUN	NNS	Number=Plur	21	nmod	21:nmod:of	SpaceAfter=No
-25	.	.	PUNCT	.	_	4	punct	4:punct	_
+22	16	16	NUM	CD	NumForm=Digit|NumType=Card	23	compound	23:compound	SpaceAfter=No
+23	bn	billion	NUM	CD	NumForm=Word|NumType=Card	21	nummod	21:nummod	_
+24	of	of	ADP	IN	_	25	case	25:case	_
+25	provisions	provision	NOUN	NNS	Number=Plur	21	nmod	21:nmod:of	SpaceAfter=No
+26	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # sent_id = n01107008
 # text = The probe began in June, focusing on Mr Winterkorn and brand chief Herbert Diess, who remains at the car maker.
@@ -6677,12 +6679,14 @@
 18	investors	investor	NOUN	NNS	Number=Plur	19	nsubj	19:nsubj	_
 19	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	acl:relcl	14:acl:relcl	_
 20	£	£	SYM	$	_	19	obj	19:obj	SpaceAfter=No
-21	2bn	2bn	NUM	CD	NumType=Card	20	nummod	20:nummod	_
-22	and	and	CCONJ	CC	_	23	cc	23:cc	_
-23	£	£	SYM	$	_	20	conj	19:obj|20:conj:and	SpaceAfter=No
-24	1.4bn	1.4bn	NUM	CD	NumType=Card	23	nummod	23:nummod	_
-25	respectively	respectively	ADV	RB	_	19	advmod	19:advmod	SpaceAfter=No
-26	.	.	PUNCT	.	_	3	punct	3:punct	_
+21	2	2	NUM	CD	NumForm=Digit|NumType=Card	22	compound	22:compound	SpaceAfter=No
+22	bn	billion	NUM	CD	NumForm=Word|NumType=Card	20	nummod	20:nummod	_
+23	and	and	CCONJ	CC	_	24	cc	24:cc	_
+24	£	£	SYM	$	_	20	conj	19:obj|20:conj:and	SpaceAfter=No
+25	1.4	1.4	NUM	CD	NumForm=Digit|NumType=Card	26	compound	26:compound	SpaceAfter=No
+26	bn	billion	NUM	CD	NumForm=Word|NumType=Card	24	nummod	24:nummod	_
+27	respectively	respectively	ADV	RB	_	19	advmod	19:advmod	SpaceAfter=No
+28	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = n01111030
 # text = This means that they have not benefited from the uplift that the fall in sterling has given to overseas assets.
@@ -21297,9 +21301,9 @@
 18	,	,	PUNCT	,	_	14	punct	14:punct	_
 19	but	but	CCONJ	CC	_	27	cc	27:cc	_
 20	flicking	flick	VERB	VBG	VerbForm=Ger	27	nsubj	27:nsubj	_
-21	at	at	ADP	IN	_	23	case	23:case	_
-22	each	each	DET	DT	_	23	fixed	23:fixed	_
-23	other	other	ADJ	JJ	Degree=Pos	20	obl	20:obl:at	_
+21	at	at	ADP	IN	_	22	case	22:case	_
+22	each	each	DET	DT	_	20	obl	20:obl:at	_
+23	other	other	ADJ	JJ	Degree=Pos	22	fixed	22:fixed	_
 24	and	and	CCONJ	CC	_	26	cc	26:cc	_
 25	slapstick	slapstick	NOUN	NN	Number=Sing	26	compound	26:compound	_
 26	comedy	comedy	NOUN	NN	Number=Sing	20	conj	20:conj:and|27:nsubj	_
