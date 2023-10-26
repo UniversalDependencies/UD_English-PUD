@@ -1086,7 +1086,7 @@
 # text = "Unfortunately once again the few ruin it for the many," wrote Jesse LaBrocca, founder of Hack Forums, in a message explaining why the section was being closed.
 1	"	"	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
 2	Unfortunately	unfortunately	ADV	RB	_	7	advmod	7:advmod	_
-3	once	once	ADV	RB	NumType=Mult	4	advmod	4:advmod	_
+3	once	once	ADV	RB	NumForm=Word|NumType=Mult	4	advmod	4:advmod	_
 4	again	again	ADV	RB	_	7	advmod	7:advmod	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	few	few	ADJ	JJ	Degree=Pos	7	nsubj	7:nsubj	_
@@ -12545,7 +12545,7 @@
 21	Mediterranean	Mediterranean	PROPN	NNP	Number=Sing	18	obl	18:obl:throughout	_
 22	as	as	SCONJ	IN	_	25	mark	25:mark	_
 23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	25:aux:pass	_
-24	once	once	ADV	RB	NumType=Mult	25	advmod	25:advmod	_
+24	once	once	ADV	RB	NumForm=Word|NumType=Mult	25	advmod	25:advmod	_
 25	done	do	VERB	VBN	Tense=Past|VerbForm=Part	18	advcl	18:advcl:as	_
 26	from	from	ADP	IN	_	27	case	27:case	_
 27	Latium	Latium	PROPN	NNP	Number=Sing	25	obl	25:obl:from	_
@@ -16641,7 +16641,7 @@
 3	re-elected	re-elect	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	and	and	CCONJ	CC	_	5	cc	5:cc	_
 5	expelled	expel	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	3:conj:and	_
-6	twice	twice	ADV	RB	NumType=Mult	7	advmod	7:advmod	_
+6	twice	twice	ADV	RB	NumForm=Word|NumType=Mult	7	advmod	7:advmod	_
 7	more	more	ADV	RBR	_	3	advmod	3:advmod	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	3:punct	_
 9	before	before	SCONJ	IN	_	14	mark	14:mark	_
@@ -21204,7 +21204,7 @@
 # text = Federico Fellini once said: "The clown is to humanity as the shadow is to man".
 1	Federico	Federico	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
 2	Fellini	Fellini	PROPN	NNP	Number=Sing	1	flat	1:flat	_
-3	once	once	ADV	RB	NumType=Mult	4	advmod	4:advmod	_
+3	once	once	ADV	RB	NumForm=Word|NumType=Mult	4	advmod	4:advmod	_
 4	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	:	:	PUNCT	:	_	4	punct	4:punct	_
 6	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
