@@ -10632,7 +10632,7 @@
 12	,	,	PUNCT	,	_	9	punct	9:punct	_
 13	ranging	range	VERB	VBG	VerbForm=Ger	9	acl	9:acl	_
 14	from	from	ADP	IN	_	15	case	15:case	_
-15	yellowish	yellowish	NUM	CD	NumForm=Word|NumType=Card	13	obl	13:obl:from	_
+15	yellowish	yellowish	ADJ	JJ	Degree=Pos	13	obl	13:obl:from	_
 16	to	to	ADP	IN	_	17	case	17:case	_
 17	bluish	bluish	ADJ	JJ	Degree=Pos	13	obl	13:obl:to	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	6:punct	_
