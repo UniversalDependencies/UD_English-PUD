@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_English-PUD:
-commit 960fd833131da885f6f042d2e3c40267df2294f3
+commit fcab98156d8c6e499d33889eec667bee7e42dfa3
+Merge: 8ae9fa9 d1ab9ec
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 10:35:11 2022 +0100
-Size: counted 21176 of 21176 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.1057369298496.
+Size: counted 21180 of 21180 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.10611468034652.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,14 +15,14 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 14179 out of 21176 total words have one or more features.
+Features: 14264 out of 21180 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        317
-Udapi: found 317 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 21176 words.
+               TOTAL        226
+Udapi: found 226 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 21180 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-PUD/en_pud-ud-test.conllu
 *** PASSED ***
@@ -30,11 +30,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
-(weight=0.256410256410256) * (score{size}=0.441947976097764) = 0.113319993871222
+(weight=0.256410256410256) * (score{size}=0.441975318590489) = 0.113327004766792
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.850302228938421) = 0.261631455057976
+(weight=0.307692307692308) * (score{udapi}=0.893295561850803) = 0.27486017287717
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.612663731347362) * (availability=1) * (validity=1) = 0.612663731347362
+(TOTAL score=0.625899460062127) * (availability=1) * (validity=1) = 0.625899460062127
 STARS = 3
-UD_English-PUD	0.612663731347362	3
+UD_English-PUD	0.625899460062127	3
