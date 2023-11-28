@@ -1626,7 +1626,7 @@
 # text = I asked her afterwards if she understood why people might vote for Trump.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
+3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
 4	afterwards	afterwards	ADV	RB	_	2	advmod	2:advmod	_
 5	if	if	SCONJ	IN	_	7	mark	7:mark	_
 6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
@@ -3315,7 +3315,7 @@
 # text = He described her as a "remarkable" and "loving and wonderful" woman who left her mark in the literary world with her stories.
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	described	describe	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
+3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
 4	as	as	ADP	IN	_	15	case	15:case	_
 5	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
 6	"	"	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
@@ -4081,7 +4081,7 @@
 6	obviously	obviously	ADV	RB	_	7	advmod	7:advmod	_
 7	artistic	artistic	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 8	about	about	ADP	IN	_	9	case	9:case	_
-9	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	7:obl:about	_
+9	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	7:obl:about	_
 10	or	or	CCONJ	CC	_	13	cc	13:cc	_
 11	in	in	ADP	IN	_	13	case	13:case	_
 12	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
@@ -5333,7 +5333,7 @@
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	model	model	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
 12	for	for	ADP	IN	_	13	case	13:case	_
-13	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	11:obl:for	SpaceAfter=No
+13	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	11:obl:for	SpaceAfter=No
 14	,	,	PUNCT	,	_	16	punct	16:punct	_
 15	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
 16	laughs	laugh	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
@@ -7457,7 +7457,7 @@
 5	why	why	ADV	WRB	PronType=Int	7	advmod	7:advmod	_
 6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 7	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
-8	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	7:obj	_
+8	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	7:obj	_
 9	...	...	PUNCT	.	_	4	punct	4:punct	_
 
 # sent_id = n01127130
@@ -11896,7 +11896,7 @@
 13	,	,	PUNCT	,	_	12	punct	12:punct	_
 14	who	who	PRON	WP	PronType=Rel	15	nsubj	12:ref	_
 15	supplied	supply	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
-16	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	_
+16	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	_
 17	with	with	ADP	IN	_	19	case	19:case	_
 18	confidential	confidential	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
 19	information	information	NOUN	NN	Number=Sing	15	obl	15:obl:with	SpaceAfter=No
@@ -16798,7 +16798,7 @@
 15	investors	investor	NOUN	NNS	Number=Plur	12	nmod	12:nmod:by	_
 16	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux	17:aux	_
 17	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-18	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	17:obj|20:nsubj:xsubj	_
+18	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	17:obj|20:nsubj:xsubj	_
 19	nearly	nearly	ADV	RB	_	20	advmod	20:advmod	_
 20	broke	broke	ADJ	JJ	Degree=Pos	17	xcomp	17:xcomp	SpaceAfter=No
 21	.	.	PUNCT	.	_	17	punct	17:punct	_
@@ -17669,7 +17669,7 @@
 16	Rona	Rona	PROPN	NNP	Number=Sing	17	nsubj	17:nsubj	_
 17	work	work	VERB	VB	VerbForm=Inf	14	ccomp	14:ccomp	_
 18	with	with	ADP	IN	_	19	case	19:case	_
-19	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	17:obl:with	_
+19	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	17:obl:with	_
 20	to	to	PART	TO	_	21	mark	21:mark	_
 21	learn	learn	VERB	VB	VerbForm=Inf	17	advcl	17:advcl:to	_
 22	how	how	ADV	WRB	PronType=Int	26	advmod	26:advmod	_
@@ -17704,7 +17704,7 @@
 16	-	-	PUNCT	HYPH	_	17	punct	17:punct	SpaceAfter=No
 17	Curie	Curie	PROPN	NNP	Number=Sing	18	nsubj	18:nsubj	_
 18	allowed	allow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-19	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	18:obj|21:nsubj:xsubj|23:nsubj:xsubj	_
+19	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	18:obj|21:nsubj:xsubj|23:nsubj:xsubj	_
 20	to	to	PART	TO	_	21	mark	21:mark	_
 21	come	come	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
 22	and	and	CCONJ	CC	_	23	cc	23:cc	_
@@ -21086,7 +21086,7 @@
 4	Defense	defense	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	_
 5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 6	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-7	her	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj|9:nsubj:xsubj	_
+7	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj|9:nsubj:xsubj	_
 8	to	to	PART	TO	_	9	mark	9:mark	_
 9	remain	remain	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 10	General	general	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
