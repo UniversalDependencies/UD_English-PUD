@@ -40,7 +40,7 @@
 # sent_id = n01001013
 # text = For those who follow social media transitions on Capitol Hill, this will be a little different.
 1	For	for	ADP	IN	_	2	case	2:case	_
-2	those	those	PRON	DT	Number=Plur|PronType=Dem	17	obl	4:nsubj|17:obl:for	_
+2	those	that	PRON	DT	Number=Plur|PronType=Dem	17	obl	4:nsubj|17:obl:for	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
 4	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 5	social	social	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
@@ -3354,7 +3354,7 @@
 8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 9	one	one	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:and	_
 10	of	of	ADP	IN	_	12	case	12:case	_
-11	those	those	DET	DT	Number=Plur|PronType=Dem	12	det	12:det	_
+11	those	that	DET	DT	Number=Plur|PronType=Dem	12	det	12:det	_
 12	guys	guy	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	SpaceAfter=No
 13	,	,	PUNCT	,	_	4	punct	4:punct	SpaceAfter=No
 14	"	"	PUNCT	''	_	4	punct	4:punct	_
@@ -3712,7 +3712,7 @@
 19	institutional	institutional	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	developments	development	NOUN	NNS	Number=Plur	24	nsubj	24:nsubj	_
 21	in	in	ADP	IN	_	23	case	23:case	_
-22	those	those	DET	DT	Number=Plur|PronType=Dem	23	det	23:det	_
+22	those	that	DET	DT	Number=Plur|PronType=Dem	23	det	23:det	_
 23	terms	term	NOUN	NNS	Number=Plur	20	nmod	20:nmod:in	_
 24	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:but	_
 25	large	large	ADJ	JJ	Degree=Pos	30	amod	30:amod	_
@@ -4116,7 +4116,7 @@
 20	to	to	ADP	IN	_	21	case	21:case	_
 21	entry	entry	NOUN	NN	Number=Sing	19	nmod	19:nmod:to	_
 22	for	for	ADP	IN	_	23	case	23:case	_
-23	those	those	PRON	DT	Number=Plur|PronType=Dem	21	nmod	21:nmod:for|25:nsubj	_
+23	those	that	PRON	DT	Number=Plur|PronType=Dem	21	nmod	21:nmod:for|25:nsubj	_
 24	who	who	PRON	WP	PronType=Rel	25	nsubj	23:ref	_
 25	balked	balk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	acl:relcl	23:acl:relcl	_
 26	at	at	ADP	IN	_	31	case	31:case	_
@@ -5611,7 +5611,7 @@
 14	litigation	litigation	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	_
 15	to	to	ADP	IN	_	17	case	17:case	_
 16	only	only	ADV	RB	_	17	advmod	17:advmod	_
-17	those	those	PRON	DT	Number=Plur|PronType=Dem	10	obl	10:obl:to	_
+17	those	that	PRON	DT	Number=Plur|PronType=Dem	10	obl	10:obl:to	_
 18	with	with	ADP	IN	_	21	case	21:case	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
 20	real	real	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
@@ -7636,7 +7636,7 @@
 # text = Enough of those, in a highly contested area, will lead to chaos election day.
 1	Enough	enough	ADJ	JJ	Degree=Pos	12	nsubj	12:nsubj	_
 2	of	of	ADP	IN	_	3	case	3:case	_
-3	those	those	PRON	DT	Number=Plur|PronType=Dem	1	nmod	1:nmod:of	SpaceAfter=No
+3	those	that	PRON	DT	Number=Plur|PronType=Dem	1	nmod	1:nmod:of	SpaceAfter=No
 4	,	,	PUNCT	,	_	12	punct	12:punct	_
 5	in	in	ADP	IN	_	9	case	9:case	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -17750,7 +17750,7 @@
 9	,	,	PUNCT	,	_	11	punct	11:punct	_
 10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
 11	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-12	those	those	DET	DT	Number=Plur|PronType=Dem	13	det	13:det	_
+12	those	that	DET	DT	Number=Plur|PronType=Dem	13	det	13:det	_
 13	skills	skill	NOUN	NNS	Number=Plur	11	obj	11:obj	_
 14	back	back	ADV	RB	_	11	advmod	11:advmod	_
 15	to	to	ADP	IN	_	18	case	18:case	_
@@ -20401,7 +20401,7 @@
 9	not	not	PART	RB	Polarity=Neg	10	advmod	10:advmod	_
 10	continue	continue	VERB	VB	VerbForm=Inf	4	csubj:pass	4:csubj:pass	_
 11	with	with	ADP	IN	_	12	case	12:case	_
-12	those	those	PRON	DT	Number=Plur|PronType=Dem	10	obl	10:obl:with|14:nsubj	_
+12	those	that	PRON	DT	Number=Plur|PronType=Dem	10	obl	10:obl:with|14:nsubj	_
 13	who	who	PRON	WP	PronType=Rel	14	nsubj	12:ref	_
 14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
 15	completely	completely	ADV	RB	_	14	advmod	14:advmod	_
@@ -20443,7 +20443,7 @@
 # sent_id = n04005003
 # text = Those of age will be offered 500 euros by the state, to be spent by 31st December 2017.
 # Checktree: relation 31st following email-enronsent13_01-0054
-1	Those	those	PRON	DT	Number=Plur|PronType=Dem	6	nsubj:pass	6:nsubj:pass	_
+1	Those	that	PRON	DT	Number=Plur|PronType=Dem	6	nsubj:pass	6:nsubj:pass	_
 2	of	of	ADP	IN	_	3	case	3:case	_
 3	age	age	NOUN	NN	Number=Sing	1	nmod	1:nmod:of	_
 4	will	will	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
@@ -22640,7 +22640,7 @@
 24	of	of	ADP	IN	_	25	case	25:case	_
 25	immigrants	immigrant	NOUN	NNS	Number=Plur	22	obl	22:obl:of	_
 26	or	or	CCONJ	CC	_	27	cc	27:cc	_
-27	those	those	DET	DT	Number=Plur|PronType=Dem	25	conj	22:obl:of|25:conj:or	_
+27	those	that	DET	DT	Number=Plur|PronType=Dem	25	conj	22:obl:of|25:conj:or	_
 28	of	of	ADP	IN	_	30	case	30:case	_
 29	immigrant	immigrant	ADJ	JJ	Degree=Pos	30	amod	30:amod	_
 30	origin	origin	NOUN	NN	Number=Sing	27	nmod	27:nmod:of	SpaceAfter=No
