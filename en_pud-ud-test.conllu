@@ -16584,8 +16584,8 @@
 11	No.	no.	NOUN	NN	Number=Sing	5	obl	5:obl:at	_
 12	96	96	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	SpaceAfter=No
 13	,	,	PUNCT	,	_	17	punct	17:punct	_
-14	Thought	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	nsubj	17:nsubj	_
-15	'Ya	'ya	PRON	PRP	_	16	nsubj	16:nsubj	_
+14	Thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	nsubj	17:nsubj	_
+15	'Ya	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs|Style=Coll	16	nsubj	16:nsubj	_
 16	Knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	ccomp	14:ccomp	_
 17	climbed	climb	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 18	to	to	ADP	IN	_	19	case	19:case	_
