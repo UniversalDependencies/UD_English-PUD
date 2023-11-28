@@ -5843,7 +5843,7 @@
 6	lay	lay	VERB	VB	VerbForm=Inf	0	root	0:root	_
 7	booby	booby	ADJ	JJ	Degree=Pos	9	amod	9:amod	SpaceAfter=No
 8	-	-	PUNCT	HYPH	_	9	punct	9:punct	SpaceAfter=No
-9	traps	traps	NOUN	NNS	Number=Plur	6	obj	6:obj	_
+9	traps	trap	NOUN	NNS	Number=Plur	6	obj	6:obj	_
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	confuse	confuse	VERB	VB	VerbForm=Inf	6	advcl	6:advcl:to	_
 12	and	and	CCONJ	CC	_	13	cc	13:cc	_
@@ -8744,7 +8744,7 @@
 8	modern	modern	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 9	high	high	ADJ	JJ	Degree=Pos	11	amod	11:amod	SpaceAfter=No
 10	-	-	PUNCT	HYPH	_	11	punct	11:punct	SpaceAfter=No
-11	rises	rises	NOUN	NNS	Number=Plur	6	nmod	6:nmod:of	_
+11	rises	rise	NOUN	NNS	Number=Plur	6	nmod	6:nmod:of	_
 12	--	--	PUNCT	:	_	11	punct	11:punct	_
 13	like	like	ADP	IN	_	16	case	16:case	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
@@ -19078,7 +19078,7 @@
 8	art	art	NOUN	NN	Number=Sing	0	root	0:root	_
 9	in	in	ADP	IN	_	11	case	11:case	_
 10	six	six	NUM	CD	NumForm=Word|NumType=Card	11	nummod	11:nummod	_
-11	seconds	seconds	NOUN	NNS	Number=Plur	8	nmod	8:nmod:in	SpaceAfter=No
+11	seconds	second	NOUN	NNS	Number=Plur	8	nmod	8:nmod:in	SpaceAfter=No
 12	.	.	PUNCT	.	_	8	punct	8:punct	_
 
 # newdoc id = n02043
