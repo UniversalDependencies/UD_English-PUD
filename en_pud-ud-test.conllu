@@ -20568,7 +20568,7 @@
 17	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
 18	diesel	diesel	NOUN	NN	Number=Sing	19	nsubj	19:nsubj	_
 19	costs	cost	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	14:ccomp	_
-20	1,335	1.335	NUM	CD	NumForm=Digit|NumType=Card	21	nummod	21:nummod	_
+20	1,335	1.335	NUM	CD	NumForm=Digit|NumType=Frac	21	nummod	21:nummod	_
 21	euros	euro	NOUN	NNS	Number=Plur	19	obj	19:obj	_
 22	per	per	ADP	IN	_	23	case	23:case	_
 23	litre	litre	NOUN	NN	Number=Sing	21	nmod	21:nmod:per	SpaceAfter=No
@@ -20579,7 +20579,7 @@
 28	eurozone	eurozone	PROPN	NNP	Number=Sing	29	amod	29:amod	_
 29	average	average	NOUN	NN	Number=Sing	19	obl	19:obl:with	_
 30	of	of	ADP	IN	_	32	case	32:case	_
-31	1,165	1.165	NUM	CD	NumForm=Digit|NumType=Card	32	nummod	32:nummod	_
+31	1,165	1.165	NUM	CD	NumForm=Digit|NumType=Frac	32	nummod	32:nummod	_
 32	euros	euro	NOUN	NNS	Number=Plur	29	nmod	29:nmod:of	SpaceAfter=No
 33	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -20607,7 +20607,7 @@
 20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	_
 21	equal	equal	ADJ	JJ	Degree=Pos	9	acl:relcl	9:acl:relcl	_
 22	to	to	ADP	IN	_	24	case	24:case	_
-23	1,365	1.365	NUM	CD	NumForm=Digit|NumType=Card	24	nummod	24:nummod	_
+23	1,365	1.365	NUM	CD	NumForm=Digit|NumType=Frac	24	nummod	24:nummod	_
 24	euros	euro	NOUN	NNS	Number=Plur	21	obl	21:obl:to	_
 25	per	per	ADP	IN	_	26	case	26:case	_
 26	litre	litre	NOUN	NN	Number=Sing	24	nmod	24:nmod:per	SpaceAfter=No
