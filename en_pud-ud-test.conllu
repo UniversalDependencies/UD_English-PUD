@@ -1053,7 +1053,7 @@
 8-9	world's	_	_	_	_	_	_	_	_
 8	world	world	NOUN	NN	Number=Sing	12	nmod:poss	12:nmod:poss	_
 9	's	's	PART	POS	_	8	case	8:case	_
-10	biggest	biggest	ADJ	JJS	Degree=Sup	12	amod	12:amod	_
+10	biggest	big	ADJ	JJS	Degree=Sup	12	amod	12:amod	_
 11	aviation	aviation	NOUN	NN	Number=Sing	12	compound	12:compound	_
 12	market	market	NOUN	NN	Number=Sing	6	xcomp	6:xcomp	_
 13	in	in	ADP	IN	_	16	case	16:case	_
@@ -2559,7 +2559,7 @@
 19	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj	_
 20	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	6:conj:but	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
-22	biggest	biggest	ADJ	JJS	Degree=Sup	23	amod	23:amod	_
+22	biggest	big	ADJ	JJS	Degree=Sup	23	amod	23:amod	_
 23	comfort	comfort	NOUN	NN	Number=Sing	25	nsubj	25:nsubj	_
 24	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	25:aux	_
 25	come	come	VERB	VBN	Tense=Past|VerbForm=Part	20	ccomp	20:ccomp	_
@@ -2763,7 +2763,7 @@
 16	,	,	PUNCT	,	_	26	punct	26:punct	_
 17	but	but	CCONJ	CC	_	26	cc	26:cc	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
-19	latest	latest	ADJ	JJS	Degree=Sup	21	amod	21:amod	_
+19	latest	late	ADJ	JJS	Degree=Sup	21	amod	21:amod	_
 20	web	web	NOUN	NN	Number=Sing	21	compound	21:compound	_
 21	posting	posting	NOUN	NN	Number=Sing	26	nsubj	26:nsubj|30:nsubj	_
 22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
@@ -4510,7 +4510,7 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	world	world	NOUN	NN	Number=Sing	12	nmod:poss	12:nmod:poss	SpaceAfter=No
 11	’s	's	PART	POS	_	10	case	10:case	_
-12	best	best	ADJ	JJS	Degree=Sup	4	nmod	4:nmod:as	_
+12	best	good	ADJ	JJS	Degree=Sup	4	nmod	4:nmod:as	_
 13	no	no	ADV	RB	Polarity=Neg	14	advmod	14:advmod	_
 14	longer	longer	ADV	RBR	Degree=Cmp	15	advmod	15:advmod	_
 15	warranted	warrant	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
@@ -5450,13 +5450,13 @@
 # sent_id = n01091013
 # text = At best it is naive and at worst it would yet again let the shooting lobby off the hook.
 1	At	at	ADP	IN	_	5	advmod	5:advmod	_
-2	best	best	ADJ	JJS	Degree=Sup	1	fixed	1:fixed	_
+2	best	good	ADJ	JJS	Degree=Sup	1	fixed	1:fixed	_
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 5	naive	naive	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	and	and	CCONJ	CC	_	13	cc	13:cc	_
 7	at	at	ADP	IN	_	13	advmod	13:advmod	_
-8	worst	worst	ADJ	JJS	Degree=Sup	7	fixed	7:fixed	_
+8	worst	bad	ADJ	JJS	Degree=Sup	7	fixed	7:fixed	_
 9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 10	would	would	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
 11	yet	yet	ADV	RB	_	12	advmod	12:advmod	_
@@ -7883,7 +7883,7 @@
 13	bonds	bond	NOUN	NNS	Number=Plur	14	nsubj	14:nsubj	_
 14	feeling	feel	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:with	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
-16	biggest	biggest	ADJ	JJS	Degree=Sup	17	amod	17:amod	_
+16	biggest	big	ADJ	JJS	Degree=Sup	17	amod	17:amod	_
 17	impact	impact	NOUN	NN	Number=Sing	14	obj	14:obj	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -8318,7 +8318,7 @@
 # text = But its latest effort into the workplace chat game is a part of a larger trend from tech companies.
 1	But	but	CCONJ	CC	_	12	cc	12:cc	_
 2	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-3	latest	latest	ADJ	JJS	Degree=Sup	4	amod	4:amod	_
+3	latest	late	ADJ	JJS	Degree=Sup	4	amod	4:amod	_
 4	effort	effort	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
 5	into	into	ADP	IN	_	9	case	9:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
@@ -8347,7 +8347,7 @@
 5	some	some	DET	DT	PronType=Ind	4	obj	4:obj	_
 6	of	of	ADP	IN	_	9	case	9:case	_
 7	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
-8	best	best	ADJ	JJS	Degree=Sup	9	amod	9:amod	_
+8	best	good	ADJ	JJS	Degree=Sup	9	amod	9:amod	_
 9	tennis	tennis	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	_
 10	as	as	SCONJ	IN	_	12	mark	12:mark	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj|18:nsubj	_
@@ -8754,7 +8754,7 @@
 18-19	Bangkok's	_	_	_	_	_	_	_	_
 18	Bangkok	Bangkok	PROPN	NNP	Number=Sing	21	nmod:poss	21:nmod:poss	_
 19	's	's	PART	POS	_	18	case	18:case	_
-20	tallest	tallest	ADJ	JJS	Degree=Sup	21	amod	21:amod	_
+20	tallest	tall	ADJ	JJS	Degree=Sup	21	amod	21:amod	_
 21	building	building	NOUN	NN	Number=Sing	16	appos	16:appos	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -8790,7 +8790,7 @@
 14	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 15	of	of	ADP	IN	_	19	case	19:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
-17	deepest	deepest	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
+17	deepest	deep	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
 18	commuter	commuter	NOUN	NN	Number=Sing	19	compound	19:compound	_
 19	systems	system	NOUN	NNS	Number=Plur	14	nmod	14:nmod:of	_
 20	in	in	ADP	IN	_	22	case	22:case	_
@@ -9833,7 +9833,7 @@
 26	,	,	PUNCT	,	_	30	punct	30:punct	_
 27	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
 28	two	two	NUM	CD	NumForm=Word|NumType=Card	30	nummod	30:nummod	_
-29	tallest	tallest	ADJ	JJS	Degree=Sup	30	amod	30:amod	_
+29	tallest	tall	ADJ	JJS	Degree=Sup	30	amod	30:amod	_
 30	peaks	peak	NOUN	NNS	Number=Plur	21	appos	21:appos	_
 31	in	in	ADP	IN	_	32	case	32:case	_
 32	Africa	Africa	PROPN	NNP	Number=Sing	30	nmod	30:nmod:in	SpaceAfter=No
@@ -9932,7 +9932,7 @@
 4	Findings	finding	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj	_
 5	on	on	ADP	IN	_	8	case	8:case	Proper=True
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Proper=True
-7	Worst	worst	ADJ	JJS	Degree=Sup	8	amod	8:amod	Proper=True
+7	Worst	bad	ADJ	JJS	Degree=Sup	8	amod	8:amod	Proper=True
 8	Forms	form	NOUN	NNS	Number=Plur	4	nmod	4:nmod:on	_
 9	of	of	ADP	IN	_	11	case	11:case	Proper=True
 10	Child	Child	PROPN	NNP	Number=Sing	11	compound	11:compound	_
@@ -11149,7 +11149,7 @@
 7	as	as	ADP	IN	_	11	case	11:case	_
 8	potentially	potentially	ADV	RB	_	11	advmod	11:advmod	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
-10	worst	worst	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
+10	worst	bad	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
 11	place	place	NOUN	NN	Number=Sing	6	obl	6:obl:as	_
 12	in	in	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
@@ -11342,7 +11342,7 @@
 11	until	until	SCONJ	IN	_	18	mark	18:mark	_
 12	at	at	ADP	IN	_	14	case	14:case	_
 13	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
-14	worst	worst	ADJ	JJS	Degree=Sup	18	obl	18:obl:at	_
+14	worst	bad	ADJ	JJS	Degree=Sup	18	obl	18:obl:at	_
 15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	_
 16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	18:cop	_
 17	no	no	DET	DT	PronType=Neg	18	det	18:det	_
@@ -11563,7 +11563,7 @@
 15	making	make	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl	_
 16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj|19:nsubj:xsubj	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
-18	largest	largest	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
+18	largest	large	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
 19	city	city	NOUN	NN	Number=Sing	15	xcomp	15:xcomp	_
 20	west	west	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
 21	of	of	ADP	IN	_	22	case	22:case	_
@@ -12949,7 +12949,7 @@
 23	south	south	ADV	RB	_	20	advmod	20:advmod	SpaceAfter=No
 24	,	,	PUNCT	,	_	32	punct	32:punct	_
 25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
-26	tallest	tallest	ADJ	JJS	Degree=Sup	32	nsubj	32:nsubj	_
+26	tallest	tall	ADJ	JJS	Degree=Sup	32	nsubj	32:nsubj	_
 27	of	of	ADP	IN	_	28	case	28:case	_
 28	which	which	PRON	WDT	PronType=Int	26	nmod	14:ref	_
 29	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	32:cop	_
@@ -13039,7 +13039,7 @@
 # sent_id = w01065021
 # text = The oldest known historical reference to the city is to be found on an inscription of conquered sites at Thutmose's temple at Karnak.
 1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-2	oldest	oldest	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
+2	oldest	old	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
 3	known	know	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	5:amod	_
 4	historical	historical	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	reference	reference	NOUN	NN	Number=Sing	9	nsubj	9:nsubj|12:nsubj:xsubj	_
@@ -15404,7 +15404,7 @@
 1-2	Lamarr's	_	_	_	_	_	_	_	_
 1	Lamarr	Lamarr	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
-3	earliest	earliest	ADJ	JJS	Degree=Sup	4	amod	4:amod	_
+3	earliest	early	ADJ	JJS	Degree=Sup	4	amod	4:amod	_
 4	inventions	invention	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 5	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -15814,7 +15814,7 @@
 4	work	work	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	with	with	ADP	IN	_	8	case	8:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-7	best	best	ADJ	JJS	Degree=Sup	8	amod	8:amod	_
+7	best	good	ADJ	JJS	Degree=Sup	8	amod	8:amod	_
 8	talent	talent	NOUN	NN	Number=Sing	4	obl	4:obl:with|26:nsubj	_
 9	of	of	ADP	IN	_	11	case	11:case	_
 10	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
@@ -16346,7 +16346,7 @@
 # sent_id = w01117029
 # text = Her latest non-fiction is about Margaret Douglas, Countess of Lennox.
 1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
-2	latest	latest	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
+2	latest	late	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
 3	non-fiction	non-fiction	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 5	about	about	ADP	IN	_	6	case	6:case	_
@@ -16775,7 +16775,7 @@
 7	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 8	of	of	ADP	IN	_	11	case	11:case	_
 9	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
-10	biggest	biggest	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
+10	biggest	big	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
 11	sellers	seller	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	7:punct	_
 
@@ -16848,7 +16848,7 @@
 8-9	LaBeouf's	_	_	_	_	_	_	_	_
 8	LaBeouf	LaBeouf	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	_
 9	's	's	PART	POS	_	8	case	8:case	_
-10	best	best	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
+10	best	good	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
 11	performances	performance	NOUN	NNS	Number=Plur	6	nmod	6:nmod:of	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -19051,7 +19051,7 @@
 11	,	,	PUNCT	,	_	22	punct	22:punct	_
 12	in	in	ADP	IN	_	16	case	16:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
-14	best	best	ADJ	JJS	Degree=Sup	15	amod	15:amod	_
+14	best	good	ADJ	JJS	Degree=Sup	15	amod	15:amod	_
 15	case	case	NOUN	NN	Number=Sing	16	compound	16:compound	_
 16	scenario	scenario	NOUN	NN	Number=Sing	22	obl	22:obl:in	SpaceAfter=No
 17	,	,	PUNCT	,	_	22	punct	22:punct	_
@@ -19671,7 +19671,7 @@
 22	endeavor	endeavor	NOUN	NN	Number=Sing	12	obl	12:obl:as	_
 23	of	of	ADP	IN	_	26	case	26:case	_
 24	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
-25	highest	highest	ADJ	JJS	Degree=Sup	26	amod	26:amod	_
+25	highest	high	ADJ	JJS	Degree=Sup	26	amod	26:amod	_
 26	priority	priority	NOUN	NN	Number=Sing	22	nmod	22:nmod:of	_
 27	and	and	CCONJ	CC	_	29	cc	29:cc	_
 28	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	29	aux	29:aux	_
@@ -20550,7 +20550,7 @@
 # sent_id = n04006014
 # text = The latest figures relate to the 24th of October last year, and tell us that our diesel costs 1,335 euros per litre, compared with the eurozone average of 1,165 euros.
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-2	latest	latest	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
+2	latest	late	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
 3	figures	figure	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|14:nsubj	_
 4	relate	relate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	to	to	ADP	IN	_	7	case	7:case	_
@@ -20873,7 +20873,7 @@
 7	company	company	NOUN	NN	Number=Sing	3	xcomp	3:xcomp	_
 8	with	with	ADP	IN	_	12	case	12:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-10	largest	largest	ADJ	JJS	Degree=Sup	12	amod	12:amod	_
+10	largest	large	ADJ	JJS	Degree=Sup	12	amod	12:amod	_
 11	market	market	NOUN	NN	Number=Sing	12	compound	12:compound	_
 12	capitalisation	capitalisation	NOUN	NN	Number=Sing	7	nmod	7:nmod:with	SpaceAfter=No
 13	,	,	PUNCT	,	_	7	punct	7:punct	_
@@ -21045,7 +21045,7 @@
 20	Fátima	Fátima	PROPN	NNP	Number=Sing	23	nsubj	23:nsubj	_
 21	Báñez	Báñez	PROPN	NNP	Number=Sing	20	flat	20:flat	_
 22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
-23	proudest	proudest	ADJ	JJS	Degree=Sup	18	acl:relcl	18:acl:relcl	_
+23	proudest	proud	ADJ	JJS	Degree=Sup	18	acl:relcl	18:acl:relcl	_
 24	of	of	ADP	IN	_	19	case	19:case	SpaceAfter=No
 25	.	.	PUNCT	.	_	6	punct	6:punct	_
 
@@ -21242,7 +21242,7 @@
 16	bring	bring	VERB	VB	VerbForm=Inf	14	xcomp	14:xcomp	_
 17	out	out	ADV	RP	_	16	compound:prt	16:compound:prt	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
-19	best	best	ADJ	JJS	Degree=Sup	16	obj	16:obj	_
+19	best	good	ADJ	JJS	Degree=Sup	16	obj	16:obj	_
 20	of	of	ADP	IN	_	21	case	21:case	_
 21	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	19	obl	19:obl:of	_
 22	in	in	SCONJ	IN	_	25	mark	25:mark	_
