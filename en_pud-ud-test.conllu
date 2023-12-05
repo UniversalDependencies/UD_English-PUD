@@ -806,7 +806,7 @@
 4	suggested	suggest	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	Huawei	Huawei	PROPN	NNP	Number=Sing	8	nsubj:pass	8:nsubj:pass|10:nsubj:xsubj	_
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	8:aux:pass	_
-7	best	best	ADV	RBS	Degree=Sup	8	advmod	8:advmod	_
+7	best	well	ADV	RBS	Degree=Sup	8	advmod	8:advmod	_
 8	placed	place	VERB	VBN	Tense=Past|VerbForm=Part	4	ccomp	4:ccomp	_
 9	to	to	PART	TO	_	10	mark	10:mark	_
 10	benefit	benefit	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
@@ -13598,7 +13598,7 @@
 21	what	what	PRON	WP	PronType=Int	19	obl	19:obl:upon	_
 22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
 23	at	at	ADV	RB	_	24	case	24:case	_
-24	best	best	ADV	RBS	Degree=Sup	26	obl:npmod	26:obl:npmod	_
+24	best	well	ADV	RBS	Degree=Sup	26	obl:npmod	26:obl:npmod	_
 25	mere	mere	ADJ	JJ	Degree=Pos	26	amod	26:amod	_
 26	resemblances	resemblance	NOUN	NNS	Number=Plur	21	acl:relcl	21:acl:relcl	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	26:punct	_
@@ -15587,7 +15587,7 @@
 5	which	which	PRON	WDT	PronType=Rel	9	obl	3:ref	_
 6	Alvarez	Alvarez	PROPN	NNP	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
 7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
-8	best	best	ADV	RBS	Degree=Sup	9	advmod	9:advmod	_
+8	best	well	ADV	RBS	Degree=Sup	9	advmod	9:advmod	_
 9	known	know	VERB	VBN	Tense=Past|VerbForm=Part	3	acl:relcl	3:acl:relcl	_
 10	and	and	CCONJ	CC	_	13	cc	13:cc	_
 11	which	which	PRON	WDT	PronType=Int	13	nsubj	13:nsubj	_
