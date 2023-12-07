@@ -1284,7 +1284,7 @@
 12	to	to	ADP	IN	_	13	case	13:case	_
 13	$	$	SYM	$	_	6	obl	6:obl:to	SpaceAfter=No
 14	221	221	NUM	CD	NumForm=Digit|NumType=Card	15	compound	15:compound	SpaceAfter=No
-15	bn	billion	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
+15	bn	billion	NUM	CD	Abbr=Yes|NumForm=Word|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n01022027
@@ -6383,7 +6383,7 @@
 20	than	than	ADP	IN	_	19	fixed	19:fixed	_
 21	€	€	SYM	$	_	18	obj	18:obj	SpaceAfter=No
 22	16	16	NUM	CD	NumForm=Digit|NumType=Card	23	compound	23:compound	SpaceAfter=No
-23	bn	billion	NUM	CD	NumForm=Word|NumType=Card	21	nummod	21:nummod	_
+23	bn	billion	NUM	CD	Abbr=Yes|NumForm=Word|NumType=Card	21	nummod	21:nummod	_
 24	of	of	ADP	IN	_	25	case	25:case	_
 25	provisions	provision	NOUN	NNS	Number=Plur	21	nmod	21:nmod:of	SpaceAfter=No
 26	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -6680,11 +6680,11 @@
 19	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	acl:relcl	14:acl:relcl	_
 20	£	£	SYM	$	_	19	obj	19:obj	SpaceAfter=No
 21	2	2	NUM	CD	NumForm=Digit|NumType=Card	22	compound	22:compound	SpaceAfter=No
-22	bn	billion	NUM	CD	NumForm=Word|NumType=Card	20	nummod	20:nummod	_
+22	bn	billion	NUM	CD	Abbr=Yes|NumForm=Word|NumType=Card	20	nummod	20:nummod	_
 23	and	and	CCONJ	CC	_	24	cc	24:cc	_
 24	£	£	SYM	$	_	20	conj	19:obj|20:conj:and	SpaceAfter=No
 25	1.4	1.4	NUM	CD	NumForm=Digit|NumType=Card	26	compound	26:compound	SpaceAfter=No
-26	bn	billion	NUM	CD	NumForm=Word|NumType=Card	24	nummod	24:nummod	_
+26	bn	billion	NUM	CD	Abbr=Yes|NumForm=Word|NumType=Card	24	nummod	24:nummod	_
 27	respectively	respectively	ADV	RB	_	19	advmod	19:advmod	SpaceAfter=No
 28	.	.	PUNCT	.	_	3	punct	3:punct	_
 
