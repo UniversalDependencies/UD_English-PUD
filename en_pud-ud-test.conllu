@@ -18712,8 +18712,8 @@
 3	Parker	Parker	PROPN	NNP	Number=Sing	10	obl	10:obl:according_to	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
 5	Russian	Russian	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
-6	Secret	secret	NOUN	NN	Number=Sing	7	compound	7:compound	_
-7	Service	service	PROPN	NNP	Number=Sing	8	compound	8:compound	_
+6	Secret	Secret	ADJ	NNP	Degree=Pos	7	amod	7:amod	_
+7	Service	Service	PROPN	NNP	Number=Sing	8	compound	8:compound	_
 8	agents	agent	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
 9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	active	active	ADJ	JJ	Degree=Pos	0	root	0:root	_
@@ -19272,7 +19272,7 @@
 8	Larry	Larry	PROPN	NNP	Number=Sing	7	appos	7:appos	_
 9	Vance	Vance	PROPN	NNP	Number=Sing	8	flat	8:flat	_
 10	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-11	SPIEGEL	SPIEGEL	PROPN	NNP	Abbr=Yes|Number=Sing	10	iobj	10:iobj	_
+11	SPIEGEL	Spiegel	PROPN	NNP	Number=Sing	10	iobj	10:iobj	_
 12	that	that	SCONJ	IN	_	15	mark	15:mark	_
 13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	15:nsubj:pass	_
 14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	15:aux	_
