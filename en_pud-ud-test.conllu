@@ -15254,9 +15254,9 @@
 14	Britain	Britain	PROPN	NNP	Number=Sing	7	obl	7:obl:with	_
 15	after	after	SCONJ	IN	_	28	mark	28:mark	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
-17	Governor	Governor	NOUN	NN	Number=Sing	19	compound	19:compound	SpaceAfter=No
+17	Governor	governor	NOUN	NN	Number=Sing	19	compound	19:compound	SpaceAfter=No
 18	-	-	PUNCT	HYPH	_	19	punct	19:punct	SpaceAfter=No
-19	General	General	NOUN	NN	Number=Sing	28	nsubj	28:nsubj	_
+19	General	general	NOUN	NN	Number=Sing	28	nsubj	28:nsubj	_
 20	of	of	ADP	IN	_	21	case	21:case	Proper=True
 21	Hunan	Hunan	PROPN	NNP	Number=Sing	19	nmod	19:nmod:of	_
 22	and	and	CCONJ	CC	_	23	cc	23:cc	Proper=True
