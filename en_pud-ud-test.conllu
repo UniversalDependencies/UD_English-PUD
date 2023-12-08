@@ -15955,7 +15955,7 @@
 4	drama	drama	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	Winstone	Winstone	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
-7	enrolled	enrol	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	enrolled	enroll	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	at	at	ADP	IN	_	12	case	12:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 10	Corona	Corona	PROPN	NNP	Number=Sing	12	compound	12:compound	_
@@ -16188,7 +16188,7 @@
 # sent_id = w01115023
 # text = Barrie enrolled at the University of Edinburgh where he wrote drama reviews for the Edinburgh Evening Courant.
 1	Barrie	Barrie	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
-2	enrolled	enrol	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	enrolled	enroll	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	at	at	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	University	university	NOUN	NN	Number=Sing	2	obl	2:obl:at	_
@@ -16716,7 +16716,7 @@
 # text = George was appalled by what he saw as their loose morals.
 1	George	George	PROPN	NNP	Number=Sing	3	nsubj:pass	3:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
-3	appalled	appal	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+3	appalled	appall	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	by	by	ADP	IN	_	5	case	5:case	_
 5	what	what	PRON	WP	PronType=Int	3	obl	3:obl:by	_
 6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
