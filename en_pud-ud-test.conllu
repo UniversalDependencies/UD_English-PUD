@@ -567,7 +567,7 @@
 2	killed	kill	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	Andre	Andre	PROPN	NNP	Number=Sing	2	obj	2:obj	_
 4	Price	Price	PROPN	NNP	Number=Sing	3	flat	3:flat	_
-5	III	III	NUM	CD	NumForm=Roman|NumType=Ord	2	flat	2:flat	_
+5	III	III	NUM	CD	NumForm=Roman|NumType=Card	2	flat	2:flat	_
 6	by	by	SCONJ	IN	_	7	mark	7:mark	_
 7	pressing	press	VERB	VBG	VerbForm=Ger	2	advcl	2:advcl:by	_
 8	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
@@ -22323,7 +22323,7 @@
 7	King	King	PROPN	NNP	Number=Sing	5	conj	5:conj:and|11:nsubj	_
 8	Franz	Franz	PROPN	NNP	Number=Sing	5	flat	5:flat	_
 9	Joseph	Joseph	PROPN	NNP	Number=Sing	8	flat	8:flat	_
-10	I.	I.	NUM	CD	NumForm=Roman|NumType=Ord	8	flat	8:flat	_
+10	I.	I.	NUM	CD	NumForm=Roman|NumType=Card|Typo=Yes	8	flat	8:flat	CorrectForm=I
 11	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	great	great	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	care	care	NOUN	NN	Number=Sing	11	obj	11:obj|15:nsubj:xsubj	_
