@@ -11309,11 +11309,11 @@
 # newdoc id = w01039
 # sent_id = w01039032
 # text = It was here they stole a small canoe left by the Australian Aborigines of the region.
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	2:expl	_
-2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	here	here	ADV	RB	PronType=Dem	2	nsubj	2:nsubj	_
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	3:expl	_
+2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	here	here	ADV	RB	PronType=Dem	0	root	0:root	_
 4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-5	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	2:ccomp	_
+5	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
 7	small	small	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	canoe	canoe	NOUN	NN	Number=Sing	5	obj	5:obj	_
@@ -11325,7 +11325,7 @@
 14	of	of	ADP	IN	_	16	case	16:case	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 16	region	region	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	SpaceAfter=No
-17	.	.	PUNCT	.	_	2	punct	2:punct	_
+17	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = w01039058
 # text = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
