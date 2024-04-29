@@ -1,7 +1,7 @@
 # newdoc id = n01001
 # sent_id = n01001011
 # text = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
-1	“	“	PUNCT	``	_	20	punct	20:punct	SpaceAfter=Noxxx
+1	“	“	PUNCT	``	_	20	punct	20:punct	SpaceAfter=No
 2	While	while	SCONJ	IN	_	9	mark	9:mark	_
 3	much	much	ADJ	JJ	Degree=Pos	9	nsubj	9:nsubj	_
 4	of	of	ADP	IN	_	7	case	7:case	_
