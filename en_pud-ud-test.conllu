@@ -22313,7 +22313,7 @@
 20	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 # sent_id = w02014030
-# text = After the Compromise, Emperor and King Franz Joseph I. took great care to treat both of his monarchies equally.
+# text = After the Compromise, Emperor and King Franz Joseph I took great care to treat both of his monarchies equally.
 1	After	after	ADP	IN	_	3	case	3:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	Compromise	compromise	NOUN	NN	Number=Sing	11	obl	11:obl:after	SpaceAfter=No
@@ -22323,7 +22323,7 @@
 7	King	King	PROPN	NNP	Number=Sing	5	conj	5:conj:and|11:nsubj	_
 8	Franz	Franz	PROPN	NNP	Number=Sing	5	flat	5:flat	_
 9	Joseph	Joseph	PROPN	NNP	Number=Sing	8	flat	8:flat	_
-10	I.	I.	NUM	CD	NumForm=Roman|NumType=Card|Typo=Yes	8	flat	8:flat	CorrectForm=I
+10	I	I	NUM	CD	NumForm=Roman|NumType=Card	8	flat	8:flat	_
 11	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	great	great	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	care	care	NOUN	NN	Number=Sing	11	obj	11:obj|15:nsubj:xsubj	_
