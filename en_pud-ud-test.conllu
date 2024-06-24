@@ -34,7 +34,7 @@
 31	a	a	DET	DT	Definite=Ind|PronType=Art	33	det	33:det	_
 32	blog	blog	NOUN	NN	Number=Sing	33	compound	33:compound	_
 33	post	post	NOUN	NN	Number=Sing	29	obl	29:obl:in	_
-34	Monday	Monday	PROPN	NNP	Number=Sing	29	nmod:tmod	29:nmod:tmod	SpaceAfter=No
+34	Monday	Monday	PROPN	NNP	Number=Sing	29	nmod:unmarked	29:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 35	.	.	PUNCT	.	_	20	punct	20:punct	_
 
 # sent_id = n01001013
@@ -54,7 +54,7 @@
 13	will	will	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
 14	be	be	AUX	VB	VerbForm=Inf	17	cop	17:cop	_
 15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
-16	little	little	ADJ	JJ	Degree=Pos	17	obl:npmod	17:obl:npmod	_
+16	little	little	ADJ	JJ	Degree=Pos	17	obl:unmarked	17:obl:unmarked	_
 17	different	different	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	17:punct	_
 
@@ -249,7 +249,7 @@
 14	Street	Street	PROPN	NNP	Number=Sing	11	nmod	11:nmod:on	_
 15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
 16	few	few	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
-17	blocks	block	NOUN	NNS	Number=Plur	18	obl:npmod	18:obl:npmod	_
+17	blocks	block	NOUN	NNS	Number=Plur	18	obl:unmarked	18:obl:unmarked	_
 18	away	away	ADV	RB	_	11	advmod	11:advmod	SpaceAfter=No
 19	.	.	PUNCT	.	_	5	punct	5:punct	_
 
@@ -465,13 +465,13 @@
 36	jump	jump	VERB	VB	VerbForm=Inf	34	xcomp	34:xcomp	_
 37	again	again	ADV	RB	_	36	advmod	36:advmod	_
 38	this	this	DET	DT	Number=Sing|PronType=Dem	39	det	39:det	_
-39	year	year	NOUN	NN	Number=Sing	36	nmod:tmod	36:nmod:tmod	SpaceAfter=No
+39	year	year	NOUN	NN	Number=Sing	36	nmod:unmarked	36:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 40	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 # newdoc id = n01009
 # sent_id = n01009027
 # text = Today, Khanzir may be a lonely pig, but he isn’t always alone.
-1	Today	today	NOUN	NN	Number=Sing	8	obl:tmod	8:obl:tmod	SpaceAfter=No
+1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 2	,	,	PUNCT	,	_	8	punct	8:punct	_
 3	Khanzir	Khanzir	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 4	may	may	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
@@ -555,7 +555,7 @@
 10	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
 11	two	two	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	SpaceAfter=No
 12	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
-13	year	year	NOUN	NN	Number=Sing	15	obl:npmod	15:obl:npmod	SpaceAfter=No
+13	year	year	NOUN	NN	Number=Sing	15	obl:unmarked	15:obl:unmarked	SpaceAfter=No
 14	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
 15	old	old	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
 16	daughter	daughter	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
@@ -606,7 +606,7 @@
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
 7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
-8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
+8	way	way	NOUN	NN	Number=Sing	4	obl:unmarked	4:obl:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
 11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
@@ -759,7 +759,7 @@
 25	,	,	PUNCT	,	_	24	punct	24:punct	_
 26	with	with	ADP	IN	_	30	case	30:case	_
 27	three	three	NUM	CD	NumForm=Word|NumType=Card	28	nummod	28:nummod	_
-28	times	time	NOUN	NNS	Number=Plur	29	obl:npmod	29:obl:npmod	_
+28	times	time	NOUN	NNS	Number=Plur	29	obl:unmarked	29:obl:unmarked	_
 29	more	more	ADJ	JJR	Degree=Cmp	30	amod	30:amod	_
 30	babies	baby	NOUN	NNS	Number=Plur	24	nmod	24:nmod:with	_
 31	named	name	VERB	VBN	Tense=Past|VerbForm=Part	30	acl	30:acl	_
@@ -1033,7 +1033,7 @@
 9	military	military	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
 10	hardware	hardware	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	_
 11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	_
-12	week	week	NOUN	NN	Number=Sing	5	nmod:tmod	5:nmod:tmod	_
+12	week	week	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	TemporalNPAdjunct=Yes
 13	from	from	ADP	IN	_	15	case	15:case	_
 14	attack	attack	NOUN	NN	Number=Sing	15	compound	15:compound	_
 15	helicopters	helicopter	NOUN	NNS	Number=Plur	5	nmod	5:nmod:from	_
@@ -1560,7 +1560,7 @@
 # sent_id = n01026004
 # text = "Tonight we are carrying out punishments using a high beam," the post reads.
 1	"	"	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
-2	Tonight	tonight	NOUN	NN	Number=Sing	5	obl:tmod	5:obl:tmod	_
+2	Tonight	tonight	NOUN	NN	Number=Sing	5	obl:unmarked	5:obl:unmarked	TemporalNPAdjunct=Yes
 3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	carrying	carry	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
@@ -1612,7 +1612,7 @@
 8	Democratic	democratic	ADJ	JJ	Degree=Pos	9	amod	9:amod	Proper=True
 9	side	side	NOUN	NN	Number=Sing	18	obl	18:obl:from	_
 10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	11:det	_
-11	year	year	NOUN	NN	Number=Sing	18	nmod:tmod	18:nmod:tmod	SpaceAfter=No
+11	year	year	NOUN	NN	Number=Sing	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 12	,	,	PUNCT	,	_	18	punct	18:punct	_
 13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
 14	been	be	AUX	VBN	Tense=Past|VerbForm=Part	18	cop	18:cop	_
@@ -1723,7 +1723,7 @@
 9	there	there	ADV	RB	PronType=Dem	6	advmod	6:advmod	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 11	same	same	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
-12	year	year	NOUN	NN	Number=Sing	6	obl:tmod	6:obl:tmod	SpaceAfter=No
+12	year	year	NOUN	NN	Number=Sing	6	obl:unmarked	6:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n01029011
@@ -1764,7 +1764,7 @@
 # text = Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in the capital Belgrade.
 1	Earlier	early	ADV	RBR	Degree=Cmp	3	advmod	3:advmod	_
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
-3	year	year	NOUN	NN	Number=Sing	6	nmod:tmod	6:nmod:tmod	_
+3	year	year	NOUN	NN	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	TemporalNPAdjunct=Yes
 4	Seagal	Seagal	PROPN	NNP	Number=Sing	6	nsubj:pass	6:nsubj:pass	_
 5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	given	give	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
@@ -2142,7 +2142,7 @@
 5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 6	photo	photo	NOUN	NN	Number=Sing	3	nmod	3:nmod:of	_
 7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	8:det	_
-8	morning	morning	NOUN	NN	Number=Sing	3	nmod:tmod	3:nmod:tmod	SpaceAfter=No
+8	morning	morning	NOUN	NN	Number=Sing	3	nmod:unmarked	3:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
 10	police	police	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
 11	in	in	ADP	IN	_	12	case	12:case	_
@@ -2587,7 +2587,7 @@
 13	in	in	ADP	IN	_	15	case	15:case	_
 14	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
 15	interview	interview	NOUN	NN	Number=Sing	12	obl	12:obl:in	_
-16	Thursday	Thursday	PROPN	NNP	Number=Sing	15	nmod:tmod	15:nmod:tmod	_
+16	Thursday	Thursday	PROPN	NNP	Number=Sing	15	nmod:unmarked	15:nmod:unmarked	TemporalNPAdjunct=Yes
 17	with	with	ADP	IN	_	19	case	19:case	_
 18	CBC	CBC	PROPN	NNP	Abbr=Yes|Number=Sing	19	compound	19:compound	_
 19	News	News	PROPN	NNP	Number=Sing	15	nmod	15:nmod:with	SpaceAfter=No
@@ -2639,7 +2639,7 @@
 15	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
 16	review	review	NOUN	NN	Number=Sing	13	nmod	13:nmod:for	_
 17	this	this	DET	DT	Number=Sing|PronType=Dem	18	det	18:det	_
-18	week	week	NOUN	NN	Number=Sing	11	nmod:tmod	11:nmod:tmod	_
+18	week	week	NOUN	NN	Number=Sing	11	nmod:unmarked	11:nmod:unmarked	TemporalNPAdjunct=Yes
 19	after	after	SCONJ	IN	_	25	mark	25:mark	_
 20	"	"	PUNCT	``	_	22	punct	22:punct	SpaceAfter=No
 21	alarming	alarming	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
@@ -2717,7 +2717,7 @@
 30	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	31	amod	31:amod	_
 31	$	$	SYM	$	_	22	conj	20:nmod:of|22:conj:or	SpaceAfter=No
 32	15,000	15000	NUM	CD	NumForm=Digit|NumType=Card	31	nummod	31:nummod	_
-33	each	each	DET	DT	PronType=Tot	31	obl:npmod	31:obl:npmod	_
+33	each	each	DET	DT	PronType=Tot	31	obl:unmarked	31:obl:unmarked	_
 34	on	on	ADP	IN	_	35	case	35:case	_
 35	average	average	NOUN	NN	Number=Sing	31	nmod	31:nmod:on	SpaceAfter=No
 36	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -2790,7 +2790,7 @@
 6	and	and	CCONJ	CC	_	7	cc	7:cc	_
 7	bonus	bonus	NOUN	NN	Number=Sing	5	conj	2:nmod:for|5:conj:and	_
 8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
-9	year	year	NOUN	NN	Number=Sing	2	nmod:tmod	2:nmod:tmod	_
+9	year	year	NOUN	NN	Number=Sing	2	nmod:unmarked	2:nmod:unmarked	TemporalNPAdjunct=Yes
 10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	11:cop	_
 11	$	$	SYM	$	_	0	root	0:root	SpaceAfter=No
 12	1.5	1.5	NUM	CD	NumForm=Digit|NumType=Card	13	compound	13:compound	_
@@ -2959,7 +2959,7 @@
 7	than	than	ADP	IN	_	8	case	8:case	_
 8	phones	phone	NOUN	NNS	Number=Plur	6	obl	6:obl:than	_
 9	these	this	DET	DT	Number=Plur|PronType=Dem	10	det	10:det	_
-10	days	day	NOUN	NNS	Number=Plur	6	obl:tmod	6:obl:tmod	SpaceAfter=No
+10	days	day	NOUN	NNS	Number=Plur	6	obl:unmarked	6:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 11	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n01046036
@@ -2978,7 +2978,7 @@
 12	Lindsay	Lindsay	PROPN	NNP	Number=Sing	11	flat	11:flat	_
 13	Gay	Gay	PROPN	NNP	Number=Sing	11	flat	11:flat	_
 14	last	last	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
-15	month	month	NOUN	NN	Number=Sing	7	obl:tmod	7:obl:tmod	SpaceAfter=No
+15	month	month	NOUN	NN	Number=Sing	7	obl:unmarked	7:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 # sent_id = n01046057
@@ -3307,7 +3307,7 @@
 1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 3	84	84	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
-4	years	year	NOUN	NNS	Number=Plur	5	nmod:npmod	5:nmod:npmod	_
+4	years	year	NOUN	NNS	Number=Plur	5	nmod:unmarked	5:nmod:unmarked	_
 5	old	old	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	5:punct	_
 
@@ -3584,7 +3584,7 @@
 16	Party	party	NOUN	NN	Number=Sing	17	compound	17:compound	_
 17	headquarters	headquarters	NOUN	NN	Number=Sing	13	obj	13:obj	_
 18	last	last	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
-19	month	month	NOUN	NN	Number=Sing	13	nmod:tmod	13:nmod:tmod	SpaceAfter=No
+19	month	month	NOUN	NN	Number=Sing	13	nmod:unmarked	13:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 20	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 # sent_id = n01058052
@@ -3842,7 +3842,7 @@
 21	to	to	ADP	IN	_	22	case	22:case	_
 22	Slate	Slate	PROPN	NNP	Number=Sing	20	obl	20:obl:to	_
 23	last	last	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
-24	year	year	NOUN	NN	Number=Sing	20	nmod:tmod	20:nmod:tmod	SpaceAfter=No
+24	year	year	NOUN	NN	Number=Sing	20	nmod:unmarked	20:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 25	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 # sent_id = n01061041
@@ -4432,7 +4432,7 @@
 2	then	then	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
 3	spent	spend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	four	four	NUM	CD	NumForm=Word|NumType=Card	5	nummod	5:nummod	_
-5	years	year	NOUN	NNS	Number=Plur	3	nmod:tmod	3:nmod:tmod	_
+5	years	year	NOUN	NNS	Number=Plur	3	nmod:unmarked	3:nmod:unmarked	TemporalNPAdjunct=Yes
 6	with	with	ADP	IN	_	10	case	10:case	_
 7	BBC	BBC	PROPN	NNP	Abbr=Yes|Number=Sing	9	compound	9:compound	_
 8	World	world	NOUN	NN	Number=Sing	9	compound	9:compound	_
@@ -5362,7 +5362,7 @@
 # sent_id = n01089033
 # text = Wintour herself appears briefly, and is filmed putting her sunglasses on before being interviewed.
 1	Wintour	Wintour	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|8:nsubj:pass	_
-2	herself	herself	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod:npmod	1:nmod:npmod	_
+2	herself	herself	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod:unmarked	1:nmod:unmarked	_
 3	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	briefly	briefly	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -5768,7 +5768,7 @@
 
 # sent_id = n01095019
 # text = Day three, I was back on the EMicro.
-1	Day	day	NOUN	NN	Number=Sing	6	nmod:tmod	6:nmod:tmod	_
+1	Day	day	NOUN	NN	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	TemporalNPAdjunct=Yes
 2	three	three	NUM	CD	NumForm=Word|NumType=Card	1	nummod	1:nummod	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
@@ -6199,7 +6199,7 @@
 16	do	do	VERB	VB	VerbForm=Inf	23	csubj	23:csubj	_
 17	so	so	ADV	RB	_	16	advmod	16:advmod	_
 18	three	three	NUM	CD	NumForm=Word|NumType=Card	19	nummod	19:nummod	_
-19	times	time	NOUN	NNS	Number=Plur	16	obl:npmod	16:obl:npmod	_
+19	times	time	NOUN	NNS	Number=Plur	16	obl:unmarked	16:obl:unmarked	_
 20	is	in	ADP	IN	Typo=Yes	22	case	22:case	CorrectForm=in
 21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
 22	row	row	NOUN	NN	Number=Sing	19	nmod	19:nmod:in	_
@@ -6266,7 +6266,7 @@
 15	answers	answer	NOUN	NNS	Number=Plur	14	obj	14:obj	_
 16	all	all	DET	PDT	PronType=Tot	18	det:predet	18:det:predet	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
-18	time	time	NOUN	NN	Number=Sing	14	obl:tmod	14:obl:tmod	SpaceAfter=No
+18	time	time	NOUN	NN	Number=Sing	14	obl:unmarked	14:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 19	.	.	PUNCT	.	_	8	punct	8:punct	_
 
 # sent_id = n01105023
@@ -7126,7 +7126,7 @@
 17	made	make	VERB	VBN	Tense=Past|VerbForm=Part	14	xcomp	14:xcomp	_
 18	for	for	ADP	IN	_	21	mark	21:mark	_
 19	Sunday	Sunday	PROPN	NNP	Number=Sing	20	compound	20:compound	_
-20	afternoon	afternoon	NOUN	NN	Number=Sing	21	obl:tmod	21:obl:tmod	_
+20	afternoon	afternoon	NOUN	NN	Number=Sing	21	obl:unmarked	21:obl:unmarked	TemporalNPAdjunct=Yes
 21	viewing	view	VERB	VBG	VerbForm=Ger	17	obl	17:obl	SpaceAfter=No
 22	.	.	PUNCT	.	_	6	punct	6:punct	_
 
@@ -7414,7 +7414,7 @@
 # sent_id = n01127008
 # text = Two years later, Jutting, now 31, is on trial at Hong Kong's High Court, charged with two counts of murder and one of preventing lawful burial.
 1	Two	two	NUM	CD	NumForm=Word|NumType=Card	2	nummod	2:nummod	_
-2	years	year	NOUN	NNS	Number=Plur	3	obl:npmod	3:obl:npmod	_
+2	years	year	NOUN	NNS	Number=Plur	3	obl:unmarked	3:obl:unmarked	_
 3	later	later	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
 4	,	,	PUNCT	,	_	12	punct	12:punct	_
 5	Jutting	Jutting	PROPN	NNP	Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No
@@ -7471,7 +7471,7 @@
 6	Court	court	NOUN	NN	Number=Sing	13	obl	13:obl:in	SpaceAfter=No
 7	,	,	PUNCT	,	_	13	punct	13:punct	_
 8	two	two	NUM	CD	NumForm=Word|NumType=Card	9	nummod	9:nummod	_
-9	years	year	NOUN	NNS	Number=Plur	10	nmod:npmod	10:nmod:npmod	_
+9	years	year	NOUN	NNS	Number=Plur	10	nmod:unmarked	10:nmod:unmarked	_
 10	later	later	ADV	RB	_	13	advmod	13:advmod	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	13:punct	_
 12	Jutting	Jutting	PROPN	NNP	Number=Sing	13	nsubj	13:nsubj|15:nsubj:xsubj	_
@@ -7649,7 +7649,7 @@
 13	to	to	ADP	IN	_	14	case	14:case	_
 14	chaos	chaos	NOUN	NN	Number=Sing	12	obl	12:obl:to	_
 15	election	election	NOUN	NN	Number=Sing	16	compound	16:compound	_
-16	day	day	NOUN	NN	Number=Sing	12	obl:tmod	12:obl:tmod	SpaceAfter=No
+16	day	day	NOUN	NN	Number=Sing	12	obl:unmarked	12:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 17	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # newdoc id = n01130
@@ -7742,7 +7742,7 @@
 20	16,500	16500	NUM	CD	NumForm=Digit|NumType=Card	17	obl	17:obl:at	_
 21	earlier	early	ADV	RBR	Degree=Cmp	23	advmod	23:advmod	_
 22	this	this	DET	DT	Number=Sing|PronType=Dem	23	det	23:det	_
-23	week	week	NOUN	NN	Number=Sing	17	obl:tmod	17:obl:tmod	SpaceAfter=No
+23	week	week	NOUN	NN	Number=Sing	17	obl:unmarked	17:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 24	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 # newdoc id = n01132
@@ -8063,7 +8063,7 @@
 15	"	"	PUNCT	''	_	14	punct	14:punct	_
 16	characters	character	NOUN	NNS	Number=Plur	9	obl	9:obl:like	_
 17	this	this	DET	DT	Number=Sing|PronType=Dem	18	det	18:det	_
-18	holiday	holiday	NOUN	NN	Number=Sing	9	obl:tmod	9:obl:tmod	SpaceAfter=No
+18	holiday	holiday	NOUN	NN	Number=Sing	9	obl:unmarked	9:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 19	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 # sent_id = n01137010
@@ -8518,7 +8518,7 @@
 13	ladder	ladder	NOUN	NN	Number=Sing	10	obj	10:obj	_
 14	and	and	CCONJ	CC	_	15	cc	15:cc	_
 15	sitting	sit	VERB	VBG	VerbForm=Ger	10	conj	6:acl:of|10:conj:and	_
-16	back	back	NOUN	NN	Number=Sing	15	obl:npmod	15:obl:npmod	_
+16	back	back	NOUN	NN	Number=Sing	15	obl:unmarked	15:obl:unmarked	_
 17	to	to	ADP	IN	_	18	case	18:case	_
 18	front	front	NOUN	NN	Number=Sing	16	nmod	16:nmod:to	_
 19	on	on	ADP	IN	_	20	case	20:case	_
@@ -8776,7 +8776,7 @@
 # text = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
 1	Buried	bury	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	14:advcl	_
 2	100	100	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	_
-3	meters	meter	NOUN	NNS	Number=Plur	8	obl:npmod	8:obl:npmod	_
+3	meters	meter	NOUN	NNS	Number=Plur	8	obl:unmarked	8:obl:unmarked	_
 4	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
 5	328	328	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
 6	feet	foot	NOUN	NNS	Number=Plur	3	appos	3:appos	SpaceAfter=No
@@ -9104,7 +9104,7 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 10	5th	5th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	11	amod	11:amod	_
 11	century	century	NOUN	NN	Number=Sing	5	nmod	5:nmod:in	_
-12	BC	bc	NOUN	NN	Number=Sing	11	nmod:npmod	11:nmod:npmod	SpaceAfter=No
+12	BC	bc	NOUN	NN	Number=Sing	11	nmod:unmarked	11:nmod:unmarked	SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	16:punct	_
 14	which	which	PRON	WDT	PronType=Rel	16	nsubj	5:ref	_
 15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	16:cop	_
@@ -9181,7 +9181,7 @@
 5	512	512	NUM	CD	NumForm=Digit|NumType=Card	15	obl	15:obl:in	SpaceAfter=No
 6	-	-	SYM	SYM	_	7	case	7:case	SpaceAfter=No
 7	511	511	NUM	CD	NumForm=Digit|NumType=Card	5	nmod	5:nmod	_
-8	BC	bc	NOUN	NN	Number=Sing	5	nmod:npmod	5:nmod:npmod	SpaceAfter=No
+8	BC	bc	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	15	punct	15:punct	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 11	Macedonian	Macedonian	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
@@ -9480,7 +9480,7 @@
 21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
 22	6th	6th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	23	amod	23:amod	_
 23	century	century	NOUN	NN	Number=Sing	18	obl	18:obl:in	_
-24	AD	ad	NOUN	NN	Number=Sing	23	nmod:npmod	23:nmod:npmod	SpaceAfter=No
+24	AD	ad	NOUN	NN	Number=Sing	23	nmod:unmarked	23:nmod:unmarked	SpaceAfter=No
 25	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 # sent_id = w01010045
@@ -9525,7 +9525,7 @@
 # text = In 833 AD, this became the state of Great Moravia with the conquest of the Principality of Nitra (present-day Slovakia).
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	833	833	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:in	_
-3	AD	ad	NOUN	NN	Number=Sing	2	nmod:npmod	2:nmod:npmod	SpaceAfter=No
+3	AD	ad	NOUN	NN	Number=Sing	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	6	punct	6:punct	_
 5	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj|8:nsubj:xsubj	_
 6	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -10965,7 +10965,7 @@
 4	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	around	around	ADV	RB	_	6	case	6:case	_
 6	1000	1000	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:around	_
-7	BC	bc	NOUN	NN	Number=Sing	6	nmod:npmod	6:nmod:npmod	SpaceAfter=No
+7	BC	bc	NOUN	NN	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	when	when	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
 10	eastern	eastern	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
@@ -11423,7 +11423,7 @@
 9	than	than	ADP	IN	_	8	fixed	8:fixed	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 11	deserts	desert	NOUN	NNS	Number=Plur	7	conj	4:obl:in|7:conj:rather_than	_
-12	themselves	themselves	PRON	PRP	Number=Plur|Person=3|PronType=Prs	11	nmod:npmod	11:nmod:npmod	_
+12	themselves	themselves	PRON	PRP	Number=Plur|Person=3|PronType=Prs	11	nmod:unmarked	11:nmod:unmarked	_
 13	where	where	ADV	WRB	PronType=Rel	20	advmod	20:advmod	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 15	finer	finer	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
@@ -12333,14 +12333,14 @@
 30	III	III	NUM	CD	NumForm=Roman|NumType=Card	29	flat	29:flat	_
 31	almost	almost	ADV	RB	_	32	advmod	32:advmod	_
 32	120	120	NUM	CD	NumForm=Digit|NumType=Card	33	nummod	33:nummod	_
-33	years	year	NOUN	NNS	Number=Plur	34	obl:npmod	34:obl:npmod	_
+33	years	year	NOUN	NNS	Number=Plur	34	obl:unmarked	34:obl:unmarked	_
 34	earlier	early	ADJ	JJR	Degree=Cmp	27	amod	27:amod	SpaceAfter=No
 35	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 # sent_id = w01052046
 # text = This time he claimed to have fought the battle without even bothering to put on his corslet until two hours after the fighting began.
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
-2	time	time	NOUN	NN	Number=Sing	4	obl:tmod	4:obl:tmod	_
+2	time	time	NOUN	NN	Number=Sing	4	obl:unmarked	4:obl:unmarked	TemporalNPAdjunct=Yes
 3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj|7:nsubj:xsubj	_
 4	claimed	claim	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	to	to	PART	TO	_	7	mark	7:mark	_
@@ -12428,7 +12428,7 @@
 13	,	,	PUNCT	,	_	8	punct	8:punct	_
 14	approximately	approximately	ADV	RB	_	15	advmod	15:advmod	_
 15	seventeen	seventeen	NUM	CD	NumForm=Word|NumType=Card	16	nummod	16:nummod	_
-16	years	year	NOUN	NNS	Number=Plur	17	obl:npmod	17:obl:npmod	_
+16	years	year	NOUN	NNS	Number=Plur	17	obl:unmarked	17:obl:unmarked	_
 17	after	after	ADP	IN	_	19	case	19:case	_
 18	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
 19	conversion	conversion	NOUN	NN	Number=Sing	8	obl	8:obl:after	SpaceAfter=No
@@ -12455,7 +12455,7 @@
 17	been	be	AUX	VBN	Tense=Past|VerbForm=Part	18	aux:pass	18:aux:pass	_
 18	introduced	introduce	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	7:advcl:if	_
 19	that	that	DET	DT	Number=Sing|PronType=Dem	20	det	20:det	_
-20	year	year	NOUN	NN	Number=Sing	18	nmod:tmod	18:nmod:tmod	SpaceAfter=No
+20	year	year	NOUN	NN	Number=Sing	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 21	,	,	PUNCT	,	_	7	punct	7:punct	_
 22	but	but	CCONJ	CC	_	25	cc	25:cc	_
 23	this	this	PRON	DT	Number=Sing|PronType=Dem	25	nsubj:pass	25:nsubj:pass	_
@@ -12483,7 +12483,7 @@
 14	day	day	NOUN	NN	Number=Sing	5	obl	5:obl:on	_
 15	two	two	NUM	CD	NumForm=Word|NumType=Card	16	compound	16:compound	_
 16	thousand	thousand	NUM	CD	NumForm=Word|NumType=Card	17	nummod	17:nummod	_
-17	years	year	NOUN	NNS	Number=Plur	18	obl:npmod	18:obl:npmod	_
+17	years	year	NOUN	NNS	Number=Plur	18	obl:unmarked	18:obl:unmarked	_
 18	ago	ago	ADV	RB	_	14	advmod	14:advmod	_
 19	but	but	CCONJ	CC	_	24	cc	24:cc	_
 20	not	not	PART	RB	_	24	advmod	24:advmod	_
@@ -12830,11 +12830,11 @@
 10	to	to	ADP	IN	_	11	case	11:case	_
 11	Rome	Rome	PROPN	NNP	Number=Sing	9	obl	9:obl:to	_
 12	several	several	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
-13	times	time	NOUN	NNS	Number=Plur	7	obl:tmod	7:obl:tmod	SpaceAfter=No
+13	times	time	NOUN	NNS	Number=Plur	7	obl:unmarked	7:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 14	,	,	PUNCT	,	_	19	punct	19:punct	_
 15	but	but	CCONJ	CC	_	19	cc	19:cc	_
 16	each	each	DET	DT	PronType=Tot	17	det	17:det	_
-17	time	time	NOUN	NN	Number=Sing	19	obl:tmod	19:obl:tmod	_
+17	time	time	NOUN	NN	Number=Sing	19	obl:unmarked	19:obl:unmarked	TemporalNPAdjunct=Yes
 18	Augustus	Augustus	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	_
 19	refused	refuse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
 20	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	21:nmod:poss	_
@@ -12954,7 +12954,7 @@
 28	which	which	PRON	WDT	PronType=Int	26	nmod	14:ref	_
 29	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	32:cop	_
 30	3	3	NUM	CD	NumForm=Digit|NumType=Card	31	nummod	31:nummod	_
-31	meters	meter	NOUN	NNS	Number=Plur	32	obl:npmod	32:obl:npmod	_
+31	meters	meter	NOUN	NNS	Number=Plur	32	obl:unmarked	32:obl:unmarked	_
 32	high	high	ADJ	JJ	Degree=Pos	14	acl:relcl	14:acl:relcl	SpaceAfter=No
 33	,	,	PUNCT	,	_	32	punct	32:punct	_
 34	with	with	ADP	IN	_	39	case	39:case	_
@@ -13008,7 +13008,7 @@
 27	,	,	PUNCT	,	_	29	punct	29:punct	_
 28	ca.	ca.	ADV	RB	_	29	advmod	29:advmod	_
 29	1600	1600	NUM	CD	NumForm=Digit|NumType=Card	26	appos	26:appos	_
-30	B.C.E.	b.c.e.	NOUN	NN	Number=Sing	29	nmod:npmod	29:nmod:npmod	_
+30	B.C.E.	b.c.e.	NOUN	NN	Number=Sing	29	nmod:unmarked	29:nmod:unmarked	_
 
 # sent_id = w01065020
 # text = The Canaanite city was destroyed in a fire, presumably in the wake of a campaign by the Egyptian pharaoh Thutmose III.
@@ -13077,7 +13077,7 @@
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 9	14th	14th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	10	amod	10:amod	_
 10	century	century	NOUN	NN	Number=Sing	6	obl	6:obl:from	_
-11	BCE	bce	NOUN	NN	Number=Sing	10	nmod:npmod	10:nmod:npmod	SpaceAfter=No
+11	BCE	bce	NOUN	NN	Number=Sing	10	nmod:unmarked	10:nmod:unmarked	SpaceAfter=No
 12	,	,	PUNCT	,	_	6	punct	6:punct	_
 13	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 14	ten	ten	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	_
@@ -13245,7 +13245,7 @@
 2	reigned	reign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root|9:nsubj:pass	_
 3	only	only	ADV	RB	_	4	advmod	4:advmod	_
 4	fifteen	fifteen	NUM	CD	NumForm=Word|NumType=Card	5	nummod	5:nummod	_
-5	years	year	NOUN	NNS	Number=Plur	2	nmod:tmod	2:nmod:tmod	SpaceAfter=No
+5	years	year	NOUN	NNS	Number=Plur	2	nmod:unmarked	2:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	9:punct	_
 7	which	which	PRON	WDT	PronType=Rel	9	nsubj:pass	2:ref	_
 8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
@@ -13274,7 +13274,7 @@
 9	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	6:xcomp	_
 10	at	at	ADP	IN	_	12	case	12:case	_
 11	least	least	ADJ	JJS	Degree=Sup	9	obl	9:obl	_
-12	parts	part	NOUN	NNS	Number=Plur	11	nmod:npmod	11:nmod:npmod	_
+12	parts	part	NOUN	NNS	Number=Plur	11	nmod:unmarked	11:nmod:unmarked	_
 13	of	of	ADP	IN	_	15	case	15:case	_
 14	lower	lower	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	Egypt	Egypt	PROPN	NNP	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
@@ -13325,7 +13325,7 @@
 3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux:pass	4:aux:pass	_
 4	married	marry	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	three	three	NUM	CD	NumForm=Word|NumType=Card	6	nummod	6:nummod	_
-6	times	time	NOUN	NNS	Number=Plur	4	obl:tmod	4:obl:tmod	SpaceAfter=No
+6	times	time	NOUN	NNS	Number=Plur	4	obl:unmarked	4:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # newdoc id = w01069
@@ -13455,7 +13455,7 @@
 8	there	there	ADV	RB	PronType=Dem	7	advmod	7:advmod	_
 9	around	around	ADV	RB	_	10	advmod	10:advmod	_
 10	1900	1900	NUM	CD	NumForm=Digit|NumType=Card	7	obl	7:obl	_
-11	BC	bc	NOUN	NN	Number=Sing	10	nmod:npmod	10:nmod:npmod	_
+11	BC	bc	NOUN	NN	Number=Sing	10	nmod:unmarked	10:nmod:unmarked	_
 12	and	and	CCONJ	CC	_	14	cc	14:cc	_
 13	continuously	continuously	ADV	RB	_	14	advmod	14:advmod	_
 14	served	serve	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	7:conj:and	_
@@ -13468,7 +13468,7 @@
 21	until	until	ADP	IN	_	23	case	23:case	_
 22	about	about	ADV	RB	_	23	advmod	23:advmod	_
 23	700	700	NUM	CD	NumForm=Digit|NumType=Card	19	obl	19:obl:until	_
-24	BC	bc	NOUN	NN	Number=Sing	23	nmod:npmod	23:nmod:npmod	SpaceAfter=No
+24	BC	bc	NOUN	NN	Number=Sing	23	nmod:unmarked	23:nmod:unmarked	SpaceAfter=No
 25	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 # sent_id = w01070032
@@ -13598,7 +13598,7 @@
 21	what	what	PRON	WP	PronType=Int	19	obl	19:obl:upon	_
 22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
 23	at	at	ADV	RB	_	24	case	24:case	_
-24	best	well	ADV	RBS	Degree=Sup	26	obl:npmod	26:obl:npmod	_
+24	best	well	ADV	RBS	Degree=Sup	26	obl:unmarked	26:obl:unmarked	_
 25	mere	mere	ADJ	JJ	Degree=Pos	26	amod	26:amod	_
 26	resemblances	resemblance	NOUN	NNS	Number=Plur	21	acl:relcl	21:acl:relcl	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	26:punct	_
@@ -13669,7 +13669,7 @@
 14	only	only	ADV	RB	_	17	advmod	17:advmod	_
 15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
 16	short	short	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
-17	time	time	NOUN	NN	Number=Sing	13	obl:tmod	13:obl:tmod	SpaceAfter=No
+17	time	time	NOUN	NN	Number=Sing	13	obl:unmarked	13:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 18	.	.	PUNCT	.	_	8	punct	8:punct	_
 
 # newdoc id = w01073
@@ -13885,7 +13885,7 @@
 26	growth	growth	NOUN	NN	Number=Sing	27	compound	27:compound	_
 27	rate	rate	NOUN	NN	Number=Sing	35	nsubj	35:nsubj	_
 28	1	1	NUM	CD	NumForm=Digit|NumType=Card	29	nummod	29:nummod	SpaceAfter=No
-29	%	%	SYM	NN	Number=Sing	30	obl:npmod	30:obl:npmod	_
+29	%	%	SYM	NN	Number=Sing	30	obl:unmarked	30:obl:unmarked	_
 30	higher	high	ADJ	JJR	Degree=Cmp	27	amod	27:amod	_
 31	than	than	ADP	IN	_	34	case	34:case	_
 32	the	the	DET	DT	Definite=Def|PronType=Art	34	det	34:det	_
@@ -14089,7 +14089,7 @@
 14	war	war	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	_
 15	on	on	ADP	IN	_	16	case	16:case	_
 16	humanity	humanity	NOUN	NN	Number=Sing	12	nmod	12:nmod:on	_
-17	itself	itself	PRON	PRP	Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nmod:npmod	16:nmod:npmod	SpaceAfter=No
+17	itself	itself	PRON	PRP	Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nmod:unmarked	16:nmod:unmarked	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # newdoc id = w01079
@@ -16752,7 +16752,7 @@
 21	and	and	CCONJ	CC	_	26	cc	26:cc	_
 22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
 23	following	follow	VERB	VBG	VerbForm=Ger	24	amod	24:amod	_
-24	year	year	NOUN	NN	Number=Sing	26	obl:tmod	26:obl:tmod	_
+24	year	year	NOUN	NN	Number=Sing	26	obl:unmarked	26:obl:unmarked	TemporalNPAdjunct=Yes
 25	Cumberland	Cumberland	PROPN	NNP	Number=Sing	26	nsubj	26:nsubj	_
 26	married	marry	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	conj	16:conj:and	_
 27	a	a	DET	DT	Definite=Ind|PronType=Art	29	det	29:det	_
@@ -16960,7 +16960,7 @@
 5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Proper=True
 6	Prayer	prayer	NOUN	NN	Number=Sing	3	conj	3:conj:and|10:nsubj	_
 7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
-8	1992	1992	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:tmod	3:nmod:tmod	SpaceAfter=No
+8	1992	1992	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:unmarked	3:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 9	)	)	PUNCT	-RRB-	_	8	punct	8:punct	_
 10	reunited	reunite	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 11	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	10:obj	_
@@ -17035,7 +17035,7 @@
 23	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	24	nmod:poss	24:nmod:poss	Proper=True
 24	Head	Head	NOUN	NNP	Number=Sing	21	appos	21:appos	_
 25	(	(	PUNCT	-LRB-	_	26	punct	26:punct	SpaceAfter=No
-26	1994	1994	NUM	CD	NumForm=Digit|NumType=Card	24	nmod:tmod	24:nmod:tmod	SpaceAfter=No
+26	1994	1994	NUM	CD	NumForm=Digit|NumType=Card	24	nmod:unmarked	24:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 27	)	)	PUNCT	-RRB-	_	26	punct	26:punct	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	2:punct	_
 
@@ -17202,7 +17202,7 @@
 5	plotter	plotter	NOUN	NN	Number=Sing	2	obl	2:obl:as	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 7	following	follow	VERB	VBG	VerbForm=Ger	8	amod	8:amod	_
-8	issue	issue	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	SpaceAfter=No
+8	issue	issue	NOUN	NN	Number=Sing	2	obl:unmarked	2:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	11:punct	_
 10	and	and	CCONJ	CC	_	11	cc	11:cc	_
 11	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
@@ -17347,7 +17347,7 @@
 2	starred	star	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	in	in	ADP	IN	_	8	case	8:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-5	2011	2011	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:tmod	8:nmod:tmod	_
+5	2011	2011	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	TemporalNPAdjunct=Yes
 6	British	British	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 7	comedy	comedy	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	film	film	NOUN	NN	Number=Sing	2	obl	2:obl:in	_
@@ -17375,7 +17375,7 @@
 # text = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
 1	Also	also	ADV	RB	_	3	advmod	3:advmod	_
 2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
-3	year	year	NOUN	NN	Number=Sing	7	obl:tmod	7:obl:tmod	SpaceAfter=No
+3	year	year	NOUN	NN	Number=Sing	7	obl:unmarked	7:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
 5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
 6	briefly	briefly	ADV	RB	_	7	advmod	7:advmod	_
@@ -17956,7 +17956,7 @@
 14	in	in	ADP	IN	_	15	case	15:case	_
 15	Sabrina	Sabrina	PROPN	NNP	Number=Sing	2	obl	2:obl:in	_
 16	(	(	PUNCT	-LRB-	_	17	punct	17:punct	SpaceAfter=No
-17	1954	1954	NUM	CD	NumForm=Digit|NumType=Card	15	nmod:tmod	15:nmod:tmod	SpaceAfter=No
+17	1954	1954	NUM	CD	NumForm=Digit|NumType=Card	15	nmod:unmarked	15:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 18	)	)	PUNCT	-RRB-	_	17	punct	17:punct	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	20:punct	_
 20	played	play	VERB	VBN	Tense=Past|VerbForm=Part	15	acl	15:acl	_
@@ -18226,7 +18226,7 @@
 # sent_id = w01148068
 # text = This time it reached him, but he refused to believe that she no longer wanted to be married to him.
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
-2	time	time	NOUN	NN	Number=Sing	4	nmod:tmod	4:nmod:tmod	_
+2	time	time	NOUN	NN	Number=Sing	4	nmod:unmarked	4:nmod:unmarked	TemporalNPAdjunct=Yes
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 4	reached	reach	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	SpaceAfter=No
@@ -18484,7 +18484,7 @@
 6	subdue	subdue	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 8	53	53	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
-9	year	year	NOUN	NN	Number=Sing	10	obl:npmod	10:obl:npmod	_
+9	year	year	NOUN	NN	Number=Sing	10	obl:unmarked	10:obl:unmarked	_
 10	old	old	ADJ	JJ	Degree=Pos	6	obj	6:obj	_
 11	during	during	ADP	IN	_	13	case	13:case	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
@@ -18699,7 +18699,7 @@
 15	after	after	ADP	IN	_	20	case	20:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
 17	2	2	NUM	CD	NumForm=Digit|NumType=Card	18	nummod	18:nummod	_
-18	month	month	NOUN	NN	Number=Sing	20	nmod:tmod	20:nmod:tmod	_
+18	month	month	NOUN	NN	Number=Sing	20	nmod:unmarked	20:nmod:unmarked	TemporalNPAdjunct=Yes
 19	breeding	breeding	NOUN	NN	Number=Sing	20	compound	20:compound	_
 20	period	period	NOUN	NN	Number=Sing	14	obl	14:obl:after	SpaceAfter=No
 21	.	.	PUNCT	.	_	5	punct	5:punct	_
@@ -18945,7 +18945,7 @@
 18	as	as	ADP	IN	_	17	fixed	17:fixed	_
 19	in	in	ADP	IN	_	22	case	22:case	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
-21	60s	60	NOUN	NNS	Number=Plur	22	nmod:tmod	22:nmod:tmod	_
+21	60s	60	NOUN	NNS	Number=Plur	22	nmod:unmarked	22:nmod:unmarked	TemporalNPAdjunct=Yes
 22	hit	hit	NOUN	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	obl	4:obl:in	_
 23	Monster	monster	PROPN	NN	Number=Sing	24	compound	24:compound	_
 24	Mash	mash	PROPN	NN	Number=Sing	22	appos	22:appos	SpaceAfter=No
@@ -19024,7 +19024,7 @@
 3	August	August	PROPN	NNP	Number=Sing	0	root	0:root	_
 4	30	30	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	3:punct	_
-6	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:tmod	3:nmod:tmod	SpaceAfter=No
+6	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:unmarked	3:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	3:punct	_
 8	as	as	SCONJ	IN	_	13	mark	13:mark	_
 9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
@@ -19124,7 +19124,7 @@
 8	,	,	PUNCT	,	_	14	punct	14:punct	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 10	28	28	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	_
-11	year	year	NOUN	NN	Number=Sing	13	obl:npmod	13:obl:npmod	SpaceAfter=No
+11	year	year	NOUN	NN	Number=Sing	13	obl:unmarked	13:obl:unmarked	SpaceAfter=No
 12	-	-	PUNCT	HYPH	_	13	punct	13:punct	SpaceAfter=No
 13	old	old	ADJ	JJ	Degree=Pos	14	nsubj	14:nsubj	_
 14	lost	lose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -19436,7 +19436,7 @@
 33	January	January	PROPN	NNP	Number=Sing	28	appos	28:appos	_
 34	20	20	NUM	CD	NumForm=Digit|NumType=Card	33	nummod	33:nummod	SpaceAfter=No
 35	,	,	PUNCT	,	_	33	punct	33:punct	_
-36	2001	2001	NUM	CD	NumForm=Digit|NumType=Card	33	nmod:tmod	33:nmod:tmod	SpaceAfter=No
+36	2001	2001	NUM	CD	NumForm=Digit|NumType=Card	33	nmod:unmarked	33:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 37	.	.	PUNCT	.	_	15	punct	15:punct	_
 
 # newdoc id = n02075
@@ -20315,7 +20315,7 @@
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	March	March	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	9:punct	_
-11	1927	1927	NUM	CD	NumForm=Digit|NumType=Card	9	nmod:tmod	9:nmod:tmod	_
+11	1927	1927	NUM	CD	NumForm=Digit|NumType=Card	9	nmod:unmarked	9:nmod:unmarked	TemporalNPAdjunct=Yes
 12	in	in	ADP	IN	_	13	case	13:case	_
 13	Castelfranco	Castelfranco	PROPN	NNP	Number=Sing	4	obl	4:obl:in	_
 14	Veneto	Veneto	PROPN	NNP	Number=Sing	13	flat	13:flat	SpaceAfter=No
@@ -20461,7 +20461,7 @@
 16	by	by	ADP	IN	_	17	case	17:case	_
 17	31st	31st	NOUN	NN	Number=Sing	18	compound	18:compound	_
 18	December	December	PROPN	NNP	Number=Sing	15	obl	15:obl	_
-19	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	18	nmod:tmod	18:nmod:tmod	SpaceAfter=No
+19	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 20	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n04005016
@@ -20559,7 +20559,7 @@
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	October	October	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	_
 10	last	last	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
-11	year	year	NOUN	NN	Number=Sing	9	nmod:tmod	9:nmod:tmod	SpaceAfter=No
+11	year	year	NOUN	NN	Number=Sing	9	nmod:unmarked	9:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 12	,	,	PUNCT	,	_	14	punct	14:punct	_
 13	and	and	CCONJ	CC	_	14	cc	14:cc	_
 14	tell	tell	VERB	VB	VerbForm=Inf	4	conj	4:conj:and	_
@@ -20736,7 +20736,7 @@
 # sent_id = n04008016
 # text = This morning, Pope Francis met Mark Zuckerberg and his wife at Casa Santa Marta.
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
-2	morning	morning	NOUN	NN	Number=Sing	6	nmod:tmod	6:nmod:tmod	SpaceAfter=No
+2	morning	morning	NOUN	NN	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	Pope	Pope	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
 5	Francis	Francis	PROPN	NNP	Number=Sing	4	flat	4:flat	_
@@ -21001,7 +21001,7 @@
 29	there	there	PRON	EX	_	30	expl	30:expl	_
 30	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	27	advcl	27:advcl:than	_
 31	a	a	DET	DT	Definite=Ind|PronType=Art	32	det	32:det	_
-32	year	year	NOUN	NN	Number=Sing	33	nmod:npmod	33:nmod:npmod	_
+32	year	year	NOUN	NN	Number=Sing	33	nmod:unmarked	33:nmod:unmarked	_
 33	ago	ago	ADV	RB	_	30	advmod	30:advmod	SpaceAfter=No
 34	.	.	PUNCT	.	_	15	punct	15:punct	_
 
@@ -21138,7 +21138,7 @@
 19	send	send	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	_
 20	to	to	ADP	IN	_	21	case	21:case	_
 21	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obl	19:obl:to	_
-22	yesterday	yesterday	NOUN	NN	Number=Sing	19	nmod:tmod	19:nmod:tmod	SpaceAfter=No
+22	yesterday	yesterday	NOUN	NN	Number=Sing	19	nmod:unmarked	19:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 23	.	.	PUNCT	.	_	11	punct	11:punct	_
 
 # sent_id = n05003022
@@ -21416,7 +21416,7 @@
 4	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	that	that	SCONJ	IN	_	12	mark	12:mark	_
 6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	_
-7	time	time	NOUN	NN	Number=Sing	12	nmod:tmod	12:nmod:tmod	_
+7	time	time	NOUN	NN	Number=Sing	12	nmod:unmarked	12:nmod:unmarked	TemporalNPAdjunct=Yes
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 9	Latin	Latin	PROPN	NNP	Number=Sing	10	compound	10:compound	_
 10	Americans	Americans	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj|15:nsubj:xsubj	_
@@ -22014,7 +22014,7 @@
 16	early	early	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
 17	5th	5th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	18	amod	18:amod	_
 18	century	century	NOUN	NN	Number=Sing	12	obl	12:obl:to	_
-19	BC	bc	ADV	RB	_	18	nmod:tmod	18:nmod:tmod	SpaceAfter=No
+19	BC	bc	ADV	RB	_	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 20	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # sent_id = w02008038
@@ -22140,7 +22140,7 @@
 12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	13:aux:pass	_
 13	recognized	recognize	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and	_
 14	multiple	multiple	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
-15	times	time	NOUN	NNS	Number=Plur	13	obl:npmod	13:obl:npmod	_
+15	times	time	NOUN	NNS	Number=Plur	13	obl:unmarked	13:obl:unmarked	_
 16	during	during	ADP	IN	_	18	case	18:case	_
 17	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
 18	stays	stay	NOUN	NNS	Number=Plur	13	obl	13:obl:during	SpaceAfter=No
@@ -22358,7 +22358,7 @@
 
 # sent_id = w02015085
 # text = Today, expansive ruins can be viewed there.
-1	Today	today	NOUN	NN	Number=Sing	7	nmod:tmod	7:nmod:tmod	SpaceAfter=No
+1	Today	today	NOUN	NN	Number=Sing	7	nmod:unmarked	7:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 2	,	,	PUNCT	,	_	7	punct	7:punct	_
 3	expansive	expansive	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	ruins	ruin	NOUN	NNS	Number=Plur	7	nsubj:pass	7:nsubj:pass	_
@@ -22715,7 +22715,7 @@
 10	1820	1820	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No
 11	,	,	PUNCT	,	_	3	punct	3:punct	_
 12	three	three	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	_
-13	days	day	NOUN	NNS	Number=Plur	15	nmod:npmod	15:nmod:npmod	_
+13	days	day	NOUN	NNS	Number=Plur	15	nmod:unmarked	15:nmod:unmarked	_
 14	before	before	SCONJ	IN	_	16	mark	16:mark	_
 15	Bransfield	Bransfield	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	_
 16	sighted	sight	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	3:advcl:before	_
@@ -22723,7 +22723,7 @@
 18	,	,	PUNCT	,	_	16	punct	16:punct	_
 19	and	and	CCONJ	CC	_	24	cc	24:cc	_
 20	ten	ten	NUM	CD	NumForm=Word|NumType=Card	21	nummod	21:nummod	_
-21	months	month	NOUN	NNS	Number=Plur	23	nmod:npmod	23:nmod:npmod	_
+21	months	month	NOUN	NNS	Number=Plur	23	nmod:unmarked	23:nmod:unmarked	_
 22	before	before	ADP	IN	_	24	mark	24:mark	_
 23	Palmer	Palmer	PROPN	NNP	Number=Sing	24	nsubj	24:nsubj	_
 24	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	conj	3:advcl:before|16:conj:and	_
@@ -22819,7 +22819,7 @@
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	8th	8th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	century	century	NOUN	NN	Number=Sing	8	obl	8:obl:in	_
-5	BC	bc	NOUN	RB	_	4	nmod:tmod	4:nmod:tmod	SpaceAfter=No
+5	BC	bc	NOUN	RB	_	4	nmod:unmarked	4:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
 7	Greece	Greece	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj|10:nsubj:xsubj	_
 8	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -22873,7 +22873,7 @@
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	9th	9th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	century	century	NOUN	NN	Number=Sing	11	obl	11:obl:from	_
-5	BC	BC	NOUN	NNP	Abbr=Yes|Number=Sing	4	nmod:tmod	4:nmod:tmod	SpaceAfter=No
+5	BC	BC	NOUN	NNP	Abbr=Yes|Number=Sing	4	nmod:unmarked	4:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 6	,	,	PUNCT	,	_	11	punct	11:punct	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 8	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	10:amod	_
@@ -22933,7 +22933,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	8th	8th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	5:amod	_
 5	century	century	NOUN	NN	Number=Sing	9	obl	9:obl:from	_
-6	BC	bc	NOUN	NN	Number=Sing	5	nmod:tmod	5:nmod:tmod	_
+6	BC	bc	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	TemporalNPAdjunct=Yes
 7	city	city	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	states	state	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj|11:nsubj:xsubj	_
 9	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -23051,7 +23051,7 @@
 6	January	January	PROPN	NNP	Number=Sing	8	compound	8:compound	SpaceAfter=No
 7	-	-	PUNCT	HYPH	_	8	punct	8:punct	SpaceAfter=No
 8	February	February	PROPN	NNP	Number=Sing	3	appos	3:appos	_
-9	1794	1794	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:tmod	8:nmod:tmod	SpaceAfter=No
+9	1794	1794	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 10	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
 11	,	,	PUNCT	,	_	23	punct	23:punct	_
 12	easing	ease	VERB	VBG	VerbForm=Ger	23	advcl	23:advcl	_
@@ -23142,7 +23142,7 @@
 14	most	most	ADJ	JJS	Degree=Sup	10	obl	10:obl:for	_
 15	of	of	ADP	IN	_	16	case	16:case	_
 16	summer	summer	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	_
-17	1947	1947	NUM	CD	NumForm=Digit|NumType=Card	16	nmod:tmod	16:nmod:tmod	SpaceAfter=No
+17	1947	1947	NUM	CD	NumForm=Digit|NumType=Card	16	nmod:unmarked	16:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 18	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 # sent_id = w03010097
@@ -23224,7 +23224,7 @@
 16	,	,	PUNCT	,	_	20	punct	20:punct	_
 17	an	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
 18	18	18	NUM	CD	NumForm=Digit|NumType=Card	19	nummod	19:nummod	_
-19	year	year	NOUN	NN	Number=Sing	20	obl:npmod	20:obl:npmod	_
+19	year	year	NOUN	NN	Number=Sing	20	obl:unmarked	20:obl:unmarked	_
 20	old	old	ADJ	JJ	Degree=Pos	15	appos	15:appos|24:nsubj	_
 21	who	who	PRON	WP	PronType=Rel	24	nsubj	20:ref	_
 22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	cop	24:cop	_
@@ -23892,7 +23892,7 @@
 10	Metti	Metti	PROPN	NNP	Number=Sing	2	obl	2:obl:as	SpaceAfter=No
 11	,	,	PUNCT	,	_	2	punct	2:punct	_
 12	one	one	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	_
-13	night	night	NOUN	NN	Number=Sing	2	nmod:tmod	2:nmod:tmod	_
+13	night	night	NOUN	NN	Number=Sing	2	nmod:unmarked	2:nmod:unmarked	TemporalNPAdjunct=Yes
 14	at	at	ADP	IN	_	15	case	15:case	_
 15	dinner	dinner	NOUN	NN	Number=Sing	13	nmod	13:nmod:at	SpaceAfter=No
 16	;	;	PUNCT	:	_	2	punct	2:punct	_
@@ -23988,7 +23988,7 @@
 17	that	that	PRON	WDT	PronType=Rel	18	nsubj	16:ref	_
 18	lasted	last	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	acl:relcl	16:acl:relcl	_
 19	ten	ten	NUM	CD	NumForm=Word|NumType=Card	20	nummod	20:nummod	_
-20	years	year	NOUN	NNS	Number=Plur	18	nmod:tmod	18:nmod:tmod	SpaceAfter=No
+20	years	year	NOUN	NNS	Number=Plur	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 21	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 # sent_id = w05001036
@@ -24696,7 +24696,7 @@
 3	1st	1st	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	January	January	PROPN	NNP	Number=Sing	10	obl	10:obl:on	_
 5	49	49	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
-6	BC	bc	NOUN	NN	Number=Sing	4	nmod:npmod	4:nmod:npmod	SpaceAfter=No
+6	BC	bc	NOUN	NN	Number=Sing	4	nmod:unmarked	4:nmod:unmarked	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	Marco	Marco	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
 9	Antonio	Antonio	PROPN	NNP	Number=Sing	8	flat	8:flat	_
