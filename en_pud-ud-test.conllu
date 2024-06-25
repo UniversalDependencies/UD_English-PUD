@@ -23580,9 +23580,9 @@
 # newdoc id = w04006
 # sent_id = w04006023
 # text = Historian David Crouch suggests that Stephen abandoned from the challenge around this time to focus on other issues.
-1	Historian	historian	NOUN	NN	Number=Sing	2	amod	2:amod	_
-2	David	David	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
-3	Crouch	Crouch	PROPN	NNP	Number=Sing	2	flat	2:flat	_
+1	Historian	historian	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+2	David	David	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+3	Crouch	Crouch	PROPN	NNP	Number=Sing	1	flat	1:flat	_
 4	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	that	that	SCONJ	IN	_	7	mark	7:mark	_
 6	Stephen	Stephen	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj|15:nsubj:xsubj	_
