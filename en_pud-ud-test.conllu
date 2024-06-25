@@ -2088,7 +2088,7 @@
 17	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	15:obl:with	_
 18	to	to	PART	TO	_	19	mark	19:mark	_
 19	advance	advance	VERB	VB	VerbForm=Inf	15	advcl	15:advcl:to	_
-20	whatever	whatever	DET	WDT	PronType=Int	22	det	22:det	_
+20	whatever	whatever	DET	WDT	PronType=Rel	22	det	22:det	_
 21	shared	share	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	amod	22:amod	_
 22	agenda	agenda	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
 23	there	there	DET	EX	_	24	expl	24:expl	_
@@ -2124,7 +2124,7 @@
 12	United	United	PROPN	NNP	Degree=Pos	13	amod	13:amod	_
 13	States	States	PROPN	NNPS	Number=Plur	9	nmod	9:nmod:of	SpaceAfter=No
 14	,	,	PUNCT	,	_	9	punct	9:punct	_
-15	whoever	whoever	PRON	WP	PronType=Int	9	acl:relcl	9:acl:relcl	_
+15	whoever	whoever	PRON	WP	PronType=Rel	9	acl:relcl	9:acl:relcl	_
 16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 17	or	or	CCONJ	CC	_	18	cc	18:cc	_
 18	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	conj	15:nsubj|16:conj:or	_
@@ -5065,7 +5065,7 @@
 11	access	access	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
 12	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
 13	money	money	NOUN	NN	Number=Sing	11	obj	11:obj	_
-14	whenever	whenever	ADV	WRB	PronType=Int	16	advmod	16:advmod	_
+14	whenever	whenever	ADV	WRB	PronType=Rel	16	advmod	16:advmod	_
 15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	16:nsubj	_
 16	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl	SpaceAfter=No
 17	.	.	PUNCT	.	_	9	punct	9:punct	_
@@ -10248,7 +10248,7 @@
 
 # sent_id = w01023120
 # text = Whatever the rules were, the fights often resulted in the death of one of the stallions.
-1	Whatever	whatever	DET	WDT	PronType=Int	9	advcl	9:advcl	_
+1	Whatever	whatever	DET	WDT	PronType=Rel	9	advcl	9:advcl	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	rules	rule	NOUN	NNS	Number=Plur	1	nsubj	1:nsubj	_
 4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	cop	1:cop	SpaceAfter=No
@@ -24671,7 +24671,7 @@
 33	understood	understand	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 34	that	that	SCONJ	IN	_	43	mark	43:mark	SpaceAfter=No
 35	,	,	PUNCT	,	_	39	punct	39:punct	_
-36	whatever	whatever	DET	WDT	PronType=Int	37	det	37:det	_
+36	whatever	whatever	DET	WDT	PronType=Rel	37	det	37:det	_
 37	alternative	alternative	NOUN	NN	Number=Sing	39	obj	39:obj	_
 38	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	nsubj	39:nsubj	_
 39	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	43	advcl	43:advcl	SpaceAfter=No
