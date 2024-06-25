@@ -884,7 +884,7 @@
 13	and	and	CCONJ	CC	_	15	cc	15:cc	_
 14	can	can	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
 15	offer	offer	VERB	VB	VerbForm=Inf	11	conj	5:ccomp|11:conj:and	_
-16	something	something	NOUN	NN	Number=Sing	15	obj	15:obj	_
+16	something	something	PRON	NN	Number=Sing|PronType=Ind	15	obj	15:obj	_
 17	vaguely	vaguely	ADV	RB	_	18	advmod	18:advmod	_
 18	reliable	reliable	ADJ	JJ	Degree=Pos	16	amod	16:amod	SpaceAfter=No
 19	.	.	PUNCT	.	_	5	punct	5:punct	SpaceAfter=No
@@ -950,7 +950,7 @@
 4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 5	super	super	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	power	power	NOUN	NN	Number=Sing	0	root	0:root	_
-7	sometimes	sometimes	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
+7	sometimes	sometimes	ADV	RB	PronType=Ind	6	advmod	6:advmod	SpaceAfter=No
 8	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n01018040
@@ -1306,7 +1306,7 @@
 14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 15	moment	moment	NOUN	NN	Number=Sing	12	nmod	12:nmod:at	_
 16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
-17	nowhere	nowhere	ADV	RB	_	3	conj	3:conj:but	_
+17	nowhere	nowhere	ADV	RB	PronType=Neg	3	conj	3:conj:but	_
 18	near	near	ADP	IN	_	23	case	23:case	_
 19	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
 20	1.5	1.5	NUM	CD	NumForm=Digit|NumType=Card	22	nummod	22:nummod	SpaceAfter=No
@@ -1655,7 +1655,7 @@
 1	"	"	PUNCT	``	_	9	punct	9:punct	SpaceAfter=No
 2	Luckily	luckily	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 3	,	,	PUNCT	,	_	9	punct	9:punct	_
-4	someone	someone	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+4	someone	someone	PRON	NN	Number=Sing|PronType=Ind	9	nsubj	9:nsubj	_
 5	in	in	ADP	IN	_	7	case	7:case	_
 6	Sony	Sony	PROPN	NNP	Number=Sing	7	compound	7:compound	_
 7	Australia	Australia	PROPN	NNP	Number=Sing	4	nmod	4:nmod:in	_
@@ -3577,7 +3577,7 @@
 9	Chapel	Chapel	PROPN	NNP	Number=Sing	3	nmod	3:nmod:outside	_
 10	Hill	Hill	PROPN	NNP	Number=Sing	9	flat	9:flat	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	13:punct	_
-12	someone	someone	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
+12	someone	someone	PRON	NN	Number=Sing|PronType=Ind	13	nsubj	13:nsubj	_
 13	firebombed	firebomb	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 15	Republican	republican	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
@@ -3777,7 +3777,7 @@
 18	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	ccomp	15:ccomp	_
 19	to	to	PART	TO	_	20	mark	20:mark	_
 20	do	do	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
-21	something	something	NOUN	NN	Number=Sing	20	obj	20:obj	_
+21	something	something	PRON	NN	Number=Sing|PronType=Ind	20	obj	20:obj	_
 22	different	different	ADJ	JJ	Degree=Pos	21	amod	21:amod	SpaceAfter=No
 23	—	—	PUNCT	:	_	26	punct	26:punct	SpaceAfter=No
 24	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	26	nsubj	26:nsubj	_
@@ -4606,7 +4606,7 @@
 9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
 10	would	would	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
 11	rather	rather	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	_
-12	someone	someone	NOUN	NN	Number=Sing	13	nsubj	13:nsubj|19:nsubj	_
+12	someone	someone	PRON	NN	Number=Sing|PronType=Ind	13	nsubj	13:nsubj|19:nsubj	_
 13	ran	run	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	ccomp	11:ccomp	_
 14	at	at	ADP	IN	_	15	case	15:case	_
 15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obl	13:obl:at	_
@@ -4909,7 +4909,7 @@
 9	Donald	Donald	PROPN	NNP	Number=Sing	7	obl	7:obl:to	_
 10	Trump	Trump	PROPN	NNP	Number=Sing	9	flat	9:flat	SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	10:punct	_
-12	someone	someone	NOUN	NN	Number=Sing	9	appos	9:appos	_
+12	someone	someone	PRON	NN	Number=Sing|PronType=Ind	9	appos	9:appos	_
 13	so	so	ADV	RB	_	14	advmod	14:advmod	_
 14	racist	racist	ADJ	JJ	Degree=Pos	12	amod	12:amod	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	16:punct	_
@@ -5175,7 +5175,7 @@
 9	yet	yet	CCONJ	CC	_	13	cc	13:cc	_
 10	at	at	ADV	RB	_	13	advmod	13:advmod	_
 11	least	least	ADV	RBS	Degree=Sup	10	fixed	10:fixed	_
-12	someone	someone	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
+12	someone	someone	PRON	NN	Number=Sing|PronType=Ind	13	nsubj	13:nsubj	_
 13	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	5:conj:yet	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 15	self	self	NOUN	NN	Number=Sing	17	compound	17:compound	SpaceAfter=No
@@ -10497,7 +10497,7 @@
 7	these	this	DET	DT	Number=Plur|PronType=Dem	8	det	8:det	_
 8	plains	plain	NOUN	NNS	Number=Plur	11	nsubj:pass	11:nsubj:pass	_
 9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux:pass	11:aux:pass	_
-10	sometimes	sometimes	ADV	RB	_	11	advmod	11:advmod	_
+10	sometimes	sometimes	ADV	RB	PronType=Ind	11	advmod	11:advmod	_
 11	thought	think	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	5:ccomp	_
 12	of	of	ADP	IN	_	11	obl	11:obl	_
 13	as	as	ADP	IN	_	14	case	14:case	_
@@ -10854,7 +10854,7 @@
 6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 7	volcanology	volcanology	NOUN	NN	Number=Sing	6	xcomp	6:xcomp	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	7:punct	_
-9	sometimes	sometimes	ADV	RB	_	10	advmod	10:advmod	_
+9	sometimes	sometimes	ADV	RB	PronType=Ind	10	advmod	10:advmod	_
 10	spelled	spell	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	7:acl	_
 11	vulcanology	vulcanology	NOUN	NN	Number=Sing	10	xcomp	10:xcomp	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -15794,7 +15794,7 @@
 1	Hitchcock	Hitchcock	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
 3	films	film	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-4	sometimes	sometimes	ADV	RB	_	5	advmod	5:advmod	_
+4	sometimes	sometimes	ADV	RB	PronType=Ind	5	advmod	5:advmod	_
 5	feature	feature	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	characters	character	NOUN	NNS	Number=Plur	5	obj	5:obj	_
 7	struggling	struggle	VERB	VBG	VerbForm=Ger	6	acl	6:acl	_
@@ -19738,7 +19738,7 @@
 # text = "If somebody can't handle a Twitter account, they can't handle the nuclear codes," Obama mocked.
 1	"	"	PUNCT	``	_	14	punct	14:punct	SpaceAfter=No
 2	If	if	SCONJ	IN	_	6	mark	6:mark	_
-3	somebody	somebody	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+3	somebody	somebody	PRON	NN	Number=Sing|PronType=Ind	6	nsubj	6:nsubj	_
 4-5	can't	_	_	_	_	_	_	_	_
 4	ca	can	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
 5	n't	not	PART	RB	Polarity=Neg	6	advmod	6:advmod	_
