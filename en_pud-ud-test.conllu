@@ -21,7 +21,7 @@
 18	of	of	ADP	IN	_	19	case	19:case	_
 19	power	power	NOUN	NN	Number=Sing	17	nmod	17:nmod:of	_
 20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-21	not	not	ADV	RB	Polarity=Neg	20	advmod	20:advmod	SpaceAfter=No
+21	not	not	PART	RB	Polarity=Neg	20	advmod	20:advmod	SpaceAfter=No
 22	,	,	PUNCT	,	_	20	punct	20:punct	SpaceAfter=No
 23	”	”	PUNCT	''	_	20	punct	20:punct	_
 24	Obama	Obama	PROPN	NNP	Number=Sing	26	compound	26:compound	_
@@ -483,7 +483,7 @@
 10	but	but	CCONJ	CC	_	15	cc	15:cc	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
-13	n’t	not	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
+13	n’t	not	PART	RB	Polarity=Neg	15	advmod	15:advmod	_
 14	always	always	ADV	RB	_	15	advmod	15:advmod	_
 15	alone	alone	ADJ	JJ	Degree=Pos	8	conj	8:conj:but	SpaceAfter=No
 16	.	.	PUNCT	.	_	8	punct	8:punct	_
@@ -1356,7 +1356,7 @@
 20	many	many	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
 21	species	species	NOUN	NNS	Number=Plur	18	obj	18:obj	_
 22	-	-	PUNCT	,	_	26	punct	26:punct	_
-23	not	not	ADV	RB	Polarity=Neg	26	advmod	26:advmod	_
+23	not	not	PART	RB	Polarity=Neg	26	advmod	26:advmod	_
 24	just	just	ADV	RB	_	26	advmod	26:advmod	_
 25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
 26	dinosaurs	dinosaur	NOUN	NNS	Number=Plur	21	parataxis	21:parataxis	_
@@ -1641,7 +1641,7 @@
 
 # sent_id = n01027049
 # text = Not everyone can rise above it.
-1	Not	not	ADV	RB	Polarity=Neg	2	advmod	2:advmod	_
+1	Not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 2	everyone	everyone	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	rise	rise	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -1834,7 +1834,7 @@
 12	,	,	PUNCT	,	_	1	punct	1:punct	_
 13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	17:cop	_
 14	reportedly	reportedly	ADV	RB	_	17	advmod	17:advmod	_
-15	not	not	ADV	RB	Polarity=Neg	17	advmod	17:advmod	_
+15	not	not	PART	RB	Polarity=Neg	17	advmod	17:advmod	_
 16	on	on	ADP	IN	_	17	case	17:case	_
 17	set	set	NOUN	NN	Number=Sing	0	root	0:root	_
 18	at	at	ADP	IN	_	20	case	20:case	_
@@ -3694,7 +3694,7 @@
 1	“	“	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
-4	n’t	not	ADV	RB	Polarity=Neg	5	advmod	5:advmod	_
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	what	what	PRON	WP	PronType=Int	5	obj	5:obj	_
 7	G.D.P.	g.d.p.	NOUN	NN	Number=Sing	8	compound	8:compound	_
@@ -3748,7 +3748,7 @@
 20	but	but	CCONJ	CC	_	24	cc	24:cc	_
 21	that	that	PRON	DT	Number=Sing|PronType=Dem	24	nsubj	24:nsubj	_
 22	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	24:aux	SpaceAfter=No
-23	n’t	not	ADV	RB	Polarity=Neg	24	advmod	24:advmod	_
+23	n’t	not	PART	RB	Polarity=Neg	24	advmod	24:advmod	_
 24	discredit	discredit	VERB	VB	VerbForm=Inf	2	conj	2:conj:but	_
 25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
 26	resemblances	resemblance	NOUN	NNS	Number=Plur	24	obj	24:obj	SpaceAfter=No
@@ -4182,7 +4182,7 @@
 8	own	own	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	story	story	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
 10	,	,	PUNCT	,	_	6	punct	6:punct	_
-11	not	not	ADV	RB	Polarity=Neg	12	advmod	12:advmod	_
+11	not	not	PART	RB	Polarity=Neg	12	advmod	12:advmod	_
 12	all	all	DET	DT	PronType=Tot	13	nsubj	13:nsubj	_
 13	factual	factual	ADJ	JJ	Degree=Pos	6	parataxis	6:parataxis	SpaceAfter=No
 14	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -4900,7 +4900,7 @@
 # text = We can’t let the presidency go to Donald Trump, someone so racist, sexist and incredibly unqualified to be commander-in-chief.
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	ca	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
-3	n’t	not	ADV	RB	Polarity=Neg	4	advmod	4:advmod	_
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	let	let	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	presidency	presidency	NOUN	NN	Number=Sing	4	obj	4:obj|7:nsubj:xsubj	_
@@ -7334,12 +7334,12 @@
 1	Perhaps	perhaps	ADV	RB	_	5	advmod	5:advmod	_
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 3	wo	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
-4	n’t	not	ADV	RB	Polarity=Neg	5	advmod	5:advmod	_
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	matter	matter	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	as	as	SCONJ	IN	_	11	mark	11:mark	_
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj:pass	11:nsubj:pass	_
 8	wo	will	AUX	MD	VerbForm=Fin	11	aux	11:aux	SpaceAfter=No
-9	n’t	not	ADV	RB	Polarity=Neg	11	advmod	11:advmod	_
+9	n’t	not	PART	RB	Polarity=Neg	11	advmod	11:advmod	_
 10	be	be	AUX	VB	VerbForm=Inf	11	aux:pass	11:aux:pass	_
 11	troubled	trouble	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	5:advcl:as	_
 12	long	long	ADV	RB	Degree=Pos	11	advmod	11:advmod	SpaceAfter=No
@@ -8760,7 +8760,7 @@
 
 # sent_id = n01148035
 # text = Not all transformations in the region have been successful.
-1	Not	not	ADV	RB	Polarity=Neg	2	advmod	2:advmod	_
+1	Not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 2	all	all	DET	DT	PronType=Tot	3	det	3:det	_
 3	transformations	transformation	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 4	in	in	ADP	IN	_	6	case	6:case	_
@@ -10525,7 +10525,7 @@
 14	topographic	topographic	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	features	feature	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj	_
 16	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
-17	not	not	ADV	RB	Polarity=Neg	18	advmod	18:advmod	_
+17	not	not	PART	RB	Polarity=Neg	18	advmod	18:advmod	_
 18	parallel	parallel	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:in_that	_
 19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
 20	coast	coast	NOUN	NN	Number=Sing	18	obj	18:obj	SpaceAfter=No
@@ -10879,7 +10879,7 @@
 16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj|24:nsubj	_
 17	often	often	ADV	RB	_	20	advmod	20:advmod	_
 18	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	20:aux	_
-19	not	not	ADV	RB	Polarity=Neg	20	advmod	20:advmod	_
+19	not	not	PART	RB	Polarity=Neg	20	advmod	20:advmod	_
 20	reach	reach	VERB	VB	VerbForm=Inf	3	parataxis	3:parataxis	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
 22	surface	surface	NOUN	NN	Number=Sing	20	obj	20:obj	_
@@ -11401,7 +11401,7 @@
 14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 15	land	land	NOUN	NN	Number=Sing	18	nsubj:pass	18:nsubj:pass	_
 16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	18:aux:pass	_
-17	not	not	ADV	RB	Polarity=Neg	18	advmod	18:advmod	_
+17	not	not	PART	RB	Polarity=Neg	18	advmod	18:advmod	_
 18	protected	protect	VERB	VBN	Tense=Past|VerbForm=Part	12	acl:relcl	12:acl:relcl	_
 19	by	by	ADP	IN	_	21	case	21:case	_
 20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
@@ -12486,7 +12486,7 @@
 17	years	year	NOUN	NNS	Number=Plur	18	obl:unmarked	18:obl:unmarked	_
 18	ago	ago	ADV	RB	_	14	advmod	14:advmod	_
 19	but	but	CCONJ	CC	_	24	cc	24:cc	_
-20	not	not	PART	RB	_	24	advmod	24:advmod	_
+20	not	not	PART	RB	Polarity=Neg	24	advmod	24:advmod	_
 21	whether	whether	SCONJ	IN	_	24	mark	24:mark	_
 22	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nsubj:pass	24:nsubj:pass	_
 23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux:pass	24:aux:pass	_
@@ -17914,7 +17914,7 @@
 # newdoc id = w01143
 # sent_id = w01143015
 # text = Not long ago he was divorced from the actress, Gloria Holden, but carried the torch after the marital rift.
-1	Not	not	ADV	RB	Polarity=Neg	2	advmod	2:advmod	_
+1	Not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 2	long	long	ADV	RB	Degree=Pos	3	advmod	3:advmod	_
 3	ago	ago	ADV	RB	_	6	advmod	6:advmod	_
 4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass|15:nsubj:pass	_
@@ -18815,7 +18815,7 @@
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|13:nsubj:xsubj	_
 8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	decided	decide	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and	_
-10	not	not	ADV	RB	Polarity=Neg	13	advmod	13:advmod	_
+10	not	not	PART	RB	Polarity=Neg	13	advmod	13:advmod	_
 11	to	to	PART	TO	_	13	mark	13:mark	_
 12	be	be	AUX	VB	VerbForm=Inf	13	cop	13:cop	_
 13	present	present	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	SpaceAfter=No
@@ -19615,7 +19615,7 @@
 # text = The contaminants not only attack the undeveloped lungs of the little ones; they can also lead to long-term impairment in the development of the adolescent brain.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	contaminants	contaminant	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-3	not	not	ADV	RB	Polarity=Neg	4	advmod	4:advmod	_
+3	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	only	only	ADV	RB	_	5	advmod	5:advmod	_
 5	attack	attack	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
@@ -20057,7 +20057,7 @@
 20	There	there	PRON	EX	_	21	expl	21:expl	_
 21-22	wasn't	_	_	_	_	_	_	_	_
 21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	ccomp	28:ccomp	_
-22	n't	not	ADV	RB	Polarity=Neg	23	advmod	23:advmod	_
+22	n't	not	PART	RB	Polarity=Neg	23	advmod	23:advmod	_
 23	really	really	ADV	RB	_	21	advmod	21:advmod	_
 24	any	any	DET	DT	PronType=Ind	25	det	25:det	_
 25	consultation	consultation	NOUN	NN	Number=Sing	21	nsubj	21:nsubj	SpaceAfter=No
@@ -21122,7 +21122,7 @@
 3	of	of	ADP	IN	_	4	case	4:case	_
 4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	nmod	2:nmod:of	SpaceAfter=No
 5	,	,	PUNCT	,	_	11	punct	11:punct	_
-6	not	not	ADV	RB	Polarity=Neg	7	advmod	7:advmod	_
+6	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
 7	everyone	everyone	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
 8	in	in	ADP	IN	_	10	case	10:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
@@ -21308,7 +21308,7 @@
 25	slapstick	slapstick	NOUN	NN	Number=Sing	26	compound	26:compound	_
 26	comedy	comedy	NOUN	NN	Number=Sing	20	conj	20:conj:and|27:nsubj	_
 27	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	14:conj:but	_
-28	not	not	ADV	RB	Polarity=Neg	27	advmod	27:advmod	SpaceAfter=No
+28	not	not	PART	RB	Polarity=Neg	27	advmod	27:advmod	SpaceAfter=No
 29	.	.	PUNCT	.	_	14	punct	14:punct	_
 
 # newdoc id = n05007
@@ -22964,7 +22964,7 @@
 6	most	most	ADJ	JJS	Degree=Sup	7	amod	7:amod	_
 7	Christians	Christians	PROPN	NNPS	Number=Plur	10	nsubj	10:nsubj	_
 8	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	10:aux	_
-9	not	not	ADV	RB	Polarity=Neg	10	advmod	10:advmod	_
+9	not	not	PART	RB	Polarity=Neg	10	advmod	10:advmod	_
 10	have	have	VERB	VB	VerbForm=Inf	0	root	0:root	_
 11	access	access	NOUN	NN	Number=Sing	10	obj	10:obj	_
 12	to	to	ADP	IN	_	14	case	14:case	_
@@ -22983,7 +22983,7 @@
 2	,	,	PUNCT	,	_	6	punct	6:punct	_
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	6:aux	_
-5	not	not	ADV	RB	Polarity=Neg	6	advmod	6:advmod	_
+5	not	not	PART	RB	Polarity=Neg	6	advmod	6:advmod	_
 6	expand	expand	VERB	VB	VerbForm=Inf	0	root	0:root	_
 7	until	until	SCONJ	IN	_	15	mark	15:mark	_
 8	ships	ship	NOUN	NNS	Number=Plur	15	nsubj:pass	15:nsubj:pass	_
@@ -23013,7 +23013,7 @@
 13	technique	technique	NOUN	NN	Number=Sing	5	appos	5:appos|18:nsubj:pass	_
 14	that	that	PRON	WDT	PronType=Rel	18	nsubj:pass	13:ref	_
 15	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	18	aux	18:aux	_
-16	not	not	ADV	RB	Polarity=Neg	18	advmod	18:advmod	_
+16	not	not	PART	RB	Polarity=Neg	18	advmod	18:advmod	_
 17	been	be	AUX	VBN	Tense=Past|VerbForm=Part	18	aux:pass	18:aux:pass	_
 18	used	use	VERB	VBN	Tense=Past|VerbForm=Part	13	acl:relcl	13:acl:relcl	_
 19	until	until	ADP	IN	_	20	case	20:case	_
@@ -23659,7 +23659,7 @@
 # sent_id = w04007021
 # text = Although not a resolver of the conflict, the French victory at the Battle of Marengo forced the Austrians to give Italy up for the second time.
 1	Although	although	SCONJ	IN	_	4	mark	4:mark	_
-2	not	not	ADV	RB	Polarity=Neg	4	advmod	4:advmod	_
+2	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	resolver	resolver	NOUN	NN	Number=Sing	17	advcl	17:advcl:although	_
 5	of	of	ADP	IN	_	7	case	7:case	_
