@@ -2091,7 +2091,7 @@
 20	whatever	whatever	DET	WDT	PronType=Rel	22	det	22:det	_
 21	shared	share	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	amod	22:amod	_
 22	agenda	agenda	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
-23	there	there	DET	EX	_	24	expl	24:expl	_
+23	there	there	PRON	EX	_	24	expl	24:expl	_
 24	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	19:ccomp	SpaceAfter=No
 25	,	,	PUNCT	,	_	15	punct	15:punct	_
 26	to	to	PART	TO	_	27	mark	27:mark	_
@@ -21446,7 +21446,7 @@
 # sent_id = n05009025
 # text = "There will be protests and other things, it's all already planned," the opposition told El Mundo.
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	There	there	DET	EX	_	4	expl	4:expl	_
+2	There	there	PRON	EX	_	4	expl	4:expl	_
 3	will	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	0	root	0:root	_
 5	protests	protest	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
@@ -22671,7 +22671,7 @@
 3	early	early	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	2000s	2000	NUM	NNS	Number=Plur	7	obl	7:obl:in	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
-6	there	there	DET	EX	_	7	expl	7:expl	_
+6	there	there	PRON	EX	_	7	expl	7:expl	_
 7	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	five	five	NUM	CD	NumForm=Word|NumType=Card	9	nummod	9:nummod	_
 9	doctors	doctor	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
