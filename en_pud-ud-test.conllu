@@ -8508,7 +8508,7 @@
 3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	think	think	VERB	VB	VerbForm=Inf	0	root	0:root	_
-6	anything	anything	NOUN	NN	Number=Sing	5	obj	5:obj	_
+6	anything	anything	PRON	NN	Number=Sing|PronType=Ind	5	obj	5:obj	_
 7	of	of	SCONJ	IN	_	10	mark	10:mark	_
 8	Johnny	Johnny	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj|15:nsubj	_
 9	Carson	Carson	PROPN	NNP	Number=Sing	8	flat	8:flat	_
@@ -8708,7 +8708,7 @@
 # sent_id = n01147087
 # text = For anyone who wants to see the capital in all its glory, November's a great time to go.
 1	For	for	ADP	IN	_	2	case	2:case	_
-2	anyone	anyone	NOUN	NN	Number=Sing	18	obl	4:nsubj|6:nsubj:xsubj|18:obl:for	_
+2	anyone	anyone	PRON	NN	Number=Sing|PronType=Ind	18	obl	4:nsubj|6:nsubj:xsubj|18:obl:for	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
 4	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 5	to	to	PART	TO	_	6	mark	6:mark	_
@@ -14143,7 +14143,7 @@
 12	,	,	PUNCT	,	_	23	punct	23:punct	_
 13	and	and	CCONJ	CC	_	23	cc	23:cc	_
 14	theoretically	theoretically	ADV	RB	_	23	advmod	23:advmod	_
-15	anybody	anybody	NOUN	NN	Number=Sing	23	nsubj	20:nsubj:pass|23:nsubj	_
+15	anybody	anybody	PRON	NN	Number=Sing|PronType=Ind	23	nsubj	20:nsubj:pass|23:nsubj	_
 16	who	who	PRON	WP	PronType=Rel	20	nsubj:pass	15:ref	_
 17	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	aux	20:aux	_
 18	been	be	AUX	VBN	Tense=Past|VerbForm=Part	20	aux:pass	20:aux:pass	_
