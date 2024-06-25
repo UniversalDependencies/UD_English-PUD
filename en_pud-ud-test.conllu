@@ -15442,7 +15442,7 @@
 12	projects	project	NOUN	NNS	Number=Plur	5	conj	3:obj|5:conj:and	SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	16:punct	_
 14	but	but	CCONJ	CC	_	16	cc	16:cc	_
-15	none	none	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
+15	none	none	PRON	NN	PronType=Neg	16	nsubj	16:nsubj	_
 16	piqued	pique	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:but	_
 17	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
 18	interest	interest	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
