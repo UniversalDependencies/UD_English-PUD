@@ -1891,7 +1891,7 @@
 4	investigating	investigate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	potential	potential	NOUN	NN	Number=Sing	4	obj	4:obj	_
 6	for	for	ADP	IN	_	9	case	9:case	_
-7	male	male	ADJ	NN	Number=Sing	9	amod	9:amod	_
+7	male	male	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 8	hormonal	hormonal	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	contraceptives	contraceptive	NOUN	NNS	Number=Plur	5	nmod	5:nmod:for	_
 10	for	for	ADP	IN	_	13	case	13:case	_
@@ -3199,7 +3199,7 @@
 16	overall	overall	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
 17	,	,	PUNCT	,	_	3	punct	3:punct	_
 18	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	_
-19	Canadian	Canadian	ADJ	NNP	Number=Sing	21	amod	21:amod	_
+19	Canadian	Canadian	ADJ	NNP	Degree=Pos	21	amod	21:amod	_
 20	Blood	Blood	PROPN	NNP	Number=Sing	21	compound	21:compound	_
 21	Services	Services	PROPN	NNPS	Number=Plur	18	nsubj	18:nsubj	_
 22	(	(	PUNCT	-LRB-	_	23	punct	23:punct	SpaceAfter=No
@@ -11670,7 +11670,7 @@
 10	1492	1492	NUM	CD	NumForm=Digit|NumType=Card	3	nmod	3:nmod:in	SpaceAfter=No
 11	,	,	PUNCT	,	_	16	punct	16:punct	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
-13	Spanish	Spanish	ADJ	NNP	Number=Sing	14	amod	14:amod	_
+13	Spanish	Spanish	PROPN	NNP	Number=Sing	14	amod	14:amod	_
 14	term	term	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
 15	Antillas	Antillas	PROPN	NNP	Number=Sing	14	appos	14:appos	_
 16	applied	apply	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -23580,7 +23580,7 @@
 # newdoc id = w04006
 # sent_id = w04006023
 # text = Historian David Crouch suggests that Stephen abandoned from the challenge around this time to focus on other issues.
-1	Historian	historian	ADJ	NN	Number=Sing	2	amod	2:amod	_
+1	Historian	historian	NOUN	NN	Number=Sing	2	amod	2:amod	_
 2	David	David	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
 3	Crouch	Crouch	PROPN	NNP	Number=Sing	2	flat	2:flat	_
 4	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
