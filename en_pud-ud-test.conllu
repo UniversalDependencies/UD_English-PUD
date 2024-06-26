@@ -11670,7 +11670,7 @@
 10	1492	1492	NUM	CD	NumForm=Digit|NumType=Card	3	nmod	3:nmod:in	SpaceAfter=No
 11	,	,	PUNCT	,	_	16	punct	16:punct	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
-13	Spanish	Spanish	PROPN	NNP	Number=Sing	14	amod	14:amod	_
+13	Spanish	Spanish	PROPN	NNP	Number=Sing	14	compound	14:compound	_
 14	term	term	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
 15	Antillas	Antillas	PROPN	NNP	Number=Sing	14	appos	14:appos	_
 16	applied	apply	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
