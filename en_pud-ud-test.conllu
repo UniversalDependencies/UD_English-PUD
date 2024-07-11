@@ -11754,13 +11754,13 @@
 28	of	of	ADP	IN	_	29	case	29:case	Proper=True
 29	Panama	Panama	PROPN	NNP	Number=Sing	27	nmod	27:nmod:of	SpaceAfter=No
 30	)	)	PUNCT	-RRB-	_	20	punct	20:punct	_
-31	as	as	SCONJ	IN	_	32	mark	32:mark	_
-32	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	11:advcl:as	_
-33	to	to	ADP	IN	_	37	case	37:case	_
+31	as	as	SCONJ	IN	_	37	mark	37:mark	_
+32	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	31	fixed	31:fixed	_
+33	to	to	ADP	IN	_	31	fixed	31:fixed	_
 34	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
 35	"	"	PUNCT	``	_	37	punct	37:punct	SpaceAfter=No
 36	North	North	PROPN	NNP	Number=Sing	37	compound	37:compound	_
-37	Sea	Sea	PROPN	NNP	Number=Sing	32	obl	32:obl:to	SpaceAfter=No
+37	Sea	Sea	PROPN	NNP	Number=Sing	11	advcl	11:advcl:as_opposed_to	SpaceAfter=No
 38	"	"	PUNCT	''	_	37	punct	37:punct	_
 39	(	(	PUNCT	-LRB-	_	42	punct	42:punct	SpaceAfter=No
 40	the	the	DET	DT	Definite=Def|PronType=Art	42	det	42:det	_
