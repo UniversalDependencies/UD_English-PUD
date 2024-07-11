@@ -14983,7 +14983,7 @@
 
 # sent_id = w01095092
 # text = Prior to Emperor Meiji, the names of the eras were changed more frequently, and the posthumous names of the Emperors were chosen in a different manner.
-1	Prior	prior	ADV	RB	_	3	case	3:case	_
+1	Prior	prior	ADV	RB	ExtPos=ADP	3	case	3:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	Emperor	emperor	NOUN	NN	Number=Sing	12	obl	12:obl:prior_to	_
 4	Meiji	Meiji	PROPN	NNP	Number=Sing	3	flat	3:flat	SpaceAfter=No
@@ -16109,7 +16109,7 @@
 
 # sent_id = w01113074
 # text = Prior to taking office Jokowi sought for outgoing President Yudhoyono to take responsibility for the decision to further increase fuel prices by further removing subsidies.
-1	Prior	prior	SCONJ	RB	_	3	mark	3:mark	_
+1	Prior	prior	SCONJ	RB	ExtPos=SCONJ	3	mark	3:mark	_
 2	to	to	SCONJ	IN	_	1	fixed	1:fixed	_
 3	taking	take	VERB	VBG	VerbForm=Ger	6	advcl	6:advcl:prior_to	_
 4	office	office	NOUN	NN	Number=Sing	3	obj	3:obj	_
