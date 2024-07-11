@@ -10928,7 +10928,7 @@
 6	,	,	PUNCT	,	_	11	punct	11:punct	_
 7	which	which	PRON	WDT	PronType=Rel	11	nsubj	5:ref	_
 8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
-9	all	all	ADV	RB	_	11	advmod	11:advmod	_
+9	all	all	ADV	RB	ExtPos=ADV	11	advmod	11:advmod	_
 10	but	but	ADV	RB	_	9	fixed	9:fixed	_
 11	dried	dry	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	5:acl:relcl	_
 12	up	up	ADP	RP	_	11	compound:prt	11:compound:prt	SpaceAfter=No
