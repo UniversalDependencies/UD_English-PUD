@@ -16055,7 +16055,7 @@
 9	withdrawn	withdraw	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	5:acl:relcl	_
 10	from	from	ADP	IN	_	11	case	11:case	_
 11	ATMs	atm	NOUN	NNS	Number=Plur	9	obl	9:obl:from	_
-12	in	in	ADP	IN	_	15	mark	15:mark	_
+12	in	in	ADP	IN	ExtPos=SCONJ	15	mark	15:mark	_
 13	order	order	NOUN	NN	Number=Sing	12	fixed	12:fixed	_
 14	to	to	PART	TO	_	15	mark	15:mark	_
 15	buy	buy	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:to	_
@@ -19871,7 +19871,7 @@
 23	votes	vote	NOUN	NNS	Number=Plur	25	nsubj:pass	25:nsubj:pass	_
 24	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux:pass	25:aux:pass	_
 25	required	require	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	7:advcl:whereas	_
-26	in	in	ADP	IN	_	29	mark	29:mark	_
+26	in	in	ADP	IN	ExtPos=SCONJ	29	mark	29:mark	_
 27	order	order	NOUN	NN	Number=Sing	26	fixed	26:fixed	_
 28	to	to	PART	TO	_	26	fixed	26:fixed	_
 29	trigger	trigger	VERB	VB	VerbForm=Inf	25	advcl	25:advcl:in_order_to	_
@@ -21245,7 +21245,7 @@
 19	best	good	ADJ	JJS	Degree=Sup	16	obj	16:obj	_
 20	of	of	ADP	IN	_	21	case	21:case	_
 21	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	19	obl	19:obl:of	_
-22	in	in	SCONJ	IN	_	25	mark	25:mark	_
+22	in	in	SCONJ	IN	ExtPos=SCONJ	25	mark	25:mark	_
 23	order	order	NOUN	NN	Number=Sing	22	fixed	22:fixed	_
 24	to	to	PART	TO	_	22	fixed	22:fixed	_
 25	make	make	VERB	VB	VerbForm=Inf	16	advcl	16:advcl:in_order_to	_
@@ -22801,7 +22801,7 @@
 6	to	to	PART	TO	_	7	mark	7:mark	_
 7	leave	leave	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	_
 8	Sicily	Sicily	PROPN	NNP	Number=Sing	7	obj	7:obj	_
-9	in	in	ADP	IN	_	12	mark	12:mark	_
+9	in	in	ADP	IN	ExtPos=SCONJ	12	mark	12:mark	_
 10	order	order	NOUN	NN	Number=Sing	9	fixed	9:fixed	_
 11	to	to	PART	TO	_	9	fixed	9:fixed	_
 12	attend	attend	VERB	VB	VerbForm=Inf	7	advcl	7:advcl:in_order_to	_
