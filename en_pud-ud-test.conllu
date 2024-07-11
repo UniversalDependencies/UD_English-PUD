@@ -452,7 +452,7 @@
 23	in	in	ADP	IN	_	24	case	24:case	_
 24	1996	1996	NUM	CD	NumForm=Digit|NumType=Card	22	nmod	22:nmod:in	SpaceAfter=No
 25	,	,	PUNCT	,	_	19	punct	19:punct	_
-26	according	accord	VERB	VBG	VerbForm=Ger	30	case	30:case	_
+26	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	30	case	30:case	_
 27	to	to	ADP	IN	_	26	fixed	26:fixed	_
 28	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
 29	Census	census	NOUN	NN	Number=Sing	30	compound	30:compound	_
@@ -1847,7 +1847,7 @@
 
 # sent_id = n01030008
 # text = According to the city's police department, a fight broke out after "a large group of people... who identified themselves as district authorities" arrived on set on Tuesday.
-1	According	accord	VERB	VBG	VerbForm=Ger	7	case	7:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	7	case	7:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4-5	city's	_	_	_	_	_	_	_	_
@@ -7036,7 +7036,7 @@
 
 # sent_id = n01118010
 # text = According to the director's own count, to date he has made eight feature films.
-1	According	accord	VERB	VBG	VerbForm=Ger	7	case	7:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	7	case	7:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4-5	director's	_	_	_	_	_	_	_	_
@@ -12413,7 +12413,7 @@
 
 # sent_id = w01053045
 # text = According to the New Testament, Paul spent eighteen months in Corinth, approximately seventeen years after his conversion.
-1	According	accord	VERB	VBG	VerbForm=Ger	5	case	5:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	5	case	5:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	New	New	PROPN	NNP	Number=Sing	5	compound	5:compound	_
@@ -13205,7 +13205,7 @@
 18	these	this	PRON	DT	Number=Plur|PronType=Dem	20	nsubj:pass	20:nsubj:pass	_
 19	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux:pass	20:aux:pass	_
 20	calculated	calculate	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	11:advcl:as	_
-21	according	accord	VERB	VBG	VerbForm=Ger	25	case	25:case	_
+21	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	25	case	25:case	_
 22	to	to	ADP	IN	_	21	fixed	21:fixed	_
 23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	_
 24	Chinese	Chinese	ADJ	JJ	Degree=Pos	25	amod	25:amod	Proper=True
@@ -15172,7 +15172,7 @@
 # newdoc id = w01098
 # sent_id = w01098043
 # text = According to a genetic study on autosomal data on Roma the source of Southasian Ancestry in Roma is North-West India.
-1	According	accord	VERB	VBG	VerbForm=Ger	5	case	5:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	5	case	5:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 4	genetic	genetic	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
@@ -18707,7 +18707,7 @@
 # newdoc id = n02027
 # sent_id = n02027007
 # text = According to Parker, Russian Secret Service agents are active in large numbers in Great Britain.
-1	According	accord	VERB	VBG	VerbForm=Ger	3	case	3:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	3	case	3:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	Parker	Parker	PROPN	NNP	Number=Sing	10	obl	10:obl:according_to	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
@@ -19189,7 +19189,7 @@
 # newdoc id = n02052
 # sent_id = n02052023
 # text = According to Christian belief, a grave which had been embedded in the chalkstone was the last resting place of Jesus.
-1	According	accord	VERB	VBG	VerbForm=Ger	4	case	4:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	4	case	4:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	Christian	Christian	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	belief	belief	NOUN	NN	Number=Sing	19	obl	19:obl:according_to	SpaceAfter=No
@@ -19570,7 +19570,7 @@
 7	completely	completely	ADV	RB	_	8	advmod	8:advmod	_
 8	disappear	disappear	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 9	:	:	PUNCT	:	_	8	punct	8:punct	_
-10	According	accord	VERB	VBG	VerbForm=Ger	12	case	12:case	_
+10	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	12	case	12:case	_
 11	to	to	ADP	IN	_	10	fixed	10:fixed	_
 12	information	information	NOUN	NN	Number=Sing	23	obl	23:obl:according_to	_
 13	from	from	ADP	IN	_	16	case	16:case	_
@@ -19763,7 +19763,7 @@
 
 # sent_id = n03001030
 # text = According to the programme, she will speak at 23.45.
-1	According	accord	VERB	VBG	VerbForm=Ger	4	case	4:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	4	case	4:case	_
 2	to	to	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	programme	programme	NOUN	NN	Number=Sing	8	obl	8:obl:to	SpaceAfter=No
@@ -20265,7 +20265,7 @@
 # newdoc id = n03010
 # sent_id = n03010012
 # text = According to Le Figaro, this government plan could free up 42 million euros, of which 15.5 million would go towards security.
-1	According	accord	VERB	VBG	VerbForm=Ger	3	case	3:case	_
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	3	case	3:case	_
 2	to	to	ADP	IN	_	3	case	3:case	_
 3	Le	Le	PROPN	NNP	Number=Sing	10	obl	10:obl:to	_
 4	Figaro	Figaro	PROPN	NNP	Number=Sing	3	flat	3:flat	SpaceAfter=No
