@@ -18946,7 +18946,7 @@
 19	in	in	ADP	IN	_	22	case	22:case	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
 21	60s	60	NOUN	NNS	Number=Plur	22	nmod:unmarked	22:nmod:unmarked	TemporalNPAdjunct=Yes
-22	hit	hit	NOUN	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	obl	4:obl:in	_
+22	hit	hit	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
 23	Monster	monster	PROPN	NN	Number=Sing	24	compound	24:compound	_
 24	Mash	mash	PROPN	NN	Number=Sing	22	appos	22:appos	SpaceAfter=No
 25	.	.	PUNCT	.	_	4	punct	4:punct	_
