@@ -7119,7 +7119,7 @@
 10	,	,	PUNCT	,	_	12	punct	12:punct	_
 11	unpretentious	unpretentious	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	heartwarmer	heartwarmer	NOUN	NN	Number=Sing	6	obl	6:obl:as|14:nsubj|17:nsubj:xsubj	_
-13	that	that	SCONJ	WDT	PronType=Rel	14	nsubj	12:ref	_
+13	that	that	PRON	WDT	PronType=Rel	14	nsubj	12:ref	_
 14	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
 15	tailor	tailor	NOUN	NN	Number=Sing	17	compound	17:compound	SpaceAfter=No
 16	-	-	PUNCT	HYPH	_	17	punct	17:punct	SpaceAfter=No
@@ -8488,7 +8488,7 @@
 12	to	to	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 14	guy	guy	NOUN	NN	Number=Sing	11	obl	11:obl:to	_
-15	that	that	SCONJ	WDT	PronType=Dem	20	mark	20:mark	_
+15	that	that	SCONJ	IN	_	20	mark	20:mark	_
 16	clearly	clearly	ADV	RB	_	20	advmod	20:advmod	_
 17	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj|23:nsubj:xsubj	_
 18-19	didn't	_	_	_	_	_	_	_	_
@@ -18173,7 +18173,7 @@
 8	Stephen	Stephen	PROPN	NNP	Number=Sing	6	appos	6:appos	SpaceAfter=No
 9	"	"	PUNCT	''	_	8	punct	8:punct	_
 10	together	together	ADV	RB	_	4	advmod	4:advmod	_
-11	when	when	SCONJ	WRB	PronType=Int	14	mark	14:mark	_
+11	when	when	ADV	WRB	PronType=Int	14	advmod	14:advmod	_
 12	Kesha	Kesha	PROPN	NNP	Number=Sing	14	nsubj	14:nsubj	_
 13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
 14	16	16	NUM	CD	NumForm=Digit|NumType=Card	4	advcl	4:advcl:when	SpaceAfter=No
