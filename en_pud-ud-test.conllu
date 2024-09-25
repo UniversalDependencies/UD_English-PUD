@@ -12,7 +12,7 @@
 9	unprecedented	unprecedented	ADJ	JJ	Degree=Pos	20	advcl	20:advcl:while	_
 10	in	in	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
-12	United	United	PROPN	NNP	Degree=Pos	13	amod	13:amod	_
+12	United	United	ADJ	NNP	Degree=Pos	13	amod	13:amod	_
 13	States	States	PROPN	NNPS	Number=Plur	9	obl	9:obl:in	SpaceAfter=No
 14	,	,	PUNCT	,	_	20	punct	20:punct	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
@@ -2121,7 +2121,7 @@
 9	president	president	NOUN	NN	Number=Sing	3	obl	3:obl:to	_
 10	of	of	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
-12	United	United	PROPN	NNP	Degree=Pos	13	amod	13:amod	_
+12	United	United	ADJ	NNP	Degree=Pos	13	amod	13:amod	_
 13	States	States	PROPN	NNPS	Number=Plur	9	nmod	9:nmod:of	SpaceAfter=No
 14	,	,	PUNCT	,	_	9	punct	9:punct	_
 15	whoever	whoever	PRON	WP	PronType=Rel	9	acl:relcl	9:acl:relcl	_
