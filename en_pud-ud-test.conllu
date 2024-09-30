@@ -4758,8 +4758,8 @@
 # newdoc id = n01078
 # sent_id = n01078025
 # text = Of course, I do understand that modern-day Germany must be separated from the Nazi regime.
-1	Of	of	ADP	IN	_	6	advmod	6:advmod	_
-2	course	course	ADV	NN	Number=Sing	1	fixed	1:fixed	SpaceAfter=No
+1	Of	of	ADP	IN	ExtPos=ADV	6	advmod	6:advmod	_
+2	course	course	NOUN	NN	Number=Sing	1	fixed	1:fixed	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
@@ -7134,7 +7134,7 @@
 # text = And, of course, there's Bob, a constant source of entertainment.
 1	And	and	CCONJ	CC	_	7	cc	7:cc	SpaceAfter=No
 2	,	,	PUNCT	,	_	7	punct	7:punct	_
-3	of	of	ADP	IN	_	7	advmod	7:advmod	_
+3	of	of	ADP	IN	ExtPos=ADV	7	advmod	7:advmod	_
 4	course	course	NOUN	NN	Number=Sing	3	fixed	3:fixed	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6-7	there's	_	_	_	_	_	_	_	_
@@ -7392,7 +7392,7 @@
 
 # sent_id = n01125030
 # text = Of course, the tactile trend is closely linked to our growing obsession with making things.
-1	Of	of	ADP	IN	_	9	advmod	9:advmod	_
+1	Of	of	ADP	IN	ExtPos=ADV	9	advmod	9:advmod	_
 2	course	course	NOUN	NN	Number=Sing	1	fixed	1:fixed	SpaceAfter=No
 3	,	,	PUNCT	,	_	9	punct	9:punct	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -7754,7 +7754,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	election	election	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	4:punct	_
-6	of	of	ADP	IN	_	4	advmod	4:advmod	_
+6	of	of	ADP	IN	ExtPos=ADV	4	advmod	4:advmod	_
 7	course	course	NOUN	NN	Number=Sing	6	fixed	6:fixed	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	11:punct	_
 9	not	not	PART	RB	Polarity=Neg	11	advmod	11:advmod	_
