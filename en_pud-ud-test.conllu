@@ -10720,7 +10720,7 @@
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	Alps	Alps	PROPN	NNPS	Number=Plur	18	nsubj	18:nsubj	_
 18	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-19	up	up	ADP	IN	_	22	advmod	22:advmod	_
+19	up	up	ADP	IN	ExtPos=ADV	22	advmod	22:advmod	_
 20	to	to	ADP	IN	_	19	fixed	19:fixed	_
 21	90	90	NUM	CD	NumForm=Digit|NumType=Card	22	nummod	22:nummod	_
 22	percent	percent	NOUN	NN	Number=Sing	18	obj	18:obj	_
