@@ -5410,7 +5410,7 @@
 27	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	30	cop	30:cop	_
 28	from	from	ADP	IN	_	30	case	30:case	_
 29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
-30	1970s	1970	NOUN	NNS	Number=Plur	23	advcl	23:advcl:from	SpaceAfter=No
+30	1970s	1970s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	23	advcl	23:advcl:from	SpaceAfter=No
 31	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = n01090037
@@ -9413,7 +9413,7 @@
 10	forecasting	forecasting	NOUN	NN	Number=Sing	7	obl	7:obl:in	_
 11	during	during	ADP	IN	_	13	case	13:case	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
-13	1950s	1950	NOUN	NNS	Number=Plur	7	obl	7:obl:during	SpaceAfter=No
+13	1950s	1950s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	7	obl	7:obl:during	SpaceAfter=No
 14	,	,	PUNCT	,	_	16	punct	16:punct	_
 15	climatologists	climatologist	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj|18:nsubj:xsubj	_
 16	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -11972,7 +11972,7 @@
 # text = In the 1350s, King Gongmin was free at last to reform the Goryeo government when the Yuan dynasty began to crumble.
 1	In	in	ADP	IN	_	3	case	3:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-3	1350s	1350	NOUN	NNS	Number=Plur	8	obl	8:obl:in	SpaceAfter=No
+3	1350s	1350s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	8	obl	8:obl:in	SpaceAfter=No
 4	,	,	PUNCT	,	_	8	punct	8:punct	_
 5	King	King	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj|12:nsubj:xsubj	_
 6	Gongmin	Gongmin	PROPN	NNP	Number=Sing	5	flat	5:flat	_
@@ -11998,7 +11998,7 @@
 # text = Since the 1960s, the South Korean economy has grown enormously and the economic structure was radically transformed.
 1	Since	since	ADP	IN	_	3	case	3:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-3	1960s	1960	NOUN	NNS	Number=Plur	10	obl	10:obl:since	SpaceAfter=No
+3	1960s	1960s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	10	obl	10:obl:since	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 6	South	South	PROPN	NNP	Number=Sing	7	compound	7:compound	Proper=True
@@ -15539,7 +15539,7 @@
 27	AIDS	aids	NOUN	NN	Number=Sing	23	nmod	23:nmod:from	_
 28	in	in	ADP	IN	_	30	case	30:case	_
 29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
-30	mid-1980s	mid-1980	NOUN	NNS	Number=Plur	23	nmod	23:nmod:in	SpaceAfter=No
+30	mid-1980s	mid-1980s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	23	nmod	23:nmod:in	SpaceAfter=No
 31	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # newdoc id = w01105
@@ -15712,7 +15712,7 @@
 27	countries	country	NOUN	NNS	Number=Plur	24	nmod	24:nmod:in	_
 28	in	in	ADP	IN	_	30	case	30:case	_
 29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
-30	1980s	1980	NOUN	NNS	Number=Plur	24	obl	24:obl:in	SpaceAfter=No
+30	1980s	1980s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	24	obl	24:obl:in	SpaceAfter=No
 31	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # newdoc id = w01106
@@ -16933,7 +16933,7 @@
 5	albums	album	NOUN	NNS	Number=Plur	2	obj	2:obj	_
 6	in	in	ADP	IN	_	8	case	8:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-8	1990s	1990	NOUN	NNS	Number=Plur	2	obl	2:obl:in	_
+8	1990s	1990s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	2	obl	2:obl:in	_
 9	in	in	ADP	IN	_	10	case	10:case	_
 10	what	what	PRON	WP	PronType=Int	2	obl	2:obl:in	_
 11	musician	musician	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
@@ -17004,7 +17004,7 @@
 24	Records	Records	PROPN	NNPS	Number=Plur	21	obl	21:obl:to	_
 25	in	in	ADP	IN	_	27	case	27:case	_
 26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
-27	1970s	1970	NOUN	NNS	Number=Plur	21	obl	21:obl:in	SpaceAfter=No
+27	1970s	1970s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	21	obl	21:obl:in	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = w01130102
@@ -17232,7 +17232,7 @@
 1	Concurrently	concurrently	ADV	RB	_	4	advmod	4:advmod	_
 2	in	in	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-4	mid-1970s	mid-1970	NOUN	NNS	Number=Plur	7	obl	7:obl:in	SpaceAfter=No
+4	mid-1970s	mid-1970s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	7	obl	7:obl:in	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	Starlin	Starlin	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
 7	contributed	contribute	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -18945,7 +18945,7 @@
 18	as	as	ADP	IN	_	17	fixed	17:fixed	_
 19	in	in	ADP	IN	_	22	case	22:case	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
-21	60s	60	NOUN	NNS	Number=Plur	22	nmod:unmarked	22:nmod:unmarked	TemporalNPAdjunct=Yes
+21	60s	60s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	22	nmod:unmarked	22:nmod:unmarked	TemporalNPAdjunct=Yes
 22	hit	hit	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
 23	Monster	monster	PROPN	NN	Number=Sing	24	compound	24:compound	_
 24	Mash	mash	PROPN	NN	Number=Sing	22	appos	22:appos	SpaceAfter=No
@@ -21684,7 +21684,7 @@
 9	beginning	beginning	NOUN	NN	Number=Sing	6	obl	6:obl:since	_
 10	of	of	ADP	IN	_	12	case	12:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-12	1960s	1960	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	_
+12	1960s	1960s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	9	nmod	9:nmod:of	_
 13	emigrated	emigrate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 14	primarily	primarily	ADV	RB	_	16	advmod	16:advmod	_
 15	from	from	ADP	IN	_	16	case	16:case	_
@@ -21810,7 +21810,7 @@
 9	beginning	beginning	NOUN	NN	Number=Sing	6	obl	6:obl:at	_
 10	of	of	ADP	IN	_	12	case	12:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-12	1990s	1990	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	_
+12	1990s	1990s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	9	nmod	9:nmod:of	_
 13	on	on	ADP	IN	_	15	case	15:case	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 15	roof	roof	NOUN	NN	Number=Sing	6	obl	6:obl:on	_
@@ -21840,7 +21840,7 @@
 # text = Since the 1960s, the city's economy has been in steep decline.
 1	Since	since	ADP	IN	_	3	case	3:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-3	1960s	1960	NOUN	NNS	Number=Plur	10	obl	10:obl:since	SpaceAfter=No
+3	1960s	1960s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	10	obl	10:obl:since	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6-7	city's	_	_	_	_	_	_	_	_
@@ -22669,7 +22669,7 @@
 1	In	in	ADP	IN	_	4	case	4:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	early	early	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
-4	2000s	2000	NUM	NNS	Number=Plur	7	obl	7:obl:in	SpaceAfter=No
+4	2000s	2000s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	7	obl	7:obl:in	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	there	there	PRON	EX	_	7	expl	7:expl	_
 7	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
