@@ -16118,7 +16118,7 @@
 7	for	for	ADP	IN	_	10	case	10:case	_
 8	outgoing	outgoing	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	President	President	PROPN	NNP	Number=Sing	10	nmod:desc	10:nmod:desc	_
-10	Yudhoyono	Yudhoyono	PROPN	NNP	Number=Sing	6	obl	6:obl	_
+10	Yudhoyono	Yudhoyono	PROPN	NNP	Number=Sing	6	obl	6:obl:for	_
 11	to	to	PART	TO	_	12	mark	12:mark	_
 12	take	take	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 13	responsibility	responsibility	NOUN	NN	Number=Sing	12	obj	12:obj	_
@@ -16737,7 +16737,7 @@
 6	Prince	prince	NOUN	NN	Number=Sing	6	nmod:desc	6:nmod:desc	_
 7	Henry	Henry	PROPN	NNP	Number=Sing	5	appos	5:appos	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	9:punct	_
-9	Duke	Duke	PROPN	NNP	Number=Sing	5	appos	5:appos	_
+9	Duke	Duke	PROPN	NNP	Number=Sing	7	appos	7:appos	_
 10	of	of	ADP	IN	_	11	case	11:case	Proper=True
 11	Cumberland	Cumberland	PROPN	NNP	Number=Sing	9	nmod	9:nmod:of	_
 12	and	and	CCONJ	CC	_	13	cc	13:cc	Proper=True
