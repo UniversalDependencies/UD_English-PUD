@@ -5449,14 +5449,14 @@
 # newdoc id = n01091
 # sent_id = n01091013
 # text = At best it is naive and at worst it would yet again let the shooting lobby off the hook.
-1	At	at	ADP	IN	_	5	advmod	5:advmod	_
-2	best	good	ADJ	JJS	Degree=Sup	1	fixed	1:fixed	_
+1	At	at	ADP	IN	_	2	case	2:case	_
+2	best	well	ADV	RBS	Degree=Sup	5	obl	5:obl:at	_
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 5	naive	naive	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	and	and	CCONJ	CC	_	13	cc	13:cc	_
-7	at	at	ADP	IN	_	13	advmod	13:advmod	_
-8	worst	bad	ADJ	JJS	Degree=Sup	7	fixed	7:fixed	_
+7	at	at	ADP	IN	_	12	case	12:case	_
+8	worst	bad	ADV	RBS	Degree=Sup	13	obl	13:obl:at	_
 9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 10	would	would	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
 11	yet	yet	ADV	RB	_	12	advmod	12:advmod	_
@@ -13597,8 +13597,8 @@
 20	upon	upon	ADP	IN	_	21	case	21:case	_
 21	what	what	PRON	WP	PronType=Int	19	obl	19:obl:upon	_
 22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
-23	at	at	ADV	RB	_	24	case	24:case	_
-24	best	well	ADV	RBS	Degree=Sup	26	obl:unmarked	26:obl:unmarked	_
+23	at	at	ADP	IN	_	24	case	24:case	_
+24	best	well	ADV	RBS	Degree=Sup	26	obl	26:obl:at	_
 25	mere	mere	ADJ	JJ	Degree=Pos	26	amod	26:amod	_
 26	resemblances	resemblance	NOUN	NNS	Number=Plur	21	acl:relcl	21:acl:relcl	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	26:punct	_
