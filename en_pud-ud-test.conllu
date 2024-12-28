@@ -20883,7 +20883,6 @@
 
 # sent_id = n04010021
 # text = Leaders of companies such as Spotify, Tesla, Uber and Snapchat will attend a private event in addition to the Mountain View Summit.
-# Checktree: in addition to -> fixed?
 1	Leaders	leader	NOUN	NNS	Number=Plur	14	nsubj	14:nsubj	_
 2	of	of	ADP	IN	_	3	case	3:case	_
 3	companies	company	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	_
