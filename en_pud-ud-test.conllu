@@ -2737,7 +2737,7 @@
 11	and	and	CCONJ	CC	_	13	cc	13:cc	_
 12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 13	employs	employ	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	7:conj:and	_
-14	more	more	ADJ	JJR	Degree=Cmp	16	advmod	16:advmod	_
+14	more	more	ADJ	JJR	Degree=Cmp|ExtPos=ADV	16	advmod	16:advmod	_
 15	than	than	ADP	IN	_	14	fixed	14:fixed	_
 16	6,000	6000	NUM	CD	NumForm=Digit|NumType=Card	17	nummod	17:nummod	_
 17	people	people	NOUN	NNS	Number=Plur	13	obj	13:obj	SpaceAfter=No
