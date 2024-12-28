@@ -3508,8 +3508,8 @@
 
 # sent_id = n01055047
 # text = After all, the internet is not a luxury; it is an essential tool.
-1	After	after	ADV	RB	_	2	case	2:case	_
-2	all	all	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
+1	After	after	ADP	IN	_	2	case	2:case	_
+2	all	all	DET	DT	PronType=Tot	9	obl	9:obl:after	SpaceAfter=No
 3	,	,	PUNCT	,	_	9	punct	9:punct	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	internet	internet	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
@@ -7483,8 +7483,8 @@
 # newdoc id = n01128
 # sent_id = n01128017
 # text = After all, our organizational performance is seldom measured in terms of how safe we are or how many rules we follow.
-1	After	after	ADP	IN	_	9	advmod	9:advmod	_
-2	all	all	DET	DT	PronType=Tot	1	fixed	1:fixed	SpaceAfter=No
+1	After	after	ADP	IN	_	2	case	2:case	_
+2	all	all	DET	DT	PronType=Tot	9	obl	9:obl:after	SpaceAfter=No
 3	,	,	PUNCT	,	_	9	punct	9:punct	_
 4	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 5	organizational	organizational	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
