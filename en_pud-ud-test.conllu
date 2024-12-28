@@ -9125,7 +9125,7 @@
 30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	31:det	_
 31	straits	strait	NOUN	NNS	Number=Plur	29	obj	29:obj	SpaceAfter=No
 32	,	,	PUNCT	,	_	27	punct	27:punct	_
-33	such	such	ADJ	JJ	Degree=Pos	37	case	37:case	_
+33	such	such	ADJ	JJ	Degree=Pos|ExtPos=ADP	37	case	37:case	_
 34	as	as	ADP	IN	_	33	fixed	33:fixed	_
 35	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
 36	Megarian	megarian	ADJ	JJ	Degree=Pos|ExtPos=ADP	37	amod	37:amod	_
@@ -24189,8 +24189,8 @@
 6	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	8:det	_
 7	second	second	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	8	amod	8:amod	_
 8	boundary	boundary	NOUN	NN	Number=Sing	4	nmod	4:nmod:from	_
-9	up	up	ADP	RB	_	13	case	13:case	_
-10	to	to	ADP	IN	_	9	fixed	9:fixed	_
+9	up	up	ADP	IN	_	13	case	13:case	_
+10	to	to	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	outer	outer	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	boundary	boundary	NOUN	NN	Number=Sing	4	nmod	4:nmod:up_to	SpaceAfter=No
