@@ -18076,7 +18076,7 @@
 6	spared	spare	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
 7	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 8	life	life	NOUN	NN	Number=Sing	6	obj	6:obj	_
-9	so	so	SCONJ	IN	_	13	mark	13:mark	_
+9	so	so	SCONJ	IN	ExtPos=SCONJ	13	mark	13:mark	_
 10	that	that	SCONJ	IN	_	9	fixed	9:fixed	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 12	might	might	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
@@ -19293,7 +19293,7 @@
 29	ocean	ocean	NOUN	NN	Number=Sing	30	compound	30:compound	_
 30	surface	surface	NOUN	NN	Number=Sing	24	obl	24:obl:on	_
 31	-	-	PUNCT	:	_	24	punct	24:punct	_
-32	so	so	SCONJ	IN	_	36	mark	36:mark	_
+32	so	so	SCONJ	IN	ExtPos=SCONJ	36	mark	36:mark	_
 33	that	that	SCONJ	IN	_	32	fixed	32:fixed	_
 34	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	36	nsubj	36:nsubj	_
 35	would	would	AUX	MD	VerbForm=Fin	36	aux	36:aux	_
