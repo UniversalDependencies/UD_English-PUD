@@ -7210,8 +7210,8 @@
 11	that	that	PRON	WDT	PronType=Rel	12	nsubj	8:ref	_
 12	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	_
 13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj|17:nsubj:xsubj	_
-14	all	all	DET	PDT	PronType=Tot	16	advmod	16:advmod	_
-15	the	the	DET	DT	Definite=Def|PronType=Art	14	fixed	14:fixed	_
+14	all	all	ADV	RB	_	16	advmod	16:advmod	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 16	more	more	ADV	RBR	_	17	advmod	17:advmod	_
 17	appealing	appealing	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	SpaceAfter=No
 18	.	.	PUNCT	.	_	5	punct	5:punct	_
