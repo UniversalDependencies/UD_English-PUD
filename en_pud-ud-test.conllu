@@ -6763,7 +6763,7 @@
 8	would	would	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
 9	contain	contain	VERB	VB	VerbForm=Inf	6	ccomp	6:ccomp	_
 10	more	more	ADJ	RBR	_	11	amod	11:amod	_
-11	plastic	plastic	ADJ	JJ	Degree=Pos	9	obj	9:obj	_
+11	plastic	plastic	NOUN	NNS	Number=Sing	9	obj	9:obj	_
 12	than	than	ADP	IN	_	13	case	13:case	_
 13	fish	fish	NOUN	NNS	Number=Plur	10	obl	10:obl:than	_
 14	by	by	ADP	IN	_	15	case	15:case	_
