@@ -20181,9 +20181,9 @@
 7	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	8	amod	8:amod	_
 8	hour	hour	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
 9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
-10	more	more	ADV	RBR	_	13	advmod	13:advmod	_
-11	or	or	CCONJ	CC	_	10	fixed	10:fixed	_
-12	less	less	ADV	RBR	Degree=Cmp	10	fixed	10:fixed	_
+10	more	more	ADV	RBR	Degree=Cmp	13	advmod	13:advmod	_
+11	or	or	CCONJ	CC	_	12	cc	12:cc	_
+12	less	less	ADV	RBR	Degree=Cmp	10	conj	10:conj:or|13:advmod	_
 13	equal	equal	ADJ	JJ	Degree=Pos	0	root	0:root	_
 14	to	to	ADP	IN	_	16	case	16:case	_
 15	45	45	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	16:nummod	_
