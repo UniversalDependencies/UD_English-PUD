@@ -11555,7 +11555,7 @@
 7	population	population	NOUN	NN	Number=Sing	5	obj	5:obj	_
 8	of	of	ADP	IN	_	13	case	13:case	_
 9	close	close	ADJ	JJ	Degree=Pos	13	advmod	13:advmod	_
-10	to	to	ADP	IN	_	9	fixed	9:fixed	_
+10	to	to	ADP	IN	_	13	case	13:case	_
 11	half	half	DET	PDT	NumForm=Word|NumType=Frac|PronType=Ind	13	compound	13:compound	_
 12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
 13	million	million	NUM	CD	NumForm=Word|NumType=Card	7	nmod	7:nmod:of	SpaceAfter=No
