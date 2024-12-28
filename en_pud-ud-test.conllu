@@ -5404,8 +5404,8 @@
 21	photographs	photograph	NOUN	NNS	Number=Plur	17	obl	17:obl:in|23:nsubj	_
 22	that	that	PRON	WDT	PronType=Rel	23	nsubj	21:ref	_
 23	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21	acl:relcl	21:acl:relcl	_
-24	as	as	SCONJ	IN	_	30	case	30:case	_
-25	if	if	SCONJ	IN	_	24	fixed	24:fixed	_
+24	as	as	SCONJ	IN	ExtPos=SCONJ	30	mark	30:mark	_
+25	if	if	ADP	IN	_	24	fixed	24:fixed	_
 26	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	30:nsubj	_
 27	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	30	cop	30:cop	_
 28	from	from	ADP	IN	_	30	case	30:case	_
