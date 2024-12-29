@@ -14246,11 +14246,11 @@
 2	Macedonian	Macedonian	ADJ	JJ	Degree=Pos	3	amod	3:amod	Proper=True
 3	army	army	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	advanced	advance	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	as	as	ADV	RB	_	9	case	9:case	_
-6	far	far	ADV	RB	Degree=Pos	5	fixed	5:fixed	_
-7	as	as	ADP	IN	_	5	fixed	5:fixed	_
+5	as	as	ADV	RB	_	6	advmod	6:advmod	_
+6	far	far	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
+7	as	as	ADP	IN	_	9	case	9:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
-9	pass	pass	NOUN	NN	Number=Sing	4	obl	4:obl:as_far_as|13:nsubj	_
+9	pass	pass	NOUN	NN	Number=Sing	6	obl	6:obl:as|13:nsubj	_
 10	of	of	ADP	IN	_	11	case	11:case	_
 11	Thermopylae	Thermopylae	PROPN	NNP	Number=Sing	9	nmod	9:nmod:of	_
 12	which	which	PRON	WDT	PronType=Rel	13	nsubj	9:ref	_
