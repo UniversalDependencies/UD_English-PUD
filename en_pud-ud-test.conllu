@@ -11724,6 +11724,7 @@
 
 # sent_id = w01045005
 # text = From the 16th century, Europeans visiting the Caribbean region identified the "South Sea" (the Pacific Ocean, to the south of the isthmus of Panama) as opposed to the "North Sea" (the Caribbean Sea, to the north of the same isthmus).
+# notes = "as opposed to" is often treated as "fixed", but here "opposed" is used to literally mean "on the other side of"
 1	From	from	ADP	IN	_	4	case	4:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	16th	16th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
@@ -11754,13 +11755,13 @@
 28	of	of	ADP	IN	_	29	case	29:case	Proper=True
 29	Panama	Panama	PROPN	NNP	Number=Sing	27	nmod	27:nmod:of	SpaceAfter=No
 30	)	)	PUNCT	-RRB-	_	20	punct	20:punct	_
-31	as	as	SCONJ	IN	_	37	mark	37:mark	_
-32	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	31	fixed	31:fixed	_
-33	to	to	ADP	IN	_	31	fixed	31:fixed	_
+31	as	as	SCONJ	IN	_	32	mark	32:mark	_
+32	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	11	xcomp	11:xcomp	_
+33	to	to	ADP	IN	_	37	case	37:case	_
 34	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
 35	"	"	PUNCT	``	_	37	punct	37:punct	SpaceAfter=No
 36	North	North	PROPN	NNP	Number=Sing	37	compound	37:compound	_
-37	Sea	Sea	PROPN	NNP	Number=Sing	11	advcl	11:advcl:as_opposed_to	SpaceAfter=No
+37	Sea	Sea	PROPN	NNP	Number=Sing	32	obl	32:obl:to	SpaceAfter=No
 38	"	"	PUNCT	''	_	37	punct	37:punct	_
 39	(	(	PUNCT	-LRB-	_	42	punct	42:punct	SpaceAfter=No
 40	the	the	DET	DT	Definite=Def|PronType=Art	42	det	42:det	_
@@ -16431,7 +16432,7 @@
 10	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	12	amod	12:amod	_
 11	non-white	non-white	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	princess	princess	NOUN	NN	Number=Sing	7	xcomp	7:xcomp	_
-13	as	as	SCONJ	IN	_	19	mark	19:mark	_
+13	as	as	SCONJ	IN	ExtPos=SCONJ	19	mark	19:mark	_
 14	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	13	fixed	13:fixed	_
 15	to	to	ADP	IN	_	13	fixed	13:fixed	_
 16	being	be	AUX	VBG	VerbForm=Ger	19	cop	19:cop	_
