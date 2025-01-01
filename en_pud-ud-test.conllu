@@ -1075,7 +1075,7 @@
 29	in	in	ADP	IN	_	31	case	31:case	_
 30	civil	civil	ADJ	JJ	Degree=Pos	31	amod	31:amod	_
 31	aviation	aviation	NOUN	NN	Number=Sing	28	nmod	28:nmod:in	_
-32	as	as	ADV	RB	_	35	cc	35:cc	_
+32	as	as	ADV	RB	ExtPos=CCONJ	35	cc	35:cc	_
 33	well	well	ADV	RB	Degree=Pos	32	fixed	32:fixed	_
 34	as	as	ADP	IN	_	32	fixed	32:fixed	_
 35	defence	defence	NOUN	NN	Number=Sing	31	conj	28:nmod:in|31:conj:as_well_as	SpaceAfter=No
@@ -1147,11 +1147,11 @@
 25	Twitter	Twitter	PROPN	NNP	Number=Sing	23	conj	20:nmod:such_as|23:conj:as_well_as	_
 26	and	and	CCONJ	CC	_	27	cc	27:cc	_
 27	Spotify	Spotify	PROPN	NNP	Number=Sing	23	conj	20:nmod:such_as|23:conj:and	_
-28	as	as	ADV	RB	_	32	cc	32:cc	_
+28	as	as	ADV	RB	ExtPos=CCONJ	32	cc	32:cc	_
 29	well	well	ADV	RB	Degree=Pos	28	fixed	28:fixed	_
 30	as	as	ADP	IN	_	28	fixed	28:fixed	_
 31	many	many	ADJ	JJ	Degree=Pos	32	amod	32:amod	_
-32	others	other	NOUN	NNS	Number=Plur	23	conj	20:nmod:such_as|23:conj:and	SpaceAfter=No
+32	others	other	NOUN	NNS	Number=Plur	23	conj	20:nmod:such_as|23:conj:as_well_as	SpaceAfter=No
 33	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 # sent_id = n01021012
@@ -10048,7 +10048,7 @@
 9	and	and	CCONJ	CC	_	10	cc	10:cc	_
 10	war	war	NOUN	NN	Number=Sing	5	conj	3:nmod:for|5:conj:and	SpaceAfter=No
 11	,	,	PUNCT	,	_	15	punct	15:punct	_
-12	as	as	ADV	RB	_	15	cc	15:cc	_
+12	as	as	ADV	RB	ExtPos=CCONJ	15	cc	15:cc	_
 13	well	well	ADV	RB	Degree=Pos	12	fixed	12:fixed	_
 14	as	as	ADP	IN	_	12	fixed	12:fixed	_
 15	food	food	NOUN	NN	Number=Sing	3	conj	2:obj|3:conj:as_well_as	_
@@ -11956,12 +11956,12 @@
 13	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
 14	lobbyists	lobbyist	NOUN	NNS	Number=Plur	11	conj	7:nmod:of|11:conj:and	SpaceAfter=No
 15	,	,	PUNCT	,	_	21	punct	21:punct	_
-16	as	as	ADV	RB	_	21	cc	21:cc	_
+16	as	as	ADV	RB	ExtPos=CCONJ	21	cc	21:cc	_
 17	well	well	ADV	RB	Degree=Pos	16	fixed	16:fixed	_
 18	as	as	ADP	IN	_	16	fixed	16:fixed	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
 20	wide	wide	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
-21	swath	swath	NOUN	NN	Number=Sing	11	conj	7:nmod:of|11:conj:and	_
+21	swath	swath	NOUN	NN	Number=Sing	11	conj	7:nmod:of|11:conj:as_well_as	_
 22	of	of	ADP	IN	_	25	case	25:case	_
 23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	_
 24	American	American	ADJ	JJ	Degree=Pos	25	amod	25:amod	Proper=True
@@ -16457,8 +16457,8 @@
 12	social	social	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	hierarchy	hierarchy	NOUN	NN	Number=Sing	7	conj	5:obj|7:conj:as_well_as	SpaceAfter=No
 14	,	,	PUNCT	,	_	18	punct	18:punct	_
-15	as	as	ADV	RB	_	18	cc	18:cc	_
-16	well	well	ADJ	JJ	Degree=Pos	15	fixed	15:fixed	_
+15	as	as	ADV	RB	ExtPos=CCONJ	18	cc	18:cc	_
+16	well	well	ADV	RB	Degree=Pos	15	fixed	15:fixed	_
 17	as	as	ADP	IN	_	15	fixed	15:fixed	_
 18	life	life	NOUN	NN	Number=Sing	7	conj	5:obj|7:conj:as_well_as	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	20:punct	_
@@ -18786,7 +18786,7 @@
 40	sanctions	sanction	NOUN	NNS	Number=Plur	37	nmod	37:nmod:of	_
 41	against	against	ADP	IN	_	42	case	42:case	_
 42	Russia	Russia	PROPN	NNP	Number=Sing	40	nmod	40:nmod:against	_
-43	as	as	ADV	RB	_	46	cc	46:cc	_
+43	as	as	ADV	RB	ExtPos=CCONJ	46	cc	46:cc	_
 44	well	well	ADV	RB	Degree=Pos	43	fixed	43:fixed	_
 45	as	as	ADP	IN	_	43	fixed	43:fixed	_
 46	reimburse	reimburse	VERB	VB	VerbForm=Inf	23	conj	21:xcomp|23:conj:as_well_as	_
@@ -22550,7 +22550,7 @@
 # sent_id = w02019048
 # text = Privately as well as publicly, Springer vigorously pursued reconciliation with the Jewish people and took many trips to Israel.
 1	Privately	privately	ADV	RB	_	9	advmod	9:advmod	_
-2	as	as	ADV	RB	_	5	cc	5:cc	_
+2	as	as	ADV	RB	ExtPos=CCONJ	5	cc	5:cc	_
 3	well	well	ADV	RB	Degree=Pos	2	fixed	2:fixed	_
 4	as	as	ADP	IN	_	2	fixed	2:fixed	_
 5	publicly	publicly	ADV	RB	_	1	conj	1:conj:as_well_as|9:advmod	SpaceAfter=No
