@@ -10774,7 +10774,7 @@
 12	plants	plant	NOUN	NNS	Number=Plur	6	obl	6:obl:in	SpaceAfter=No
 13	,	,	PUNCT	,	_	6	punct	6:punct	_
 14	generating	generate	VERB	VBG	VerbForm=Ger	6	advcl	6:advcl	_
-15	as	as	ADV	RB	_	18	advmod	18:advmod	_
+15	as	as	ADV	RB	ExtPos=ADV	18	advmod	18:advmod	_
 16	much	much	ADJ	JJ	Degree=Pos	15	fixed	15:fixed	_
 17	as	as	ADP	IN	_	15	fixed	15:fixed	_
 18	2900	2900	NUM	CD	NumForm=Digit|NumType=Card	19	nummod	19:nummod	_
