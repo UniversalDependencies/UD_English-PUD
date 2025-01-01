@@ -14182,7 +14182,7 @@
 21	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	aux:pass	22:aux:pass	_
 22	targeted	target	VERB	VBN	Tense=Past|VerbForm=Part	15	conj	15:conj:but	_
 23	there	there	ADV	RB	PronType=Dem	22	advmod	22:advmod	_
-24	as	as	ADV	RB	_	22	advmod	22:advmod	_
+24	as	as	ADV	RB	ExtPos=ADV	22	advmod	22:advmod	_
 25	well	well	ADV	RB	Degree=Pos	24	fixed	24:fixed	SpaceAfter=No
 26	.	.	PUNCT	.	_	3	punct	3:punct	_
 
