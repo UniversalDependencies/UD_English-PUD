@@ -13,7 +13,7 @@
 10	in	in	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	United	United	ADJ	NNP	Degree=Pos	13	amod	13:amod	_
-13	States	States	PROPN	NNPS	Number=Plur	9	obl	9:obl:in	SpaceAfter=No
+13	States	State	PROPN	NNPS	Number=Plur	9	obl	9:obl:in	SpaceAfter=No
 14	,	,	PUNCT	,	_	20	punct	20:punct	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 16	peaceful	peaceful	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
@@ -525,7 +525,7 @@
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	time	time	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	8:punct	_
-6	Mr	Mr	PROPN	NNP	Number=Sing	7	nmod:desc	7:nmod:desc	_
+6	Mr	Mr.	PROPN	NNP	Number=Sing	7	nmod:desc	7:nmod:desc	_
 7	Panvalkar	Panvalkar	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 8	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -639,7 +639,7 @@
 # newdoc id = n01013
 # sent_id = n01013005
 # text = Mr Osborne signed up with a US speakers agency after being sacked in July.
-1	Mr	Mr	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	_
+1	Mr	Mr.	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	_
 2	Osborne	Osborne	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	signed	sign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	up	up	PART	RP	_	3	compound:prt	3:compound:prt	_
@@ -1768,7 +1768,7 @@
 4	Seagal	Seagal	PROPN	NNP	Number=Sing	6	nsubj:pass	6:nsubj:pass	_
 5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	given	give	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-7	Serbian	serbian	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
+7	Serbian	Serbian	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
 8	nationality	nationality	NOUN	NN	Number=Sing	6	obj	6:obj	_
 9	after	after	SCONJ	IN	_	10	mark	10:mark	_
 10	offering	offer	VERB	VBG	VerbForm=Ger	6	advcl	6:advcl:after	_
@@ -2122,7 +2122,7 @@
 10	of	of	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	United	United	ADJ	NNP	Degree=Pos	13	amod	13:amod	_
-13	States	States	PROPN	NNPS	Number=Plur	9	nmod	9:nmod:of	SpaceAfter=No
+13	States	State	PROPN	NNPS	Number=Plur	9	nmod	9:nmod:of	SpaceAfter=No
 14	,	,	PUNCT	,	_	9	punct	9:punct	_
 15	whoever	whoever	PRON	WP	PronType=Rel	9	acl:relcl	9:acl:relcl	_
 16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
@@ -6080,7 +6080,7 @@
 7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	8:aux:pass	_
 8	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	_
 9	by	by	ADP	IN	_	11	case	11:case	_
-10	pro-Beijing	pro-beijing	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	pro-Beijing	pro-Beijing	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	lawmakers	lawmaker	NOUN	NNS	Number=Plur	8	obl	8:obl:by	SpaceAfter=No
 12	,	,	PUNCT	,	_	4	punct	4:punct	_
 13	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
@@ -6398,7 +6398,7 @@
 6	,	,	PUNCT	,	_	3	punct	3:punct	_
 7	focusing	focus	VERB	VBG	VerbForm=Ger	2	acl	2:acl	_
 8	on	on	ADP	IN	_	10	case	10:case	_
-9	Mr	Mr	PROPN	NNP	Number=Sing	10	nmod:desc	10:nmod:desc	_
+9	Mr	Mr.	PROPN	NNP	Number=Sing	10	nmod:desc	10:nmod:desc	_
 10	Winterkorn	Winterkorn	PROPN	NNP	Number=Sing	7	obl	7:obl:on	_
 11	and	and	CCONJ	CC	_	13	cc	13:cc	_
 12	brand	brand	NOUN	NN	Number=Sing	13	compound	13:compound	_
@@ -7690,7 +7690,7 @@
 21	to	to	ADP	IN	_	24	case	24:case	_
 22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
 23	United	United	PROPN	NNP	Number=Sing	24	compound	24:compound	_
-24	States	States	PROPN	NNPS	Number=Plur	20	obl	20:obl:to	SpaceAfter=No
+24	States	State	PROPN	NNPS	Number=Plur	20	obl	20:obl:to	SpaceAfter=No
 25	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 # newdoc id = n01131
@@ -7700,7 +7700,7 @@
 2	than	than	ADP	IN	_	1	fixed	1:fixed	_
 3	5.7	5.7	NUM	CD	NumForm=Digit|NumType=Card	4	compound	4:compound	_
 4	million	million	NUM	CD	NumForm=Word|NumType=Card	5	nummod	5:nummod	_
-5	Floridians	Floridians	PROPN	NNPS	Number=Plur	8	nsubj	8:nsubj	_
+5	Floridians	Floridian	PROPN	NNPS	Number=Plur	8	nsubj	8:nsubj	_
 6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 7	already	already	ADV	RB	_	8	advmod	8:advmod	_
 8	hit	hit	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
@@ -8423,7 +8423,7 @@
 # sent_id = n01143009
 # text = Two Australians, who by their own admission are terrible golfers, bluffed their way into a premier golf tournament in North Korea.
 1	Two	two	NUM	CD	NumForm=Word|NumType=Card	2	nummod	2:nummod	_
-2	Australians	Australians	PROPN	NNPS	Number=Plur	13	nsubj	11:nsubj|13:nsubj	SpaceAfter=No
+2	Australians	Australian	PROPN	NNPS	Number=Plur	13	nsubj	11:nsubj|13:nsubj	SpaceAfter=No
 3	,	,	PUNCT	,	_	11	punct	11:punct	_
 4	who	who	PRON	WP	PronType=Rel	11	nsubj	2:ref	_
 5	by	by	ADP	IN	_	8	case	8:case	_
@@ -9128,7 +9128,7 @@
 33	such	such	ADJ	JJ	Degree=Pos|ExtPos=ADP	37	case	37:case	_
 34	as	as	ADP	IN	_	33	fixed	33:fixed	_
 35	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
-36	Megarian	megarian	ADJ	JJ	Degree=Pos|ExtPos=ADP	37	amod	37:amod	_
+36	Megarian	Megarian	ADJ	JJ	Degree=Pos|ExtPos=ADP	37	amod	37:amod	_
 37	colony	colony	NOUN	NN	Number=Sing	27	nmod	27:nmod:such_as	_
 38	Byzantium	Byzantium	PROPN	NNP	Number=Sing	37	appos	37:appos	SpaceAfter=No
 39	.	.	PUNCT	.	_	23	punct	23:punct	_
@@ -9169,7 +9169,7 @@
 11	,	,	PUNCT	,	_	14	punct	14:punct	_
 12	and	and	CCONJ	CC	_	14	cc	14:cc	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
-14	Paeonians	Paeonians	PROPN	NNPS	Number=Plur	5	conj	4:obj|5:conj:and	SpaceAfter=No
+14	Paeonians	Paeonian	PROPN	NNPS	Number=Plur	5	conj	4:obj|5:conj:and	SpaceAfter=No
 15	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # sent_id = w01005022
@@ -9473,7 +9473,7 @@
 14	Migration	migration	NOUN	NN	Number=Sing	15	compound	15:compound	_
 15	Period	period	PROPN	NN	Number=Sing	9	obl	9:obl:during	_
 16	before	before	SCONJ	IN	_	18	mark	18:mark	_
-17	Slavs	Slavs	PROPN	NNPS	Number=Plur	18	nsubj	18:nsubj	_
+17	Slavs	Slav	PROPN	NNPS	Number=Plur	18	nsubj	18:nsubj	_
 18	established	establish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	9:advcl:before	_
 19	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	18	obj	18:obj	_
 20	in	in	ADP	IN	_	23	case	23:case	_
@@ -10122,7 +10122,7 @@
 15	states	state	NOUN	NNS	Number=Plur	0	root	0:root|20:nmod	_
 16	and	and	CCONJ	CC	_	18	cc	18:cc	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
-18	Phoenicians	Phoenicians	PROPN	NNPS	Number=Plur	15	conj	15:conj:and|20:nmod	SpaceAfter=No
+18	Phoenicians	Phoenician	PROPN	NNPS	Number=Plur	15	conj	15:conj:and|20:nmod	SpaceAfter=No
 19	,	,	PUNCT	,	_	15	punct	15:punct	_
 20	both	both	DET	DT	PronType=Tot	24	nsubj	24:nsubj	_
 21	of	of	ADP	IN	_	22	case	22:case	_
@@ -10148,7 +10148,7 @@
 8	Empire	Empire	PROPN	NNP	Number=Sing	5	obj	5:obj	SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	12:punct	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
-11	Romans	Romans	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	_
+11	Romans	Roman	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	_
 12	referred	refer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 13	to	to	ADP	IN	_	15	case	15:case	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
@@ -10640,7 +10640,7 @@
 # sent_id = w01029049
 # text = Native Americans across the Americas relied on it as a staple of their medical treatments.
 1	Native	native	ADJ	JJ	Degree=Pos	2	amod	2:amod	Proper=True
-2	Americans	Americans	PROPN	NNPS	Number=Plur	6	nsubj	6:nsubj	_
+2	Americans	American	PROPN	NNPS	Number=Plur	6	nsubj	6:nsubj	_
 3	across	across	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	Americas	Americas	PROPN	NNPS	Number=Plur	2	nmod	2:nmod:across	_
@@ -10969,7 +10969,7 @@
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	when	when	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
 10	eastern	eastern	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
-11	Melanesians	Melanesians	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	_
+11	Melanesians	Melanesian	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	_
 12	travelled	travel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	4:advcl	_
 13	north	north	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
 14	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -11321,7 +11321,7 @@
 10	by	by	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	Australian	Australian	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
-13	Aborigines	Aborigines	PROPN	NNPS	Number=Plur	9	obl	9:obl:by	_
+13	Aborigines	Aborigine	PROPN	NNPS	Number=Plur	9	obl	9:obl:by	_
 14	of	of	ADP	IN	_	16	case	16:case	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 16	region	region	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	SpaceAfter=No
@@ -11631,7 +11631,7 @@
 6	derives	derive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	from	from	ADP	IN	_	9	case	9:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
-9	Caribs	Caribs	PROPN	NNPS	Number=Plur	6	obl	6:obl:from	SpaceAfter=No
+9	Caribs	Carib	PROPN	NNPS	Number=Plur	6	obl	6:obl:from	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	11:punct	_
 11	one	one	NUM	CD	NumForm=Word|NumType=Card	9	appos	9:appos	_
 12	of	of	ADP	IN	_	17	case	17:case	_
@@ -11730,10 +11730,10 @@
 3	16th	16th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	century	century	NOUN	NN	Number=Sing	11	obl	11:obl:from	SpaceAfter=No
 5	,	,	PUNCT	,	_	11	punct	11:punct	_
-6	Europeans	Europeans	PROPN	NNPS	Number=Plur	11	nsubj	11:nsubj	_
+6	Europeans	European	PROPN	NNPS	Number=Plur	11	nsubj	11:nsubj	_
 7	visiting	visit	VERB	VBG	VerbForm=Ger	6	acl	6:acl	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-9	Caribbean	caribbean	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+9	Caribbean	Caribbean	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
 10	region	region	NOUN	NN	Number=Sing	7	obj	7:obj	_
 11	identified	identify	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
@@ -11800,7 +11800,7 @@
 18	first	first	ADV	RB	_	19	advmod	19:advmod	_
 19	sailed	sail	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	13:acl:relcl	_
 20	into	into	ADP	IN	_	22	case	22:case	_
-21	Caribbean	caribbean	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
+21	Caribbean	Caribbean	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
 22	waters	water	NOUN	NNS	Number=Plur	19	obl	19:obl:into	_
 23	on	on	ADP	IN	_	25	case	25:case	_
 24	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	25:det	_
@@ -13646,7 +13646,7 @@
 13	two	two	NUM	CD	NumForm=Word|NumType=Card	11	obl	11:obl:in	_
 14	by	by	ADP	IN	_	16	case	16:case	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
-16	Romans	Romans	PROPN	NNPS	Number=Plur	11	obl	11:obl:by	_
+16	Romans	Roman	PROPN	NNPS	Number=Plur	11	obl	11:obl:by	_
 17	for	for	ADP	IN	_	19	case	19:case	_
 18	administrative	administrative	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
 19	purposes	purpose	NOUN	NNS	Number=Plur	11	obl	11:obl:for	SpaceAfter=No
@@ -14045,7 +14045,7 @@
 10	tide	tide	NOUN	NN	Number=Sing	8	obj	8:obj	_
 11	against	against	ADP	IN	_	13	case	13:case	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
-13	Ottomans	Ottomans	PROPN	NNPS	Number=Plur	8	obl	8:obl:against	_
+13	Ottomans	Ottoman	PROPN	NNPS	Number=Plur	8	obl	8:obl:against	_
 14	on	on	ADP	IN	_	18	case	18:case	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 16	Middle	Middle	PROPN	NNP	Number=Sing	17	compound	17:compound	_
@@ -14172,7 +14172,7 @@
 11	of	of	ADP	IN	_	14	case	14:case	_
 12	these	this	DET	DT	Number=Plur|PronType=Dem	14	det	14:det	_
 13	Spanish	Spanish	ADJ	JJ	Degree=Pos	14	amod	14:amod	Proper=True
-14	Jews	Jews	PROPN	NNPS	Number=Plur	10	nmod	10:nmod:of	_
+14	Jews	Jew	PROPN	NNPS	Number=Plur	10	nmod	10:nmod:of	_
 15	left	leave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	_
 16	Spain	Spain	PROPN	NNP	Number=Sing	15	obj	15:obj	_
 17	for	for	ADP	IN	_	18	case	18:case	_
@@ -14278,12 +14278,12 @@
 34	joint	joint	ADJ	JJ	Degree=Pos	35	amod	35:amod	_
 35	force	force	NOUN	NN	Number=Sing	31	obl	31:obl:by	_
 36	of	of	ADP	IN	_	37	case	37:case	_
-37	Athenians	Athenians	PROPN	NNPS	Number=Plur	35	nmod	35:nmod:of	SpaceAfter=No
+37	Athenians	Athenian	PROPN	NNPS	Number=Plur	35	nmod	35:nmod:of	SpaceAfter=No
 38	,	,	PUNCT	,	_	39	punct	39:punct	_
-39	Spartans	Spartans	PROPN	NNPS	Number=Plur	37	conj	35:nmod:of|37:conj:and	SpaceAfter=No
+39	Spartans	Spartan	PROPN	NNPS	Number=Plur	37	conj	35:nmod:of|37:conj:and	SpaceAfter=No
 40	,	,	PUNCT	,	_	42	punct	42:punct	_
 41	and	and	CCONJ	CC	_	42	cc	42:cc	_
-42	Achaeans	Achaeans	PROPN	NNP	Number=Sing	37	conj	35:nmod:of|37:conj:and	SpaceAfter=No
+42	Achaeans	Achaean	PROPN	NNP	Number=Sing	37	conj	35:nmod:of|37:conj:and	SpaceAfter=No
 43	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # sent_id = w01080132
@@ -14505,7 +14505,7 @@
 # text = The United States freed Cuba (after an occupation by the U.S. Army).
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	United	United	ADJ	NNP	Degree=Pos	3	amod	3:amod	_
-3	States	States	PROPN	NNPS	Number=Plur	4	nsubj	4:nsubj	_
+3	States	State	PROPN	NNPS	Number=Plur	4	nsubj	4:nsubj	_
 4	freed	free	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	Cuba	Cuba	PROPN	NNP	Number=Sing	4	obj	4:obj	_
 6	(	(	PUNCT	-LRB-	_	9	punct	9:punct	SpaceAfter=No
@@ -14530,7 +14530,7 @@
 7	to	to	ADP	IN	_	10	case	10:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 9	United	United	ADJ	NNP	Degree=Pos	10	amod	10:amod	_
-10	States	States	PROPN	NNPS	Number=Plur	6	obl	6:obl:to	_
+10	States	State	PROPN	NNPS	Number=Plur	6	obl	6:obl:to	_
 11	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
 12	colonies	colony	NOUN	NNS	Number=Plur	6	obj	6:obj	_
 13	of	of	ADP	IN	_	15	case	15:case	_
@@ -15092,7 +15092,7 @@
 9	war	war	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	13:punct	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-12	Allies	Allies	PROPN	NNPS	Number=Plur	13	nsubj	13:nsubj	_
+12	Allies	Ally	PROPN	NNPS	Number=Plur	13	nsubj	13:nsubj	_
 13	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 14	significant	significant	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	advantages	advantage	NOUN	NNS	Number=Plur	13	obj	13:obj	_
@@ -17561,7 +17561,7 @@
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	May	May	PROPN	NNP	Number=Sing	7	obl	7:obl:in	SpaceAfter=No
 3	,	,	PUNCT	,	_	7	punct	7:punct	_
-4	Czech	czech	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+4	Czech	Czech	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 5	border	border	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	guards	guard	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
 7	shot	shoot	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -19784,7 +19784,7 @@
 3	,	,	PUNCT	,	_	10	punct	10:punct	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	United	United	ADJ	NNP	Degree=Pos	6	amod	6:amod	_
-6	States	States	PROPN	NNPS	Number=Plur	10	nsubj	10:nsubj	_
+6	States	State	PROPN	NNPS	Number=Plur	10	nsubj	10:nsubj	_
 7	of	of	ADP	IN	_	8	case	8:case	Proper=True
 8	America	America	PROPN	NNP	Number=Sing	6	nmod	6:nmod:of	_
 9	could	could	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
@@ -20380,7 +20380,7 @@
 7	Italy	Italy	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	5:ccomp	_
 9	fewer	few	ADJ	JJR	Degree=Cmp	10	amod	10:amod	_
-10	km	km	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+10	km	kilometer	NOUN	NNS	Number=Plur	8	obj	8:obj	_
 11	of	of	ADP	IN	_	13	case	13:case	_
 12	underground	underground	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	line	line	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_
@@ -21794,7 +21794,7 @@
 10	relaxation	relaxation	NOUN	NN	Number=Sing	8	conj	6:nmod:of|8:conj:and	_
 11	for	for	ADP	IN	_	12	case	12:case	_
 12	San	San	PROPN	NNP	Number=Sing	6	nmod	6:nmod:for	_
-13	Franciscans	Franciscans	PROPN	NNPS	Number=Plur	12	flat	12:flat	SpaceAfter=No
+13	Franciscans	Franciscan	PROPN	NNPS	Number=Plur	12	flat	12:flat	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = w02005028
@@ -21927,7 +21927,7 @@
 # sent_id = w02007061
 # text = The Ottomans wanted to prevent grain from being further transported because they had a great need for it.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
-2	Ottomans	Ottomans	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+2	Ottomans	Ottoman	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj|5:nsubj:xsubj	_
 3	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	prevent	prevent	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
@@ -22246,7 +22246,7 @@
 6	by	by	ADP	IN	_	9	case	9:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 8	National	National	PROPN	NNP	Number=Sing	9	compound	9:compound	_
-9	Socialists	Socialists	PROPN	NNPS	Number=Plur	5	nmod	5:nmod:by	_
+9	Socialists	Socialist	PROPN	NNPS	Number=Plur	5	nmod	5:nmod:by	_
 10	in	in	ADP	IN	_	11	case	11:case	_
 11	1933	1933	NUM	CD	NumForm=Digit|NumType=Card	3	nmod	3:nmod:in	_
 12	there	there	PRON	EX	_	13	expl	13:expl	_
@@ -22852,10 +22852,10 @@
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
 10	but	but	CCONJ	CC	_	13	cc	13:cc	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-12	Greeks	Greeks	PROPN	NNPS	Number=Plur	13	nsubj	13:nsubj	_
+12	Greeks	Greek	PROPN	NNPS	Number=Plur	13	nsubj	13:nsubj	_
 13	adopted	adopt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:but	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
-15	Phoenician	phoenician	ADJ	JJ	Degree=Pos	16	amod	16:amod	Proper=True
+15	Phoenician	Phoenician	ADJ	JJ	Degree=Pos	16	amod	16:amod	Proper=True
 16	alphabet	alphabet	NOUN	NN	Number=Sing	13	obj	13:obj	SpaceAfter=No
 17	,	,	PUNCT	,	_	13	punct	13:punct	_
 18	modifying	modify	VERB	VBG	VerbForm=Ger	13	advcl	13:advcl	_
@@ -24028,7 +24028,7 @@
 14	number	number	NOUN	NN	Number=Sing	8	obl	8:obl:because_of	_
 15	of	of	ADP	IN	_	17	case	17:case	_
 16	converted	converted	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
-17	Jews	Jews	PROPN	NNPS	Number=Plur	14	nmod	14:nmod:of|19:nsubj	_
+17	Jews	Jew	PROPN	NNPS	Number=Plur	14	nmod	14:nmod:of|19:nsubj	_
 18	who	who	PRON	WP	PronType=Rel	19	nsubj	17:ref	_
 19	lived	live	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	acl:relcl	17:acl:relcl	_
 20	in	in	ADP	IN	_	21	case	21:case	_
