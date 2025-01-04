@@ -10072,7 +10072,7 @@
 
 # sent_id = w01020018
 # text = Due to the shared climate, geology, and access to the sea, cultures centered on the Mediterranean tended to have some extent of intertwined culture and history.
-1	Due	due	ADP	IN	ExtPos=ADP	5	case	5:case	_
+1	Due	due	ADJ	JJ	ExtPos=ADP	5	case	5:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	5:amod	_
