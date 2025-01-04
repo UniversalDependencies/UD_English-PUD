@@ -2166,7 +2166,7 @@
 29	stabbing	stabbing	NOUN	NN	Number=Sing	25	obl	25:obl:in	_
 30	of	of	ADP	IN	_	33	case	33:case	_
 31	a	a	DET	DT	Definite=Ind|PronType=Art	33	det	33:det	_
-32	teen	teen	NOUN	NN	Number=Sing	33	compound	33:compound	_
+32	teen	teen	ADJ	JJ	Degree=Pos	33	amod	33:amod	_
 33	girl	girl	NOUN	NN	Number=Sing	29	nmod	29:nmod:of	_
 34	at	at	ADP	IN	_	38	case	38:case	_
 35	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	38	nmod:poss	38:nmod:poss	_
