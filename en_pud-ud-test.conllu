@@ -10685,7 +10685,7 @@
 # sent_id = w01030092
 # text = The Alps provide lowland Europe with drinking water, irrigation, and hydroelectric power.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
-2	Alps	Alps	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+2	Alps	Alp	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	lowland	lowland	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	Europe	Europe	PROPN	NNP	Number=Sing	3	obj	3:obj	_
@@ -10718,7 +10718,7 @@
 14	Europe	Europe	PROPN	NNP	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
 15	,	,	PUNCT	,	_	18	punct	18:punct	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
-17	Alps	Alps	PROPN	NNPS	Number=Plur	18	nsubj	18:nsubj	_
+17	Alps	Alp	PROPN	NNPS	Number=Plur	18	nsubj	18:nsubj	_
 18	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 19	up	up	ADP	IN	ExtPos=ADV	22	advmod	22:advmod	_
 20	to	to	ADP	IN	_	19	fixed	19:fixed	_
@@ -10816,7 +10816,7 @@
 29	headwaters	headwater	NOUN	NNS	Number=Plur	28	obj	28:obj	_
 30	in	in	ADP	IN	_	32	case	32:case	_
 31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	32:det	_
-32	Alps	Alps	PROPN	NNPS	Number=Plur	28	obl	28:obl:in	_
+32	Alps	Alp	PROPN	NNPS	Number=Plur	28	obl	28:obl:in	_
 33	and	and	CCONJ	CC	_	34	cc	34:cc	_
 34	flow	flow	VERB	VB	VerbForm=Inf	28	conj	11:acl:relcl|28:conj:and	_
 35	into	into	ADP	IN	_	37	case	37:case	_
@@ -24040,7 +24040,7 @@
 # text = Before the Andes were formed, the western margin of South America had already been the site of several orogenies.
 1	Before	before	SCONJ	IN	_	5	mark	5:mark	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-3	Andes	Andes	PROPN	NNPS	Number=Plur	5	nsubj:pass	5:nsubj:pass	_
+3	Andes	Ande	PROPN	NNPS	Number=Plur	5	nsubj:pass	5:nsubj:pass	_
 4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux:pass	5:aux:pass	_
 5	formed	form	VERB	VBN	Tense=Past|VerbForm=Part	17	advcl	17:advcl:before	SpaceAfter=No
 6	,	,	PUNCT	,	_	17	punct	17:punct	_
@@ -24064,7 +24064,7 @@
 # text = The central Andes belong to the so-called 'Andes de tipo andino' which were formed by the subduction of the oceanic crust.
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	central	central	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
-3	Andes	Andes	PROPN	NNPS	Number=Plur	4	nsubj	4:nsubj	_
+3	Andes	Ande	PROPN	NNPS	Number=Plur	4	nsubj	4:nsubj	_
 4	belong	belong	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	to	to	ADP	IN	_	11	case	11:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
@@ -24072,7 +24072,7 @@
 8	-	-	PUNCT	HYPH	_	9	punct	9:punct	SpaceAfter=No
 9	called	called	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 10	'	'	PUNCT	``	_	11	punct	11:punct	SpaceAfter=No
-11	Andes	andes	X	FW	Foreign=Yes	4	obl	4:obl:to|18:nsubj:pass	_
+11	Andes	Ande	X	FW	Foreign=Yes	4	obl	4:obl:to|18:nsubj:pass	_
 12	de	de	X	FW	Foreign=Yes	11	flat	11:flat	_
 13	tipo	tipo	X	FW	Foreign=Yes	11	flat	11:flat	_
 14	andino	andino	X	FW	_	11	flat	11:flat	SpaceAfter=No
