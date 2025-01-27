@@ -10138,7 +10138,7 @@
 
 # sent_id = w01020020
 # text = Later, when Augustus founded the Roman Empire, the Romans referred to the Mediterranean as Mare Nostrum ("Our Sea").
-1	later	late	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
+1	Later	late	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	12	punct	12:punct	_
 3	when	when	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 4	Augustus	Augustus	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
