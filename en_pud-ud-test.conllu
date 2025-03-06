@@ -13274,7 +13274,7 @@
 8	have	have	AUX	VB	VerbForm=Inf	9	aux	9:aux	_
 9	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	6:xcomp	_
 10	at	at	ADP	IN	_	11	case	11:case	_
-11	least	least	ADJ	JJS	Degree=Sup	12	obl	12:obl:at	_
+11	least	least	ADJ	JJS	Degree=Sup	12	nmod	12:nmod:at	_
 12	parts	part	NOUN	NNS	Number=Plur	9	obj	9:obj	_
 13	of	of	ADP	IN	_	15	case	15:case	_
 14	lower	lower	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
