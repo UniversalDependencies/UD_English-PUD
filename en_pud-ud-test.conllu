@@ -21903,7 +21903,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	Turkish	Turkish	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	Minister	minister	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
-8	President	President	PROPN	NNP	Number=Sing	8	nmod:desc	8:nmod:desc	_
+8	President	President	PROPN	NNP	Number=Sing	9	nmod:desc	9:nmod:desc	_
 9	Erdogan	Erdogan	PROPN	NNP	Number=Sing	7	appos	7:appos	_
 10	announced	announce	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 11	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
