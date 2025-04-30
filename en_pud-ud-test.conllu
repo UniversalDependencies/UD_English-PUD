@@ -11058,7 +11058,7 @@
 21	,	,	PUNCT	,	_	26	punct	26:punct	_
 22	or	or	CCONJ	CC	_	26	cc	26:cc	_
 23	will	will	AUX	MD	VerbForm=Fin	26	aux	26:aux	_
-24	at	at	ADP	IN	_	25	case	25:case:at	_
+24	at	at	ADP	IN	_	25	case	25:case	_
 25	least	least	ADJ	JJS	Degree=Sup	26	obl	26:obl:at	_
 26	mitigate	mitigate	VERB	VB	VerbForm=Inf	14	conj	14:conj:or	_
 27	adverse	adverse	ADJ	JJ	Degree=Pos	28	amod	28:amod	_
