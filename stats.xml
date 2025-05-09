@@ -10,55 +10,57 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>21051</tokens><words>21180</words><fused>129</fused></test>
   </size>
-  <lemmas unique="4564" /><!-- the, ,, ., be, of, in, to, and, a, have, that, ", as, it, for -->
+  <lemmas unique="4553" /><!-- the, ,, ., be, of, in, to, and, a, have, ", that, as, it, for -->
   <forms unique="5367" /><!-- the, ,, ., of, in, to, and, a, was, is, that, ", as, it, for -->
   <fusions unique="93" /><!-- it's, that's, city's, China's, didn't, don't, Disney's, Earth's, Hitchcock's, Kong's, Russia's, Years', can't, company's, director's -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">1550</tag><!-- new, many, more, first, other, such, great, last, high, good -->
-    <tag name="ADP">2486</tag><!-- of, in, to, for, on, with, by, as, at, from -->
-    <tag name="ADV">823</tag><!-- also, when, so, only, well, more, where, however, most, as -->
+    <tag name="ADJ">1554</tag><!-- new, many, more, first, other, such, great, last, high, good -->
+    <tag name="ADP">2489</tag><!-- of, in, to, for, on, with, by, as, at, from -->
+    <tag name="ADV">816</tag><!-- also, when, so, only, well, more, where, however, most, as -->
     <tag name="AUX">1015</tag><!-- be, have, would, will, can, do, could, may, might, should -->
     <tag name="CCONJ">576</tag><!-- and, but, or, both, either, &, /, yet -->
     <tag name="DET">2080</tag><!-- the, a, this, all, that, some, each, no, both, another -->
     <tag name="INTJ">1</tag><!-- hey -->
-    <tag name="NOUN">4019</tag><!-- year, time, people, city, government, day, state, part, century, power -->
-    <tag name="NUM">465</tag><!-- one, two, three, million, 10, four, 1, six, 3, I -->
+    <tag name="NOUN">4020</tag><!-- year, time, people, city, government, day, state, part, century, power -->
+    <tag name="NUM">464</tag><!-- one, two, three, million, 10, four, 1, six, 3, I -->
     <tag name="PART">451</tag><!-- to, 's, not, up -->
     <tag name="PRON">1044</tag><!-- it, he, his, that, they, which, their, I, who, its -->
     <tag name="PROPN">1723</tag><!-- China, Sea, October, Trump, North, War, America, April, Europe, France -->
-    <tag name="PUNCT">2451</tag><!-- ,, ., ", -, (, ), “, ”, :, ' -->
-    <tag name="SCONJ">288</tag><!-- that, as, of, if, after, while, by, for, because, in -->
+    <tag name="PUNCT">2451</tag><!-- ,, ., ", -, (, ), :, ', ;, ? -->
+    <tag name="SCONJ">288</tag><!-- that, as, of, if, after, for, while, by, because, than -->
     <tag name="SYM">42</tag><!-- %, £, $, -, € -->
     <tag name="VERB">2149</tag><!-- have, say, be, take, make, use, become, work, begin, include -->
-    <tag name="X">17</tag><!-- de, 's, _, andes, andino, coup, force, grâce, maiorum, mare -->
+    <tag name="X">17</tag><!-- de, 's, Ande, _, andino, coup, force, grâce, maiorum, mare -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="49">
+  <feats unique="52">
     <feat name="Abbr" value="Yes" upos="NOUN,NUM,PROPN">75</feat><!-- U.S., UK, BBC, bn, CNN, EU, US, USA, B.C., GCA -->
     <feat name="Case" value="Acc" upos="PRON">96</feat><!-- it, him, them, her, us, me, himself, themselves, itself, You -->
     <feat name="Case" value="Nom" upos="PRON">389</feat><!-- it, he, they, I, she, we, you, 'Ya -->
     <feat name="Definite" value="Def" upos="DET">1441</feat><!-- the -->
     <feat name="Definite" value="Ind" upos="DET">444</feat><!-- a, an -->
-    <feat name="Degree" value="Cmp" upos="ADJ,ADV">68</feat><!-- more, earlier, greater, longer, better, less, higher, fewer, lower, Elder -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">69</feat><!-- more, earlier, greater, longer, better, less, higher, fewer, lower, Elder -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">1496</feat><!-- new, many, first, other, such, last, well, great, high, own -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">46</feat><!-- best, least, most, biggest, latest, worst, tallest, largest, deepest, earliest -->
-    <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,VERB">39</feat><!-- such, according, due, because, Megarian, Prior -->
-    <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV">17</feat><!-- more, at, of, all, up -->
+    <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,VERB">40</feat><!-- such, according, due, because, Megarian, Prior -->
+    <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV">15</feat><!-- more, of, as, all, up -->
+    <feat name="ExtPos" value="CCONJ" upos="ADV">9</feat><!-- as, rather -->
     <feat name="ExtPos" value="PRON" upos="DET">2</feat><!-- each -->
-    <feat name="ExtPos" value="SCONJ" upos="ADP,SCONJ">6</feat><!-- in, Prior -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,SCONJ">11</feat><!-- in, as, so, Prior, Rather -->
     <feat name="Foreign" value="Yes" upos="X">6</feat><!-- de, Andes, Force, coup, tipo -->
     <feat name="Gender" value="Fem" upos="PRON">79</feat><!-- her, she, herself -->
     <feat name="Gender" value="Masc" upos="PRON">212</feat><!-- he, his, him, himself -->
     <feat name="Gender" value="Neut" upos="PRON">191</feat><!-- it, its, itself -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">1569</feat><!-- was, is, are, were, has, had, have, said, 's, did -->
-    <feat name="Number" value="Plur" upos="DET,NOUN,NUM,PRON,PROPN">1389</feat><!-- their, they, people, years, we, these, them, our, police, those -->
+    <feat name="Number" value="Plur" upos="DET,NOUN,PRON,PROPN">1375</feat><!-- their, they, people, years, we, these, them, our, police, those -->
+    <feat name="Number" value="Ptan" upos="NOUN">14</feat><!-- 1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s -->
     <feat name="Number" value="Sing" upos="AUX,DET,NOUN,PRON,PROPN,SYM,VERB">5881</feat><!-- was, is, it, he, his, this, has, I, her, its -->
-    <feat name="NumForm" value="Combi" upos="ADJ">18</feat><!-- 8th, 16th, 20th, 3rd, 5th, 13th, 14th, 15th, 1st, 45th -->
+    <feat name="NumForm" value="Combi" upos="ADJ,NOUN">32</feat><!-- 1960s, 8th, 16th, 1970s, 1990s, 20th, 3rd, 5th, 1350s, 13th -->
     <feat name="NumForm" value="Digit" upos="NUM">291</feat><!-- 10, 1, 3, 2014, 2015, 100, 1492, 20, 2010, 2012 -->
     <feat name="NumForm" value="Roman" upos="NUM">17</feat><!-- I, III, IV, II, V, VI, X -->
     <feat name="NumForm" value="Word" upos="ADJ,ADV,DET,NUM">199</feat><!-- one, two, first, three, million, four, six, second, third, bn -->
-    <feat name="NumType" value="Card" upos="NUM">461</feat><!-- one, two, three, million, 10, four, 1, six, 3, I -->
+    <feat name="NumType" value="Card" upos="NOUN,NUM">475</feat><!-- one, two, three, million, 10, four, 1, six, 3, I -->
     <feat name="NumType" value="Frac" upos="DET,NUM">4</feat><!-- 1,165, 1,335, 1,365, half -->
     <feat name="NumType" value="Mult" upos="ADV">4</feat><!-- once, twice -->
     <feat name="NumType" value="Ord" upos="ADJ">56</feat><!-- first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th -->
@@ -73,6 +75,7 @@
     <feat name="PronType" value="Int" upos="ADV,DET,PRON">84</feat><!-- when, what, how, which, why, where, whose, who, whom -->
     <feat name="PronType" value="Neg" upos="ADV,DET,PRON">18</feat><!-- no, never, nary, none, nowhere -->
     <feat name="PronType" value="Prs" upos="PRON">743</feat><!-- it, he, his, their, they, I, her, its, she, we -->
+    <feat name="PronType" value="Rcp" upos="DET">2</feat><!-- each -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">178</feat><!-- which, that, who, where, whatever, when, why, whenever, whoever -->
     <feat name="PronType" value="Tot" upos="ADV,DET,PRON">56</feat><!-- all, each, both, always, every, everyone, everything -->
     <feat name="Reflex" value="Yes" upos="PRON">10</feat><!-- himself, themselves, itself -->
@@ -86,46 +89,47 @@
     <feat name="VerbForm" value="Part" upos="AUX,VERB">629</feat><!-- been, used, known, given, made, built, left, released, seen, allowed -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="46">
+  <deps unique="47">
     <dep name="acl">193</dep>
     <dep name="acl:relcl">211</dep>
-    <dep name="advcl">293</dep>
+    <dep name="advcl">292</dep>
     <dep name="advcl:relcl">1</dep>
-    <dep name="advmod">853</dep>
-    <dep name="amod">1346</dep>
+    <dep name="advmod">845</dep>
+    <dep name="amod">1347</dep>
     <dep name="appos">143</dep>
     <dep name="aux">410</dep>
     <dep name="aux:pass">274</dep>
-    <dep name="case">2498</dep>
-    <dep name="cc">574</dep>
+    <dep name="case">2508</dep>
+    <dep name="cc">575</dep>
     <dep name="cc:preconj">11</dep>
-    <dep name="ccomp">134</dep>
-    <dep name="compound">803</dep>
+    <dep name="ccomp">135</dep>
+    <dep name="compound">798</dep>
     <dep name="compound:prt">70</dep>
-    <dep name="conj">634</dep>
+    <dep name="conj">635</dep>
     <dep name="cop">317</dep>
     <dep name="csubj">27</dep>
     <dep name="csubj:pass">3</dep>
     <dep name="dep">1</dep>
-    <dep name="det">2045</dep>
+    <dep name="det">2046</dep>
     <dep name="det:predet">9</dep>
     <dep name="discourse">1</dep>
     <dep name="dislocated">2</dep>
     <dep name="expl">62</dep>
-    <dep name="fixed">104</dep>
-    <dep name="flat">234</dep>
+    <dep name="fixed">83</dep>
+    <dep name="flat">198</dep>
     <dep name="goeswith">1</dep>
     <dep name="iobj">10</dep>
-    <dep name="mark">554</dep>
-    <dep name="nmod">1076</dep>
-    <dep name="nmod:poss">365</dep>
-    <dep name="nmod:unmarked">58</dep>
-    <dep name="nsubj">1392</dep>
+    <dep name="mark">559</dep>
+    <dep name="nmod">1079</dep>
+    <dep name="nmod:desc">41</dep>
+    <dep name="nmod:poss">364</dep>
+    <dep name="nmod:unmarked">57</dep>
+    <dep name="nsubj">1393</dep>
     <dep name="nsubj:pass">239</dep>
     <dep name="nummod">254</dep>
-    <dep name="obj">876</dep>
-    <dep name="obl">1236</dep>
-    <dep name="obl:unmarked">38</dep>
+    <dep name="obj">877</dep>
+    <dep name="obl">1244</dep>
+    <dep name="obl:unmarked">37</dep>
     <dep name="orphan">7</dep>
     <dep name="parataxis">97</dep>
     <dep name="punct">2451</dep>
