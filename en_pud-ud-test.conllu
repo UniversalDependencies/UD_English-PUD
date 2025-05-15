@@ -8416,7 +8416,7 @@
 14-15	Brisbane's	_	_	_	_	_	_	_	Proper=True
 14	Brisbane	Brisbane	PROPN	NNP	Number=Sing	17	nmod:poss	17:nmod:poss	_
 15	's	's	PART	POS	_	14	case	14:case	Proper=True
-16	Nine	nine	NUM	CD	NumForm=Word|NumType=Card	17	flat	17:flat	_
+16	Nine	nine	NUM	CD	NumForm=Word|NumType=Card	17	compound	17:compound	_
 17	News	news	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	3:punct	_
 
