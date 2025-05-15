@@ -821,7 +821,7 @@
 # text = The Mate 9 phones lack an artificial intelligence interface, like the Google Assistant or Apple's Siri.
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 2	Mate	mate	PROPN	NN	Number=Sing	4	compound	4:compound	_
-3	9	9	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
+3	9	9	NUM	CD	NumForm=Digit|NumType=Card	2	flat	2:flat	_
 4	phones	phone	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 5	lack	lack	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -8416,7 +8416,7 @@
 14-15	Brisbane's	_	_	_	_	_	_	_	Proper=True
 14	Brisbane	Brisbane	PROPN	NNP	Number=Sing	17	nmod:poss	17:nmod:poss	_
 15	's	's	PART	POS	_	14	case	14:case	Proper=True
-16	Nine	nine	NUM	CD	NumForm=Word|NumType=Card	17	compound	17:compound	_
+16	Nine	nine	NUM	CD	NumForm=Word|NumType=Card	17	flat	17:flat	_
 17	News	news	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -18622,7 +18622,7 @@
 # text = Because series 1 is no longer the old one, many users can save 100 euros.
 1	Because	because	SCONJ	IN	_	9	mark	9:mark	_
 2	series	series	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
-3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
+3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	flat	2:flat	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	6:advmod	_
 6	longer	long	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
