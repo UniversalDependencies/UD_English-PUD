@@ -1133,7 +1133,7 @@
 11	attacks	attack	NOUN	NNS	Number=Plur	7	xcomp	7:xcomp|17:nsubj	_
 12	of	of	ADP	IN	_	13	case	13:case	_
 13	21	21	NUM	CD	NumForm=Digit|NumType=Card	11	nmod	11:nmod:of	_
-14	October	October	PROPN	NNP	Number=Sing	13	flat	13:flat	_
+14	October	October	PROPN	NNP	Number=Sing	13	nmod:unmarked	13:nmod:unmarked	_
 15	that	that	PRON	WDT	PronType=Rel	17	nsubj	11:ref	_
 16	briefly	briefly	ADV	RB	_	17	advmod	17:advmod	_
 17	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
@@ -4279,9 +4279,9 @@
 17	in	in	ADP	IN	_	19	case	19:case	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 19	contest	contest	NOUN	NN	Number=Sing	16	obl	16:obl:in	_
-20	on	on	ADP	IN	_	22	case	22:case	_
-21	1	1	NUM	CD	NumForm=Digit|NumType=Card	22	nummod	22:nummod	_
-22	December	December	PROPN	NNP	Number=Sing	19	nmod	19:nmod:on	SpaceAfter=No
+20	on	on	ADP	IN	_	21	case	21:case	_
+21	1	1	NUM	CD	NumForm=Digit|NumType=Card	19	nmod	19:nmod:on	_
+22	December	December	PROPN	NNP	Number=Sing	21	nmod:unmarked	21:nmod:unmarked	SpaceAfter=No
 23	.	.	PUNCT	.	_	16	punct	16:punct	_
 
 # sent_id = n01069006
@@ -6423,7 +6423,7 @@
 5	chairman	chairman	NOUN	NN	Number=Sing	3	obl	3:obl:to	_
 6	in	in	ADP	IN	_	7	case	7:case	_
 7	October	October	PROPN	NNP	Number=Sing	3	obl	3:obl:in	_
-8	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+8	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	7	nmod:unmarked	7:nmod:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	11:punct	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 11	month	month	NOUN	NN	Number=Sing	7	appos	7:appos	_
@@ -6873,8 +6873,8 @@
 4	on	on	ADP	IN	_	5	case	5:case	_
 5	Saturday	Saturday	PROPN	NNP	Number=Sing	3	obl	3:obl:on	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	5:punct	_
-7	10	10	NUM	CD	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
-8	June	June	PROPN	NNP	Number=Sing	5	appos	5:appos	SpaceAfter=No
+7	10	10	NUM	CD	NumForm=Digit|NumType=Card	5	appos	5:appos	_
+8	June	June	PROPN	NNP	Number=Sing	7	nmod:unmarked	7:nmod:unmarked	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = n01115013
@@ -7316,11 +7316,11 @@
 1	Cotton	Cotton	PROPN	NNP	Number=Sing	3	nsubj:pass	3:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-4	on	on	ADP	IN	_	5	case	5:case	_
-5	October	October	PROPN	NNP	Number=Sing	3	obl	3:obl:on	_
-6	31	31	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	SpaceAfter=No
-7	,	,	PUNCT	,	_	5	punct	5:punct	_
-8	1832	1832	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	SpaceAfter=No
+4	on	on	ADP	IN	_	6	case	6:case	_
+5	October	October	PROPN	NNP	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	_
+6	31	31	NUM	CD	NumForm=Digit|NumType=Card	3	obl	5:obl:on	SpaceAfter=No
+7	,	,	PUNCT	,	_	6	punct	6:punct	_
+8	1832	1832	NUM	CD	NumForm=Digit|NumType=Card	6	nmod:unmarked	6:nmod:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	3	punct	3:punct	_
 10	in	in	ADP	IN	_	12	case	12:case	_
 11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
@@ -9281,7 +9281,7 @@
 # text = In July 1918, the Franco-Monegasque Treaty was signed, providing for limited French protection over Monaco.
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	July	July	PROPN	NNP	Number=Sing	11	obl	11:obl:in	_
-3	1918	1918	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+3	1918	1918	NUM	CD	NumForm=Digit|NumType=Card	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	11	punct	11:punct	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 6	Franco	Franco	PROPN	NNP	Number=Sing	8	compound	8:compound	SpaceAfter=No
@@ -9901,10 +9901,10 @@
 
 # sent_id = w01018029
 # text = On 1 October 1961, the formerly British Southern Cameroons united with French Cameroun to form the Federal Republic of Cameroon.
-1	On	on	ADP	IN	_	3	case	3:case	_
-2	1	1	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	_
-3	October	October	PROPN	NNP	Number=Sing	11	obl	11:obl:on	_
-4	1961	1961	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	SpaceAfter=No
+1	On	on	ADP	IN	_	2	case	2:case	_
+2	1	1	NUM	CD	NumForm=Digit|NumType=Card	11	obl	11:obl:on	_
+3	October	October	PROPN	NNP	Number=Sing	2	nmod:unmarked	2:nmod:unmarked	_
+4	1961	1961	NUM	CD	NumForm=Digit|NumType=Card	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 5	,	,	PUNCT	,	_	11	punct	11:punct	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 7	formerly	formerly	ADV	RB	_	8	advmod	8:advmod	_
@@ -13284,11 +13284,11 @@
 # newdoc id = w01068
 # sent_id = w01068027
 # text = On September 9, 2002, Aldrin was lured to a Beverly Hills hotel on the pretext of being interviewed for a Japanese children's television show on the subject of space.
-1	On	on	ADP	IN	_	2	case	2:case	_
-2	September	September	PROPN	NNP	Number=Sing	9	obl	9:obl:on	_
-3	9	9	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
-4	,	,	PUNCT	,	_	2	punct	2:punct	_
-5	2002	2002	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+1	On	on	ADP	IN	_	3	case	3:case	_
+2	September	September	PROPN	NNP	Number=Sing	3	nmod:unmarked	3:nmod:unmarked	_
+3	9	9	NUM	CD	NumForm=Digit|NumType=Card	9	obl	9:obl:on	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	2002	2002	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:unmarked	3:nmod:unmarked	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	9:punct	_
 7	Aldrin	Aldrin	PROPN	NNP	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
 8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
@@ -13777,10 +13777,10 @@
 13	Gazette	Gazette	PROPN	NNP	Number=Sing	10	obl	10:obl:in	_
 14	between	between	ADP	IN	_	15	case	15:case	_
 15	November	November	PROPN	NNP	Number=Sing	10	obl	10:obl:between	_
-16	1886	1886	NUM	CD	NumForm=Digit|NumType=Card	15	nummod	15:nummod	_
+16	1886	1886	NUM	CD	NumForm=Digit|NumType=Card	15	nmod:unmarked	15:nmod:unmarked	_
 17	and	and	CCONJ	CC	_	18	cc	18:cc	_
 18	June	June	PROPN	NNP	Number=Sing	15	conj	10:obl:between|15:conj:and	_
-19	1887	1887	NUM	CD	NumForm=Digit|NumType=Card	18	nummod	18:nummod	SpaceAfter=No
+19	1887	1887	NUM	CD	NumForm=Digit|NumType=Card	18	nmod:unmarked	18:nmod:unmarked	SpaceAfter=No
 20	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 # sent_id = w01073075
@@ -15477,7 +15477,7 @@
 23	executed	execute	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 24	in	in	ADP	IN	_	25	case	25:case	_
 25	October	October	PROPN	NNP	Number=Sing	23	obl	23:obl:in	_
-26	1945	1945	NUM	CD	NumForm=Digit|NumType=Card	25	nummod	25:nummod	SpaceAfter=No
+26	1945	1945	NUM	CD	NumForm=Digit|NumType=Card	25	nmod:unmarked	25:nmod:unmarked	SpaceAfter=No
 27	.	.	PUNCT	.	_	23	punct	23:punct	_
 
 # sent_id = w01102040
@@ -15747,7 +15747,7 @@
 13	Lubumbashi	Lubumbashi	PROPN	NNP	Number=Sing	12	obj	12:obj	_
 14	in	in	ADP	IN	_	15	case	15:case	_
 15	April	April	PROPN	NNP	Number=Sing	12	obl	12:obl:in	_
-16	1997	1997	NUM	CD	NumForm=Digit|NumType=Card	15	nummod	15:nummod	SpaceAfter=No
+16	1997	1997	NUM	CD	NumForm=Digit|NumType=Card	15	nmod:unmarked	15:nmod:unmarked	SpaceAfter=No
 17	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # sent_id = w01106073
@@ -15871,11 +15871,11 @@
 
 # sent_id = w01108063
 # text = On March 10, 1896, Herzl was visited by Reverend William Hechler, the Anglican minister to the British Embassy.
-1	On	on	ADP	IN	_	2	case	2:case	_
-2	March	March	PROPN	NNP	Number=Sing	9	obl	9:obl:on	_
-3	10	10	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
-4	,	,	PUNCT	,	_	2	punct	2:punct	_
-5	1896	1896	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+1	On	on	ADP	IN	_	3	case	3:case	_
+2	March	March	PROPN	NNP	Number=Sing	3	nmod:unmarked	3:nmod:unmarked	_
+3	10	10	NUM	CD	NumForm=Digit|NumType=Card	9	obl	9:obl:on	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	1896	1896	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:unmarked	3:nmod:unmarked	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	9:punct	_
 7	Herzl	Herzl	PROPN	NNP	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
 8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
@@ -15989,16 +15989,16 @@
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	declared	declare	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	bankrupt	bankrupt	ADJ	JJ	Degree=Pos	3	xcomp	3:xcomp	_
-5	on	on	ADP	IN	_	7	case	7:case	_
-6	4	4	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	7:nummod	_
-7	October	October	PROPN	NNP	Number=Sing	3	obl	3:obl:on	_
-8	1988	1988	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	7:nummod	_
+5	on	on	ADP	IN	_	6	case	6:case	_
+6	4	4	NUM	CD	NumForm=Digit|NumType=Card	3	obl	3:obl:on	_
+7	October	October	PROPN	NNP	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	_
+8	1988	1988	NUM	CD	NumForm=Digit|NumType=Card	6	nmod:unmarked	6:nmod:unmarked	_
 9	and	and	CCONJ	CC	_	13	cc	13:cc	_
 10	again	again	ADV	RB	_	13	advmod	13:advmod	_
-11	on	on	ADP	IN	_	13	case	13:case	_
-12	19	19	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	13:nummod	_
-13	March	March	PROPN	NNP	Number=Sing	3	conj	3:conj:and	_
-14	1993	1993	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
+11	on	on	ADP	IN	_	12	case	12:case	_
+12	19	19	NUM	CD	NumForm=Digit|NumType=Card	3	conj	3:conj:and	_
+13	March	March	PROPN	NNP	Number=Sing	12	nmod:unmarked	12:nmod:unmarked	_
+14	1993	1993	NUM	CD	NumForm=Digit|NumType=Card	12	nmod:unmarked	12:nmod:unmarked	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # newdoc id = w01112
@@ -16215,10 +16215,10 @@
 4	obtained	obtain	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
 5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 6	M.A.	m.a.	NOUN	NN	Number=Sing	4	obj	4:obj	_
-7	on	on	ADP	IN	_	9	case	9:case	_
-8	21	21	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
-9	April	April	PROPN	NNP	Number=Sing	4	obl	4:obl:on	_
-10	1882	1882	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No
+7	on	on	ADP	IN	_	8	case	8:case	_
+8	21	21	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:on	_
+9	April	April	PROPN	NNP	Number=Sing	8	nmod:unmarked	8:nmod:unmarked	_
+10	1882	1882	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = w01115025
@@ -16809,7 +16809,7 @@
 # text = In June 2012, the Icelandic band Sigur Rós released a video for the song "Fjögur Píanó", starring LaBeouf, in which he appears nude.
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	June	June	PROPN	NNP	Number=Sing	10	obl	10:obl:in	_
-3	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+3	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	Icelandic	Icelandic	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
@@ -17424,7 +17424,7 @@
 # text = In January 2011, Blunt began filming an American science-fiction film, Looper, directed by Rian Johnson and co-starring Bruce Willis and Joseph Gordon-Levitt; the film was released in September 2012.
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	January	January	PROPN	NNP	Number=Sing	6	obl	6:obl:in	_
-3	2011	2011	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+3	2011	2011	NUM	CD	NumForm=Digit|NumType=Card	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	6	punct	6:punct	_
 5	Blunt	Blunt	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj|7:nsubj:xsubj|22:nsubj:xsubj	_
 6	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -17458,7 +17458,7 @@
 34	released	release	VERB	VBN	Tense=Past|VerbForm=Part	6	parataxis	6:parataxis	_
 35	in	in	ADP	IN	_	36	case	36:case	_
 36	September	September	PROPN	NNP	Number=Sing	34	obl	34:obl:in	_
-37	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	36	nummod	36:nummod	SpaceAfter=No
+37	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	36	nmod:unmarked	36:nmod:unmarked	SpaceAfter=No
 38	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # newdoc id = w01136
@@ -18047,9 +18047,9 @@
 6	from	from	ADP	IN	_	8	case	8:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	hospital	hospital	NOUN	NN	Number=Sing	5	obl	5:obl:from	_
-9	on	on	ADP	IN	_	10	case	10:case	_
-10	April	April	PROPN	NNP	Number=Sing	5	obl	5:obl:on	_
-11	11	11	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	10:nummod	SpaceAfter=No
+9	on	on	ADP	IN	_	11	case	11:case	_
+10	April	April	PROPN	NNP	Number=Sing	11	nmod:unmarked	11:nmod:unmarked	_
+11	11	11	NUM	CD	NumForm=Digit|NumType=Card	5	obl	5:obl:on	SpaceAfter=No
 12	,	,	PUNCT	,	_	5	punct	5:punct	_
 13	becoming	become	VERB	VBG	VerbForm=Ger	2	advcl	2:advcl	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
@@ -18208,7 +18208,7 @@
 1	As	as	ADP	IN	_	3	case	3:case	_
 2	of	of	ADP	IN	_	3	case	3:case	_
 3	August	August	PROPN	NNP	Number=Sing	8	obl	8:obl:of	_
-4	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	SpaceAfter=No
+4	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:unmarked	3:nmod:unmarked	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	8:punct	_
 6	Kesha	Kesha	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
@@ -18361,7 +18361,7 @@
 7	conference	conference	NOUN	NN	Number=Sing	3	nmod	3:nmod:of	_
 8	in	in	ADP	IN	_	9	case	9:case	_
 9	December	December	PROPN	NNP	Number=Sing	7	nmod	7:nmod:in	_
-10	1912	1912	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
+10	1912	1912	NUM	CD	NumForm=Digit|NumType=Card	10	nmod:unmarked	10:nmod:unmarked	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 12	ambassadors	ambassador	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj	_
 13	of	of	ADP	IN	_	17	case	17:case	_
@@ -18440,10 +18440,10 @@
 4	London	London	PROPN	NNP	Number=Sing	2	nmod	2:nmod:of	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	6:punct	_
 6	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
-7	on	on	ADP	IN	_	9	case	9:case	_
-8	30	30	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
-9	May	May	PROPN	NNP	Number=Sing	6	obl	6:obl:on	_
-10	1913	1913	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No
+7	on	on	ADP	IN	_	8	case	8:case	_
+8	30	30	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:on	_
+9	May	May	PROPN	NNP	Number=Sing	8	nmod:unmarked	8:nmod:unmarked	_
+10	1913	1913	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	SpaceAfter=No
 11	,	,	PUNCT	,	_	6	punct	6:punct	_
 12	partitioned	partition	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 13	significant	significant	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
@@ -19020,22 +19020,22 @@
 # newdoc id = n02042
 # sent_id = n02042005
 # text = It was August 30, 2015, as an army of ducks conquered the internet.
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	3:expl	_
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
-3	August	August	PROPN	NNP	Number=Sing	0	root	0:root	_
-4	30	30	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	SpaceAfter=No
-5	,	,	PUNCT	,	_	3	punct	3:punct	_
-6	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:unmarked	3:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
-7	,	,	PUNCT	,	_	3	punct	3:punct	_
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	August	August	PROPN	NNP	Number=Sing	4	nmod:unmarked	4:nmod:unmarked	_
+4	30	30	NUM	CD	NumForm=Digit|NumType=Card	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	,	_	4	punct	4:punct	_
+6	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	4	nmod:unmarked	4:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+7	,	,	PUNCT	,	_	4	punct	4:punct	_
 8	as	as	SCONJ	IN	_	13	mark	13:mark	_
 9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
 10	army	army	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
 11	of	of	ADP	IN	_	12	case	12:case	_
 12	ducks	duck	NOUN	NNS	Number=Plur	10	nmod	10:nmod:of	_
-13	conquered	conquer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	3:advcl:as	_
+13	conquered	conquer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	4:advcl:as	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 15	internet	internet	NOUN	NN	Number=Sing	13	obj	13:obj	SpaceAfter=No
-16	.	.	PUNCT	.	_	3	punct	3:punct	_
+16	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # sent_id = n02042026
 # text = The smartphone generation received an app it deserved, where, in the best case scenario, the most idiotic situation received an audience of millions.
@@ -19433,11 +19433,11 @@
 29	of	of	ADP	IN	_	31	case	31:case	_
 30	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	31	nmod:poss	31:nmod:poss	_
 31	presidency	presidency	NOUN	NN	Number=Sing	28	nmod	28:nmod:of	SpaceAfter=No
-32	,	,	PUNCT	,	_	33	punct	33:punct	_
-33	January	January	PROPN	NNP	Number=Sing	28	appos	28:appos	_
-34	20	20	NUM	CD	NumForm=Digit|NumType=Card	33	nummod	33:nummod	SpaceAfter=No
-35	,	,	PUNCT	,	_	33	punct	33:punct	_
-36	2001	2001	NUM	CD	NumForm=Digit|NumType=Card	33	nmod:unmarked	33:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+32	,	,	PUNCT	,	_	34	punct	34:punct	_
+33	January	January	PROPN	NNP	Number=Sing	34	nmod:unmarked	34:nmod:unmarked	_
+34	20	20	NUM	CD	NumForm=Digit|NumType=Card	28	appos	28:appos	SpaceAfter=No
+35	,	,	PUNCT	,	_	34	punct	34:punct	_
+36	2001	2001	NUM	CD	NumForm=Digit|NumType=Card	34	nmod:unmarked	34:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 37	.	.	PUNCT	.	_	15	punct	15:punct	_
 
 # newdoc id = n02075
@@ -20315,8 +20315,8 @@
 7	25th	25th	NOUN	NN	Number=Sing	4	obl	4:obl:on	_
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	March	March	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	SpaceAfter=No
-10	,	,	PUNCT	,	_	9	punct	9:punct	_
-11	1927	1927	NUM	CD	NumForm=Digit|NumType=Card	9	nmod:unmarked	9:nmod:unmarked	TemporalNPAdjunct=Yes
+10	,	,	PUNCT	,	_	7	punct	7:punct	_
+11	1927	1927	NUM	CD	NumForm=Digit|NumType=Card	7	nmod:unmarked	7:nmod:unmarked	TemporalNPAdjunct=Yes
 12	in	in	ADP	IN	_	13	case	13:case	_
 13	Castelfranco	Castelfranco	PROPN	NNP	Number=Sing	4	obl	4:obl:in	_
 14	Veneto	Veneto	PROPN	NNP	Number=Sing	13	flat	13:flat	SpaceAfter=No
@@ -20460,9 +20460,9 @@
 14	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	15:aux:pass	_
 15	spent	spend	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	6:advcl:to	_
 16	by	by	ADP	IN	_	17	case	17:case	_
-17	31st	31st	NOUN	NN	Number=Sing	18	compound	18:compound	_
-18	December	December	PROPN	NNP	Number=Sing	15	obl	15:obl	_
-19	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+17	31st	31st	NOUN	NN	Number=Sing	15	obl	15:obl:by	_
+18	December	December	PROPN	NNP	Number=Sing	17	nmod:unmarked	17:nmod:unmarked	_
+19	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	17	nmod:unmarked	17:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 20	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n04005016
@@ -21552,10 +21552,10 @@
 4	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	place	place	NOUN	NN	Number=Sing	4	obj	4:obj	_
 6	on	on	ADP	IN	_	8	case	8:case	_
-7	April	April	PROPN	NNP	Number=Sing	4	obl	4:obl	_
-8	30	30	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
-9	,	,	PUNCT	,	_	7	punct	7:punct	_
-10	1955	1955	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+7	April	April	PROPN	NNP	Number=Sing	8	nmod:unmarked	8:nmod:unmarked	_
+8	30	30	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:on	SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	8:punct	_
+10	1955	1955	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # newdoc id = w02002
@@ -21898,7 +21898,7 @@
 # text = In April 2012, the Turkish Minister President Erdogan announced his government's plans to free Bosphorus by building the Istanbul Canal parallel to it.
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	April	April	PROPN	NNP	Number=Sing	10	obl	10:obl:in	_
-3	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+3	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	10:punct	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	Turkish	Turkish	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
@@ -22712,7 +22712,7 @@
 7	27th	27th	NOUN	NN	Number=Sing	3	obl	3:obl:on	_
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	January	January	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	_
-10	1820	1820	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No
+10	1820	1820	NUM	CD	NumForm=Digit|NumType=Card	7	nmod:unmarked	7:nmod:unmarked	SpaceAfter=No
 11	,	,	PUNCT	,	_	3	punct	3:punct	_
 12	three	three	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	_
 13	days	day	NOUN	NNS	Number=Plur	15	nmod:unmarked	15:nmod:unmarked	_
@@ -24225,7 +24225,7 @@
 4	change	change	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	in	in	ADP	IN	_	6	case	6:case	_
 6	October	October	PROPN	NNP	Number=Sing	4	obl	4:obl:in	_
-7	1777	1777	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
+7	1777	1777	NUM	CD	NumForm=Digit|NumType=Card	6	nmod:unmarked	6:nmod:unmarked	_
 8	when	when	ADV	WRB	PronType=Int	18	advmod	18:advmod	_
 9	British	British	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
 10	forces	force	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj	_
