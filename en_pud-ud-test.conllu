@@ -5984,12 +5984,12 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	morning	morning	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	market	market	NOUN	NN	Number=Sing	3	obl	3:obl:at	_
-8	(	(	PUNCT	-LRB-	_	12	punct	12:punct	SpaceAfter=No
-9	6.30	6.30	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	12:nummod	SpaceAfter=No
+8	(	(	PUNCT	-LRB-	_	9	punct	9:punct	SpaceAfter=No
+9	6.30	6.30	NUM	CD	NumForm=Digit|NumType=Card	7	parataxis	7:parataxis	SpaceAfter=No
 10	-	-	SYM	SYM	_	11	case	11:case	SpaceAfter=No
 11	10	10	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod	SpaceAfter=No
-12	am	a.m.	ADV	RB	_	7	parataxis	7:parataxis	SpaceAfter=No
-13	)	)	PUNCT	-RRB-	_	12	punct	12:punct	SpaceAfter=No
+12	am	a.m.	NOUN	NN	_	11	nmod:unmarked	11:parataxis	SpaceAfter=No
+13	)	)	PUNCT	-RRB-	_	9	punct	9:punct	SpaceAfter=No
 14	:	:	PUNCT	:	_	3	punct	3:punct	_
 15	rice	rice	NOUN	NN	Number=Sing	16	compound	16:compound	_
 16	lollipops	lollipop	NOUN	NNS	Number=Plur	3	parataxis	3:parataxis	SpaceAfter=No
