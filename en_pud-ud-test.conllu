@@ -23175,7 +23175,7 @@
 # text = In spring 1948, in hopes of adapting Tintin for the cinema, the Belgian artist wrote a letter to Walt Disney, asking in vain for his support.
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	spring	spring	NOUN	NN	Number=Sing	17	obl	17:obl:in	_
-3	1948	1948	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+3	1948	1948	NUM	CD	NumForm=Digit|NumType=Card	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	17	punct	17:punct	_
 5	in	in	ADP	IN	_	6	case	6:case	_
 6	hopes	hope	NOUN	NNS	Number=Plur	17	obl	17:obl:in	_
@@ -23439,7 +23439,7 @@
 # text = In August 1969, Pope Paul VI removed the death penalty from the Vatican law and revoked it from all offences.
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	August	August	PROPN	NNP	Number=Sing	8	obl	8:obl:in	_
-3	1969	1969	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+3	1969	1969	NUM	CD	NumForm=Digit|NumType=Card	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	8	punct	8:punct	_
 5	Pope	Pope	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj|17:nsubj	_
 6	Paul	Paul	PROPN	NNP	Number=Sing	5	flat	5:flat	_
