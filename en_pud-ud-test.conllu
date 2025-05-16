@@ -9104,7 +9104,7 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 10	5th	5th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	11	amod	11:amod	_
 11	century	century	NOUN	NN	Number=Sing	5	nmod	5:nmod:in	_
-12	BC	bc	NOUN	NN	Number=Sing	11	nmod:unmarked	11:nmod:unmarked	SpaceAfter=No
+12	BC	BC	NOUN	NN	Number=Sing	11	nmod:unmarked	11:nmod:unmarked	SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	16:punct	_
 14	which	which	PRON	WDT	PronType=Rel	16	nsubj	5:ref	_
 15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	16:cop	_
@@ -9181,7 +9181,7 @@
 5	512	512	NUM	CD	NumForm=Digit|NumType=Card	15	obl	15:obl:in	SpaceAfter=No
 6	-	-	SYM	SYM	_	7	case	7:case	SpaceAfter=No
 7	511	511	NUM	CD	NumForm=Digit|NumType=Card	5	nmod	5:nmod	_
-8	BC	bc	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	SpaceAfter=No
+8	BC	BC	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	15	punct	15:punct	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 11	Macedonian	Macedonian	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
@@ -9480,7 +9480,7 @@
 21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
 22	6th	6th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	23	amod	23:amod	_
 23	century	century	NOUN	NN	Number=Sing	18	obl	18:obl:in	_
-24	AD	ad	NOUN	NN	Number=Sing	23	nmod:unmarked	23:nmod:unmarked	SpaceAfter=No
+24	AD	AD	NOUN	NN	Number=Sing	23	nmod:unmarked	23:nmod:unmarked	SpaceAfter=No
 25	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 # sent_id = w01010045
@@ -9525,7 +9525,7 @@
 # text = In 833 AD, this became the state of Great Moravia with the conquest of the Principality of Nitra (present-day Slovakia).
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	833	833	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:in	_
-3	AD	ad	NOUN	NN	Number=Sing	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
+3	AD	AD	NOUN	NN	Number=Sing	2	nmod:unmarked	2:nmod:unmarked	SpaceAfter=No
 4	,	,	PUNCT	,	_	6	punct	6:punct	_
 5	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj|8:nsubj:xsubj	_
 6	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -10965,7 +10965,7 @@
 4	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	around	around	ADV	RB	_	6	case	6:case	_
 6	1000	1000	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:around	_
-7	BC	bc	NOUN	NN	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	SpaceAfter=No
+7	BC	BC	NOUN	NN	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	when	when	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
 10	eastern	eastern	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
@@ -13009,7 +13009,7 @@
 27	,	,	PUNCT	,	_	29	punct	29:punct	_
 28	ca.	ca.	ADV	RB	_	29	advmod	29:advmod	_
 29	1600	1600	NUM	CD	NumForm=Digit|NumType=Card	26	appos	26:appos	_
-30	B.C.E.	b.c.e.	NOUN	NN	Number=Sing	29	nmod:unmarked	29:nmod:unmarked	_
+30	B.C.E.	BCE	NOUN	NN	Number=Sing	29	nmod:unmarked	29:nmod:unmarked	_
 
 # sent_id = w01065020
 # text = The Canaanite city was destroyed in a fire, presumably in the wake of a campaign by the Egyptian pharaoh Thutmose III.
@@ -13078,7 +13078,7 @@
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 9	14th	14th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	10	amod	10:amod	_
 10	century	century	NOUN	NN	Number=Sing	6	obl	6:obl:from	_
-11	BCE	bce	NOUN	NN	Number=Sing	10	nmod:unmarked	10:nmod:unmarked	SpaceAfter=No
+11	BCE	BCE	NOUN	NN	Number=Sing	10	nmod:unmarked	10:nmod:unmarked	SpaceAfter=No
 12	,	,	PUNCT	,	_	6	punct	6:punct	_
 13	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 14	ten	ten	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	_
@@ -13456,7 +13456,7 @@
 8	there	there	ADV	RB	PronType=Dem	7	advmod	7:advmod	_
 9	around	around	ADV	RB	_	10	advmod	10:advmod	_
 10	1900	1900	NUM	CD	NumForm=Digit|NumType=Card	7	obl	7:obl	_
-11	BC	bc	NOUN	NN	Number=Sing	10	nmod:unmarked	10:nmod:unmarked	_
+11	BC	BC	NOUN	NN	Number=Sing	10	nmod:unmarked	10:nmod:unmarked	_
 12	and	and	CCONJ	CC	_	14	cc	14:cc	_
 13	continuously	continuously	ADV	RB	_	14	advmod	14:advmod	_
 14	served	serve	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	7:conj:and	_
@@ -13469,7 +13469,7 @@
 21	until	until	ADP	IN	_	23	case	23:case	_
 22	about	about	ADV	RB	_	23	advmod	23:advmod	_
 23	700	700	NUM	CD	NumForm=Digit|NumType=Card	19	obl	19:obl:until	_
-24	BC	bc	NOUN	NN	Number=Sing	23	nmod:unmarked	23:nmod:unmarked	SpaceAfter=No
+24	BC	BC	NOUN	NN	Number=Sing	23	nmod:unmarked	23:nmod:unmarked	SpaceAfter=No
 25	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 # sent_id = w01070032
@@ -22014,7 +22014,7 @@
 16	early	early	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
 17	5th	5th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	18	amod	18:amod	_
 18	century	century	NOUN	NN	Number=Sing	12	obl	12:obl:to	_
-19	BC	bc	ADV	RB	_	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+19	BC	BC	NOUN	NN	Number=Sing	18	nmod:unmarked	18:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 20	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # sent_id = w02008038
@@ -22038,9 +22038,9 @@
 17	mummy	mummy	NOUN	NN	Number=Sing	13	appos	13:appos|19:nsubj	_
 18	who	who	PRON	WP	PronType=Rel	19	nsubj	17:ref	_
 19	lived	live	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	acl:relcl	17:acl:relcl	_
-20	during	during	ADP	IN	_	22	case	22:case	_
-21	3300	3300	NUM	CD	NumForm=Digit|NumType=Card	22	nummod	22:nummod	_
-22	BC	bc	ADV	RB	_	19	obl	19:obl:during	SpaceAfter=No
+20	during	during	ADP	IN	_	21	case	21:case	_
+21	3300	3300	NUM	CD	NumForm=Digit|NumType=Card	19	obl	19:obl:during	_
+22	BC	BC	NOUN	NN	_	21	nmod:unmarked	21:nmod:unmarked	SpaceAfter=No
 23	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 # sent_id = w02008055
@@ -22819,7 +22819,7 @@
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	8th	8th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	century	century	NOUN	NN	Number=Sing	8	obl	8:obl:in	_
-5	BC	bc	NOUN	RB	_	4	nmod:unmarked	4:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+5	BC	BC	NOUN	RB	_	4	nmod:unmarked	4:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
 7	Greece	Greece	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj|10:nsubj:xsubj	_
 8	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -22933,7 +22933,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	8th	8th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	5:amod	_
 5	century	century	NOUN	NN	Number=Sing	9	obl	9:obl:from	_
-6	BC	bc	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	TemporalNPAdjunct=Yes
+6	BC	BC	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	TemporalNPAdjunct=Yes
 7	city	city	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	states	state	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj|11:nsubj:xsubj	_
 9	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -24696,7 +24696,7 @@
 3	1st	1st	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	January	January	PROPN	NNP	Number=Sing	10	obl	10:obl:on	_
 5	49	49	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
-6	BC	bc	NOUN	NN	Number=Sing	4	nmod:unmarked	4:nmod:unmarked	SpaceAfter=No
+6	BC	BC	NOUN	NN	Number=Sing	4	nmod:unmarked	4:nmod:unmarked	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	Marco	Marco	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
 9	Antonio	Antonio	PROPN	NNP	Number=Sing	8	flat	8:flat	_
