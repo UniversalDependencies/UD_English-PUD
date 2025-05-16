@@ -10003,7 +10003,7 @@
 2	June	June	PROPN	NNP	Number=Sing	7	obl	7:obl:in	_
 3	to	to	ADP	IN	_	4	case	4:case	_
 4	August	August	PROPN	NNP	Number=Sing	2	nmod	2:nmod:to	_
-5	2010	2010	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
+5	2010	2010	NUM	CD	NumForm=Digit|NumType=Card	4	nmod:unmarked	4:nmod:unmarked	_
 6	famine	famine	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 7	struck	strike	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
@@ -23048,9 +23048,9 @@
 3	year	year	NOUN	NN	Number=Sing	23	obl	23:obl:in	_
 4	III	III	NUM	CD	NumForm=Roman|NumType=Card	3	flat	3:flat	_
 5	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
-6	January	January	PROPN	NNP	Number=Sing	8	compound	8:compound	SpaceAfter=No
+6	January	January	PROPN	NNP	Number=Sing	3	appos	3:appos	SpaceAfter=No
 7	-	-	PUNCT	HYPH	_	8	punct	8:punct	SpaceAfter=No
-8	February	February	PROPN	NNP	Number=Sing	3	appos	3:appos	_
+8	February	February	PROPN	NNP	Number=Sing	6	nmod	6:nmod	_
 9	1794	1794	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 10	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
 11	,	,	PUNCT	,	_	23	punct	23:punct	_
