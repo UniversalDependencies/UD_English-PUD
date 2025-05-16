@@ -24691,12 +24691,12 @@
 
 # sent_id = w05010027
 # text = On the 1st January 49 BC, Marco Antonio read a declaration from Caesar in which the proconsul declared himself a friend of peace.
-1	On	on	ADP	IN	_	4	case	4:case	_
-2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-3	1st	1st	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
-4	January	January	PROPN	NNP	Number=Sing	10	obl	10:obl:on	_
-5	49	49	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
-6	BC	BC	NOUN	NN	Number=Sing	4	nmod:unmarked	4:nmod:unmarked	SpaceAfter=No
+1	On	on	ADP	IN	_	3	case	3:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	1st	1st	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	10	obl	10:obl:on	_
+4	January	January	PROPN	NNP	Number=Sing	3	nmod:unmarked	3:nmod:unmarked	_
+5	49	49	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:unmarked	3:nmod:unmarked	_
+6	BC	BC	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	Marco	Marco	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
 9	Antonio	Antonio	PROPN	NNP	Number=Sing	8	flat	8:flat	_
