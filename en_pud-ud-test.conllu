@@ -7318,7 +7318,7 @@
 3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	on	on	ADP	IN	_	6	case	6:case	_
 5	October	October	PROPN	NNP	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	_
-6	31	31	NUM	CD	NumForm=Digit|NumType=Card	3	obl	5:obl:on	SpaceAfter=No
+6	31	31	NUM	CD	NumForm=Digit|NumType=Card	3	obl	3:obl:on	SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	6:punct	_
 8	1832	1832	NUM	CD	NumForm=Digit|NumType=Card	6	nmod:unmarked	6:nmod:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	3	punct	3:punct	_
