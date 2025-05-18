@@ -23047,12 +23047,12 @@
 2	Pluviose	Pluviose	PROPN	NNP	Number=Sing	23	obl	23:obl:in	_
 3	year	year	NOUN	NN	Number=Sing	2	nmod:unmarked	2:nmod:unmarked	_
 4	III	III	NUM	CD	NumForm=Roman|NumType=Card	3	flat	3:flat	_
-5	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
+5	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
 6	January	January	PROPN	NNP	Number=Sing	3	appos	3:appos	SpaceAfter=No
 7	-	-	PUNCT	HYPH	_	8	punct	8:punct	SpaceAfter=No
 8	February	February	PROPN	NNP	Number=Sing	6	nmod	6:nmod	_
 9	1794	1794	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
-10	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	6	punct	6:punct	SpaceAfter=No
 11	,	,	PUNCT	,	_	23	punct	23:punct	_
 12	easing	ease	VERB	VBG	VerbForm=Ger	23	advcl	23:advcl	_
 13	off	off	ADV	RP	_	12	compound:prt	12:compound:prt	_
