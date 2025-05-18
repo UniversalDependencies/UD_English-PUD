@@ -18352,7 +18352,7 @@
 
 # sent_id = w01150045
 # text = At the beginning of the London conference in December 1912 the ambassadors of all six Great Powers rejected the plan for establishing an independent Albania.
-  1	At	at	ADP	IN	_	3	case	3:case	_
+1	At	at	ADP	IN	_	3	case	3:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	beginning	beginning	NOUN	NN	Number=Sing	18	obl	18:obl:at	_
 4	of	of	ADP	IN	_	7	case	7:case	_
