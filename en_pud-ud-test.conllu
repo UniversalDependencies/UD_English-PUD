@@ -2768,7 +2768,7 @@
 21	posting	posting	NOUN	NN	Number=Sing	26	nsubj	26:nsubj|30:nsubj	_
 22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
 23	for	for	ADP	IN	_	26	case	26:case	_
-24	2013	2013	NUM	CD	NumForm=Digit|NumType=Card	26	nummod	26:nummod	SpaceAfter=No
+24	2013	2013	NUM	CD	NumForm=Digit|NumType=Card	26	nmod	26:nmod	SpaceAfter=No
 25	-	-	PUNCT	HYPH	_	26	punct	26:punct	SpaceAfter=No
 26	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	5	conj	5:conj:but	_
 27	—	—	PUNCT	:	_	30	punct	30:punct	_
@@ -2802,7 +2802,7 @@
 18	level	level	NOUN	NN	Number=Sing	11	appos	11:appos	_
 19	as	as	ADP	IN	_	23	case	23:case	_
 20	for	for	ADP	IN	_	23	case	23:case	_
-21	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	23	nummod	23:nummod	SpaceAfter=No
+21	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	23	nmod	23:nmod:for	SpaceAfter=No
 22	-	-	PUNCT	HYPH	_	23	punct	23:punct	SpaceAfter=No
 23	2016	2016	NUM	CD	NumForm=Digit|NumType=Card	18	nmod	18:nmod:for	SpaceAfter=No
 24	.	.	PUNCT	.	_	11	punct	11:punct	_
