@@ -5036,7 +5036,7 @@
 13	£	£	SYM	$	_	11	nmod	11:nmod:of	SpaceAfter=No
 14	3,000	3000	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
 15	-	-	SYM	SYM	_	16	case	16:case	SpaceAfter=No
-16	£	£	SYM	$	_	13	nmod	13:nmod	SpaceAfter=No
+16	£	£	SYM	$	_	13	nmod	13:nmod:to	SpaceAfter=No
 17	5,000	5000	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	16:nummod	_
 18	when	when	ADV	WRB	PronType=Int	20	mark	20:mark	_
 19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	20:nsubj	_
@@ -5088,7 +5088,7 @@
 14	£	£	SYM	$	_	12	obl	12:obl:from	SpaceAfter=No
 15	15,001	15001	NUM	CD	NumForm=Digit|NumType=Card	14	nummod	14:nummod	SpaceAfter=No
 16	-	-	SYM	SYM	_	17	case	17:case	SpaceAfter=No
-17	£	£	SYM	$	_	14	nmod	14:nmod	SpaceAfter=No
+17	£	£	SYM	$	_	14	nmod	14:nmod:to	SpaceAfter=No
 18	19,999	19999	NUM	CD	NumForm=Digit|NumType=Card	17	nummod	17:nummod	_
 19	over	over	ADP	IN	_	21	case	21:case	_
 20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
@@ -5987,7 +5987,7 @@
 8	(	(	PUNCT	-LRB-	_	9	punct	9:punct	SpaceAfter=No
 9	6.30	6.30	NUM	CD	NumForm=Digit|NumType=Card	7	parataxis	7:parataxis	SpaceAfter=No
 10	-	-	SYM	SYM	_	11	case	11:case	SpaceAfter=No
-11	10	10	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod	SpaceAfter=No
+11	10	10	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod:to	SpaceAfter=No
 12	am	a.m.	NOUN	NN	_	11	nmod:unmarked	11:parataxis	SpaceAfter=No
 13	)	)	PUNCT	-RRB-	_	9	punct	9:punct	SpaceAfter=No
 14	:	:	PUNCT	:	_	3	punct	3:punct	_
@@ -9180,7 +9180,7 @@
 4	about	about	ADV	RB	_	5	advmod	5:advmod	_
 5	512	512	NUM	CD	NumForm=Digit|NumType=Card	15	obl	15:obl:in	SpaceAfter=No
 6	-	-	SYM	SYM	_	7	case	7:case	SpaceAfter=No
-7	511	511	NUM	CD	NumForm=Digit|NumType=Card	5	nmod	5:nmod	_
+7	511	511	NUM	CD	NumForm=Digit|NumType=Card	5	nmod	5:nmod:to	_
 8	BC	BC	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	15	punct	15:punct	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
@@ -23049,8 +23049,8 @@
 4	III	III	NUM	CD	NumForm=Roman|NumType=Card	3	flat	3:flat	_
 5	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
 6	January	January	PROPN	NNP	Number=Sing	3	appos	3:appos	SpaceAfter=No
-7	-	-	PUNCT	HYPH	_	8	punct	8:punct	SpaceAfter=No
-8	February	February	PROPN	NNP	Number=Sing	6	nmod	6:nmod	_
+7	-	-	SYM	SYM	_	8	case	8:case	SpaceAfter=No
+8	February	February	PROPN	NNP	Number=Sing	6	nmod	6:nmod:to	_
 9	1794	1794	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:unmarked	8:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 10	)	)	PUNCT	-RRB-	_	6	punct	6:punct	SpaceAfter=No
 11	,	,	PUNCT	,	_	23	punct	23:punct	_
