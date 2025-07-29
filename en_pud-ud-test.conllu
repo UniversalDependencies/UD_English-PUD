@@ -14533,15 +14533,15 @@
 10	States	State	PROPN	NNPS	Number=Plur	6	obl	6:obl:to	_
 11	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
 12	colonies	colony	NOUN	NNS	Number=Plur	6	obj	6:obj	_
-13	of	of	ADP	IN	_	15	case	15:case	_
-14	Puerto	Puerto	PROPN	NNP	Number=Sing	15	compound	15:compound	_
-15	Rico	Rico	PROPN	NNP	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
+13	of	of	ADP	IN	_	14	case	14:case	_
+14	Puerto	Puerto	PROPN	NNP	Number=Sing	12	nmod	12:nmod:of	_
+15	Rico	Rico	PROPN	NNP	Number=Sing	14	flat	14:flat	SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	17:punct	_
-17	Guam	Guam	PROPN	NNP	Number=Sing	15	conj	12:nmod:of|15:conj:and	SpaceAfter=No
+17	Guam	Guam	PROPN	NNP	Number=Sing	14	conj	12:nmod:of|14:conj:and	SpaceAfter=No
 18	,	,	PUNCT	,	_	21	punct	21:punct	_
 19	and	and	CCONJ	CC	_	21	cc	21:cc	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
-21	Philippines	Philippines	PROPN	NNPS	Number=Ptan	15	conj	12:nmod:of|15:conj:and	SpaceAfter=No
+21	Philippines	Philippines	PROPN	NNPS	Number=Ptan	14	conj	12:nmod:of|14:conj:and	SpaceAfter=No
 22	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # newdoc id = w01086
