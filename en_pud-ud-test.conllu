@@ -772,7 +772,7 @@
 # sent_id = n01016014
 # text = The South Korean company initially thought a battery fault was to blame, and switched its own component for a third-party power cell.
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-2	South	South	ADJ	JJ	Degree=Pos	3	amod	3:amod	Proper=True
+2	South	South	PROPN	NNP	_	3	compound	3:compound	_
 3	Korean	Korean	ADJ	JJ	Degree=Pos	4	amod	4:amod	Proper=True
 4	company	company	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|15:nsubj	_
 5	initially	initially	ADV	RB	_	6	advmod	6:advmod	_
@@ -3590,7 +3590,7 @@
 # sent_id = n01058052
 # text = After North Carolina passed its restrictive voting-rights bill in 2013, Campbell went around to churches teaching people how to deal with challenges to their registration.
 1	After	after	SCONJ	IN	_	4	mark	4:mark	_
-2	North	north	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+2	North	north	PROPN	NNP	_	3	compound	3:compound	_
 3	Carolina	Carolina	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
 4	passed	pass	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	advcl	15:advcl:after	_
 5	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
@@ -4228,7 +4228,7 @@
 6	council	council	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	area	area	NOUN	NN	Number=Sing	0	root	0:root	_
 8	of	of	ADP	IN	_	10	case	10:case	_
-9	North	north	ADJ	JJ	Degree=Pos	10	compound	10:compound	_
+9	North	north	PROPN	NNP	Degree=Pos	10	compound	10:compound	_
 10	Kesteven	Kesteven	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	SpaceAfter=No
 11	,	,	PUNCT	,	_	17	punct	17:punct	_
 12	where	where	ADV	WRB	PronType=Rel	17	advmod	17:advmod	_
@@ -7375,9 +7375,9 @@
 1	London	London	PROPN	NNP	Number=Sing	6	nmod:poss	6:nmod:poss	SpaceAfter=No
 2	’s	's	PART	POS	_	1	case	1:case	_
 3	landmark	landmark	NOUN	NN	Number=Sing	6	compound	6:compound	_
-4	South	south	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	Bank	bank	NOUN	NN	Number=Sing	6	compound	6:compound	_
-6	Tower	tower	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+4	South	South	PROPN	NNP	_	5	compound	5:compound	_
+5	Bank	Bank	PROPN	NNP	_	6	compound	6:compound	_
+6	Tower	Tower	PROPN	NNP	_	7	nsubj	7:nsubj	_
 7	commissioned	commission	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	interior	interior	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	designer	designer	NOUN	NN	Number=Sing	10	nmod:desc	10:nmod:desc	_
@@ -9815,7 +9815,7 @@
 8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	created	create	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
-11	East	east	ADJ	JJ	Degree=Pos	12	amod	12:amod	Proper=True
+11	East	east	PROPN	NNP	_	12	compound	12:compound	_
 12	African	African	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
 13	Rift	rift	PROPN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
 14	,	,	PUNCT	,	_	19	punct	19:punct	_
@@ -14414,7 +14414,7 @@
 2	contact	contact	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
 3	with	with	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	West	west	NOUN	NN	Number=Sing	2	nmod	2:nmod:with	_
+5	West	West	PROPN	NNP	Number=Sing	2	nmod	2:nmod:with	_
 6	during	during	ADP	IN	_	9	case	9:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 8	16th	16th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	9	amod	9:amod	_
@@ -14461,7 +14461,7 @@
 9	posts	post	NOUN	NNS	Number=Plur	6	obl	6:obl:to	_
 10	in	in	ADP	IN	_	12	case	12:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-12	West	west	NOUN	NN	Number=Sing	9	nmod	9:nmod:in	_
+12	West	West	PROPN	NNP	Number=Sing	9	nmod	9:nmod:in	_
 13	and	and	CCONJ	CC	_	18	cc	18:cc	_
 14	not	not	PART	RB	Polarity=Neg	18	advmod	18:advmod	_
 15	as	as	ADV	RB	_	18	advmod	18:advmod	_
@@ -15191,9 +15191,9 @@
 16	in	in	ADP	IN	_	17	case	17:case	_
 17	Roma	Roma	PROPN	NNP	Number=Sing	15	nmod	15:nmod:in	_
 18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	22:cop	_
-19	North	North	ADJ	JJ	Degree=Pos	21	amod	21:amod	SpaceAfter=No
+19	North	North	PROPN	NNP	_	21	compound	21:compound	SpaceAfter=No
 20	-	-	PUNCT	HYPH	_	21	punct	21:punct	SpaceAfter=No
-21	West	West	ADJ	JJ	Degree=Pos	22	compound	22:compound	_
+21	West	West	PROPN	NNP	_	22	compound	22:compound	_
 22	India	India	PROPN	NNP	Number=Sing	0	root	0:root	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	22:punct	_
 
@@ -16770,8 +16770,8 @@
 1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	1981	1981	NUM	CD	NumForm=Digit|NumType=Card	3	compound	3:compound	_
 3	album	album	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
-4	Wild	wild	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	West	west	PROPN	NN	Number=Sing	3	appos	3:appos	_
+4	Wild	Wild	ADJ	JJ	Degree=Pos	5	amod	5:amod	Proper=True
+5	West	West	PROPN	NNP	_	3	appos	3:appos	_
 6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
 7	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 8	of	of	ADP	IN	_	11	case	11:case	_
@@ -19325,7 +19325,7 @@
 20	in	in	ADP	IN	_	21	case	21:case	_
 21	Tanzania	Tanzania	PROPN	NNP	Number=Sing	18	obl	18:obl:in	_
 22	in	in	ADP	IN	_	24	case	24:case	_
-23	East	east	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
+23	East	east	PROPN	NNP	_	24	compound	24:compound	_
 24	Africa	Africa	PROPN	NNP	Number=Sing	21	nmod	21:nmod:in	SpaceAfter=No
 25	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -23158,7 +23158,7 @@
 9	of	of	SCONJ	IN	_	10	mark	10:mark	_
 10	living	live	VERB	VBG	VerbForm=Ger	8	acl	8:acl:of	_
 11	in	in	ADP	IN	_	13	case	13:case	_
-12	South	south	ADJ	JJ	Degree=Pos	13	compound	13:compound	_
+12	South	south	PROPN	NNP	_	13	compound	13:compound	_
 13	America	America	PROPN	NNP	Number=Sing	10	obl	10:obl:in	SpaceAfter=No
 14	,	,	PUNCT	,	_	10	punct	10:punct	_
 15	far	far	ADV	RB	Degree=Pos	16	advmod	16:advmod	_
