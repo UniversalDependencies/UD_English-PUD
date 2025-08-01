@@ -9909,7 +9909,7 @@
 6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 7	formerly	formerly	ADV	RB	_	8	advmod	8:advmod	_
 8	British	British	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
-9	Southern	Southern	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+9	Southern	Southern	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
 10	Cameroons	Cameroons	PROPN	NNPS	Number=Plur	11	nsubj	11:nsubj	_
 11	united	unite	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	with	with	ADP	IN	_	14	case	14:case	_
