@@ -22178,7 +22178,7 @@
 # sent_id = w02012042
 # text = The First World War brought about shifts and new developments in colonial politics.
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-2	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	4	amod	4:amod	Proper=True
+2	First	First	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	4	amod	4:amod	Proper=True
 3	World	World	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	War	War	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 5	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
