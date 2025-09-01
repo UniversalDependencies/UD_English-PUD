@@ -9083,11 +9083,11 @@
 12	off	off	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 14	coast	coast	NOUN	NN	Number=Sing	11	nmod	11:nmod:off	_
-15	of	of	ADP	IN	_	17	case	17:case	_
-16	Baja	Baja	PROPN	NNP	Number=Sing	17	compound	17:compound	_
-17	California	California	PROPN	NNP	Number=Sing	14	nmod	14:nmod:of	SpaceAfter=No
+15	of	of	ADP	IN	_	16	case	16:case	_
+16	Baja	Baja	PROPN	NNP	Number=Sing	14	nmod	14:nmod:of	_
+17	California	California	PROPN	NNP	Number=Sing	16	flat	16:flat	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	19:punct	_
-19	Mexico	Mexico	PROPN	NNP	Number=Sing	17	nmod:unmarked	17:nmod:unmarked	SpaceAfter=No
+19	Mexico	Mexico	PROPN	NNP	Number=Sing	16	nmod:unmarked	16:nmod:unmarked	SpaceAfter=No
 20	.	.	PUNCT	.	_	11	punct	11:punct	_
 
 # newdoc id = w01004
