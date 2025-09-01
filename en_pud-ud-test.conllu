@@ -3450,7 +3450,7 @@
 8	argue	argue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
 10	trivialize	trivialize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	8:ccomp	_
-11	First	First	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	12	amod	12:amod	Proper=True
+11	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	12	amod	12:amod	Proper=True
 12	Nations	Nations	PROPN	NNPS	Number=Plur	13	compound	13:compound	_
 13	culture	culture	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
 14	.	.	PUNCT	.	_	8	punct	8:punct	_
@@ -3805,8 +3805,8 @@
 6	of	of	ADP	IN	_	7	case	7:case	_
 7	Clinton	Clinton	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	_
 8	as	as	ADP	IN	_	10	case	10:case	_
-9	First	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	10:amod	Proper=True
-10	Lady	lady	NOUN	NN	Number=Sing	7	nmod	7:nmod:as	_
+9	First	first	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	10:amod	Proper=True
+10	Lady	lady	PROPN	NNP	Number=Sing	7	nmod	7:nmod:as	_
 11	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	16:advcl:as	_
 12	more	more	ADV	RBR	_	13	advmod	13:advmod	_
 13	caustic	caustic	ADJ	JJ	Degree=Pos	11	xcomp	11:xcomp	SpaceAfter=No
@@ -9373,7 +9373,7 @@
 9	and	and	CCONJ	CC	_	10	cc	10:cc	_
 10	procedure	procedure	NOUN	NN	Number=Sing	8	conj	6:nmod:in|8:conj:and	_
 11	between	between	ADP	IN	_	13	case	13:case	_
-12	Northern	Northern	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
+12	Northern	Northern	ADJ	NNP	Degree=Pos	13	amod	13:amod	Proper=True
 13	Ireland	Ireland	PROPN	NNP	Number=Sing	6	nmod	6:nmod:between	_
 14	and	and	CCONJ	CC	_	15	cc	15:cc	_
 15	England	England	PROPN	NNP	Number=Sing	13	conj	6:nmod:between|13:conj:and	_
@@ -9909,7 +9909,7 @@
 6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 7	formerly	formerly	ADV	RB	_	8	advmod	8:advmod	_
 8	British	British	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
-9	Southern	Southern	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
+9	Southern	Southern	ADJ	NNP	Degree=Pos	10	amod	10:amod	Proper=True
 10	Cameroons	Cameroons	PROPN	NNPS	Number=Plur	11	nsubj	11:nsubj	_
 11	united	unite	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	with	with	ADP	IN	_	14	case	14:case	_
@@ -12223,7 +12223,7 @@
 11	of	of	ADP	IN	_	15	case	15:case	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 13	former	former	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
-14	Outer	Outer	ADJ	JJ	Degree=Pos	15	amod	15:amod	Proper=True
+14	Outer	Outer	ADJ	NNP	Degree=Pos	15	amod	15:amod	Proper=True
 15	Mongolia	Mongolia	PROPN	NNP	Number=Sing	10	nmod	10:nmod:of	_
 16	during	during	ADP	IN	_	19	case	19:case	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
@@ -14387,7 +14387,7 @@
 19	years	year	NOUN	NNS	Number=Plur	12	obl	12:obl:in	_
 20	before	before	ADP	IN	_	24	case	24:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
-22	First	First	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	24	amod	24:amod	Proper=True
+22	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	24	amod	24:amod	Proper=True
 23	World	World	PROPN	NNP	Number=Sing	24	compound	24:compound	_
 24	War	War	PROPN	NNP	Number=Sing	19	nmod	19:nmod:before	SpaceAfter=No
 25	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -14814,7 +14814,7 @@
 # text = In the Second Messenian War, Sparta established itself as a local power in Peloponnesus and the rest of Greece.
 1	In	in	ADP	IN	_	5	case	5:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-3	Second	Second	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	5	amod	5:amod	Proper=True
+3	Second	Second	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	5	amod	5:amod	Proper=True
 4	Messenian	Messenian	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	War	War	PROPN	NNP	Number=Sing	8	obl	8:obl:in	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -15247,7 +15247,7 @@
 6	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obj	5:obj	_
 7	fighting	fight	VERB	VBG	VerbForm=Ger	6	acl	6:acl	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
-9	First	First	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	11	amod	11:amod	Proper=True
+9	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	11	amod	11:amod	Proper=True
 10	Opium	Opium	PROPN	NNP	Number=Sing	11	compound	11:compound	_
 11	War	War	PROPN	NNP	Number=Sing	7	obj	7:obj	_
 12	with	with	ADP	IN	_	14	case	14:case	_
@@ -15328,7 +15328,7 @@
 2	1856	1856	NUM	CD	NumForm=Digit|NumType=Card	8	obl	8:obl:in	SpaceAfter=No
 3	,	,	PUNCT	,	_	8	punct	8:punct	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
-5	Second	Second	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	7	amod	7:amod	Proper=True
+5	Second	Second	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	7	amod	7:amod	Proper=True
 6	Opium	Opium	PROPN	NNP	Number=Sing	7	compound	7:compound	_
 7	War	War	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 8	broke	break	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -21634,7 +21634,7 @@
 22	end	end	NOUN	NN	Number=Sing	17	obl	17:obl:by	_
 23	of	of	ADP	IN	_	27	case	27:case	_
 24	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
-25	Second	Second	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	27	amod	27:amod	Proper=True
+25	Second	Second	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	27	amod	27:amod	Proper=True
 26	World	World	PROPN	NNP	Number=Sing	27	compound	27:compound	_
 27	War	War	PROPN	NNP	Number=Sing	22	nmod	22:nmod:of	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -22178,7 +22178,7 @@
 # sent_id = w02012042
 # text = The First World War brought about shifts and new developments in colonial politics.
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-2	First	First	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	4	amod	4:amod	Proper=True
+2	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	4	amod	4:amod	Proper=True
 3	World	World	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	War	War	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 5	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -23631,7 +23631,7 @@
 3	War	War	PROPN	NNP	Number=Sing	11	obl	11:obl:during	_
 4	of	of	ADP	IN	_	7	case	7:case	Proper=True
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Proper=True
-6	First	First	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	7	amod	7:amod	Proper=True
+6	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	7	amod	7:amod	Proper=True
 7	Coalition	Coalition	PROPN	NNP	Number=Sing	3	nmod	3:nmod:of	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	11:punct	_
 9	light	light	NOUN	NN	Number=Sing	11	nsubj	11:nsubj|14:nsubj:xsubj	_
