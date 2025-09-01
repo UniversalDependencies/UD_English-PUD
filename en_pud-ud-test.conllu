@@ -9087,7 +9087,7 @@
 16	Baja	Baja	PROPN	NNP	Number=Sing	17	compound	17:compound	_
 17	California	California	PROPN	NNP	Number=Sing	14	nmod	14:nmod:of	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	19:punct	_
-19	Mexico	Mexico	PROPN	NNP	Number=Sing	17	appos	17:appos	SpaceAfter=No
+19	Mexico	Mexico	PROPN	NNP	Number=Sing	17	nmod:unmarked	17:nmod:unmarked	SpaceAfter=No
 20	.	.	PUNCT	.	_	11	punct	11:punct	_
 
 # newdoc id = w01004
@@ -9508,7 +9508,7 @@
 21	eastern	eastern	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
 22	Moravia	Moravia	PROPN	NNP	Number=Sing	12	obl	12:obl:in	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	24:punct	_
-24	Záhorie	Záhorie	PROPN	NNP	Number=Sing	22	conj	12:obl:in|22:conj:and	_
+24	Záhorie	Záhorie	PROPN	NNP	Number=Sing	22	nmod:unmarked	22:nmod:unmarked	_
 25	in	in	ADP	IN	_	29	case	29:case	_
 26	south	south	ADJ	JJ	Degree=Pos	28	compound	28:compound	SpaceAfter=No
 27	-	-	PUNCT	HYPH	_	28	punct	28:punct	SpaceAfter=No
@@ -9517,7 +9517,7 @@
 30	and	and	CCONJ	CC	_	31	cc	31:cc	_
 31	parts	part	NOUN	NNS	Number=Plur	22	conj	12:obl:in|22:conj:and	_
 32	of	of	ADP	IN	_	34	case	34:case	_
-33	Lower	Lower	PROPN	NNP	Number=Sing	34	compound	34:compound	_
+33	Lower	Lower	ADJ	NNP	Degree=Pos	34	amod	34:amod	Proper=True
 34	Austria	Austria	PROPN	NNP	Number=Sing	31	nmod	31:nmod:of	SpaceAfter=No
 35	.	.	PUNCT	.	_	12	punct	12:punct	_
 
