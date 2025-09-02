@@ -5632,7 +5632,7 @@
 # sent_id = n01093007
 # text = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
 1	“	"	PUNCT	``	_	6	punct	6:punct	SpaceAfter=No
-2	Celtic	Celtic	PROPN	NNP	Number=Sing	3	compound	3:compound	_
+2	Celtic	Celtic	ADJ	NNP	Number=Sing	3	amod	3:amod	Proper=True
 3	Sea	Sea	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	cod	cod	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 5	could	could	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
@@ -5672,10 +5672,10 @@
 18	pollack	pollack	NOUN	NN	Number=Sing	10	conj	7:obl:for|10:conj:and	_
 19	in	in	ADP	IN	_	24	case	24:case	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
-21	Celtic	Celtic	PROPN	NNP	Number=Sing	24	amod	24:amod	_
+21	Celtic	Celtic	ADJ	NNP	Degree=Pos	24	amod	24:amod	Proper=True
 22	and	and	CCONJ	CC	_	23	cc	23:cc	_
-23	Irish	Irish	PROPN	NNP	Number=Sing	21	conj	21:conj:and|24:amod	_
-24	Seas	seas	NOUN	NN	Number=Sing	10	nmod	10:nmod:in	SpaceAfter=No
+23	Irish	Irish	ADJ	NNP	Degree=Pos	21	conj	21:conj:and|24:amod	Proper=True
+24	Seas	sea	PROPN	NNPS	Number=Sing	10	nmod	10:nmod:in	SpaceAfter=No
 25	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 # sent_id = n01093025
