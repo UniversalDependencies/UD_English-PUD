@@ -4228,7 +4228,7 @@
 6	council	council	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	area	area	NOUN	NN	Number=Sing	0	root	0:root	_
 8	of	of	ADP	IN	_	10	case	10:case	_
-9	North	north	PROPN	NNP	Degree=Pos	10	compound	10:compound	_
+9	North	north	PROPN	NNP	Number=Sing	10	compound	10:compound	_
 10	Kesteven	Kesteven	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	SpaceAfter=No
 11	,	,	PUNCT	,	_	17	punct	17:punct	_
 12	where	where	ADV	WRB	PronType=Rel	17	advmod	17:advmod	_
@@ -5632,7 +5632,7 @@
 # sent_id = n01093007
 # text = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
 1	“	"	PUNCT	``	_	6	punct	6:punct	SpaceAfter=No
-2	Celtic	Celtic	ADJ	NNP	Number=Sing	3	amod	3:amod	Proper=True
+2	Celtic	Celtic	ADJ	NNP	Degree=Pos	3	amod	3:amod	Proper=True
 3	Sea	Sea	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	cod	cod	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 5	could	could	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
@@ -9913,7 +9913,7 @@
 10	Cameroons	Cameroons	PROPN	NNPS	Number=Plur	11	nsubj	11:nsubj	_
 11	united	unite	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	with	with	ADP	IN	_	14	case	14:case	_
-13	French	French	ADJ	NNP	Number=Sing	14	amod	14:amod	Proper=True
+13	French	French	ADJ	NNP	Degree=Pos	14	amod	14:amod	Proper=True
 14	Cameroun	Cameroun	PROPN	NNP	Number=Sing	11	obl	11:obl:with	_
 15	to	to	PART	TO	_	16	mark	16:mark	_
 16	form	form	VERB	VB	VerbForm=Inf	11	advcl	11:advcl:to	_
