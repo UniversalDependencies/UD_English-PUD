@@ -23323,7 +23323,7 @@
 6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 7	Indo	Indo	PROPN	NNP	Number=Sing	9	compound	9:compound	SpaceAfter=No
 8	-	-	PUNCT	HYPH	_	9	punct	9:punct	SpaceAfter=No
-9	Australian	Australian	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+9	Australian	Australian	ADJ	NNP	Degree=Pos	10	amod	10:amod	_
 10	Fault	fault	PROPN	NN	Number=Sing	4	obl	4:obl:at	SpaceAfter=No
 11	;	;	PUNCT	:	_	4	punct	4:punct	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
