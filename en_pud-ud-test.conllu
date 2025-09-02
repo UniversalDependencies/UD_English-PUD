@@ -14334,7 +14334,7 @@
 3	war	war	NOUN	NN	Number=Sing	9	obl	9:obl:throughout	SpaceAfter=No
 4	,	,	PUNCT	,	_	9	punct	9:punct	_
 5	Pearl	Pearl	PROPN	NNP	Number=Sing	6	compound	6:compound	_
-6	Harbor	Harbor	PROPN	NNP	Number=Sing	9	nsub:pass	9:nsubj:pass	_
+6	Harbor	Harbor	PROPN	NNP	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
 7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 8	frequently	frequently	ADV	RB	_	9	advmod	9:advmod	_
 9	used	use	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
