@@ -23364,10 +23364,10 @@
 18	Villa	Villa	PROPN	NNP	Number=Sing	15	obl	15:obl:at	_
 19	Pelucca	Pelucca	PROPN	NNP	Number=Sing	18	flat	18:flat	SpaceAfter=No
 20	,	,	PUNCT	,	_	18	punct	18:punct	_
-21	in	in	ADP	IN	_	24	case	24:case	_
-22	Sesto	Sesto	PROPN	NNP	Number=Sing	24	compound	24:compound	_
-23	San	San	PROPN	NNP	Number=Sing	24	compound	24:compound	_
-24	Giovanni	Giovanni	PROPN	NNP	Number=Sing	18	nmod	18:nmod:in	SpaceAfter=No
+21	in	in	ADP	IN	_	22	case	22:case	_
+22	Sesto	Sesto	PROPN	NNP	Number=Sing	18	nmod	18:nmod:in	_
+23	San	San	PROPN	NNP	Number=Sing	22	flat	22:flat	_
+24	Giovanni	Giovanni	PROPN	NNP	Number=Sing	22	flat	22:flat	SpaceAfter=No
 25	.	.	PUNCT	.	_	11	punct	11:punct	_
 
 # sent_id = w04002048
