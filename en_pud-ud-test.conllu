@@ -3093,7 +3093,7 @@
 31	in	in	ADP	IN	_	32	case	32:case	_
 32	Denver	Denver	PROPN	NNP	Number=Sing	30	nmod	30:nmod:in	SpaceAfter=No
 33	,	,	PUNCT	,	_	32	punct	32:punct	_
-34	Colorado	Colorado	PROPN	NNP	Number=Sing	32	appos	32:appos	SpaceAfter=No
+34	Colorado	Colorado	PROPN	NNP	Number=Sing	32	nmod:unmarked	32:nmod:unmarked	SpaceAfter=No
 35	,	,	PUNCT	,	_	32	punct	32:punct	_
 36	where	where	ADV	WRB	PronType=Rel	39	advmod	39:advmod	_
 37	pot	pot	NOUN	NN	Number=Sing	39	nsubj:pass	39:nsubj:pass	_
@@ -3240,7 +3240,7 @@
 15	of	of	ADP	IN	_	16	case	16:case	_
 16	Plano	Plano	PROPN	NNP	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
 17	,	,	PUNCT	,	_	16	punct	16:punct	_
-18	Texas	Texas	PROPN	NNP	Number=Sing	16	appos	16:appos	SpaceAfter=No
+18	Texas	Texas	PROPN	NNP	Number=Sing	16	nmod:unmarked	16:nmod:unmarked	SpaceAfter=No
 19	,	,	PUNCT	,	_	12	punct	12:punct	_
 20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux:pass	21:aux:pass	_
 21	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	7:advcl	_
@@ -18147,7 +18147,7 @@
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	Nashville	Nashville	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	8:punct	_
-8	Tennessee	Tennessee	PROPN	NNP	Number=Sing	6	appos	6:appos	SpaceAfter=No
+8	Tennessee	Tennessee	PROPN	NNP	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	8:punct	_
 10	in	in	ADP	IN	_	11	case	11:case	_
 11	1991	1991	NUM	CD	NumForm=Digit|NumType=Card	2	obl	2:obl:in	_
