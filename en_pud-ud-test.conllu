@@ -6919,7 +6919,7 @@
 14	inmate	inmate	NOUN	NN	Number=Sing	10	obj	10:obj	_
 15	in	in	ADP	IN	_	16	case	16:case	_
 16	Marat	Marat	PROPN	NNP	Number=Sing	10	obl	10:obl:in	SpaceAfter=No
-17	/	/	CCONJ	HYPH	_	18	cc	18:cc	SpaceAfter=No
+17	/	/	SYM	,	_	18	cc	18:cc	SpaceAfter=No
 18	Sade	Sade	PROPN	NNP	Number=Sing	16	conj	10:obl:in|16:conj	SpaceAfter=No
 19	.	.	PUNCT	.	_	2	punct	2:punct	_
 
