@@ -13268,7 +13268,7 @@
 2	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obl	6:obl:despite	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj|9:nsubj:xsubj	_
-5	both	both	DET	DT	PronType=Tot	4	det	4:det	_
+5	both	both	DET	DT	PronType=Tot	6	advmod	6:advmod	_
 6	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	to	to	PART	TO	_	9	mark	9:mark	_
 8	have	have	AUX	VB	VerbForm=Inf	9	aux	9:aux	_
@@ -13843,7 +13843,7 @@
 11	economic	economic	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	growth	growth	NOUN	NN	Number=Sing	13	compound	13:compound	_
 13	rate	rate	NOUN	NN	Number=Sing	5	conj	5:conj:and|15:nsubj	_
-14	all	all	DET	DT	PronType=Tot	5	det	5:det	_
+14	all	all	DET	DT	PronType=Tot	15	advmod	15:advmod	_
 15	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 16	significant	significant	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 17	effects	effect	NOUN	NNS	Number=Plur	15	obj	15:obj	_
@@ -23131,7 +23131,7 @@
 3	away	away	ADV	RB	_	2	advmod	2:advmod	_
 4	from	from	ADP	IN	_	5	case	5:case	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obl	2:obl:from	_
-6	all	all	DET	DT	PronType=Tot	5	det	5:det	SpaceAfter=No
+6	all	all	DET	DT	PronType=Tot	5	nmod:unmarked	5:nmod:unmarked	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	Remis	Remis	PROPN	NNPS	Number=Plur	10	nsubj	10:nsubj	_
