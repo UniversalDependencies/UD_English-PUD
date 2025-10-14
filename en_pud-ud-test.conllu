@@ -6233,7 +6233,7 @@
 9	6.30	6.30	NUM	CD	NumForm=Digit|NumType=Card	7	parataxis	7:parataxis	SpaceAfter=No
 10	-	-	SYM	SYM	_	11	case	11:case	SpaceAfter=No
 11	10	10	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod:to	SpaceAfter=No
-12	am	a.m.	NOUN	NN	_	11	nmod:unmarked	11:parataxis	SpaceAfter=No
+12	am	a.m.	NOUN	NN	_	11	nmod:unmarked	11:nmod:unmarked	SpaceAfter=No
 13	)	)	PUNCT	-RRB-	_	9	punct	9:punct	SpaceAfter=No
 14	:	:	PUNCT	:	_	3	punct	3:punct	_
 15	rice	rice	NOUN	NN	Number=Sing	16	compound	16:compound	_
