@@ -36,7 +36,7 @@
 32	blog	blog	NOUN	NN	Number=Sing	33	compound	33:compound	_
 33	post	post	NOUN	NN	Number=Sing	29	obl	29:obl:in	_
 34	Monday	Monday	PROPN	NNP	Number=Sing	29	nmod:unmarked	29:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
-35	.	.	PUNCT	.	_	20	punct	20:punct	_
+35	.	.	PUNCT	.	_	29	punct	29:punct	_
 
 # sent_id = n01001013
 # parallel_id = pud/n01001013
@@ -144,7 +144,7 @@
 37	of	of	ADP	IN	_	39	case	39:case	Proper=True
 38	North	North	PROPN	NNP	Number=Sing	39	compound	39:compound	_
 39	Carolina	Carolina	PROPN	NNP	Number=Sing	36	nmod	36:nmod:of	SpaceAfter=No
-40	.	.	PUNCT	.	_	4	punct	4:punct	_
+40	.	.	PUNCT	.	_	26	punct	26:punct	_
 
 # sent_id = n01002042
 # parallel_id = pud/n01002042
@@ -377,7 +377,7 @@
 23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	_
 24	Georgetown	Georgetown	PROPN	NNP	Number=Sing	25	compound	25:compound	_
 25	BID	BID	PROPN	NNP	Abbr=Yes|Number=Sing	21	nmod	21:nmod:of	SpaceAfter=No
-26	.	.	PUNCT	.	_	3	punct	3:punct	_
+26	.	.	PUNCT	.	_	17	punct	17:punct	_
 
 # sent_id = n01005031
 # parallel_id = pud/n01005031
@@ -535,7 +535,7 @@
 23	”	"	PUNCT	''	_	4	punct	4:punct	_
 24	Saqib	Saqib	PROPN	NNP	Number=Sing	25	nsubj	25:nsubj	_
 25	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-26	.	.	PUNCT	.	_	4	punct	4:punct	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
 
 # newdoc id = n01010
 # sent_id = n01010042
@@ -559,7 +559,7 @@
 16	leave	leave	VERB	VB	VerbForm=Inf	12	ccomp	12:ccomp	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 18	building	building	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
-19	.	.	PUNCT	.	_	2	punct	2:punct	_
+19	.	.	PUNCT	.	_	8	punct	8:punct	_
 
 # newdoc id = n01011
 # sent_id = n01011004
@@ -617,7 +617,7 @@
 29	,	,	PUNCT	,	_	28	punct	28:punct	_
 30	police	police	NOUN	NNS	Number=Plur	31	nsubj	31:nsubj	_
 31	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-32	.	.	PUNCT	.	_	2	punct	2:punct	_
+32	.	.	PUNCT	.	_	31	punct	31:punct	_
 
 # sent_id = n01011017
 # parallel_id = pud/n01011017
@@ -1161,7 +1161,7 @@
 30	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	aux	32:aux	_
 31	being	be	AUX	VBG	VerbForm=Ger	32	aux:pass	32:aux:pass	_
 32	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	26	ccomp	26:ccomp	SpaceAfter=No
-33	.	.	PUNCT	.	_	7	punct	7:punct	_
+33	.	.	PUNCT	.	_	14	punct	14:punct	_
 
 # sent_id = n01021011
 # parallel_id = pud/n01021011
@@ -1316,7 +1316,7 @@
 34	of	of	ADP	IN	_	36	case	36:case	_
 35	UN	UN	PROPN	NNP	Abbr=Yes|Number=Sing	36	compound	36:compound	_
 36	Environment	environment	NOUN	NN	Number=Sing	33	nmod	33:nmod:of	SpaceAfter=No
-37	.	.	PUNCT	.	_	4	punct	4:punct	_
+37	.	.	PUNCT	.	_	29	punct	29:punct	_
 
 # sent_id = n01022016
 # parallel_id = pud/n01022016
@@ -1570,7 +1570,7 @@
 24	"	"	PUNCT	''	_	3	punct	3:punct	_
 25	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nsubj	26:nsubj	_
 26	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-27	.	.	PUNCT	.	_	3	punct	3:punct	_
+27	.	.	PUNCT	.	_	26	punct	26:punct	_
 
 # sent_id = n01025040
 # parallel_id = pud/n01025040
@@ -1615,7 +1615,7 @@
 14	,	,	PUNCT	,	_	10	punct	10:punct	_
 15	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 16	Tarlo	Tarlo	PROPN	NNP	Number=Sing	15	nsubj	15:nsubj	SpaceAfter=No
-17	.	.	PUNCT	.	_	10	punct	10:punct	_
+17	.	.	PUNCT	.	_	15	punct	15:punct	_
 
 # newdoc id = n01026
 # sent_id = n01026004
@@ -1747,7 +1747,7 @@
 25	"	"	PUNCT	''	_	9	punct	9:punct	_
 26	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 27	Pall	Pall	PROPN	NNP	Number=Sing	26	nsubj	26:nsubj	SpaceAfter=No
-28	.	.	PUNCT	.	_	9	punct	9:punct	_
+28	.	.	PUNCT	.	_	26	punct	26:punct	_
 
 # newdoc id = n01029
 # sent_id = n01029006
@@ -2320,7 +2320,7 @@
 27	"	"	PUNCT	''	_	5	punct	5:punct	_
 28	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	nsubj	29:nsubj	_
 29	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-30	.	.	PUNCT	.	_	5	punct	5:punct	_
+30	.	.	PUNCT	.	_	29	punct	29:punct	_
 
 # sent_id = n01035030
 # parallel_id = pud/n01035030
@@ -2519,7 +2519,7 @@
 38	"	"	PUNCT	''	_	4	punct	4:punct	_
 39	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 40	Guilbeault	Guilbeault	PROPN	NNP	Number=Sing	39	nsubj	39:nsubj	SpaceAfter=No
-41	.	.	PUNCT	.	_	4	punct	4:punct	_
+41	.	.	PUNCT	.	_	39	punct	39:punct	_
 
 # sent_id = n01038025
 # parallel_id = pud/n01038025
@@ -2691,7 +2691,7 @@
 17	with	with	ADP	IN	_	19	case	19:case	_
 18	CBC	CBC	PROPN	NNP	Abbr=Yes|Number=Sing	19	compound	19:compound	_
 19	News	News	PROPN	NNP	Number=Sing	15	nmod	15:nmod:with	SpaceAfter=No
-20	.	.	PUNCT	.	_	5	punct	5:punct	_
+20	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # sent_id = n01041018
 # parallel_id = pud/n01041018
@@ -2718,7 +2718,7 @@
 19	"	"	PUNCT	''	_	5	punct	5:punct	_
 20	Mailis	Mailis	PROPN	NNP	Number=Sing	21	nsubj	21:nsubj	_
 21	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-22	.	.	PUNCT	.	_	5	punct	5:punct	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 
 # newdoc id = n01042
 # sent_id = n01042004
@@ -3022,7 +3022,7 @@
 35	the	the	DET	DT	Definite=Def|PronType=Art	36	det	36:det	_
 36	guidelines	guideline	NOUN	NNS	Number=Plur	37	nsubj	37:nsubj	_
 37	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-38	.	.	PUNCT	.	_	7	punct	7:punct	_
+38	.	.	PUNCT	.	_	37	punct	37:punct	_
 
 # sent_id = n01045035
 # parallel_id = pud/n01045035
@@ -3326,7 +3326,7 @@
 22	(	(	PUNCT	-LRB-	_	23	punct	23:punct	SpaceAfter=No
 23	CBS	CBS	PROPN	NNP	Abbr=Yes|Number=Sing	21	appos	21:appos	SpaceAfter=No
 24	)	)	PUNCT	-RRB-	_	23	punct	23:punct	SpaceAfter=No
-25	.	.	PUNCT	.	_	3	punct	3:punct	_
+25	.	.	PUNCT	.	_	18	punct	18:punct	_
 
 # sent_id = n01050019
 # parallel_id = pud/n01050019
@@ -3492,7 +3492,7 @@
 18	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
 19	recent	recent	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	interview	interview	NOUN	NN	Number=Sing	16	obl	16:obl:in	SpaceAfter=No
-21	.	.	PUNCT	.	_	4	punct	4:punct	_
+21	.	.	PUNCT	.	_	16	punct	16:punct	_
 
 # sent_id = n01053036
 # parallel_id = pud/n01053036
@@ -3538,7 +3538,7 @@
 10	"	"	PUNCT	''	_	5	punct	5:punct	_
 11	Leive	Leive	PROPN	NNP	Number=Sing	12	nsubj	12:nsubj	_
 12	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-13	.	.	PUNCT	.	_	5	punct	5:punct	_
+13	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # newdoc id = n01054
 # sent_id = n01054011
@@ -3937,7 +3937,7 @@
 33	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part	15	conj	12:acl:relcl|15:conj:and	_
 34	regret	regret	NOUN	NN	Number=Sing	33	obj	33:obj	SpaceAfter=No
 35	.	.	PUNCT	.	_	8	punct	8:punct	SpaceAfter=No
-36	”	"	PUNCT	''	_	8	punct	8:punct	_
+36	”	"	PUNCT	''	_	4	punct	4:punct	_
 
 # newdoc id = n01061
 # sent_id = n01061016
@@ -3990,7 +3990,7 @@
 22	Slate	Slate	PROPN	NNP	Number=Sing	20	obl	20:obl:to	_
 23	last	last	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
 24	year	year	NOUN	NN	Number=Sing	20	nmod:unmarked	20:nmod:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
-25	.	.	PUNCT	.	_	9	punct	9:punct	_
+25	.	.	PUNCT	.	_	20	punct	20:punct	_
 
 # sent_id = n01061041
 # parallel_id = pud/n01061041
@@ -4168,7 +4168,7 @@
 14	carefully	carefully	ADV	RB	_	15	advmod	15:advmod	_
 15	educated	educate	VERB	VBN	Tense=Past|VerbForm=Part	16	amod	16:amod	_
 16	guardians	guardian	NOUN	NNS	Number=Plur	11	obl	11:obl:to	SpaceAfter=No
-17	.	.	PUNCT	.	_	5	punct	5:punct	_
+17	.	.	PUNCT	.	_	8	punct	8:punct	_
 
 # sent_id = n01064096
 # parallel_id = pud/n01064096
@@ -4225,7 +4225,7 @@
 26	not	not	PART	RB	Polarity=Neg	27	advmod	27:advmod	_
 27	flood	flood	VERB	VB	VerbForm=Inf	19	advcl	19:advcl:when	SpaceAfter=No
 28	.	.	PUNCT	.	_	17	punct	17:punct	SpaceAfter=No
-29	”	"	PUNCT	''	_	17	punct	17:punct	_
+29	”	"	PUNCT	''	_	2	punct	2:punct	_
 
 # newdoc id = n01065
 # sent_id = n01065073
@@ -4328,7 +4328,7 @@
 13	Alice	Alice	PROPN	NNP	Number=Sing	11	appos	11:appos	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	13:punct	_
 15	reported	report	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-16	.	.	PUNCT	.	_	3	punct	3:punct	_
+16	.	.	PUNCT	.	_	15	punct	15:punct	_
 
 # newdoc id = n01067
 # sent_id = n01067014
@@ -4660,7 +4660,7 @@
 25	not	not	PART	RB	Polarity=Neg	26	advmod	26:advmod	_
 26	known	know	VERB	VBN	Tense=Past|VerbForm=Part	14	parataxis	14:parataxis	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	26:punct	SpaceAfter=No
-28	”	"	PUNCT	''	_	26	punct	26:punct	_
+28	”	"	PUNCT	''	_	8	punct	8:punct	_
 
 # newdoc id = n01073
 # sent_id = n01073004
@@ -5509,7 +5509,7 @@
 8	”	"	PUNCT	''	_	3	punct	3:punct	_
 9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
 10	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	3:punct	_
+11	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 # sent_id = n01087039
 # parallel_id = pud/n01087039
@@ -5531,7 +5531,7 @@
 15	”	"	PUNCT	''	_	3	punct	3:punct	_
 16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
 17	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-18	.	.	PUNCT	.	_	3	punct	3:punct	_
+18	.	.	PUNCT	.	_	17	punct	17:punct	_
 
 # newdoc id = n01088
 # sent_id = n01088026
@@ -5853,7 +5853,7 @@
 29	quoted	quote	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 30	as	as	SCONJ	IN	_	31	mark	31:mark	_
 31	saying	say	VERB	VBG	VerbForm=Ger	29	advcl	29:advcl:as	SpaceAfter=No
-32	.	.	PUNCT	.	_	5	punct	5:punct	_
+32	.	.	PUNCT	.	_	29	punct	29:punct	_
 
 # newdoc id = n01093
 # sent_id = n01093007
@@ -5876,7 +5876,7 @@
 15	EU	EU	PROPN	NNP	Abbr=Yes|Number=Sing	16	compound	16:compound	_
 16	official	official	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	_
 17	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-18	.	.	PUNCT	.	_	6	punct	6:punct	_
+18	.	.	PUNCT	.	_	17	punct	17:punct	_
 
 # sent_id = n01093024
 # parallel_id = pud/n01093024
@@ -5956,7 +5956,7 @@
 23	Dr	Dr	PROPN	NNP	Number=Sing	24	nmod:desc	24:nmod:desc	_
 24	Lee	Lee	PROPN	NNP	Number=Sing	25	nsubj	25:nsubj	_
 25	adds	add	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-26	.	.	PUNCT	.	_	4	punct	4:punct	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
 
 # newdoc id = n01095
 # sent_id = n01095004
@@ -6413,7 +6413,7 @@
 21	Government	government	NOUN	NN	Number=Sing	22	nsubj	22:nsubj	_
 22	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	18:acl:relcl	SpaceAfter=No
 23	.	.	PUNCT	.	_	18	punct	18:punct	SpaceAfter=No
-24	”	"	PUNCT	''	_	18	punct	18:punct	_
+24	”	"	PUNCT	''	_	2	punct	2:punct	_
 
 # newdoc id = n01103
 # sent_id = n01103013
@@ -6579,7 +6579,7 @@
 13	go	go	VERB	VB	VerbForm=Inf	3	ccomp	3:ccomp	_
 14	unnoticed	unnoticed	ADJ	JJ	Degree=Pos	13	xcomp	13:xcomp	SpaceAfter=No
 15	.	.	PUNCT	.	_	13	punct	13:punct	SpaceAfter=No
-16	”	"	PUNCT	''	_	13	punct	13:punct	_
+16	”	"	PUNCT	''	_	3	punct	3:punct	_
 
 # newdoc id = n01107
 # sent_id = n01107005
@@ -7241,7 +7241,7 @@
 20	to	to	PART	TO	_	21	mark	21:mark	_
 21	induce	induce	VERB	VB	VerbForm=Inf	19	acl	19:acl:to	_
 22	shockwaves	shockwave	NOUN	NNS	Number=Plur	21	obj	21:obj	SpaceAfter=No
-23	?	?	PUNCT	.	_	11	punct	11:punct	_
+23	?	?	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n01116021
 # parallel_id = pud/n01116021
@@ -7591,7 +7591,7 @@
 21	”	"	PUNCT	''	_	7	punct	7:punct	_
 22	Zimmer	Zimmer	PROPN	NNP	Number=Sing	23	nsubj	23:nsubj	_
 23	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-24	.	.	PUNCT	.	_	7	punct	7:punct	_
+24	.	.	PUNCT	.	_	23	punct	23:punct	_
 
 # newdoc id = n01123
 # sent_id = n01123010
@@ -8088,7 +8088,7 @@
 12	of	of	ADP	IN	_	13	case	13:case	Proper=True
 13	Thrones	throne	NOUN	NNS	Number=Plur	11	nmod	11:nmod:of	SpaceAfter=No
 14	.	.	PUNCT	.	_	11	punct	11:punct	SpaceAfter=No
-15	"	"	PUNCT	''	_	11	punct	11:punct	_
+15	"	"	PUNCT	''	_	4	punct	4:punct	_
 
 # sent_id = n01132013
 # parallel_id = pud/n01132013
@@ -8124,7 +8124,7 @@
 29	of	of	ADP	IN	_	30	case	30:case	Proper=True
 30	Spring	spring	NOUN	NN	Number=Sing	28	nmod	28:nmod:of	SpaceAfter=No
 31	.	.	PUNCT	.	_	28	punct	28:punct	SpaceAfter=No
-32	"	"	PUNCT	''	_	28	punct	28:punct	_
+32	"	"	PUNCT	''	_	2	punct	2:punct	_
 
 # newdoc id = n01133
 # sent_id = n01133014
@@ -8493,7 +8493,7 @@
 11	Talking	talk	VERB	VBG	VerbForm=Ger	12	amod	12:amod	_
 12	Dead	dead	NOUN	NN	Number=Sing	6	appos	6:appos	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	12:punct	SpaceAfter=No
-14	"	"	PUNCT	''	_	12	punct	12:punct	_
+14	"	"	PUNCT	''	_	4	punct	4:punct	_
 
 # newdoc id = n01139
 # sent_id = n01139006
@@ -8521,7 +8521,7 @@
 19	"	"	PUNCT	''	_	17	punct	17:punct	_
 20	Barratt	Barratt	PROPN	NNP	Number=Sing	21	nsubj	21:nsubj	_
 21	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-22	.	.	PUNCT	.	_	17	punct	17:punct	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 
 # sent_id = n01139016
 # parallel_id = pud/n01139016
@@ -8746,7 +8746,7 @@
 23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
 24	American	American	PROPN	NNP	Number=Sing	25	nsubj	25:nsubj	_
 25	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-26	.	.	PUNCT	.	_	3	punct	3:punct	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
 
 # newdoc id = n01143
 # sent_id = n01143003
@@ -8770,7 +8770,7 @@
 15	's	's	PART	POS	_	14	case	14:case	Proper=True
 16	Nine	nine	NUM	CD	NumForm=Word|NumType=Card	17	compound	17:compound	_
 17	News	news	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No
-18	.	.	PUNCT	.	_	3	punct	3:punct	_
+18	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 # sent_id = n01143009
 # parallel_id = pud/n01143009
@@ -8883,7 +8883,7 @@
 22	"	"	PUNCT	''	_	5	punct	5:punct	_
 23	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	24:nsubj	_
 24	adds	add	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-25	.	.	PUNCT	.	_	5	punct	5:punct	_
+25	.	.	PUNCT	.	_	24	punct	24:punct	_
 
 # sent_id = n01144041
 # parallel_id = pud/n01144041
@@ -8985,7 +8985,7 @@
 13	González	González	PROPN	NNP	Number=Sing	15	nsubj	15:nsubj	_
 14	Anaya	Anaya	PROPN	NNP	Number=Sing	13	flat	13:flat	_
 15	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-16	.	.	PUNCT	.	_	3	punct	3:punct	_
+16	.	.	PUNCT	.	_	15	punct	15:punct	_
 
 # sent_id = n01145034
 # parallel_id = pud/n01145034
@@ -9301,7 +9301,7 @@
 21	"	"	PUNCT	''	_	5	punct	5:punct	_
 22	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	_
 23	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-24	.	.	PUNCT	.	_	5	punct	5:punct	_
+24	.	.	PUNCT	.	_	23	punct	23:punct	_
 
 # newdoc id = w01001
 # sent_id = w01001049
@@ -17058,7 +17058,7 @@
 25	open	open	ADJ	JJ	Degree=Pos	26	amod	26:amod	_
 26	mind	mind	NOUN	NN	Number=Sing	23	obj	23:obj	SpaceAfter=No
 27	.	.	PUNCT	.	_	17	punct	17:punct	SpaceAfter=No
-28	"	"	PUNCT	''	_	17	punct	17:punct	_
+28	"	"	PUNCT	''	_	2	punct	2:punct	_
 
 # newdoc id = w01119
 # sent_id = w01119059
@@ -17891,7 +17891,7 @@
 29	the	the	DET	DT	Definite=Def|PronType=Art	31	det	31:det	_
 30	ancient	ancient	ADJ	JJ	Degree=Pos	31	amod	31:amod	_
 31	Maya	Maya	PROPN	NNP	Number=Sing	27	nmod	27:nmod:for	SpaceAfter=No
-32	.	.	PUNCT	.	_	4	punct	4:punct	_
+32	.	.	PUNCT	.	_	16	punct	16:punct	_
 
 # newdoc id = w01133
 # sent_id = w01133014
@@ -19589,7 +19589,7 @@
 16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	expl	18:expl	_
 17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux:pass	18:aux:pass	_
 18	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
-19	.	.	PUNCT	.	_	5	punct	5:punct	_
+19	.	.	PUNCT	.	_	18	punct	18:punct	_
 
 # newdoc id = n02031
 # sent_id = n02031071
@@ -19967,7 +19967,7 @@
 11	matters	matter	NOUN	NNS	Number=Plur	7	obl	7:obl:in	_
 12	of	of	ADP	IN	_	13	case	13:case	_
 13	contraception	contraception	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	SpaceAfter=No
-14	.	.	PUNCT	.	_	7	punct	7:punct	_
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # newdoc id = n02052
 # sent_id = n02052023
@@ -20882,7 +20882,7 @@
 28	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 29	Ms.	Ms.	PROPN	NNP	Number=Sing	30	nmod:desc	30:nmod:desc	_
 30	Gillard	Gillard	PROPN	NNP	Number=Sing	28	nsubj	28:nsubj	SpaceAfter=No
-31	.	.	PUNCT	.	_	5	punct	5:punct	_
+31	.	.	PUNCT	.	_	28	punct	28:punct	_
 
 # sent_id = n03006034
 # parallel_id = pud/n03006034
@@ -22340,7 +22340,7 @@
 19	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 20	El	El	PROPN	NNP	Number=Sing	21	compound	21:compound	_
 21	Mundo	Mundo	PROPN	NNP	Number=Sing	19	obj	19:obj	SpaceAfter=No
-22	.	.	PUNCT	.	_	4	punct	4:punct	_
+22	.	.	PUNCT	.	_	19	punct	19:punct	_
 
 # sent_id = n05009030
 # parallel_id = pud/n05009030
