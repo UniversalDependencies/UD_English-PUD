@@ -5709,7 +5709,7 @@
 13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj	SpaceAfter=No
 14	’d	would	AUX	MD	VerbForm=Fin	16	aux	16:aux	_
 15	be	be	AUX	VB	VerbForm=Inf	16	cop	16:cop	_
-16	amazed	amazed	ADJ	JJ	Degree=Pos	10	parataxis	10:parataxis	_
+16	amazed	amazed	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	_
 17	if	if	SCONJ	IN	_	24	mark	24:mark	_
 18	either	either	CCONJ	CC	_	20	cc:preconj	20:cc:preconj	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
@@ -6407,7 +6407,7 @@
 15	frankly	frankly	ADV	RB	_	18	advmod	18:advmod	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 17	last	last	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
-18	thing	thing	NOUN	NN	Number=Sing	2	parataxis	2:parataxis|22:obl	_
+18	thing	thing	NOUN	NN	Number=Sing	2	ccomp	2:ccomp|22:obl	_
 19	that	that	PRON	WDT	PronType=Rel	22	obj	18:ref	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
 21	Government	government	NOUN	NN	Number=Sing	22	nsubj	22:nsubj	_
