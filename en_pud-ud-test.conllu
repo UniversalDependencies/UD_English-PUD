@@ -1625,7 +1625,7 @@
 2	Tonight	tonight	NOUN	NN	Number=Sing	5	obl:unmarked	5:obl:unmarked	TemporalNPAdjunct=Yes
 3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
-5	carrying	carry	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+5	carrying	carry	VERB	VBG	Tense=Pres|VerbForm=Part	16	ccomp	16:ccomp	_
 6	out	out	ADP	RP	_	5	compound:prt	5:compound:prt	_
 7	punishments	punishment	NOUN	NNS	Number=Plur	5	obj	5:obj	_
 8	using	use	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl	_
@@ -1636,8 +1636,8 @@
 13	"	"	PUNCT	''	_	5	punct	5:punct	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 15	post	post	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
-16	reads	read	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	5:parataxis	SpaceAfter=No
-17	.	.	PUNCT	.	_	5	punct	5:punct	_
+16	reads	read	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+17	.	.	PUNCT	.	_	16	punct	16:punct	_
 
 # sent_id = n01026016
 # parallel_id = pud/n01026016
