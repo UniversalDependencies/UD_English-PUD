@@ -16645,8 +16645,8 @@
 6	4	4	NUM	CD	NumForm=Digit|NumType=Card	3	obl	3:obl:on	_
 7	October	October	PROPN	NNP	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	_
 8	1988	1988	NUM	CD	NumForm=Digit|NumType=Card	6	nmod:unmarked	6:nmod:unmarked	_
-9	and	and	CCONJ	CC	_	13	cc	13:cc	_
-10	again	again	ADV	RB	_	13	advmod	13:advmod	_
+9	and	and	CCONJ	CC	_	12	cc	12:cc	_
+10	again	again	ADV	RB	_	12	advmod	12:advmod	_
 11	on	on	ADP	IN	_	12	case	12:case	_
 12	19	19	NUM	CD	NumForm=Digit|NumType=Card	3	conj	3:conj:and	_
 13	March	March	PROPN	NNP	Number=Sing	12	nmod:unmarked	12:nmod:unmarked	_
