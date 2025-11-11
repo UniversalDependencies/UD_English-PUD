@@ -87,6 +87,7 @@ Relations: manual native
 Data available since: UD v2.1
 License: CC BY-SA 3.0
 Includes text: yes
+Parallel: pud
 Genre: news wiki
 Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Kirchner, Jesse; Lambertino, Lorenzo; Popel, Martin; Zeman, Daniel; Manning, Christopher; Schuster, Sebastian; Reddy, Siva
 Contributing: elsewhere
