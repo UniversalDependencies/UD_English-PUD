@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_English-PUD:
-commit 2125c06fbe1f178a6cd8aedf69e7155bd4a68fea
-Merge: 6cf9961 37788ea
+commit 77631d0b32eb098d09356a293f66c4897554e72c
+Merge: c1088c6 983e95d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'en_pud'
+Language code (from CoNLL-U file name) = 'en'
+Found the following data files: en_pud-ud-test.conllu
 Size: counted 21180 of 21180 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.10611468034652.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,26 +19,33 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 14335 out of 21180 total words have one or more features.
+Features: 14324 out of 21180 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        211
-Udapi: found 211 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 21180 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-PUD/en_pud-ud-test.conllu
+[Line 56 Sent n01001013]: [L3 Warning verbform-fin-without-mood] Finite verb 'will' lacks the 'Mood' feature
+[Line 87 Sent n01002017]: [L3 Warning verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
+[Line 367 Sent n01005024]: [L3 Warning verbform-fin-without-mood] Finite verb 'can' lacks the 'Mood' feature
+[Line 391 Sent n01005031]: [L3 Warning verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
+[Line 430 Sent n01007012]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 496 Sent n01009027]: [L3 Warning verbform-fin-without-mood] Finite verb 'may' lacks the 'Mood' feature
+[Line 544 Sent n01010042]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 558 Sent n01010042]: [L3 Warning verbform-fin-without-mood] Finite verb 'should' lacks the 'Mood' feature
+[Line 698 Sent n01014003]: [L3 Warning verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
+[Line 910 Sent n01017008]: [L3 Warning verbform-fin-without-mood] Finite verb 'may' lacks the 'Mood' feature
+...suppressing further errors regarding Warning
+Warnings: 208
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
-(weight=0.256410256410256) * (score{size}=0.441975318590489) = 0.113327004766792
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.900377714825307) = 0.277039296869325
-(weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.627575818845634) * (availability=1) * (validity=1) = 0.627575818845634
-STARS = 3
-UD_English-PUD	0.627575818845634	3
+(weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.4) = 0.0444444444444444
+(weight=0.37037037037037) * (score{size}=0.441975318590489) = 0.163694562440922
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{udeprels}=0.945945945945946) = 0.105105105105105
+(TOTAL score=0.506330531743558) * (availability=1) * (validity=1) = 0.506330531743558
+STARS = 2.5
+UD_English-PUD	0.506330531743558	2.5
