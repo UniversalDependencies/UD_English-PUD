@@ -427,7 +427,7 @@
 # sent_id = n01007012
 # parallel_id = pud/n01007012
 # text = There are parallels to draw here between games and our everyday lives.
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	parallels	parallel	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
@@ -541,7 +541,7 @@
 # sent_id = n01010042
 # parallel_id = pud/n01010042
 # text = There was a time, Mr Panvalkar said, when he felt that they should leave the building.
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	8:ccomp	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	time	time	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
@@ -1544,7 +1544,7 @@
 # parallel_id = pud/n01025025
 # text = "There is still a 'yuk' factor to the whole idea of buying and wearing other people's body parts," she says.
 1	"	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
-2	There	there	PRON	EX	_	3	expl	3:expl	_
+2	There	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	ccomp	26:ccomp	_
 4	still	still	ADV	RB	_	3	advmod	3:advmod	_
 5	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -1868,7 +1868,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	Associated	Associated	PROPN	NNP	Number=Sing	7	compound	7:compound	_
 7	Press	Press	PROPN	NNP	Number=Sing	4	iobj	4:iobj	_
-8	there	there	PRON	EX	_	9	expl	9:expl	_
+8	there	there	PRON	EX	PronType=Dem	9	expl	9:expl	_
 9	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
 10	"	"	PUNCT	``	_	12	punct	12:punct	SpaceAfter=No
 11	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
@@ -2009,7 +2009,7 @@
 # parallel_id = pud/n01032032
 # text = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
 1	However	however	ADV	RB	_	3	advmod	3:advmod	_
-2	there	there	PRON	EX	_	3	expl	3:expl	_
+2	there	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
 3	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	many	many	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	MLAs	mla	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj|13:nsubj	_
@@ -2175,7 +2175,7 @@
 20	whatever	whatever	DET	WDT	PronType=Rel	22	det	22:det	_
 21	shared	share	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	amod	22:amod	_
 22	agenda	agenda	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
-23	there	there	PRON	EX	_	24	expl	24:expl	_
+23	there	there	PRON	EX	PronType=Dem	24	expl	24:expl	_
 24	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	19:ccomp	SpaceAfter=No
 25	,	,	PUNCT	,	_	15	punct	15:punct	_
 26	to	to	PART	TO	_	27	mark	27:mark	_
@@ -2986,7 +2986,7 @@
 # parallel_id = pud/n01045010
 # text = "There should be no preferential access to government, or appearance of preferential access, accorded to individuals or organizations because they have made financial contributions to politicians and political parties," the guidelines read.
 1	"	"	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
-2	There	there	PRON	EX	_	7	expl	7:expl	_
+2	There	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 3	should	should	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	7	cop	7:cop	_
 5	no	no	DET	DT	PronType=Neg	7	det	7:det	_
@@ -3693,7 +3693,7 @@
 # text = Still, there are questions left unanswered.
 1	Still	still	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
-3	there	there	PRON	EX	_	4	expl	4:expl	_
+3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	questions	question	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_
@@ -3870,7 +3870,7 @@
 # sent_id = n01059054
 # parallel_id = pud/n01059054
 # text = There are more differences between Sulla and Trump, Rome and the U.S., than there are similarities, but that doesn’t discredit the resemblances.
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	more	more	ADJ	JJR	Degree=Cmp	4	amod	4:amod	_
 4	differences	difference	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
@@ -3885,7 +3885,7 @@
 13	U.S.	U.S.	PROPN	NNP	Abbr=Yes|Number=Sing	10	conj	10:conj:and	SpaceAfter=No
 14	,	,	PUNCT	,	_	6	punct	6:punct	_
 15	than	than	SCONJ	IN	_	17	mark	17:mark	_
-16	there	there	PRON	EX	_	17	expl	17:expl	_
+16	there	there	PRON	EX	PronType=Dem	17	expl	17:expl	_
 17	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:than	_
 18	similarities	similarity	NOUN	NNS	Number=Plur	17	nsubj	17:nsubj	SpaceAfter=No
 19	,	,	PUNCT	,	_	24	punct	24:punct	_
@@ -4232,7 +4232,7 @@
 # parallel_id = pud/n01065073
 # text = But there was nothing else obviously artistic about her or in her behavior with other people.
 1	But	but	CCONJ	CC	_	3	cc	3:cc	_
-2	there	there	PRON	EX	_	3	expl	3:expl	_
+2	there	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
 3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	nothing	nothing	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 5	else	else	ADV	RB	_	4	advmod	4:advmod	_
@@ -4922,7 +4922,7 @@
 # parallel_id = pud/n01077030
 # text = Then there are the so-called true stories that get posted in a series of meaningful pictures with text running underneath.
 1	Then	then	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
-2	there	there	PRON	EX	_	3	expl	3:expl	_
+2	there	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
 3	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 5	so	so	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
@@ -6750,7 +6750,7 @@
 # sent_id = n01108015
 # parallel_id = pud/n01108015
 # text = There will be limits to his ability to spend, however, as the Government is still running a substantial budget deficit.
-1	There	there	PRON	EX	_	3	expl	3:expl	_
+1	There	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
 2	will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	be	be	AUX	VB	VerbForm=Inf	0	root	0:root	_
 4	limits	limit	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
@@ -7434,7 +7434,7 @@
 4	course	course	NOUN	NN	Number=Sing	3	fixed	3:fixed	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6-7	there's	_	_	_	_	_	_	_	_
-6	there	there	PRON	EX	_	7	expl	7:expl	_
+6	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 7	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	Bob	Bob	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -8609,7 +8609,7 @@
 # parallel_id = pud/n01141007
 # text = There's also an option to send emoji, GIFs, custom memes and stickers via the platform, and connect your Twitter feed.
 1-2	There's	_	_	_	_	_	_	_	_
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	also	also	ADV	RB	_	2	advmod	2:advmod	_
 4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
@@ -8902,12 +8902,12 @@
 # sent_id = n01145008
 # parallel_id = pud/n01145008
 # text = There is no parade and there never has been.
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	no	no	DET	DT	PronType=Neg	4	det	4:det	_
 4	parade	parade	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
 5	and	and	CCONJ	CC	_	9	cc	9:cc	_
-6	there	there	PRON	EX	_	9	expl	9:expl	_
+6	there	there	PRON	EX	PronType=Dem	9	expl	9:expl	_
 7	never	never	ADV	RB	PronType=Neg	9	advmod	9:advmod	_
 8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	been	be	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	2:conj:and	SpaceAfter=No
@@ -8971,7 +8971,7 @@
 # parallel_id = pud/n01145028
 # text = "There are 1200 volunteers working for the parade alone," González Anaya says.
 1	"	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
-2	There	there	PRON	EX	_	3	expl	3:expl	_
+2	There	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
 3	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	ccomp	15:ccomp	_
 4	1200	1200	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	_
 5	volunteers	volunteer	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
@@ -9759,7 +9759,7 @@
 # text = However, there are important differences in law and procedure between Northern Ireland and England and Wales.
 1	However	however	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
-3	there	there	PRON	EX	_	4	expl	4:expl	_
+3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	important	important	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	differences	difference	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
@@ -10051,7 +10051,7 @@
 # sent_id = w01013096
 # parallel_id = pud/w01013096
 # text = There are also languages derived from Finnish, having evolved separately, known as Meänkieli in Sweden and Kven in Norway.
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	also	also	ADV	RB	_	2	advmod	2:advmod	_
 4	languages	language	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
@@ -15215,7 +15215,7 @@
 # sent_id = w01088099
 # parallel_id = pud/w01088099
 # text = There has, however, been extensive statistical analysis of demographic and population data which includes women, especially in their childbearing roles.
-1	There	there	PRON	EX	_	6	expl	6:expl	_
+1	There	there	PRON	EX	PronType=Dem	6	expl	6:expl	_
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	however	however	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
@@ -15270,7 +15270,7 @@
 1	At	at	ADP	IN	_	3	case	3:case	_
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
 3	time	time	NOUN	NN	Number=Sing	5	obl	5:obl:at	_
-4	there	there	PRON	EX	_	5	expl	5:expl	_
+4	there	there	PRON	EX	PronType=Dem	5	expl	5:expl	_
 5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 6	only	only	ADV	RB	_	8	advmod	8:advmod	_
 7	around	around	ADV	RB	_	8	advmod	8:advmod	_
@@ -16119,7 +16119,7 @@
 3	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
 4	instructed	instruct	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	that	that	SCONJ	IN	_	7	mark	7:mark	_
-6	there	there	PRON	EX	_	7	expl	7:expl	_
+6	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 7	be	be	AUX	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
 8	no	no	DET	DT	PronType=Neg	10	det	10:det	_
 9	excessive	excessive	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
@@ -17149,7 +17149,7 @@
 # text = However, there was no further public recognition of her wartime resistance and humanitarian work until after the end of communist rule in Poland.
 1	However	however	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
-3	there	there	PRON	EX	_	4	expl	4:expl	_
+3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 4	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	no	no	DET	DT	PronType=Neg	8	det	8:det	_
 6	further	further	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
@@ -20870,7 +20870,7 @@
 17	included	include	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	5:ccomp	SpaceAfter=No
 18	:	:	PUNCT	:	_	5	punct	5:punct	_
 19	"	"	PUNCT	``	_	28	punct	28:punct	SpaceAfter=No
-20	There	there	PRON	EX	_	21	expl	21:expl	_
+20	There	there	PRON	EX	PronType=Dem	21	expl	21:expl	_
 21-22	wasn't	_	_	_	_	_	_	_	_
 21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	ccomp	28:ccomp	_
 22	n't	not	PART	RB	Polarity=Neg	23	advmod	23:advmod	_
@@ -21328,7 +21328,7 @@
 3	1st	1st	NOUN	NN	Number=Sing	10	nmod	10:nmod:from	_
 4	of	of	ADP	IN	_	5	case	5:case	_
 5	January	January	PROPN	NNP	Number=Sing	3	nmod	3:nmod:of	_
-6	there	there	PRON	EX	_	10	expl	10:expl	_
+6	there	there	PRON	EX	PronType=Dem	10	expl	10:expl	_
 7	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
 9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
@@ -21352,7 +21352,7 @@
 8	note	note	NOUN	NN	Number=Sing	5	obl	5:obl:in	SpaceAfter=No
 9	,	,	PUNCT	,	_	5	punct	5:punct	_
 10	that	that	SCONJ	IN	_	15	mark	15:mark	_
-11	there	there	PRON	EX	_	15	expl	15:expl	_
+11	there	there	PRON	EX	PronType=Dem	15	expl	15:expl	_
 12	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
 13	be	be	AUX	VB	VerbForm=Inf	15	cop	15:cop	_
 14	no	no	DET	DT	PronType=Neg	15	det	15:det	_
@@ -21843,7 +21843,7 @@
 18	%	%	SYM	NN	Number=Sing	15	obl	15:obl:below	SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	22:punct	_
 20	and	and	CCONJ	CC	_	22	cc	22:cc	_
-21	there	there	PRON	EX	_	22	expl	22:expl	_
+21	there	there	PRON	EX	PronType=Dem	22	expl	22:expl	_
 22	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	conj	15:conj:and	_
 23	already	already	ADV	RB	_	22	advmod	22:advmod	_
 24	600,000	600000	NUM	CD	NumForm=Digit|NumType=Card	26	nummod	26:nummod	_
@@ -21851,7 +21851,7 @@
 26	people	people	NOUN	NNS	Number=Plur	22	nsubj	22:nsubj	_
 27	employed	employ	VERB	VBN	Tense=Past|VerbForm=Part	26	acl	26:acl	_
 28	than	than	SCONJ	IN	_	30	mark	30:mark	_
-29	there	there	PRON	EX	_	30	expl	30:expl	_
+29	there	there	PRON	EX	PronType=Dem	30	expl	30:expl	_
 30	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	27	advcl	27:advcl:than	_
 31	a	a	DET	DT	Definite=Ind|PronType=Art	32	det	32:det	_
 32	year	year	NOUN	NN	Number=Sing	33	nmod:unmarked	33:nmod:unmarked	_
@@ -22319,7 +22319,7 @@
 # parallel_id = pud/n05009025
 # text = "There will be protests and other things, it's all already planned," the opposition told El Mundo.
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	There	there	PRON	EX	_	4	expl	4:expl	_
+2	There	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 3	will	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	19	ccomp	19:ccomp	_
 5	protests	protest	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
@@ -22623,7 +22623,7 @@
 # sent_id = w02004065
 # parallel_id = pud/w02004065
 # text = There are different theories about the reasons for leaving the place.
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	different	different	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	theories	theory	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
@@ -23158,7 +23158,7 @@
 9	Socialists	Socialist	PROPN	NNPS	Number=Plur	5	nmod	5:nmod:by	_
 10	in	in	ADP	IN	_	11	case	11:case	_
 11	1933	1933	NUM	CD	NumForm=Digit|NumType=Card	3	nmod	3:nmod:in	_
-12	there	there	PRON	EX	_	13	expl	13:expl	_
+12	there	there	PRON	EX	PronType=Dem	13	expl	13:expl	_
 13	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 14	dispersed	disperse	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	15:amod	_
 15	attempts	attempt	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
@@ -23599,7 +23599,7 @@
 3	early	early	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	2000s	2000s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	7	obl	7:obl:in	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
-6	there	there	PRON	EX	_	7	expl	7:expl	_
+6	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 7	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	five	five	NUM	CD	NumForm=Word|NumType=Card	9	nummod	9:nummod	_
 9	doctors	doctor	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
@@ -24221,7 +24221,7 @@
 3	lower	low	ADJ	JJR	Degree=Cmp	4	amod	4:amod	_
 4	part	part	NOUN	NN	Number=Sing	7	obl	7:obl:in	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
-6	there	there	PRON	EX	_	7	expl	7:expl	_
+6	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 7	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	three	three	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	_
 9	palm	palm	NOUN	NN	Number=Sing	10	compound	10:compound	_
@@ -24471,7 +24471,7 @@
 # sent_id = w04004045
 # parallel_id = pud/w04004045
 # text = There are many prehistoric artifacts, including several different menhirs and dolmens.
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	many	many	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 4	prehistoric	prehistoric	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
