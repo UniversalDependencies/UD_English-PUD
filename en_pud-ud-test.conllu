@@ -24810,7 +24810,7 @@
 # sent_id = w04010027
 # parallel_id = pud/w04010027
 # text = Both students of Goffredo Petrassi, Ennio Morricone and Bruno Nicolai met at the Santa (Saint) Cecelia conservatory.
-1	Both	both	DET	DT	_	2	det	2:det	_
+1	Both	both	DET	DT	PronType=Tot	2	det	2:det	_
 2	students	student	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj	_
 3	of	of	ADP	IN	_	4	case	4:case	_
 4	Goffredo	Goffredo	PROPN	NNP	Number=Sing	2	nmod	2:nmod:of	_
