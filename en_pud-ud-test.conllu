@@ -4334,7 +4334,7 @@
 # sent_id = n01067014
 # parallel_id = pud/n01067014
 # text = Each map in the exhibition tells its own story, not all factual.
-1	Each	each	DET	DT	_	2	det	2:det	_
+1	Each	each	DET	DT	PronType=Tot	2	det	2:det	_
 2	map	map	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 3	in	in	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
