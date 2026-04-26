@@ -20319,7 +20319,7 @@
 # sent_id = n02078011
 # parallel_id = pud/n02078011
 # text = One expects a bump from the booming real estate market and increasing federal expenditures.
-1	One	one	PRON	PRP	Number=Sing|Person=3	2	nsubj	2:nsubj	_
+1	One	one	PRON	PRP	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	expects	expect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	bump	bump	NOUN	NN	Number=Sing	2	obj	2:obj	_
