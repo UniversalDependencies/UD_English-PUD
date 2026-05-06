@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_English-PUD:
-commit 77631d0b32eb098d09356a293f66c4897554e72c
-Merge: c1088c6 983e95d
+commit 32d7cb957d226fec98ae79ed7aa878027bd77544
+Merge: d5f2c87 e173a1b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'en_pud'
@@ -19,24 +19,24 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 14324 out of 21180 total words have one or more features.
+Features: 14366 out of 21180 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-PUD/en_pud-ud-test.conllu
-[Line 56 Sent n01001013]: [L3 Warning verbform-fin-without-mood] Finite verb 'will' lacks the 'Mood' feature
-[Line 87 Sent n01002017]: [L3 Warning verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
-[Line 367 Sent n01005024]: [L3 Warning verbform-fin-without-mood] Finite verb 'can' lacks the 'Mood' feature
-[Line 391 Sent n01005031]: [L3 Warning verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
-[Line 430 Sent n01007012]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 496 Sent n01009027]: [L3 Warning verbform-fin-without-mood] Finite verb 'may' lacks the 'Mood' feature
-[Line 544 Sent n01010042]: [L3 Warning pron-det-without-prontype] The word 'There' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 558 Sent n01010042]: [L3 Warning verbform-fin-without-mood] Finite verb 'should' lacks the 'Mood' feature
-[Line 698 Sent n01014003]: [L3 Warning verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
-[Line 910 Sent n01017008]: [L3 Warning verbform-fin-without-mood] Finite verb 'may' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
-Warnings: 208
+[Line 56 Sent n01001013]: [L3 WARNING verbform-fin-without-mood] Finite verb 'will' lacks the 'Mood' feature
+[Line 87 Sent n01002017]: [L3 WARNING verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
+[Line 367 Sent n01005024]: [L3 WARNING verbform-fin-without-mood] Finite verb 'can' lacks the 'Mood' feature
+[Line 391 Sent n01005031]: [L3 WARNING verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
+[Line 496 Sent n01009027]: [L3 WARNING verbform-fin-without-mood] Finite verb 'may' lacks the 'Mood' feature
+[Line 558 Sent n01010042]: [L3 WARNING verbform-fin-without-mood] Finite verb 'should' lacks the 'Mood' feature
+[Line 698 Sent n01014003]: [L3 WARNING verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
+[Line 910 Sent n01017008]: [L3 WARNING verbform-fin-without-mood] Finite verb 'may' lacks the 'Mood' feature
+[Line 920 Sent n01017008]: [L3 WARNING verbform-fin-without-mood] Finite verb 'can' lacks the 'Mood' feature
+[Line 937 Sent n01017010]: [L3 WARNING verbform-fin-without-mood] Finite verb 'would' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 165
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
