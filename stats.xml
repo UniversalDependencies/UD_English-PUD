@@ -36,7 +36,7 @@
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="52">
     <feat name="Abbr" value="Yes" upos="NOUN,NUM,PROPN">75</feat><!-- U.S., UK, BBC, bn, CNN, EU, US, USA, B.C., GCA -->
-    <feat name="Case" value="Acc" upos="PRON">103</feat><!-- it, him, them, her, us, me, himself, themselves, you, itself -->
+    <feat name="Case" value="Acc" upos="PRON">104</feat><!-- it, him, them, her, us, me, himself, themselves, you, itself -->
     <feat name="Case" value="Nom" upos="PRON">382</feat><!-- it, he, they, I, she, we, you, 'Ya -->
     <feat name="Definite" value="Def" upos="DET">1441</feat><!-- the -->
     <feat name="Definite" value="Ind" upos="DET">444</feat><!-- a, an -->
@@ -53,9 +53,9 @@
     <feat name="Gender" value="Masc" upos="PRON">212</feat><!-- he, his, him, himself -->
     <feat name="Gender" value="Neut" upos="PRON">191</feat><!-- it, its, itself -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">1569</feat><!-- was, is, are, were, has, had, have, said, 's, did -->
-    <feat name="Number" value="Plur" upos="DET,NOUN,PRON,PROPN">1354</feat><!-- their, they, people, years, we, these, them, our, police, those -->
+    <feat name="Number" value="Plur" upos="DET,NOUN,PRON,PROPN">1355</feat><!-- their, they, people, years, we, these, them, our, police, those -->
     <feat name="Number" value="Ptan" upos="NOUN,PROPN">37</feat><!-- troops, 1960s, Netherlands, 1970s, 1990s, clothes, earnings, headquarters, savings, 1350s -->
-    <feat name="Number" value="Sing" upos="AUX,DET,NOUN,PRON,PROPN,SYM,VERB">5857</feat><!-- was, is, it, he, his, this, has, I, her, its -->
+    <feat name="Number" value="Sing" upos="AUX,DET,NOUN,PRON,PROPN,SYM,VERB">5858</feat><!-- was, is, it, he, his, this, has, I, her, its -->
     <feat name="NumForm" value="Combi" upos="ADJ,NOUN">32</feat><!-- 1960s, 8th, 16th, 1970s, 1990s, 20th, 3rd, 5th, 1350s, 13th -->
     <feat name="NumForm" value="Digit" upos="NUM">291</feat><!-- 10, 1, 3, 2014, 2015, 100, 1492, 20, 2010, 2012 -->
     <feat name="NumForm" value="Roman" upos="NUM">17</feat><!-- I, III, IV, II, V, VI, X -->
@@ -64,20 +64,20 @@
     <feat name="NumType" value="Frac" upos="DET,NUM">4</feat><!-- 1,165, 1,335, 1,365, half -->
     <feat name="NumType" value="Mult" upos="ADV">4</feat><!-- once, twice -->
     <feat name="NumType" value="Ord" upos="ADJ">61</feat><!-- first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th -->
-    <feat name="Person" value="1" upos="AUX,PRON">111</feat><!-- I, we, our, my, us, me, am -->
+    <feat name="Person" value="1" upos="AUX,PRON">112</feat><!-- I, we, our, my, us, me, am, ’s -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- you, your, 'Ya -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">1240</feat><!-- was, is, it, he, his, has, their, they, her, its -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">1241</feat><!-- was, is, it, he, his, has, their, they, her, its -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">88</feat><!-- not, n't, n’t, no -->
     <feat name="Poss" value="Yes" upos="PRON">260</feat><!-- his, their, its, her, our, my, whose, your -->
     <feat name="PronType" value="Art" upos="DET">1885</feat><!-- the, a, an -->
-    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">190</feat><!-- this, that, these, now, then, there, those, here -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">225</feat><!-- this, there, that, these, now, then, those, here -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">51</feat><!-- some, another, any, someone, sometimes, ever, such, something, anybody, anyone -->
     <feat name="PronType" value="Int" upos="ADV,DET,PRON">84</feat><!-- when, what, how, which, why, where, whose, who, whom -->
     <feat name="PronType" value="Neg" upos="ADV,DET,PRON">18</feat><!-- no, never, nary, none, nowhere -->
-    <feat name="PronType" value="Prs" upos="PRON">743</feat><!-- it, he, his, their, they, I, her, its, she, we -->
+    <feat name="PronType" value="Prs" upos="PRON">745</feat><!-- it, he, his, their, they, I, her, its, she, we -->
     <feat name="PronType" value="Rcp" upos="DET">2</feat><!-- each -->
-    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">178</feat><!-- which, that, who, where, whatever, when, why, whenever, whoever -->
-    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">56</feat><!-- all, each, both, always, every, everyone, everything -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">179</feat><!-- which, that, who, where, whatever, when, why, whenever, whoever -->
+    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">60</feat><!-- all, each, both, always, every, everyone, everything -->
     <feat name="Reflex" value="Yes" upos="PRON">10</feat><!-- himself, themselves, itself -->
     <feat name="Style" value="Coll" upos="PRON">1</feat><!-- 'Ya -->
     <feat name="Tense" value="Past" upos="AUX,VERB">1461</feat><!-- was, were, had, been, said, used, did, took, began, became -->
