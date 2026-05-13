@@ -6611,7 +6611,7 @@
 23	value	value	NOUN	NN	Number=Sing	14	obl	14:obl:from	_
 24	and	and	CCONJ	CC	_	25	cc	25:cc	_
 25	cost	cost	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	conj	14:conj:and	_
-26	chief	chief	NOUN	NN	Number=Sing	27	compound	27:compound	_
+26	chief	chief	ADJ	JJ	Degree=Pos	27	amod	27:amod	_
 27	executive	executive	NOUN	NN	Number=Sing	28	nmod:desc	28:nmod:desc	_
 28	Martin	Martin	PROPN	NNP	Number=Sing	25	iobj	25:iobj	_
 29	Winterkorn	Winterkorn	PROPN	NNP	Number=Sing	28	flat	28:flat	_
