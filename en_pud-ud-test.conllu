@@ -7170,7 +7170,7 @@
 6	year	year	NOUN	NN	Number=Sing	0	root	0:root	_
 7	and	and	CCONJ	CC	_	10	cc	10:cc	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	SpaceAfter=No
-9	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	ready	ready	ADJ	JJ	Degree=Pos	6	conj	6:conj:and	_
 11	for	for	SCONJ	IN	_	14	mark	14:mark	_
 12	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
@@ -19284,7 +19284,7 @@
 9	as	as	ADP	IN	_	8	fixed	8:fixed	_
 10	wheat	wheat	NOUN	NN	Number=Sing	6	nmod	6:nmod:such_as	SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	10:punct	_
-12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+12	are	be	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 13	natural	natural	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	resources	resource	NOUN	NNS	Number=Plur	0	root	0:root|19:obl	SpaceAfter=No
 15	,	,	PUNCT	,	_	14	punct	14:punct	_
