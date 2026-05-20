@@ -675,7 +675,7 @@
 8	speakers	speaker	NOUN	NNS	Number=Plur	9	compound	9:compound	_
 9	agency	agency	NOUN	NN	Number=Sing	3	obl	3:obl:with	_
 10	after	after	SCONJ	IN	_	12	mark	12:mark	_
-11	being	be	AUX	VBG	VerbForm=Ger	12	aux:pass	12:aux:pass	_
+11	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	12	aux:pass	12:aux:pass	_
 12	sacked	sack	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	3:advcl:after	_
 13	in	in	ADP	IN	_	14	case	14:case	_
 14	July	July	PROPN	NNP	Number=Sing	12	obl	12:obl:in	SpaceAfter=No
@@ -966,7 +966,7 @@
 8	more	more	ADV	RBR	_	9	advmod	9:advmod	_
 9	useful	useful	ADJ	JJ	Degree=Pos	5	xcomp	5:xcomp	_
 10	than	than	SCONJ	IN	_	12	case	12:case	_
-11	being	be	AUX	VBG	VerbForm=Ger	12	cop	12:cop	_
+11	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	12	cop	12:cop	_
 12	able	able	ADJ	JJ	Degree=Pos	9	advcl	9:advcl:than	_
 13	to	to	PART	TO	_	14	mark	14:mark	_
 14	send	send	VERB	VB	VerbForm=Inf	12	xcomp	12:xcomp	_
@@ -1159,7 +1159,7 @@
 28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
 29	section	section	NOUN	NN	Number=Sing	32	nsubj:pass	32:nsubj:pass	_
 30	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	aux	32:aux	_
-31	being	be	AUX	VBG	VerbForm=Ger	32	aux:pass	32:aux:pass	_
+31	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	32	aux:pass	32:aux:pass	_
 32	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	26	ccomp	26:ccomp	SpaceAfter=No
 33	.	.	PUNCT	.	_	14	punct	14:punct	_
 
@@ -4353,7 +4353,7 @@
 # parallel_id = pud/n01067023
 # text = Also being exhibited for the first time are British Ministry of Defence maps which imagine cold war battles and which were used in military college exams.
 1	Also	also	ADV	RB	_	3	advmod	3:advmod	_
-2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	3:aux:pass	_
+2	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	3	aux:pass	3:aux:pass	_
 3	exhibited	exhibit	VERB	VBN	Tense=Past|VerbForm=Part	13	csubj	13:csubj	_
 4	for	for	ADP	IN	_	7	case	7:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
@@ -5592,7 +5592,7 @@
 11	sunglasses	sunglasses	NOUN	NNS	Number=Ptan	9	obj	9:obj	_
 12	on	on	ADP	RP	_	9	compound:prt	9:compound:prt	_
 13	before	before	SCONJ	IN	_	15	mark	15:mark	_
-14	being	be	AUX	VBG	VerbForm=Ger	15	aux:pass	15:aux:pass	_
+14	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	15	aux:pass	15:aux:pass	_
 15	interviewed	interview	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	9:advcl:before	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -12589,7 +12589,7 @@
 20	area	area	NOUN	NN	Number=Sing	9	nmod	9:nmod:within|25:nsubj:pass	_
 21	that	that	PRON	WDT	PronType=Rel	25	nsubj:pass	20:ref	_
 22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	25:aux	_
-23	being	be	AUX	VBG	VerbForm=Ger	25	aux:pass	25:aux:pass	_
+23	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	25	aux:pass	25:aux:pass	_
 24	rapidly	rapidly	ADV	RB	_	25	advmod	25:advmod	_
 25	built	build	VERB	VBN	Tense=Past|VerbForm=Part	20	acl:relcl	20:acl:relcl	_
 26	up	up	ADP	RP	_	25	compound:prt	25:compound:prt	SpaceAfter=No
@@ -13847,7 +13847,7 @@
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	pretext	pretext	NOUN	NN	Number=Sing	9	obl	9:obl:on	_
 18	of	of	SCONJ	IN	_	20	mark	20:mark	_
-19	being	be	AUX	VBG	VerbForm=Ger	20	aux:pass	20:aux:pass	_
+19	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	20	aux:pass	20:aux:pass	_
 20	interviewed	interview	VERB	VBN	Tense=Past|VerbForm=Part	17	acl	17:acl:of	_
 21	for	for	ADP	IN	_	27	case	27:case	_
 22	a	a	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	_
@@ -15358,7 +15358,7 @@
 # parallel_id = pud/w01091045
 # text = Besides being a direct source of food, certain animals could provide leather, wool, hides, and fertilizer.
 1	Besides	besides	SCONJ	IN	_	5	mark	5:mark	_
-2	being	be	AUX	VBG	VerbForm=Ger	5	cop	5:cop	_
+2	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	5	cop	5:cop	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 4	direct	direct	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	source	source	NOUN	NN	Number=Sing	12	advcl	12:advcl:besides	_
@@ -17107,7 +17107,7 @@
 13	as	as	SCONJ	IN	ExtPos=SCONJ	19	mark	19:mark	_
 14	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	13	fixed	13:fixed	_
 15	to	to	ADP	IN	_	13	fixed	13:fixed	_
-16	being	be	AUX	VBG	VerbForm=Ger	19	cop	19:cop	_
+16	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	19	cop	19:cop	_
 17	of	of	ADP	IN	_	19	case	19:case	_
 18	European	European	ADJ	JJ	Degree=Pos	19	amod	19:amod	Proper=True
 19	heritage	heritage	NOUN	NN	Number=Sing	12	advcl	12:advcl:as_opposed_to	SpaceAfter=No
@@ -18794,7 +18794,7 @@
 18	president	president	NOUN	NN	Number=Sing	13	xcomp	13:xcomp	_
 19	to	to	PART	TO	_	20	mark	20:mark	_
 20	survive	survive	VERB	VB	VerbForm=Inf	18	acl	18:acl:to	_
-21	being	be	AUX	VBG	VerbForm=Ger	22	aux:pass	22:aux:pass	_
+21	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	22	aux:pass	22:aux:pass	_
 22	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part	20	xcomp	20:xcomp	_
 23	in	in	ADP	IN	_	26	case	26:case	_
 24	an	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	_
@@ -20172,7 +20172,7 @@
 1	For	for	ADP	IN	_	3	case	3:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	time	time	NOUN	NN	Number=Sing	13	obl	13:obl:for	_
-4	being	be	VERB	VBG	VerbForm=Ger	3	acl	3:acl	SpaceAfter=No
+4	being	be	VERB	VBG	Tense=Pres|VerbForm=Part	3	acl	3:acl	SpaceAfter=No
 5	,	,	PUNCT	,	_	13	punct	13:punct	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	deal	deal	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
@@ -20769,7 +20769,7 @@
 11	Brice	Brice	PROPN	NNP	Number=Sing	10	obj	10:obj|17:nsubj:xsubj|21:nsubj:xsubj|32:nsubj:xsubj	_
 12	Hortefeux	Hortefeux	PROPN	NNP	Number=Sing	11	flat	11:flat	_
 13	of	of	ADP	IN	_	17	case	17:case	_
-14	being	be	AUX	VBG	VerbForm=Ger	17	cop	17:cop	_
+14	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	17	cop	17:cop	_
 15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
 16	'	'	PUNCT	``	_	17	punct	17:punct	SpaceAfter=No
 17	fascist	fascist	NOUN	NN	Number=Sing	10	xcomp	10:xcomp	SpaceAfter=No
@@ -20980,7 +20980,7 @@
 18	completed	complete	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	16:acl	SpaceAfter=No
 19	,	,	PUNCT	,	_	4	punct	4:punct	_
 20	without	without	SCONJ	IN	_	22	mark	22:mark	_
-21	being	be	AUX	VBG	VerbForm=Ger	22	cop	22:cop	_
+21	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	22	cop	22:cop	_
 22	able	able	ADJ	JJ	Degree=Pos	4	advcl	4:advcl:without	_
 23	to	to	PART	TO	_	24	mark	24:mark	_
 24	measure	measure	VERB	VB	VerbForm=Inf	22	xcomp	22:xcomp	_
@@ -22827,7 +22827,7 @@
 5	prevent	prevent	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
 6	grain	grain	NOUN	NN	Number=Sing	5	obj	5:obj	_
 7	from	from	SCONJ	IN	_	10	mark	10:mark	_
-8	being	be	AUX	VBG	VerbForm=Ger	10	aux:pass	10:aux:pass	_
+8	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	10	aux:pass	10:aux:pass	_
 9	further	further	ADV	RB	_	10	advmod	10:advmod	_
 10	transported	transport	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	5:advcl:from	_
 11	because	because	SCONJ	IN	_	13	mark	13:mark	_
@@ -24048,7 +24048,7 @@
 # parallel_id = pud/w03009044
 # text = Despite being the number one distributor of equipment and textiles worldwide, the German company was in financial trouble.
 1	Despite	despite	SCONJ	IN	_	6	mark	6:mark	_
-2	being	be	AUX	VBG	VerbForm=Ger	6	cop	6:cop	_
+2	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	6	cop	6:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 4	number	number	NOUN	NN	Number=Sing	6	compound	6:compound	_
 5	one	one	NUM	CD	NumForm=Word|NumType=Card	4	flat	4:flat	_
@@ -24434,7 +24434,7 @@
 12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 13	intention	intention	NOUN	NN	Number=Sing	7	obl	7:obl:with	_
 14	of	of	SCONJ	IN	_	16	mark	16:mark	_
-15	being	be	AUX	VBG	VerbForm=Ger	16	aux:pass	16:aux:pass	_
+15	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	16	aux:pass	16:aux:pass	_
 16	sold	sell	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	13:acl:of	_
 17	mainly	mainly	ADV	RB	_	16	advmod	16:advmod	_
 18	to	to	ADP	IN	_	19	case	19:case	_
