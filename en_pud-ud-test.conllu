@@ -44,7 +44,7 @@
 1	For	for	ADP	IN	_	2	case	2:case	_
 2	those	that	PRON	DT	Number=Plur|PronType=Dem	17	obl	4:nsubj|17:obl:for	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
-4	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+4	follow	follow	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 5	social	social	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	media	media	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	transitions	transition	NOUN	NNS	Number=Plur	4	obj	4:obj	_
@@ -632,7 +632,7 @@
 7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
 8	way	way	NOUN	NN	Number=Sing	4	obl:unmarked	4:obl:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
-10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
+10	hope	hope	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
 11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
 13	worth	worth	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	_
@@ -913,7 +913,7 @@
 7	BA	BA	PROPN	NNP	Abbr=Yes|Number=Sing	11	nsubj	11:nsubj|15:nsubj	_
 8	and	and	CCONJ	CC	_	9	cc	9:cc	_
 9	IAG	IAG	PROPN	NNP	Abbr=Yes|Number=Sing	7	conj	7:conj:and|11:nsubj	_
-10	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
+10	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 11	cracked	crack	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	5:ccomp	_
 12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	11:obj	_
 13	and	and	CCONJ	CC	_	15	cc	15:cc	_
@@ -1135,7 +1135,7 @@
 4	again	again	ADV	RB	_	7	advmod	7:advmod	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	few	few	ADJ	JJ	Degree=Pos	7	nsubj	7:nsubj	_
-7	ruin	ruin	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	14:ccomp	_
+7	ruin	ruin	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	ccomp	14:ccomp	_
 8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	7:obj	_
 9	for	for	ADP	IN	_	11	case	11:case	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
