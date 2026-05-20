@@ -4101,7 +4101,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	songs	song	NOUN	NNS	Number=Plur	2	conj	2:conj:and|8:nsubj|11:nsubj	_
 7	that	that	PRON	WDT	PronType=Rel	8	nsubj	6:ref	_
-8	score	score	VERB	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
+8	score	score	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
 9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	2:punct	_
 11	add	add	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -4779,7 +4779,7 @@
 # parallel_id = pud/n01074030
 # text = You have to stand up to that and I would rather someone ran at me rather than round me.
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	_
-2	have	have	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	stand	stand	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	up	up	ADP	RP	_	4	compound:prt	4:compound:prt	_
@@ -5270,7 +5270,7 @@
 13	money	money	NOUN	NN	Number=Sing	11	obj	11:obj	_
 14	whenever	whenever	ADV	WRB	PronType=Rel	16	advmod	16:advmod	_
 15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	16:nsubj	_
-16	like	like	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl	SpaceAfter=No
+16	like	like	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl	SpaceAfter=No
 17	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 # sent_id = n01084045
@@ -5401,7 +5401,7 @@
 # parallel_id = pud/n01086016
 # text = You end up listening more acutely for the next noise and getting more irritated when it comes.
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj|12:nsubj:xsubj|14:nsubj:xsubj	_
-2	end	end	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	end	end	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	up	up	ADP	RP	_	2	compound:prt	2:compound:prt	_
 4	listening	listen	VERB	VBG	VerbForm=Ger	2	xcomp	2:xcomp	_
 5	more	more	ADV	RBR	_	6	advmod	6:advmod	_
@@ -5947,7 +5947,7 @@
 14	accessible	accessible	ADJ	JJ	Degree=Pos	4	conj	4:conj:but	_
 15	if	if	SCONJ	IN	_	17	mark	17:mark	_
 16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	17:nsubj	_
-17	know	know	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl:if	_
+17	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl:if	_
 18	how	how	ADV	WRB	PronType=Int	20	advmod	20:advmod	_
 19	to	to	PART	TO	_	20	mark	20:mark	_
 20	search	search	VERB	VB	VerbForm=Inf	17	ccomp	17:ccomp	SpaceAfter=No
@@ -6439,7 +6439,7 @@
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	game	game	NOUN	NN	Number=Sing	2	obj	2:obj	_
 5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
-6	have	have	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+6	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 7	dominated	dominate	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	_
 8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 9	easy	easy	ADJ	JJ	Degree=Pos	0	root	0:root	_
@@ -17051,7 +17051,7 @@
 18	,	,	PUNCT	,	_	21	punct	21:punct	_
 19	and	and	CCONJ	CC	_	21	cc	21:cc	_
 20	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	nsubj	21:nsubj|23:nsubj:xsubj	_
-21	have	have	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	17	conj	9:ccomp|17:conj:and	_
+21	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	conj	9:ccomp|17:conj:and	_
 22	to	to	PART	TO	_	23	mark	23:mark	_
 23	keep	keep	VERB	VB	VerbForm=Inf	21	xcomp	21:xcomp	_
 24	an	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	_
