@@ -512,7 +512,7 @@
 # text = “We’ve requested other nations to help us populate the zoo with different species of animals, including a pig,” Saqib said.
 1	“	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
-3	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	requested	request	VERB	VBN	Tense=Past|VerbForm=Part	25	ccomp	25:ccomp	_
 5	other	other	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	nations	nation	NOUN	NNS	Number=Plur	4	obj	4:obj|8:nsubj:xsubj	_
@@ -625,7 +625,7 @@
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2-3	I'm	_	_	_	_	_	_	_	_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
@@ -1282,7 +1282,7 @@
 # text = "We are moving in the right direction: the Paris Agreement will slow climate change, as will the recent Kigali Amendment to reduce HFCs," said Erik Solheim, head of UN Environment.
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	29	ccomp	29:ccomp	_
 5	in	in	ADP	IN	_	8	case	8:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
@@ -1624,7 +1624,7 @@
 1	"	"	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
 2	Tonight	tonight	NOUN	NN	Number=Sing	5	obl:unmarked	5:obl:unmarked	TemporalNPAdjunct=Yes
 3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	carrying	carry	VERB	VBG	Tense=Pres|VerbForm=Part	16	ccomp	16:ccomp	_
 6	out	out	ADP	RP	_	5	compound:prt	5:compound:prt	_
 7	punishments	punishment	NOUN	NNS	Number=Plur	5	obj	5:obj	_
@@ -2293,7 +2293,7 @@
 # text = "We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area," she said.
 1	"	"	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	believe	believe	VERB	VB	VerbForm=Inf	29	ccomp	29:ccomp	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
@@ -2481,7 +2481,7 @@
 # text = "We are seeing many, many countries and especially large new emitters like Brazil, South Africa, India and China stepping up to the plate in terms of playing a role in reducing emissions," said Guilbeault.
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	39	ccomp	39:ccomp	_
 5	many	many	ADJ	JJ	Degree=Pos	8	amod	8:amod	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -3836,7 +3836,7 @@
 # text = “I don’t know what G.D.P. growth was during the Washington and Lincoln Administrations, but the institutional developments in those terms had large and long-lasting effects.”
 1	“	"	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
 4	n’t	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	what	what	PRON	WP	PronType=Int	5	obj	5:obj	_
@@ -3969,7 +3969,7 @@
 1	“	"	PUNCT	``	_	9	punct	9:punct	SpaceAfter=No
 2	When	when	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	SpaceAfter=No
-4	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	playing	play	VERB	VBG	VerbForm=Ger	9	advcl	9:advcl	_
 6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	9:punct	_
@@ -4180,7 +4180,7 @@
 5	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	9:punct	_
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	SpaceAfter=No
-8	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+8	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	spent	spend	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 10	recent	recent	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	months	month	NOUN	NNS	Number=Plur	9	obj	9:obj	_
@@ -4656,7 +4656,7 @@
 21	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	19	obl	19:obl:than	SpaceAfter=No
 22	,	,	PUNCT	,	_	26	punct	26:punct	_
 23	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	26:nsubj	_
-24	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	aux	26:aux	_
+24	have	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	26	aux	26:aux	_
 25	not	not	PART	RB	Polarity=Neg	26	advmod	26:advmod	_
 26	known	know	VERB	VBN	Tense=Past|VerbForm=Part	14	parataxis	14:parataxis	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	26:punct	SpaceAfter=No
@@ -4953,7 +4953,7 @@
 2	course	course	NOUN	NN	Number=Sing	1	fixed	1:fixed	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
-5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+5	do	do	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 6	understand	understand	VERB	VB	VerbForm=Inf	0	root	0:root	_
 7	that	that	SCONJ	IN	_	14	mark	14:mark	_
 8	modern	modern	ADJ	JJ	Degree=Pos	10	amod	10:amod	SpaceAfter=No
@@ -5824,7 +5824,7 @@
 # text = “We are actively thinking of possible ways to limit the scope of litigation to only those with a real standing in a project,” he was quoted as saying.
 1	“	"	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 4	actively	actively	ADV	RB	_	5	advmod	5:advmod	_
 5	thinking	think	VERB	VBG	Tense=Pres|VerbForm=Part	29	ccomp	29:ccomp	_
 6	of	of	ADP	IN	_	8	case	8:case	_
@@ -5991,7 +5991,7 @@
 # parallel_id = pud/n01095009
 # text = I don’t call it a beast lightly.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
 3	n’t	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	call	call	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj|7:nsubj:xsubj	_
@@ -6470,7 +6470,7 @@
 4	disappointed	disappointed	ADJ	JJ	Degree=Pos	0	root	0:root	_
 5	because	because	SCONJ	IN	_	8	mark	8:mark	_
 6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
-7	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 8	dropped	drop	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	4:advcl:because	_
 9	six	six	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	_
 10	points	point	NOUN	NNS	Number=Plur	8	obj	8:obj	_
@@ -7078,7 +7078,7 @@
 11	rehab	rehab	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	15:punct	_
 13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
-14	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	15:aux	_
+14	have	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	15	aux	15:aux	_
 15	made	make	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	18:det	_
 17	full	full	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
@@ -7762,7 +7762,7 @@
 # text = I don't know why I chose her ...
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2-3	don't	_	_	_	_	_	_	_	_
-2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	why	why	ADV	WRB	PronType=Int	7	advmod	7:advmod	_
@@ -8506,7 +8506,7 @@
 5	where	where	ADV	WRB	PronType=Rel	8	advmod	8:advmod	_
 6-7	we've	_	_	_	_	_	_	_	_
 6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj|12:nsubj	_
-7	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+7	've	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 8	launched	launch	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	_
 9	or	or	CCONJ	CC	_	12	cc	12:cc	_
 10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
@@ -19578,7 +19578,7 @@
 5	process	process	NOUN	NN	Number=Sing	18	ccomp	18:ccomp	_
 6	and	and	CCONJ	CC	_	9	cc	9:cc	_
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|13:nsubj:xsubj	_
-8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+8	have	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	decided	decide	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and	_
 10	not	not	PART	RB	Polarity=Neg	13	advmod	13:advmod	_
 11	to	to	PART	TO	_	13	mark	13:mark	_
