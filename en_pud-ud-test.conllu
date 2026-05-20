@@ -6508,7 +6508,7 @@
 1	But	but	CCONJ	CC	_	8	cc	8:cc	_
 2	right	right	ADV	RB	_	3	advmod	3:advmod	_
 3	now	now	ADV	RB	PronType=Dem	8	advmod	8:advmod	_
-4	everything	everything	PRON	NN	PronType=Tot	8	nsubj	8:nsubj	_
+4	everything	everything	PRON	NN	Number=Sing|PronType=Tot	8	nsubj	8:nsubj	_
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 6	out	out	ADP	IN	_	8	case	8:case	_
 7	of	of	ADP	IN	_	8	case	8:case	_
@@ -14699,7 +14699,7 @@
 9	not	not	PART	RB	Polarity=Neg	11	advmod	11:advmod	_
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	believe	believe	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
-12	everything	everything	PRON	NN	PronType=Tot	11	obj	11:obj	_
+12	everything	everything	PRON	NN	Number=Sing|PronType=Tot	11	obj	11:obj	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 14	Malleus	Malleus	PROPN	NNP	Number=Sing	15	nsubj	15:nsubj	_
 15	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	acl:relcl	12:acl:relcl	SpaceAfter=No
