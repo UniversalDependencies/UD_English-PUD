@@ -963,7 +963,7 @@
 5	find	find	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	airport	airport	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	wi-fi	wi-fi	NOUN	NN	Number=Sing	5	obj	5:obj|9:nsubj:xsubj	_
-8	more	more	ADV	RBR	_	9	advmod	9:advmod	_
+8	more	more	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 9	useful	useful	ADJ	JJ	Degree=Pos	5	xcomp	5:xcomp	_
 10	than	than	SCONJ	IN	_	12	case	12:case	_
 11	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	12	cop	12:cop	_
@@ -3954,12 +3954,12 @@
 9	First	first	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	10:amod	Proper=True
 10	Lady	lady	PROPN	NNP	Number=Sing	7	nmod	7:nmod:as	_
 11	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	16:advcl:as	_
-12	more	more	ADV	RBR	_	13	advmod	13:advmod	_
+12	more	more	ADV	RBR	Degree=Cmp	13	advmod	13:advmod	_
 13	caustic	caustic	ADJ	JJ	Degree=Pos	11	xcomp	11:xcomp	SpaceAfter=No
 14	,	,	PUNCT	,	_	16	punct	16:punct	_
 15	Karel	Karel	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj|18:nsubj:xsubj	_
 16	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-17	more	more	ADV	RBR	_	18	advmod	18:advmod	_
+17	more	more	ADV	RBR	Degree=Cmp	18	advmod	18:advmod	_
 18	empathetic	empathetic	ADJ	JJ	Degree=Pos	16	xcomp	16:xcomp	SpaceAfter=No
 19	.	.	PUNCT	.	_	16	punct	16:punct	_
 
@@ -4006,7 +4006,7 @@
 9	intensifies	intensify	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	17:advcl:as	SpaceAfter=No
 10	,	,	PUNCT	,	_	17	punct	17:punct	_
 11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
-12	more	more	ADV	RBR	_	13	advmod	13:advmod	_
+12	more	more	ADV	RBR	Degree=Cmp	13	advmod	13:advmod	_
 13	troubling	troubling	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	threat	threat	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	_
 15	than	than	ADP	IN	_	16	case	16:case	_
@@ -4212,7 +4212,7 @@
 13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj|17:nsubj:xsubj	_
 14	“	"	PUNCT	``	_	17	punct	17:punct	SpaceAfter=No
 15	no	no	ADV	DT	Polarity=Neg	16	advmod	16:advmod	_
-16	more	more	ADV	RBR	_	17	advmod	17:advmod	_
+16	more	more	ADV	RBR	Degree=Cmp	17	advmod	17:advmod	_
 17	rational	rational	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	_
 18	than	than	SCONJ	IN	_	19	mark	19:mark	_
 19	killing	kill	VERB	VBG	VerbForm=Ger	17	advcl	17:advcl:than	_
@@ -4650,7 +4650,7 @@
 15	Chris	Chris	PROPN	NNP	Number=Sing	14	obj	14:obj	SpaceAfter=No
 16	:	:	PUNCT	:	_	14	punct	14:punct	_
 17	“	"	PUNCT	``	_	26	punct	26:punct	SpaceAfter=No
-18	More	more	ADV	RBR	_	19	advmod	19:advmod	_
+18	More	more	ADV	RBR	Degree=Cmp	19	advmod	19:advmod	_
 19	African	African	ADJ	JJ	Degree=Pos	26	obj	26:obj	_
 20	than	than	ADP	IN	_	21	case	21:case	_
 21	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	19	obl	19:obl:than	SpaceAfter=No
@@ -4856,7 +4856,7 @@
 7	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	world	world	NOUN	NN	Number=Sing	7	obj	7:obj|11:nsubj:xsubj|13:nsubj:xsubj	_
-10	more	more	ADV	RBR	_	11	advmod	11:advmod	_
+10	more	more	ADV	RBR	Degree=Cmp	11	advmod	11:advmod	_
 11	worrying	worrying	ADJ	JJ	Degree=Pos	7	xcomp	7:xcomp	_
 12	and	and	CCONJ	CC	_	13	cc	13:cc	_
 13	unsettled	unsettled	ADJ	JJ	Degree=Pos	11	conj	7:xcomp|11:conj:and	_
@@ -5027,7 +5027,7 @@
 # parallel_id = pud/n01079069
 # text = His more unusual accolades include global ambassador for New York City Health and Hospitals Corporation, and a place at Harvard Business School.
 1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-2	more	more	ADV	RBR	_	3	advmod	3:advmod	_
+2	more	more	ADV	RBR	Degree=Cmp	3	advmod	3:advmod	_
 3	unusual	unusual	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	accolades	accolade	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 5	include	include	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -5404,7 +5404,7 @@
 2	end	end	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	up	up	ADP	RP	_	2	compound:prt	2:compound:prt	_
 4	listening	listen	VERB	VBG	VerbForm=Ger	2	xcomp	2:xcomp	_
-5	more	more	ADV	RBR	_	6	advmod	6:advmod	_
+5	more	more	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	_
 6	acutely	acutely	ADV	RB	_	4	advmod	4:advmod	_
 7	for	for	ADP	IN	_	10	case	10:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
@@ -5412,7 +5412,7 @@
 10	noise	noise	NOUN	NN	Number=Sing	4	obl	4:obl:for	_
 11	and	and	CCONJ	CC	_	12	cc	12:cc	_
 12	getting	get	VERB	VBG	VerbForm=Ger	4	conj	2:xcomp|4:conj:and	_
-13	more	more	ADV	RBR	_	14	advmod	14:advmod	_
+13	more	more	ADV	RBR	Degree=Cmp	14	advmod	14:advmod	_
 14	irritated	irritated	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	_
 15	when	when	ADV	WRB	PronType=Int	17	advmod	17:advmod	_
 16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
@@ -5606,7 +5606,7 @@
 4	motocross	motocross	NOUN	NN	Number=Sing	2	obl	2:obl:at	_
 5	and	and	CCONJ	CC	_	16	cc	16:cc	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
-7	more	more	ADV	RBR	_	9	advmod	9:advmod	_
+7	more	more	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 9	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	16:advcl	SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	16:punct	_
@@ -7511,7 +7511,7 @@
 13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj|17:nsubj:xsubj	_
 14	all	all	ADV	RB	_	16	advmod	16:advmod	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
-16	more	more	ADV	RBR	_	17	advmod	17:advmod	_
+16	more	more	ADV	RBR	Degree=Cmp	17	advmod	17:advmod	_
 17	appealing	appealing	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	SpaceAfter=No
 18	.	.	PUNCT	.	_	5	punct	5:punct	_
 
@@ -14599,7 +14599,7 @@
 13	empire	empire	NOUN	NN	Number=Sing	11	obj	11:obj	_
 14	into	into	ADP	IN	_	18	case	18:case	_
 15	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	18:det	_
-16	more	more	ADV	RBR	_	17	advmod	17:advmod	_
+16	more	more	ADV	RBR	Degree=Cmp	17	advmod	17:advmod	_
 17	harmonious	harmonious	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
 18	place	place	NOUN	NN	Number=Sing	11	obl	11:obl:into	SpaceAfter=No
 19	.	.	PUNCT	.	_	5	punct	5:punct	_
@@ -15609,7 +15609,7 @@
 10	eras	era	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	_
 11	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	12:aux:pass	_
 12	changed	change	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-13	more	more	ADV	RBR	_	14	advmod	14:advmod	_
+13	more	more	ADV	RBR	Degree=Cmp	14	advmod	14:advmod	_
 14	frequently	frequently	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
 15	,	,	PUNCT	,	_	24	punct	24:punct	_
 16	and	and	CCONJ	CC	_	24	cc	24:cc	_
@@ -17322,7 +17322,7 @@
 4	and	and	CCONJ	CC	_	5	cc	5:cc	_
 5	expelled	expel	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	3:conj:and	_
 6	twice	twice	ADV	RB	NumForm=Word|NumType=Mult	7	advmod	7:advmod	_
-7	more	more	ADV	RBR	_	3	advmod	3:advmod	SpaceAfter=No
+7	more	more	ADV	RBR	Degree=Cmp	3	advmod	3:advmod	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	3:punct	_
 9	before	before	SCONJ	IN	_	14	mark	14:mark	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
@@ -21695,7 +21695,7 @@
 7	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	shots	shot	NOUN	NNS	Number=Plur	7	obj	7:obj	_
-10	more	more	ADV	RBR	_	7	advmod	7:advmod	_
+10	more	more	ADV	RBR	Degree=Cmp	7	advmod	7:advmod	_
 11	than	than	SCONJ	IN	_	13	mark	13:mark	_
 12	ever	ever	ADV	RB	PronType=Ind	13	advmod	13:advmod	_
 13	before	before	ADV	RB	_	10	advcl	10:advcl:than	_
@@ -21704,7 +21704,7 @@
 16	Street	Street	PROPN	NNP	Number=Sing	7	obl	7:obl:on	SpaceAfter=No
 17	,	,	PUNCT	,	_	7	punct	7:punct	_
 18	even	even	ADV	RB	_	19	advmod	19:advmod	_
-19	more	more	ADV	RBR	_	7	advmod	7:advmod	_
+19	more	more	ADV	RBR	Degree=Cmp	7	advmod	7:advmod	_
 20	than	than	SCONJ	IN	_	23	mark	23:mark	_
 21	in	in	ADP	IN	_	23	case	23:case	_
 22	Silicon	Silicon	PROPN	NNP	Number=Sing	23	compound	23:compound	_
@@ -25414,7 +25414,7 @@
 22	would	would	AUX	MD	VerbForm=Fin	24	aux	24:aux	_
 23	have	have	AUX	VB	VerbForm=Inf	24	aux	24:aux	_
 24	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-25	more	more	ADV	RBR	_	24	obj	24:obj	_
+25	more	more	ADV	RBR	Degree=Cmp	24	obj	24:obj	_
 26	of	of	ADP	IN	_	28	case	28:case	_
 27	a	a	DET	DT	Definite=Ind|PronType=Art	28	det	28:det	_
 28	claim	claim	NOUN	NN	Number=Sing	25	obl	25:obl:of	_
