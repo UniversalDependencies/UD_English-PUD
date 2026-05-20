@@ -305,7 +305,7 @@
 # parallel_id = pud/n01004017
 # text = They are at the national average in grade 4 and better than national average in grade 8.
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj|11:nsubj	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 3	at	at	ADP	IN	_	6	case	6:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	national	national	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
@@ -1171,7 +1171,7 @@
 3	recent	recent	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	events	event	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj|11:nsubj:xsubj	SpaceAfter=No
 5	"	"	PUNCT	''	_	4	punct	4:punct	_
-6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 7	likely	likely	ADJ	JJ	Degree=Pos	0	root	0:root	_
 8	to	to	PART	TO	_	11	mark	11:mark	_
 9	be	be	AUX	VB	VerbForm=Inf	11	cop	11:cop	_
@@ -1234,7 +1234,7 @@
 9	carbon	carbon	NOUN	NN	Number=Sing	8	obj	8:obj	_
 10	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
-12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 13	well	well	ADV	RB	Degree=Pos	14	advmod	14:advmod	_
 14	short	short	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	_
 15	of	of	ADP	IN	_	17	case	17:case	_
@@ -1357,7 +1357,7 @@
 13	at	at	ADP	IN	_	15	case	15:case	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 15	moment	moment	NOUN	NN	Number=Sing	12	nmod	12:nmod:at	_
-16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
 17	nowhere	nowhere	ADV	RB	PronType=Neg	3	conj	3:conj:but	_
 18	near	near	ADP	IN	_	23	case	23:case	_
 19	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
@@ -1660,7 +1660,7 @@
 # parallel_id = pud/n01027007
 # text = Who are they?
 1	Who	who	PRON	WP	PronType=Int	0	root	0:root	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	1:nsubj	SpaceAfter=No
 4	?	?	PUNCT	.	_	1	punct	1:punct	_
 
@@ -2939,7 +2939,7 @@
 19	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 20	such	such	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
 21	bodies	body	NOUN	NNS	Number=Plur	23	nsubj	23:nsubj|25:nsubj:xsubj|26:nsubj:xsubj	_
-22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
+22	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
 23	essential	essential	ADJ	JJ	Degree=Pos	19	ccomp	19:ccomp	_
 24	to	to	PART	TO	_	25	mark	25:mark	_
 25	help	help	VERB	VB	VerbForm=Inf	23	xcomp	23:xcomp	_
@@ -3064,7 +3064,7 @@
 # text = Our cellphones are so much more than phones these days.
 1	Our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	cellphones	cellphone	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 4	so	so	ADV	RB	_	5	advmod	5:advmod	_
 5	much	much	ADV	RB	_	6	advmod	6:advmod	_
 6	more	more	ADJ	JJR	Degree=Cmp	0	root	0:root	_
@@ -4020,7 +4020,7 @@
 # parallel_id = pud/n01062035
 # text = They’re usually artists who want to do a bunch of stuff.
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
-2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+2	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	usually	usually	ADV	RB	_	4	advmod	4:advmod	_
 4	artists	artist	NOUN	NNS	Number=Plur	0	root	0:root|6:nsubj|8:nsubj:xsubj	_
 5	who	who	PRON	WP	PronType=Rel	6	nsubj	4:ref	_
@@ -4528,7 +4528,7 @@
 2	than	than	ADP	IN	_	1	fixed	1:fixed	_
 3	330	330	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
 4	crew	crew	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 6	onboard	onboard	ADP	IN	_	8	case	8:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	ship	ship	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
@@ -5323,7 +5323,7 @@
 12	but	but	CCONJ	CC	_	17	cc	17:cc	_
 13	UK	UK	PROPN	NNP	Abbr=Yes|Number=Sing	14	compound	14:compound	_
 14	soils	soil	NOUN	NNS	Number=Plur	17	nsubj	17:nsubj	_
-15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
 16	naturally	naturally	ADV	RB	_	17	advmod	17:advmod	_
 17	deficient	deficient	ADJ	JJ	Degree=Pos	6	conj	6:conj:but	_
 18	in	in	ADP	IN	_	21	case	21:case	_
@@ -6465,7 +6465,7 @@
 # parallel_id = pud/n01104019
 # text = We are so disappointed because we have dropped six points playing at home.
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	so	so	ADV	RB	_	4	advmod	4:advmod	_
 4	disappointed	disappointed	ADJ	JJ	Degree=Pos	0	root	0:root	_
 5	because	because	SCONJ	IN	_	8	mark	8:mark	_
@@ -7570,7 +7570,7 @@
 # text = “Superheroes are outside of human experience and so is this, so I treated it like a drama,” Zimmer says.
 1	“	"	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
 2	Superheroes	superhero	NOUN	NNS	Number=Plur	7	nsubj	5:nsubj:xsubj|7:nsubj|11:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 4	outside	outside	ADP	IN	_	7	case	7:case	_
 5	of	of	ADP	IN	_	7	xcomp	7:xcomp	_
 6	human	human	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
@@ -7811,7 +7811,7 @@
 13	how	how	ADV	WRB	PronType=Int	14	advmod	14:advmod	_
 14	safe	safe	ADJ	JJ	Degree=Pos	11	acl	11:acl:of	_
 15	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
-16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 17	or	or	CCONJ	CC	_	22	cc	22:cc	_
 18	how	how	ADV	WRB	PronType=Int	19	advmod	19:advmod	_
 19	many	many	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
@@ -8170,7 +8170,7 @@
 18	2020	2020	NUM	CD	NumForm=Digit|NumType=Card	16	conj	7:appos|16:conj:or	_
 19	--	--	PUNCT	:	_	16	punct	16:punct	_
 20-21	aren't	_	_	_	_	_	_	_	_
-20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	cop	22:cop	_
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	cop	22:cop	_
 21	n't	not	PART	RB	Polarity=Neg	22	advmod	22:advmod	_
 22	accurate	accurate	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	SpaceAfter=No
 23	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -8551,7 +8551,7 @@
 2	now	now	ADV	RB	PronType=Dem	6	obl	6:obl:for	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	analysts	analyst	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj|8:nsubj:xsubj	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	hesitant	hesitant	ADJ	JJ	Degree=Pos	0	root	0:root	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	write	write	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
@@ -9414,7 +9414,7 @@
 # parallel_id = pud/w01003051
 # text = Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean.
 1	Examples	example	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj|11:nsubj	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	Line	Line	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	Islands	Islands	PROPN	NNPS	Number=Plur	0	root	0:root	_
@@ -10637,7 +10637,7 @@
 3	,	,	PUNCT	,	_	8	punct	8:punct	_
 4	freshwater	freshwater	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	lakes	lake	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
-6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 7	often	often	ADV	RB	_	8	advmod	8:advmod	_
 8	deep	deep	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	8:punct	_
@@ -11629,7 +11629,7 @@
 1	These	this	DET	DT	Number=Plur|PronType=Dem	3	det	3:det	_
 2	plant	plant	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	families	family	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
-4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 5	still	still	ADV	RB	_	6	advmod	6:advmod	_
 6	present	present	ADJ	JJ	Degree=Pos	0	root	0:root	_
 7	in	in	ADP	IN	_	10	case	10:case	_
@@ -11693,7 +11693,7 @@
 # parallel_id = pud/w01038009
 # text = These are not very popular due to the often remote and roadless locations.
 1	These	this	PRON	DT	Number=Plur|PronType=Dem	5	nsubj	5:nsubj	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 4	very	very	ADV	RB	_	5	advmod	5:advmod	_
 5	popular	popular	ADJ	JJ	Degree=Pos	0	root	0:root	_
@@ -11864,7 +11864,7 @@
 2	and	and	CCONJ	CC	_	3	cc	3:cc	_
 3	dust	dust	NOUN	NN	Number=Sing	1	conj	1:conj:and|4:compound	_
 4	storms	storm	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 6	natural	natural	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	events	event	NOUN	NNS	Number=Plur	0	root	0:root|9:nsubj	_
 8	that	that	PRON	WDT	PronType=Rel	9	nsubj	7:ref	_
@@ -12008,7 +12008,7 @@
 # parallel_id = pud/w01042055
 # text = Thunderstorms are rare, as the city reports thunder on just seven days per year.
 1	Thunderstorms	thunderstorm	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	rare	rare	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
 5	as	as	SCONJ	IN	_	8	mark	8:mark	_
@@ -12085,7 +12085,7 @@
 2	's	's	PART	POS	_	1	case	1:case	_
 3	industrial	industrial	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	outputs	output	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj|8:nsubj|10:nsubj|12:nsubj|17:nsubj|21:nsubj	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	tourism	tourism	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	8:punct	_
 8	mining	mining	NOUN	NN	Number=Sing	6	conj	6:conj:and	SpaceAfter=No
@@ -14527,7 +14527,7 @@
 17	civil	civil	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
 18	wars	war	NOUN	NNS	Number=Plur	15	nmod	15:nmod:in	SpaceAfter=No
 19	)	)	PUNCT	-RRB-	_	9	punct	9:punct	_
-20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	cop	22:cop	_
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	cop	22:cop	_
 21	less	less	ADV	RBR	Degree=Cmp	22	advmod	22:advmod	_
 22	likely	likely	ADJ	JJ	Degree=Pos	1	parataxis	1:parataxis	_
 23	to	to	PART	TO	_	24	mark	24:mark	_
@@ -15844,7 +15844,7 @@
 4	males	male	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
 6	females	female	NOUN	NNS	Number=Plur	4	conj	4:conj:and|9:nsubj	_
-7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 8	ardent	ardent	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	singers	singer	NOUN	NNS	Number=Plur	0	root	0:root	SpaceAfter=No
 10	,	,	PUNCT	,	_	18	punct	18:punct	_
@@ -19477,7 +19477,7 @@
 6	Secret	Secret	ADJ	NNP	Degree=Pos	7	amod	7:amod	_
 7	Service	Service	PROPN	NNP	Number=Sing	8	compound	8:compound	_
 8	agents	agent	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
-9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	active	active	ADJ	JJ	Degree=Pos	0	root	0:root	_
 11	in	in	ADP	IN	_	13	case	13:case	_
 12	large	large	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
@@ -19627,7 +19627,7 @@
 12	-	-	PUNCT	HYPH	_	13	punct	13:punct	SpaceAfter=No
 13	satisfied	satisfied	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	elite	elite	NOUN	NN	Number=Sing	8	conj	8:conj:and|17:nsubj	_
-15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	reason	reason	NOUN	NN	Number=Sing	0	root	0:root	_
 18	why	why	ADV	WRB	PronType=Rel	34	advmod	34:advmod	_
@@ -20040,7 +20040,7 @@
 22	and	and	CCONJ	CC	_	27	cc	27:cc	_
 23	whether	whether	SCONJ	IN	_	27	mark	27:mark	_
 24	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	nsubj	27:nsubj	_
-25	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	cop	27:cop	_
+25	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	27	cop	27:cop	_
 26	intellectual	intellectual	ADJ	JJ	Degree=Pos	27	amod	27:amod	_
 27	relatives	relative	NOUN	NNS	Number=Plur	16	conj	3:ccomp|16:conj:and	SpaceAfter=No
 28	.	.	PUNCT	.	_	3	punct	3:punct	_
@@ -20150,7 +20150,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	current	current	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	arrests	arrest	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 5	"	"	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
 6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
 7	continuation	continuation	NOUN	NN	Number=Sing	15	ccomp	15:ccomp	_
@@ -20349,7 +20349,7 @@
 8	Elder	old	ADJ	JJR	Degree=Cmp	5	flat	5:flat	_
 9	on	on	ADP	IN	_	10	case	10:case	_
 10	display	display	NOUN	NN	Number=Sing	3	nmod	3:nmod:on	_
-11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
 12	especially	especially	ADV	RB	_	15	advmod	15:advmod	_
 13	eye	eye	NOUN	NN	Number=Sing	15	obj	15:obj	SpaceAfter=No
 14	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
@@ -20796,7 +20796,7 @@
 # parallel_id = pud/n03006003
 # text = What are the limits that could inhibit the expression of religious beliefs in private companies?
 1	What	what	PRON	WP	PronType=Int	0	root	0:root	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	limits	limit	NOUN	NNS	Number=Plur	1	nsubj	1:nsubj|7:nsubj	_
 5	that	that	PRON	WDT	PronType=Rel	7	nsubj	4:ref	_
@@ -21055,7 +21055,7 @@
 19	likely	likely	ADJ	JJ	Degree=Pos	15	acl:relcl	15:acl:relcl	_
 20	as	as	SCONJ	IN	_	23	mark	23:mark	_
 21	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	23:nsubj	_
-22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
+22	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
 23	unacceptable	unacceptable	ADJ	JJ	Degree=Pos	19	advcl	19:advcl:as	SpaceAfter=No
 24	"	"	PUNCT	''	_	3	punct	3:punct	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	3:punct	_
@@ -24270,7 +24270,7 @@
 # text = The islands are located at the Indo-Australian Fault; the Fault arose due to the collision of the Indian and Australian plates.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	islands	island	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 4	located	located	ADJ	JJ	Degree=Pos	0	root	0:root	_
 5	at	at	ADP	IN	_	10	case	10:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
