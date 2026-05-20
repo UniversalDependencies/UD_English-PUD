@@ -4208,7 +4208,7 @@
 9	of	of	ADP	IN	_	10	case	10:case	_
 10	scholars	scholar	NOUN	NNS	Number=Plur	8	nmod	8:nmod:of|12:nsubj	_
 11	who	who	PRON	WP	PronType=Rel	12	nsubj	10:ref	_
-12	call	call	VERB	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
+12	call	call	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
 13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj|17:nsubj:xsubj	_
 14	“	"	PUNCT	``	_	17	punct	17:punct	SpaceAfter=No
 15	no	no	ADV	DT	Polarity=Neg	16	advmod	16:advmod	_
@@ -8754,7 +8754,7 @@
 # text = "Pair prank their way into North Korean golf tournament," read Brisbane's Nine News.
 1	"	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
 2	Pair	pair	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
-3	prank	prank	VERB	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	13:ccomp	_
+3	prank	prank	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	13:ccomp	_
 4	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	way	way	NOUN	NN	Number=Sing	3	obj	3:obj	_
 6	into	into	ADP	IN	_	10	case	10:case	_
