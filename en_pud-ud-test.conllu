@@ -19940,7 +19940,7 @@
 # sent_id = n02048002
 # parallel_id = pud/n02048002
 # text = Do you argue with your alarm clock?
-1	Do	do	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+1	Do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 3	argue	argue	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	with	with	ADP	IN	_	7	case	7:case	_
