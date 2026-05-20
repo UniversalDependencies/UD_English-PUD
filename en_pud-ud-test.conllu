@@ -2094,7 +2094,7 @@
 15	bladder	bladder	NOUN	NN	Number=Sing	11	nmod	11:nmod:such_as	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	15:punct	_
 17	which	which	PRON	WDT	PronType=Rel	21	nsubj:pass	11:ref	_
-18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux:pass	21:aux:pass	_
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	aux:pass	21:aux:pass	_
 19	not	not	PART	RB	Polarity=Neg	21	advmod	21:advmod	_
 20	directly	directly	ADV	RB	_	21	advmod	21:advmod	_
 21	exposed	expose	VERB	VBN	Tense=Past|VerbForm=Part	11	acl:relcl	11:acl:relcl	SpaceAfter=No
@@ -2185,7 +2185,7 @@
 30	businesses	business	NOUN	NNS	Number=Plur	34	nsubj:pass	34:nsubj:pass	_
 31	and	and	CCONJ	CC	_	32	cc	32:cc	_
 32	interests	interest	NOUN	NNS	Number=Plur	30	conj	30:conj:and|34:nsubj:pass	_
-33	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	34	aux:pass	34:aux:pass	_
+33	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	34	aux:pass	34:aux:pass	_
 34	represented	represent	VERB	VBN	Tense=Past|VerbForm=Part	27	ccomp	27:ccomp	_
 35	in	in	ADP	IN	_	36	case	36:case	_
 36	Washington	Washington	PROPN	NNP	Number=Sing	34	obl	34:obl:in	SpaceAfter=No
@@ -2561,7 +2561,7 @@
 4	,	,	PUNCT	,	_	8	punct	8:punct	_
 5	meanwhile	meanwhile	ADV	RB	_	8	advmod	8:advmod	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
-7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 8	seeking	seek	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 9	to	to	PART	TO	_	10	mark	10:mark	_
 10	keep	keep	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
@@ -3244,7 +3244,7 @@
 20	remedy	remedy	NOUN	NN	Number=Sing	13	nmod	13:nmod:as	SpaceAfter=No
 21	,	,	PUNCT	,	_	24	punct	24:punct	_
 22	companies	company	NOUN	NNS	Number=Plur	24	nsubj:pass	24:nsubj:pass|25:nsubj:xsubj	_
-23	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux:pass	24:aux:pass	_
+23	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	aux:pass	24:aux:pass	_
 24	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 25	guessing	guess	VERB	VBG	VerbForm=Ger	24	xcomp	24:xcomp	SpaceAfter=No
 26	.	.	PUNCT	.	_	24	punct	24:punct	_
@@ -3338,7 +3338,7 @@
 5	mean	mean	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	more	more	ADJ	JJR	Degree=Cmp	7	amod	7:amod	_
 7	donors	donor	NOUN	NNS	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
-8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 9	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	5:ccomp	SpaceAfter=No
 10	.	.	PUNCT	.	_	5	punct	5:punct	_
 
@@ -4359,7 +4359,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	7	amod	7:amod	_
 7	time	time	NOUN	NN	Number=Sing	3	obl	3:obl:for	_
-8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
 9	British	British	PROPN	NNP	Number=Sing	10	compound	10:compound	Proper=True
 10	Ministry	ministry	NOUN	NN	Number=Sing	13	compound	13:compound	_
 11	of	of	ADP	IN	_	12	case	12:case	_
@@ -4465,7 +4465,7 @@
 10	until	until	ADP	IN	_	11	case	11:case	_
 11	2010	2010	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:until	SpaceAfter=No
 12	,	,	PUNCT	,	_	6	punct	6:punct	_
-13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
 14	hoping	hope	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 15	to	to	PART	TO	_	16	mark	16:mark	_
 16	snatch	snatch	VERB	VB	VerbForm=Inf	14	xcomp	14:xcomp	_
@@ -5942,7 +5942,7 @@
 9	of	of	ADP	IN	_	11	case	11:case	_
 10	these	this	DET	DT	Number=Plur|PronType=Dem	11	det	11:det	_
 11	marketplaces	marketplace	NOUN	NNS	Number=Plur	8	nmod	8:nmod:of	_
-12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 13	easily	easily	ADV	RB	_	14	advmod	14:advmod	_
 14	accessible	accessible	ADJ	JJ	Degree=Pos	4	conj	4:conj:but	_
 15	if	if	SCONJ	IN	_	17	mark	17:mark	_
@@ -6244,7 +6244,7 @@
 20	(	(	PUNCT	-LRB-	_	24	punct	24:punct	SpaceAfter=No
 21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
 22	pupae	pupa	NOUN	NNS	Number=Plur	24	nsubj:pass	24:nsubj:pass|26:nsubj:xsubj	_
-23	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux:pass	24:aux:pass	_
+23	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	aux:pass	24:aux:pass	_
 24	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part	19	parataxis	19:parataxis	_
 25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	_
 26	delicacy	delicacy	NOUN	NN	Number=Sing	24	xcomp	24:xcomp	SpaceAfter=No
@@ -8482,7 +8482,7 @@
 # text = New episodes are followed by after show, "The Talking Dead."
 1	New	new	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	episodes	episode	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	by	by	ADP	IN	_	6	case	6:case	_
 6	after	aftershow	NOUN	GW	Number=Sing|Typo=Yes	4	obl	4:obl:by	_
@@ -8509,7 +8509,7 @@
 7	've	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 8	launched	launch	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	_
 9	or	or	CCONJ	CC	_	12	cc	12:cc	_
-10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
 11	under	under	ADP	IN	_	12	case	12:case	_
 12	construction	construction	NOUN	NN	Number=Sing	8	conj	4:acl:relcl|8:conj:or	SpaceAfter=No
 13	,	,	PUNCT	,	_	17	punct	17:punct	_
@@ -8783,7 +8783,7 @@
 6	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 7	own	own	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	admission	admission	NOUN	NN	Number=Sing	11	obl	11:obl:by	_
-9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
 10	terrible	terrible	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	golfers	golfer	NOUN	NNS	Number=Plur	2	acl:relcl	2:acl:relcl	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	11:punct	_
@@ -10932,7 +10932,7 @@
 6	that	that	SCONJ	IN	_	11	mark	11:mark	_
 7	these	this	DET	DT	Number=Plur|PronType=Dem	8	det	8:det	_
 8	plains	plain	NOUN	NNS	Number=Plur	11	nsubj:pass	11:nsubj:pass	_
-9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux:pass	11:aux:pass	_
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	aux:pass	11:aux:pass	_
 10	sometimes	sometimes	ADV	RB	PronType=Ind	11	advmod	11:advmod	_
 11	thought	think	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	5:ccomp	_
 12	of	of	ADP	IN	_	11	obl	11:obl	_
@@ -11647,7 +11647,7 @@
 3	and	and	CCONJ	CC	_	5	cc	5:cc	_
 4	South	South	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	America	America	PROPN	NNP	Number=Sing	2	conj	2:conj:and|7:nsubj:pass	_
-6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	_
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	_
 7	treated	treat	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 8	as	as	ADP	IN	_	10	case	10:case	_
 9	separate	separate	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
@@ -11944,7 +11944,7 @@
 5	,	,	PUNCT	,	_	9	punct	9:punct	_
 6	some	some	DET	DT	PronType=Ind	7	det	7:det	_
 7	particles	particle	NOUN	NNS	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
-8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 9	lifted	lift	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 10	into	into	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
@@ -13167,7 +13167,7 @@
 2	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 3	Olympic	Olympic	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	6:nsubj:pass|10:nsubj:xsubj	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 7	to	to	PART	TO	_	10	mark	10:mark	_
 8	have	have	AUX	VB	VerbForm=Inf	10	aux	10:aux	_
@@ -13698,7 +13698,7 @@
 4	of	of	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	day	day	NOUN	NN	Number=Sing	3	nmod	3:nmod:of	_
-7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux:pass	8:aux:pass	_
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux:pass	8:aux:pass	_
 8	given	give	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 9	in	in	ADP	IN	_	11	case	11:case	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
@@ -13745,7 +13745,7 @@
 16	,	,	PUNCT	,	_	11	punct	11:punct	_
 17	as	as	SCONJ	IN	_	20	mark	20:mark	_
 18	these	this	PRON	DT	Number=Plur|PronType=Dem	20	nsubj:pass	20:nsubj:pass	_
-19	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux:pass	20:aux:pass	_
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	20	aux:pass	20:aux:pass	_
 20	calculated	calculate	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	11:advcl:as	_
 21	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	25	case	25:case	_
 22	to	to	ADP	IN	_	21	fixed	21:fixed	_
@@ -14150,12 +14150,12 @@
 14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 15	various	various	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
 16	speculations	speculation	NOUN	NNS	Number=Plur	12	nmod	12:nmod:for	_
-17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux:pass	18:aux:pass	_
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	18	aux:pass	18:aux:pass	_
 18	based	base	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	9:conj:and	_
 19	merely	merely	ADV	RB	_	18	advmod	18:advmod	_
 20	upon	upon	ADP	IN	_	21	case	21:case	_
 21	what	what	PRON	WP	PronType=Int	19	obl	19:obl:upon	_
-22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
+22	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
 23	at	at	ADP	IN	_	24	case	24:case	_
 24	best	well	ADV	RBS	Degree=Sup	26	obl	26:obl:at	_
 25	mere	mere	ADJ	JJ	Degree=Pos	26	amod	26:amod	_
@@ -15640,7 +15640,7 @@
 8	,	,	PUNCT	,	_	13	punct	13:punct	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	Emperors	emperor	NOUN	NNS	Number=Plur	13	nsubj:pass	13:nsubj:pass	_
-11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
 12	often	often	ADV	RB	_	13	advmod	13:advmod	_
 13	referred	refer	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 14	to	to	ADP	IN	_	13	obl	13:obl	_
@@ -17861,7 +17861,7 @@
 # parallel_id = pud/w01132081
 # text = Sails are not represented in prehistoric Mesoamerican iconography or texts, instead, it is theorized that canoes were used as a primary mode of water transportation for the ancient Maya.
 1	Sails	sail	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	represented	represent	VERB	VBN	Tense=Past|VerbForm=Part	16	ccomp	16:ccomp	_
 5	in	in	ADP	IN	_	8	case	8:case	_
@@ -20678,7 +20678,7 @@
 21	whereas	whereas	SCONJ	IN	_	25	mark	25:mark	_
 22	330	330	NUM	CD	NumForm=Digit|NumType=Card	23	nummod	23:nummod	_
 23	votes	vote	NOUN	NNS	Number=Plur	25	nsubj:pass	25:nsubj:pass	_
-24	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux:pass	25:aux:pass	_
+24	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	25	aux:pass	25:aux:pass	_
 25	required	require	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	7:advcl:whereas	_
 26	in	in	ADP	IN	ExtPos=SCONJ	29	mark	29:mark	_
 27	order	order	NOUN	NN	Number=Sing	26	fixed	26:fixed	_
@@ -20836,7 +20836,7 @@
 # sent_id = n03006016
 # parallel_id = pud/n03006016
 # text = Are workers allowed to keep religious objects on their desks?
-1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+1	Are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 2	workers	worker	NOUN	NNS	Number=Plur	3	nsubj:pass	3:nsubj:pass|5:nsubj:xsubj	_
 3	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
@@ -21050,7 +21050,7 @@
 14	to	to	ADP	IN	_	15	case	15:case	_
 15	consequences	consequence	NOUN	NNS	Number=Plur	13	obl	13:obl:to|19:nsubj	_
 16	that	that	PRON	WDT	PronType=Rel	19	nsubj	15:ref	_
-17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
 18	as	as	ADV	RB	_	19	advmod	19:advmod	_
 19	likely	likely	ADJ	JJ	Degree=Pos	15	acl:relcl	15:acl:relcl	_
 20	as	as	SCONJ	IN	_	23	mark	23:mark	_
@@ -21233,7 +21233,7 @@
 11	with	with	ADP	IN	_	12	case	12:case	_
 12	those	that	PRON	DT	Number=Plur|PronType=Dem	10	obl	10:obl:with|14:nsubj	_
 13	who	who	PRON	WP	PronType=Rel	14	nsubj	12:ref	_
-14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
 15	completely	completely	ADV	RB	_	14	advmod	14:advmod	_
 16	against	against	ADP	IN	_	17	case	17:case	_
 17	Italy	Italy	PROPN	NNP	Number=Sing	14	obl	14:obl:against	SpaceAfter=No
@@ -22886,7 +22886,7 @@
 18	which	which	PRON	WDT	PronType=Rel	22	obl	12:ref	_
 19	many	many	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	sites	site	NOUN	NNS	Number=Plur	22	nsubj:pass	22:nsubj:pass	_
-21	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux:pass	22:aux:pass	_
+21	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	aux:pass	22:aux:pass	_
 22	known	know	VERB	VBN	Tense=Past|VerbForm=Part	12	acl:relcl	12:acl:relcl	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	5:punct	_
 
