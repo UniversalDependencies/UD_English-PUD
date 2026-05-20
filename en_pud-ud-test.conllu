@@ -834,7 +834,7 @@
 # text = Several analysts have suggested Huawei is best placed to benefit from Samsung's setback.
 1	Several	several	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	analysts	analyst	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	suggested	suggest	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	Huawei	Huawei	PROPN	NNP	Number=Sing	8	nsubj:pass	8:nsubj:pass|10:nsubj:xsubj	_
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	8:aux:pass	_
@@ -1647,7 +1647,7 @@
 2	's	's	PART	POS	_	1	case	1:case	_
 3	traffic	traffic	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	police	police	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
-5	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+5	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 6	opted	opt	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 7	for	for	ADP	IN	_	9	case	9:case	_
 8	unconventional	unconventional	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
@@ -1962,7 +1962,7 @@
 # parallel_id = pud/n01031005
 # text = Researchers have been investigating potential for male hormonal contraceptives for around 20 years.
 1	Researchers	researcher	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	4:aux	_
 4	investigating	investigate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	potential	potential	NOUN	NN	Number=Sing	4	obj	4:obj	_
@@ -2640,7 +2640,7 @@
 1	Students	student	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
 2	like	like	ADP	IN	_	3	case	3:case	_
 3	Rai	Rai	PROPN	NNP	Number=Sing	1	nmod	1:nmod:like	_
-4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	aux	6:aux	_
 6	meeting	meet	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 7	with	with	ADP	IN	_	8	case	8:case	_
@@ -2699,7 +2699,7 @@
 1	"	"	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
 2	Physicians	physician	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 3-4	don't	_	_	_	_	_	_	_	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	have	have	VERB	VB	VerbForm=Inf	21	ccomp	21:ccomp	_
 6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	7:det	_
@@ -5130,7 +5130,7 @@
 1	“	"	PUNCT	``	_	5	punct	5:punct	SpaceAfter=No
 2	More	more	ADJ	JJR	Degree=Cmp	3	amod	3:amod	_
 3	people	people	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	turning	turn	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 6	to	to	ADP	IN	_	7	case	7:case	_
 7	credit	credit	NOUN	NN	Number=Sing	5	obl	5:obl:to	_
@@ -8182,7 +8182,7 @@
 1	U.S.	U.S.	PROPN	NNP	Abbr=Yes|Number=Sing	3	compound	3:compound	_
 2	stock	stock	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	futures	future	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	surging	surge	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 6	by	by	ADP	IN	_	10	case	10:case	_
 7	more	more	ADJ	JJR	Degree=Cmp|ExtPos=ADV	9	advmod	9:advmod	_
@@ -8199,7 +8199,7 @@
 # parallel_id = pud/n01134007
 # text = Investors are selling out of government bonds, with U.S. and Australian bonds feeling the biggest impact.
 1	Investors	investor	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	selling	sell	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 4	out	out	ADP	IN	_	3	compound:prt	3:compound:prt	_
 5	of	of	ADP	IN	_	7	case	7:case	_
@@ -8390,7 +8390,7 @@
 5	even	even	ADV	RB	_	7	advmod	7:advmod	_
 6	CNN	CNN	PROPN	NNP	Abbr=Yes|Number=Sing	7	compound	7:compound	_
 7	reporters	reporter	NOUN	NNS	Number=Plur	1	conj	1:conj:and|9:nsubj	_
-8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	dressing	dress	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 10	up	up	ADP	RP	_	9	compound:prt	9:compound:prt	_
 11	like	like	ADP	IN	_	16	case	16:case	_
@@ -8571,7 +8571,7 @@
 3	Netherlands	Netherlands	PROPN	NNPS	Number=Ptan	7	obl	7:obl:in	SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
 5	authorities	authority	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 7	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 8	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
 9	lower	lower	ADJ	JJ	Degree=Pos	11	amod	11:amod	SpaceAfter=No
@@ -9134,7 +9134,7 @@
 4	in	in	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	region	region	NOUN	NN	Number=Sing	3	nmod	3:nmod:in	_
-7	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	cop	9:cop	_
 9	successful	successful	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	9:punct	_
@@ -10961,7 +10961,7 @@
 13	prominent	prominent	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 14	topographic	topographic	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	features	feature	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj	_
-16	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
+16	do	do	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
 17	not	not	PART	RB	Polarity=Neg	18	advmod	18:advmod	_
 18	parallel	parallel	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:in_that	_
 19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
@@ -11904,7 +11904,7 @@
 14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 15	finer	finer	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
 16	materials	material	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj	_
-17	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	20:aux	_
+17	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	20	aux	20:aux	_
 18	already	already	ADV	RB	_	20	advmod	20:advmod	_
 19	been	be	AUX	VBN	Tense=Past|VerbForm=Part	20	aux:pass	20:aux:pass	_
 20	blown	blow	VERB	VBN	Tense=Past|VerbForm=Part	11	acl:relcl	11:acl:relcl	_
@@ -19336,7 +19336,7 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 10	Essen	Essen	PROPN	NNP	Number=Sing	11	compound	11:compound	_
 11	police	police	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
-12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
 13	investigating	investigate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 14	four	four	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	_
 15	people	people	NOUN	NNS	Number=Plur	13	obj	13:obj|17:nsubj|20:nsubj	_
@@ -20458,7 +20458,7 @@
 8	and	and	CCONJ	CC	_	9	cc	9:cc	_
 9	state	state	NOUN	NN	Number=Sing	7	conj	7:conj:and|10:amod	_
 10	governments	government	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj|29:nsubj	_
-11	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
+11	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
 12	classified	classify	VERB	VBN	Tense=Past|VerbForm=Part	4	csubj	4:csubj	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 14	National	national	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
@@ -20641,7 +20641,7 @@
 3	's	's	PART	POS	_	2	case	2:case	_
 4	Islamic	Islamic	ADJ	JJ	Degree=Pos	5	amod	5:amod	Proper=True
 5	conservatives	conservative	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 7	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
 9	refusal	refusal	NOUN	NN	Number=Sing	7	obj	7:obj	_
@@ -21607,7 +21607,7 @@
 4	Roma	Roma	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 5	Tre	Tre	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	University	University	PROPN	NNP	Number=Sing	2	nmod	2:nmod:at	_
-7	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 8	developed	develop	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
 10	motorcycle	motorcycle	NOUN	NN	Number=Sing	11	compound	11:compound	_
@@ -21691,7 +21691,7 @@
 3	more	more	ADJ	JJR	Degree=Cmp	1	conj	1:conj:and|5:amod	_
 4	tech	tech	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	companies	company	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 7	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	shots	shot	NOUN	NNS	Number=Plur	7	obj	7:obj	_
@@ -21880,7 +21880,7 @@
 # text = The unions have been very combative and on several occasions have called for the repeal of the legislation that Fátima Báñez is proudest of.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	unions	union	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj|12:nsubj	_
-3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	6:cop	_
 5	very	very	ADV	RB	_	6	advmod	6:advmod	_
 6	combative	combative	ADJ	JJ	Degree=Pos	0	root	0:root	_
@@ -21962,7 +21962,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	consulted	consult	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	3:amod	_
 3	sources	source	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 6	that	that	SCONJ	IN	_	12	mark	12:mark	_
 7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
@@ -22349,7 +22349,7 @@
 2	of	of	ADP	IN	_	4	case	4:case	_
 3	FSLN	FSLN	PROPN	NNP	Abbr=Yes|Number=Sing	4	compound	4:compound	_
 4	followers	follower	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 6	already	already	ADV	RB	_	7	advmod	7:advmod	_
 7	celebrating	celebrate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
