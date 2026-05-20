@@ -108,7 +108,7 @@
 1	“	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	So	so	ADV	RB	_	4	advmod	4:advmod	_
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|6:nsubj:xsubj	_
-4	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	ccomp	26:ccomp	_
+4	hate	hate	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	26	ccomp	26:ccomp	_
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	put	put	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
 7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -3974,7 +3974,7 @@
 6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	9:punct	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|10:nsubj:xsubj	_
-9	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	ccomp	20:ccomp	_
+9	feel	feel	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	20	ccomp	20:ccomp	_
 10	powerful	powerful	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	9:punct	SpaceAfter=No
 12	”	"	PUNCT	''	_	9	punct	9:punct	_
@@ -4177,7 +4177,7 @@
 2	many	many	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	people	people	NOUN	NNS	Number=Plur	9	obl	9:obl:like	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-5	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	SpaceAfter=No
+5	know	know	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	9:punct	_
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	SpaceAfter=No
 8	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
@@ -4913,7 +4913,7 @@
 # text = I also struggle with passwords.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	also	also	ADV	RB	_	3	advmod	3:advmod	_
-3	struggle	struggle	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	struggle	struggle	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	with	with	ADP	IN	_	5	case	5:case	_
 5	passwords	password	NOUN	NNS	Number=Plur	3	obl	3:obl:with	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	3:punct	_
@@ -4989,7 +4989,7 @@
 14	so	so	ADV	RB	_	15	advmod	15:advmod	_
 15	unassuming	unassuming	ADJ	JJ	Degree=Pos	13	xcomp	13:xcomp	_
 16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
-17	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	ccomp	15:ccomp	_
+17	think	think	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	15	ccomp	15:ccomp	_
 18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	SpaceAfter=No
 19	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	_
 20	another	another	DET	DT	PronType=Ind	21	det	21:det	_
@@ -5453,7 +5453,7 @@
 # parallel_id = pud/n01087018
 # text = I think that’s why they immersed themselves in pattern and colour.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	think	think	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	SpaceAfter=No
 4	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	_
 5	why	why	ADV	WRB	PronType=Int	7	advmod	7:advmod	_
@@ -5516,7 +5516,7 @@
 # text = “I visit the degree shows at Northampton University to spot new talent,” he says.
 1	“	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	visit	visit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	ccomp	17:ccomp	_
+3	visit	visit	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	17	ccomp	17:ccomp	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	degree	degree	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	shows	show	NOUN	NNS	Number=Plur	3	obj	3:obj	_
@@ -5541,7 +5541,7 @@
 2	,	,	PUNCT	,	_	16	punct	16:punct	_
 3	when	when	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-5	suggest	suggest	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	16:advcl	_
+5	suggest	suggest	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	16	advcl	16:advcl	_
 6	that	that	SCONJ	IN	_	8	mark	8:mark	_
 7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 8	get	get	VERB	VB	VerbForm=Inf	5	ccomp	5:ccomp	_
@@ -5636,7 +5636,7 @@
 # parallel_id = pud/n01090037
 # text = I love to play with that and I am always looking for muses that fit that bill because it is so interesting making a collection when I find one.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	_
-2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	love	love	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	play	play	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	with	with	ADP	IN	_	6	case	6:case	_
@@ -5662,7 +5662,7 @@
 25	collection	collection	NOUN	NN	Number=Sing	23	obj	23:obj	_
 26	when	when	ADV	WRB	PronType=Int	28	advmod	28:advmod	_
 27	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	28:nsubj	_
-28	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	advcl	23:advcl	_
+28	find	find	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	23	advcl	23:advcl	_
 29	one	one	NUM	CD	NumForm=Word|NumType=Card	28	obj	28:obj	SpaceAfter=No
 30	.	.	PUNCT	.	_	2	punct	2:punct	_
 
@@ -6530,7 +6530,7 @@
 # text = I also wonder whether the Davis Cup played a part.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	also	also	ADV	RB	_	3	advmod	3:advmod	_
-3	wonder	wonder	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	wonder	wonder	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	whether	whether	SCONJ	IN	_	8	mark	8:mark	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	Davis	Davis	PROPN	NNP	Number=Sing	7	compound	7:compound	_
@@ -8722,7 +8722,7 @@
 # text = "I have to congratulate Andy -- to get to No. 1 in the world that's an incredible achievement," the American said.
 1	"	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
-3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	ccomp	25:ccomp	_
+3	have	have	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	25	ccomp	25:ccomp	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	congratulate	congratulate	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
 6	Andy	Andy	PROPN	NNP	Number=Sing	5	obj	5:obj	_
@@ -9027,7 +9027,7 @@
 5	line	line	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
-8	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	think	think	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	government	government	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
 11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
@@ -23070,7 +23070,7 @@
 # parallel_id = pud/w02011029
 # text = I declare the first international Olympic games over.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	declare	declare	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	declare	declare	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 4	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	7	amod	7:amod	_
 5	international	international	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
