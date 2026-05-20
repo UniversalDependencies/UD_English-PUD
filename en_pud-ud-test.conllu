@@ -17920,7 +17920,7 @@
 21	Thanos	Thanos	PROPN	NNP	Number=Sing	17	obl	17:obl:on	SpaceAfter=No
 22	,	,	PUNCT	,	_	24	punct	24:punct	_
 23	and	and	CCONJ	CC	_	24	cc	24:cc	_
-24	spread	spread	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	conj	16:acl|17:conj:and	_
+24	spread	spread	VERB	VBN	Tense=Past|VerbForm=Fin	17	conj	16:acl|17:conj:and	_
 25	across	across	ADP	IN	_	27	case	27:case	_
 26	a	a	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	_
 27	number	number	NOUN	NN	Number=Sing	24	obl	24:obl:across	_
