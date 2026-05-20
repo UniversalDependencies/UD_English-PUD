@@ -6224,7 +6224,7 @@
 # text = Afterwards, browse at the morning market (6.30-10am): rice lollipops, wasp cocoons (the pupae are considered a delicacy), buffalo lung, betel-nut bark and leaves, live toads and catfish.
 1	Afterwards	afterwards	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
-3	browse	browse	VERB	VB	VerbForm=Inf	0	root	0:root	_
+3	browse	browse	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 4	at	at	ADP	IN	_	7	case	7:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	morning	morning	NOUN	NN	Number=Sing	7	compound	7:compound	_
@@ -7320,7 +7320,7 @@
 # sent_id = n01118003
 # parallel_id = pud/n01118003
 # text = Drop the mic.
-1	Drop	drop	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Drop	drop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	mic	mic	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	1:punct	_
