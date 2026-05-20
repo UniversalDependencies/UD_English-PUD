@@ -25534,7 +25534,7 @@
 32	:	:	PUNCT	:	_	36	punct	36:punct	_
 33	"	"	PUNCT	``	_	36	punct	36:punct	SpaceAfter=No
 34-35	Don't	_	_	_	_	_	_	_	_
-34	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	36	aux	36:aux	Proper=True
+34	Do	do	AUX	VBP	Mood=Imp|VerbForm=Fin	36	aux	36:aux	Proper=True
 35	n't	not	PART	RB	Polarity=Neg	36	advmod	36:advmod	_
 36	Go	go	VERB	VB	VerbForm=Inf	29	appos	29:appos	_
 37	Breaking	break	VERB	VBG	VerbForm=Ger	36	xcomp	36:xcomp	Proper=True
