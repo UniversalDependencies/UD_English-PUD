@@ -1709,7 +1709,7 @@
 # parallel_id = pud/n01027049
 # text = Not everyone can rise above it.
 1	Not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
-2	everyone	everyone	PRON	NN	PronType=Tot	4	nsubj	4:nsubj	_
+2	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	4	nsubj	4:nsubj	_
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	rise	rise	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	above	above	ADP	IN	_	6	case	6:case	_
@@ -21983,7 +21983,7 @@
 4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	nmod	2:nmod:of	SpaceAfter=No
 5	,	,	PUNCT	,	_	11	punct	11:punct	_
 6	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
-7	everyone	everyone	PRON	NN	PronType=Tot	11	nsubj	11:nsubj	_
+7	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	11	nsubj	11:nsubj	_
 8	in	in	ADP	IN	_	10	case	10:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	party	party	NOUN	NN	Number=Sing	7	nmod	7:nmod:in	_
