@@ -5626,7 +5626,7 @@
 24	as	as	SCONJ	IN	_	30	mark	30:mark	_
 25	if	if	SCONJ	IN	_	30	mark	30:mark	_
 26	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	30:nsubj	_
-27	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	30	cop	30:cop	_
+27	were	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	cop	30:cop	_
 28	from	from	ADP	IN	_	30	case	30:case	_
 29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
 30	1970s	1970s	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	23	advcl	23:advcl:from	SpaceAfter=No
@@ -20518,7 +20518,7 @@
 2	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	Democrat	Democrat	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	opponent	opponent	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|8:nsubj:xsubj	_
-5	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:if	_
+5	were	be	VERB	VB	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:if	_
 6	to	to	PART	TO	_	8	mark	8:mark	_
 7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	8:aux:pass	_
 8	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part	5	xcomp	5:xcomp	SpaceAfter=No
