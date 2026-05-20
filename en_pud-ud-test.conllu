@@ -6007,7 +6007,7 @@
 2	three	three	NUM	CD	NumForm=Word|NumType=Card	1	flat	1:flat	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
-5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
 6	back	back	ADV	RB	_	0	root	0:root	_
 7	on	on	ADP	IN	_	9	case	9:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
@@ -8889,7 +8889,7 @@
 # parallel_id = pud/n01144041
 # text = I was just a boy with muddy shoes.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 3	just	just	ADV	RB	_	5	advmod	5:advmod	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 5	boy	boy	NOUN	NN	Number=Sing	0	root	0:root	_
@@ -20017,7 +20017,7 @@
 # parallel_id = pud/n02058056
 # text = I was asked by the officers, in their inimitably dumb way, whether I knew the writer Günter de Bruyn and whether we are intellectual relatives.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	by	by	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
