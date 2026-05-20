@@ -293,7 +293,7 @@
 13	example	example	NOUN	NN	Number=Sing	16	obl	16:obl:for	SpaceAfter=No
 14	,	,	PUNCT	,	_	16	punct	16:punct	_
 15	students	student	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj	_
-16	learn	learn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+16	learn	learn	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 17	science	science	NOUN	NN	Number=Sing	18	compound	18:compound	_
 18	content	content	NOUN	NN	Number=Sing	16	obj	16:obj	_
 19	by	by	SCONJ	IN	_	20	mark	20:mark	_
@@ -428,7 +428,7 @@
 # parallel_id = pud/n01007012
 # text = There are parallels to draw here between games and our everyday lives.
 1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
-2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	parallels	parallel	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	draw	draw	VERB	VB	VerbForm=Inf	3	acl	3:acl:to	_
@@ -856,7 +856,7 @@
 2	Mate	mate	PROPN	NN	Number=Sing	4	compound	4:compound	_
 3	9	9	NUM	CD	NumForm=Digit|NumType=Card	2	flat	2:flat	_
 4	phones	phone	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-5	lack	lack	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	lack	lack	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
 7	artificial	artificial	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	intelligence	intelligence	NOUN	NN	Number=Sing	9	compound	9:compound	_
@@ -1257,7 +1257,7 @@
 # text = Many scientists say that technology to remove carbon from the air will now be needed to meet the Paris targets.
 1	Many	many	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	scientists	scientist	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	say	say	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	that	that	SCONJ	IN	_	15	mark	15:mark	_
 5	technology	technology	NOUN	NN	Number=Sing	15	nsubj:pass	15:nsubj:pass	_
 6	to	to	PART	TO	_	7	mark	7:mark	_
@@ -2010,7 +2010,7 @@
 # text = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
 1	However	however	ADV	RB	_	3	advmod	3:advmod	_
 2	there	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
-3	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	many	many	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	MLAs	mla	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj|13:nsubj	_
 6	with	with	ADP	IN	_	11	case	11:case	_
@@ -2031,7 +2031,7 @@
 # parallel_id = pud/n01033005
 # text = Researchers say analysing tumour DNA may help explain the underlying causes of other cancers.
 1	Researchers	researcher	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
-2	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	say	say	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	analysing	analyse	VERB	VBG	VerbForm=Ger	7	csubj	7:csubj	_
 4	tumour	tumour	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	DNA	DNA	NOUN	NN	Number=Sing	3	obj	3:obj	_
@@ -2233,7 +2233,7 @@
 10	police	police	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
 11	in	in	ADP	IN	_	12	case	12:case	_
 12	B.C.	B.C.	PROPN	NNP	Abbr=Yes|Number=Sing	10	nmod	10:nmod:in	_
-13	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+13	say	say	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 15	have	have	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	ccomp	13:ccomp	_
 16	more	more	ADJ	JJR	Degree=Cmp	17	amod	17:amod	_
@@ -2752,7 +2752,7 @@
 26	about	about	SCONJ	IN	_	29	mark	29:mark	_
 27	how	how	ADV	WRB	PronType=Int	29	advmod	29:advmod	_
 28	officers	officer	NOUN	NNS	Number=Plur	29	nsubj	29:nsubj	_
-29	interact	interact	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	advcl	25:advcl:about	_
+29	interact	interact	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	25	advcl	25:advcl:about	_
 30	with	with	ADP	IN	_	32	case	32:case	_
 31	Indigenous	indigenous	ADJ	JJ	Degree=Pos	32	amod	32:amod	_
 32	peoples	people	NOUN	NNS	Number=Plur	29	obl	29:obl:with	SpaceAfter=No
@@ -3141,7 +3141,7 @@
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	These	this	DET	DT	Number=Plur|PronType=Dem	3	det	3:det	_
 3	estimates	estimate	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-4	coincide	coincide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	coincide	coincide	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	with	with	ADP	IN	_	7	case	7:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	percentages	percentage	NOUN	NNS	Number=Plur	4	obl	4:obl:with	_
@@ -3163,7 +3163,7 @@
 23	domestic	domestic	ADJ	JJ	Degree=Pos	25	amod	25:amod	SpaceAfter=No
 24	)	)	PUNCT	-RRB-	_	23	punct	23:punct	_
 25	investors	investor	NOUN	NNS	Number=Plur	26	nsubj	26:nsubj	_
-26	play	play	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	acl:relcl	21:acl:relcl	_
+26	play	play	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	acl:relcl	21:acl:relcl	_
 27	in	in	ADP	IN	_	31	case	31:case	_
 28	the	the	DET	DT	Definite=Def|PronType=Art	31	det	31:det	_
 29	GTA	GTA	PROPN	NNP	Abbr=Yes|Number=Sing	31	compound	31:compound	_
@@ -3335,7 +3335,7 @@
 2	new	new	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 3	iron	iron	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	guidelines	guideline	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-5	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	mean	mean	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	more	more	ADJ	JJR	Degree=Cmp	7	amod	7:amod	_
 7	donors	donor	NOUN	NNS	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
 8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
@@ -3475,7 +3475,7 @@
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	Some	some	DET	DT	PronType=Ind	3	det	3:det	_
 3	men	man	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-4	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	ccomp	16:ccomp	_
+4	get	get	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	ccomp	16:ccomp	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
 6	and	and	CCONJ	CC	_	9	cc	9:cc	_
 7	Bono	Bono	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj	_
@@ -3579,7 +3579,7 @@
 5	Indigenous	indigenous	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	groups	group	NOUN	NNS	Number=Plur	2	nmod	2:nmod:including	SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	2:punct	_
-8	argue	argue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	argue	argue	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
 10	trivialize	trivialize	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	ccomp	8:ccomp	_
 11	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	12	amod	12:amod	Proper=True
@@ -3694,7 +3694,7 @@
 1	Still	still	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
 3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
-4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	questions	question	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_
 7	unanswered	unanswered	ADJ	JJ	Degree=Pos	6	xcomp	6:xcomp	SpaceAfter=No
@@ -3814,7 +3814,7 @@
 # text = Republican economists caution against taking this data as proof that their party is lousy at economic policy.
 1	Republican	Republican	ADJ	JJ	Degree=Pos	2	amod	2:amod	Proper=True
 2	economists	economist	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	caution	caution	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	caution	caution	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	against	against	SCONJ	IN	_	5	mark	5:mark	_
 5	taking	take	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:against	_
 6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	_
@@ -3871,7 +3871,7 @@
 # parallel_id = pud/n01059054
 # text = There are more differences between Sulla and Trump, Rome and the U.S., than there are similarities, but that doesn’t discredit the resemblances.
 1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
-2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	more	more	ADJ	JJR	Degree=Cmp	4	amod	4:amod	_
 4	differences	difference	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 5	between	between	ADP	IN	_	6	case	6:case	_
@@ -3886,7 +3886,7 @@
 14	,	,	PUNCT	,	_	6	punct	6:punct	_
 15	than	than	SCONJ	IN	_	17	mark	17:mark	_
 16	there	there	PRON	EX	PronType=Dem	17	expl	17:expl	_
-17	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:than	_
+17	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:than	_
 18	similarities	similarity	NOUN	NNS	Number=Plur	17	nsubj	17:nsubj	SpaceAfter=No
 19	,	,	PUNCT	,	_	24	punct	24:punct	_
 20	but	but	CCONJ	CC	_	24	cc	24:cc	_
@@ -4126,7 +4126,7 @@
 # text = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
 1	Their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	revivals	revival	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	underscore	underscore	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	underscore	underscore	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	appeal	appeal	NOUN	NN	Number=Sing	3	obj	3:obj	_
 6	of	of	ADP	IN	_	9	case	9:case	_
@@ -4923,7 +4923,7 @@
 # text = Then there are the so-called true stories that get posted in a series of meaningful pictures with text running underneath.
 1	Then	then	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
 2	there	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
-3	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 5	so	so	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
 6	-	-	PUNCT	HYPH	_	7	punct	7:punct	SpaceAfter=No
@@ -5000,7 +5000,7 @@
 # parallel_id = pud/n01079065
 # text = Artists reach people at their heart; it’s the only time we meet in one place and put our differences aside.
 1	Artists	artist	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
-2	reach	reach	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	reach	reach	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	people	people	NOUN	NNS	Number=Plur	2	obj	2:obj	_
 4	at	at	ADP	IN	_	6	case	6:case	_
 5	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
@@ -5030,7 +5030,7 @@
 2	more	more	ADV	RBR	_	3	advmod	3:advmod	_
 3	unusual	unusual	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	accolades	accolade	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-5	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	include	include	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	global	global	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	ambassador	ambassador	NOUN	NN	Number=Sing	5	obj	5:obj	_
 8	for	for	ADP	IN	_	15	case	15:case	_
@@ -5229,7 +5229,7 @@
 4	of	of	ADP	IN	_	5	case	5:case	_
 5	Scotland	Scotland	PROPN	NNP	Number=Sing	3	nmod	3:nmod:of	_
 6	customers	customer	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-7	earn	earn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+7	earn	earn	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	3	3	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No
 9	%	%	SYM	NN	Number=Sing	7	obj	7:obj	_
 10	on	on	ADP	IN	_	11	case	11:case	_
@@ -5806,7 +5806,7 @@
 15	when	when	ADV	WRB	PronType=Rel	18	advmod	18:advmod	_
 16	developed	developed	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 17	countries	country	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj|21:nsubj:xsubj	_
-18	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	13:acl:relcl	_
+18	get	get	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	acl:relcl	13:acl:relcl	_
 19	to	to	PART	TO	_	21	mark	21:mark	_
 20	publicly	publicly	ADV	RB	_	21	advmod	21:advmod	_
 21	question	question	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
@@ -5975,7 +5975,7 @@
 11	people	people	NOUN	NNS	Number=Plur	14	nsubj	14:nsubj	_
 12	without	without	ADP	IN	_	13	case	13:case	_
 13	children	child	NOUN	NNS	Number=Plur	11	nmod	11:nmod:without	_
-14	express	express	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
+14	express	express	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
 15	through	through	ADP	IN	_	17	case	17:case	_
 16	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
 17	disapproval	disapproval	NOUN	NN	Number=Sing	14	obl	14:obl:through	_
@@ -7258,7 +7258,7 @@
 10	,	,	PUNCT	,	_	13	punct	13:punct	_
 11	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
 12	hands	hand	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
-13	shake	shake	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	SpaceAfter=No
+13	shake	shake	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = n01116035
@@ -7484,7 +7484,7 @@
 16	Doss	Doss	PROPN	NNP	Number=Sing	18	nmod:poss	18:nmod:poss	SpaceAfter=No
 17	’s	's	PART	POS	_	16	case	16:case	_
 18	feats	feat	NOUN	NNS	Number=Plur	19	nsubj	19:nsubj	_
-19	belong	belong	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+19	belong	belong	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 20	to	to	ADP	IN	_	22	case	22:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
 22	realm	realm	NOUN	NN	Number=Sing	19	obl	19:obl:to	_
@@ -7830,7 +7830,7 @@
 5	many	many	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	people	people	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj|12:nsubj	_
 7	quickly	quickly	ADV	RB	_	8	advmod	8:advmod	_
-8	open	open	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	open	open	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 9	emails	email	NOUN	NNS	Number=Plur	8	obj	8:obj	_
 10	or	or	CCONJ	CC	_	12	cc	12:cc	_
 11	mindlessly	mindlessly	ADV	RB	_	12	advmod	12:advmod	_
@@ -8133,7 +8133,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	Dutch	dutch	ADJ	JJ	Degree=Pos	3	amod	3:amod	Proper=True
 3	students	student	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|7:nsubj:xsubj	_
-4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	have	have	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	yet	yet	ADV	RB	_	4	advmod	4:advmod	_
 6	to	to	PART	TO	_	7	mark	7:mark	_
 7	decide	decide	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
@@ -8972,7 +8972,7 @@
 # text = "There are 1200 volunteers working for the parade alone," González Anaya says.
 1	"	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
 2	There	there	PRON	EX	PronType=Dem	3	expl	3:expl	_
-3	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	ccomp	15:ccomp	_
+3	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	ccomp	15:ccomp	_
 4	1200	1200	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	_
 5	volunteers	volunteer	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
 6	working	work	VERB	VBG	VerbForm=Ger	5	acl	5:acl	_
@@ -9233,7 +9233,7 @@
 # text = When people die of old age in India, it is supposed to be a celebration.
 1	When	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	_
 2	people	people	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	die	die	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl	_
+3	die	die	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl	_
 4	of	of	ADP	IN	_	6	case	6:case	_
 5	old	old	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	age	age	NOUN	NN	Number=Sing	3	obl	3:obl:of	_
@@ -9435,7 +9435,7 @@
 # text = Granite islands include Seychelles and Tioman and volcanic islands such as Saint Helena.
 1	Granite	granite	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	islands	island	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	include	include	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	Seychelles	Seychelles	PROPN	NNP	Number=Sing	3	obj	3:obj	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
 6	Tioman	Tioman	PROPN	NNP	Number=Sing	4	conj	3:obj|4:conj:and	_
@@ -9745,7 +9745,7 @@
 2	land	land	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	reclamation	reclamation	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	projects	project	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj|6:nsubj:xsubj	_
-5	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	include	include	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	extending	extend	VERB	VBG	VerbForm=Ger	5	xcomp	5:xcomp	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	district	district	NOUN	NN	Number=Sing	6	obj	6:obj	_
@@ -9760,7 +9760,7 @@
 1	However	however	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
 3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
-4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	important	important	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	differences	difference	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 7	in	in	ADP	IN	_	8	case	8:case	_
@@ -10052,7 +10052,7 @@
 # parallel_id = pud/w01013096
 # text = There are also languages derived from Finnish, having evolved separately, known as Meänkieli in Sweden and Kven in Norway.
 1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
-2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	also	also	ADV	RB	_	2	advmod	2:advmod	_
 4	languages	language	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 5	derived	derive	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	4:acl	_
@@ -10180,7 +10180,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	water	water	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	droplets	droplet	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj|10:nsubj	_
-8	absorb	absorb	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	absorb	absorb	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 9	and	and	CCONJ	CC	_	10	cc	10:cc	_
 10	dissolve	dissolve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	conj	8:conj:and	_
 11	carbon	carbon	NOUN	NN	Number=Sing	12	compound	12:compound	_
@@ -11065,7 +11065,7 @@
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	leaves	leaf	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
-6	show	show	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	show	show	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
 8	great	great	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	variety	variety	NOUN	NN	Number=Sing	6	obj	6:obj	_
@@ -11194,7 +11194,7 @@
 2	such	such	ADJ	JJ	Degree=Pos|ExtPos=ADP	4	case	4:case	_
 3	as	as	ADP	IN	_	2	fixed	2:fixed	_
 4	Milan	Milan	PROPN	NNP	Number=Sing	1	nmod	1:nmod:such_as	_
-5	depend	depend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	depend	depend	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	on	on	ADP	IN	_	8	case	8:case	_
 7	80	80	NUM	CD	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
 8	percent	percent	NOUN	NN	Number=Sing	5	obl	5:obl:on	_
@@ -11237,7 +11237,7 @@
 1	Major	major	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 2	European	European	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	rivers	river	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-4	flow	flow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	flow	flow	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	from	from	ADP	IN	_	6	case	6:case	_
 6	Switzerland	Switzerland	PROPN	NNP	Number=Sing	4	obl	4:obl:from	SpaceAfter=No
 7	,	,	PUNCT	,	_	11	punct	11:punct	_
@@ -11588,7 +11588,7 @@
 # text = Humans also lose direct uses of natural habitat when habitat is destroyed.
 1	Humans	human	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
 2	also	also	ADV	RB	_	3	advmod	3:advmod	_
-3	lose	lose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	lose	lose	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	direct	direct	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	uses	use	NOUN	NNS	Number=Plur	3	obj	3:obj	_
 6	of	of	ADP	IN	_	8	case	8:case	_
@@ -11713,7 +11713,7 @@
 1	Various	various	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 2	private	private	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	interests	interest	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-4	own	own	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	own	own	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 6	remaining	remain	VERB	VBG	VerbForm=Ger	7	amod	7:amod	_
 7	land	land	NOUN	NN	Number=Sing	4	obj	4:obj	SpaceAfter=No
@@ -11891,7 +11891,7 @@
 1	Dust	dust	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	storms	storm	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 3	usually	usually	ADV	RB	_	4	advmod	4:advmod	_
-4	start	start	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	start	start	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	in	in	ADP	IN	_	7	case	7:case	_
 6	desert	desert	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	margins	margin	NOUN	NNS	Number=Plur	4	obl	4:obl:in	_
@@ -11929,7 +11929,7 @@
 13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 14	exposed	expose	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	15:amod	_
 15	ground	ground	NOUN	NN	Number=Sing	11	obl	11:obl:on	_
-16	begin	begin	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+16	begin	begin	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 17	to	to	PART	TO	_	18	mark	18:mark	_
 18	vibrate	vibrate	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	SpaceAfter=No
 19	.	.	PUNCT	.	_	16	punct	16:punct	_
@@ -13617,7 +13617,7 @@
 10	century	century	NOUN	NN	Number=Sing	6	obl	6:obl:from	_
 11	BCE	BCE	NOUN	NN	Number=Sing	10	nmod:unmarked	10:nmod:unmarked	SpaceAfter=No
 12	,	,	PUNCT	,	_	6	punct	6:punct	_
-13	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+13	include	include	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 14	ten	ten	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	_
 15	letters	letter	NOUN	NNS	Number=Plur	13	obj	13:obj	_
 16	from	from	ADP	IN	_	18	case	18:case	_
@@ -13640,7 +13640,7 @@
 1	Thai	Thai	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 2	birth	birth	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	certificates	certificate	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-4	record	record	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	record	record	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	date	date	NOUN	NN	Number=Sing	4	obj	4:obj	SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -15769,7 +15769,7 @@
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
 8	Weller	Weller	PROPN	NNP	Number=Sing	6	conj	2:nmod:such_as|6:conj:and	SpaceAfter=No
 9	,	,	PUNCT	,	_	2	punct	2:punct	_
-10	assert	assert	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+10	assert	assert	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 11	that	that	SCONJ	IN	_	17	mark	17:mark	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 13	British	British	ADJ	JJ	Degree=Pos	15	amod	15:amod	Proper=True
@@ -15827,7 +15827,7 @@
 4	origin	origin	NOUN	NN	Number=Sing	1	nmod	1:nmod:of	_
 5	of	of	ADP	IN	_	6	case	6:case	_
 6	music	music	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
-7	depend	depend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+7	depend	depend	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	on	on	SCONJ	IN	_	12	mark	12:mark	_
 9	how	how	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
 10	music	music	NOUN	NN	Number=Sing	12	nsubj:pass	12:nsubj:pass	_
@@ -16036,7 +16036,7 @@
 2	's	's	PART	POS	_	1	case	1:case	_
 3	earliest	early	ADJ	JJS	Degree=Sup	4	amod	4:amod	_
 4	inventions	invention	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
-5	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	include	include	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
 7	improved	improved	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 8	traffic	traffic	NOUN	NN	Number=Sing	9	compound	9:compound	_
@@ -16439,7 +16439,7 @@
 2	's	's	PART	POS	_	1	case	1:case	_
 3	films	film	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 4	sometimes	sometimes	ADV	RB	PronType=Ind	5	advmod	5:advmod	_
-5	feature	feature	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	feature	feature	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	characters	character	NOUN	NNS	Number=Plur	5	obj	5:obj	_
 7	struggling	struggle	VERB	VBG	VerbForm=Ger	6	acl	6:acl	_
 8	in	in	ADP	IN	_	10	case	10:case	_
@@ -16980,7 +16980,7 @@
 1	Some	some	DET	DT	PronType=Ind	3	det	3:det	_
 2	Christian	Christian	ADJ	JJ	Degree=Pos	3	amod	3:amod	Proper=True
 3	scholars	scholar	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-4	criticize	criticize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	criticize	criticize	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5-6	Tolle's	_	_	_	_	_	_	_	_
 5	Tolle	Tolle	PROPN	NNP	Number=Sing	7	nmod:poss	7:nmod:poss	_
 6	's	's	PART	POS	_	5	case	5:case	_
@@ -16988,7 +16988,7 @@
 8	,	,	PUNCT	,	_	4	punct	4:punct	_
 9	while	while	SCONJ	IN	_	11	mark	11:mark	_
 10	others	other	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj	_
-11	praise	praise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl:while	_
+11	praise	praise	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl:while	_
 12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	11:obj	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -19291,7 +19291,7 @@
 16	in	in	ADP	IN	_	17	case	17:case	_
 17	which	which	PRON	WDT	PronType=Rel	19	obl	14:ref	_
 18	investors	investor	NOUN	NNS	Number=Plur	19	nsubj	19:nsubj	_
-19	invest	invest	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	14:acl:relcl	_
+19	invest	invest	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	acl:relcl	14:acl:relcl	_
 20	billions	billion	NOUN	NNS	Number=Plur	19	obj	19:obj	_
 21	worldwide	worldwide	ADV	RB	_	19	advmod	19:advmod	SpaceAfter=No
 22	.	.	PUNCT	.	_	14	punct	14:punct	_
@@ -19456,7 +19456,7 @@
 11	at	at	ADV	RB	_	12	case	12:case	_
 12	all	all	ADV	RB	_	8	advmod	8:advmod	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	12:punct	_
-14	land	land	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	5:ccomp	_
+14	land	land	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	ccomp	5:ccomp	_
 15	after	after	ADP	IN	_	20	case	20:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
 17	2	2	NUM	CD	NumForm=Digit|NumType=Card	18	nummod	18:nummod	_
@@ -19606,7 +19606,7 @@
 9	Turkish	Turkish	ADJ	JJ	Degree=Pos	11	amod	11:amod	Proper=True
 10	work	work	NOUN	NN	Number=Sing	11	compound	11:compound	_
 11	councils	council	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj	_
-12	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+12	come	come	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # newdoc id = n02032
@@ -20624,7 +20624,7 @@
 15	past	past	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 16	twenty	twenty	NUM	CD	NumForm=Word|NumType=Card	17	nummod	17:nummod	_
 17	years	year	NOUN	NNS	Number=Plur	9	nmod	9:nmod:over	_
-18	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+18	leave	leave	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 19	much	much	ADJ	JJ	Degree=Pos	18	obj	18:obj|22:nsubj:xsubj	_
 20	to	to	PART	TO	_	22	mark	22:mark	_
 21	be	be	AUX	VB	VerbForm=Inf	22	aux:pass	22:aux:pass	_
@@ -21390,7 +21390,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	latest	late	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
 3	figures	figure	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|14:nsubj	_
-4	relate	relate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	relate	relate	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	to	to	ADP	IN	_	7	case	7:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	24th	24th	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
@@ -21797,7 +21797,7 @@
 31	Javier	Javier	PROPN	NNP	Number=Sing	29	appos	29:appos	_
 32	Maroto	Maroto	PROPN	NNP	Number=Sing	31	flat	31:flat	SpaceAfter=No
 33	,	,	PUNCT	,	_	31	punct	31:punct	_
-34	represent	represent	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:while	_
+34	represent	represent	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:while	_
 35	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
 36	most	most	ADV	RBS	_	37	advmod	37:advmod	_
 37	progressive	progressive	ADJ	JJ	Degree=Pos	34	obj	34:obj	SpaceAfter=No
@@ -21844,7 +21844,7 @@
 19	,	,	PUNCT	,	_	22	punct	22:punct	_
 20	and	and	CCONJ	CC	_	22	cc	22:cc	_
 21	there	there	PRON	EX	PronType=Dem	22	expl	22:expl	_
-22	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	conj	15:conj:and	_
+22	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	conj	15:conj:and	_
 23	already	already	ADV	RB	_	22	advmod	22:advmod	_
 24	600,000	600000	NUM	CD	NumForm=Digit|NumType=Card	26	nummod	26:nummod	_
 25	more	more	ADJ	JJR	Degree=Cmp	26	amod	26:amod	_
@@ -22624,7 +22624,7 @@
 # parallel_id = pud/w02004065
 # text = There are different theories about the reasons for leaving the place.
 1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
-2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	different	different	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	theories	theory	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 5	about	about	ADP	IN	_	7	case	7:case	_
@@ -23545,7 +23545,7 @@
 4	La	La	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	Conte	Conte	PROPN	NNP	Number=Sing	2	conj	2:conj:and|6:compound	_
 6	districts	district	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-7	contain	contain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+7	contain	contain	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	majority	majority	NOUN	NN	Number=Sing	7	obj	7:obj	_
 10	of	of	ADP	IN	_	15	case	15:case	_
@@ -24222,7 +24222,7 @@
 4	part	part	NOUN	NN	Number=Sing	7	obl	7:obl:in	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
-7	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+7	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	three	three	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	_
 9	palm	palm	NOUN	NN	Number=Sing	10	compound	10:compound	_
 10	trees	tree	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj|16:nsubj	_
@@ -24240,7 +24240,7 @@
 22	of	of	ADP	IN	_	24	case	24:case	_
 23	this	this	DET	DT	Number=Sing|PronType=Dem	24	det	24:det	_
 24	Island	island	NOUN	NN	Number=Sing	21	nmod	21:nmod:of	_
-25	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	18:acl:relcl	_
+25	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	18	acl:relcl	18:acl:relcl	_
 26	for	for	ADP	IN	_	28	case	28:case	_
 27	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	nmod:poss	28:nmod:poss	_
 28	land	land	NOUN	NN	Number=Sing	25	obl	25:obl:for	SpaceAfter=No
@@ -24472,7 +24472,7 @@
 # parallel_id = pud/w04004045
 # text = There are many prehistoric artifacts, including several different menhirs and dolmens.
 1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
-2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	many	many	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 4	prehistoric	prehistoric	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	artifacts	artifact	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	SpaceAfter=No
