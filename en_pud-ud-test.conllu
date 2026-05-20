@@ -1158,9 +1158,9 @@
 27	why	why	ADV	WRB	PronType=Int	32	advmod	32:advmod	_
 28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
 29	section	section	NOUN	NN	Number=Sing	32	nsubj:pass	32:nsubj:pass	_
-30	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	aux	32:aux	_
+30	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	aux:pass	32:aux:pass	_
 31	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	32	aux:pass	32:aux:pass	_
-32	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	26	ccomp	26:ccomp	SpaceAfter=No
+32	closed	close	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	ccomp	26:ccomp	SpaceAfter=No
 33	.	.	PUNCT	.	_	14	punct	14:punct	_
 
 # sent_id = n01021011
@@ -4677,7 +4677,7 @@
 # sent_id = n01073023
 # parallel_id = pud/n01073023
 # text = Was their divine right to the mantle as the world’s best no longer warranted?
-1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	15:aux	_
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	15:aux:pass	_
 2	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	divine	divine	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	right	right	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
@@ -4691,7 +4691,7 @@
 12	best	good	ADJ	JJS	Degree=Sup	4	nmod	4:nmod:as	_
 13	no	no	ADV	RB	Polarity=Neg	14	advmod	14:advmod	_
 14	longer	long	ADV	RBR	Degree=Cmp	15	advmod	15:advmod	_
-15	warranted	warrant	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
+15	warranted	warrant	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 16	?	?	PUNCT	.	_	15	punct	15:punct	_
 
 # newdoc id = n01074
@@ -12588,10 +12588,10 @@
 19	an	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
 20	area	area	NOUN	NN	Number=Sing	9	nmod	9:nmod:within|25:nsubj:pass	_
 21	that	that	PRON	WDT	PronType=Rel	25	nsubj:pass	20:ref	_
-22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	25:aux	_
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	25:aux:pass	_
 23	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	25	aux:pass	25:aux:pass	_
 24	rapidly	rapidly	ADV	RB	_	25	advmod	25:advmod	_
-25	built	build	VERB	VBN	Tense=Past|VerbForm=Part	20	acl:relcl	20:acl:relcl	_
+25	built	build	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	acl:relcl	20:acl:relcl	_
 26	up	up	ADP	RP	_	25	compound:prt	25:compound:prt	SpaceAfter=No
 27	.	.	PUNCT	.	_	1	punct	1:punct	_
 
