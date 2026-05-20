@@ -3008,7 +3008,7 @@
 21	organizations	organization	NOUN	NNS	Number=Plur	19	conj	17:obl:to|19:conj:or	_
 22	because	because	SCONJ	IN	_	25	mark	25:mark	_
 23	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	25:nsubj	_
-24	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux	25:aux	_
+24	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	25	aux	25:aux	_
 25	made	make	VERB	VBN	Tense=Past|VerbForm=Part	17	advcl	17:advcl:because	_
 26	financial	financial	ADJ	JJ	Degree=Pos	27	amod	27:amod	_
 27	contributions	contribution	NOUN	NNS	Number=Plur	25	obj	25:obj	_
@@ -6969,7 +6969,7 @@
 2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	that	that	SCONJ	IN	_	7	mark	7:mark	_
 4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
-5	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+5	have	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 6	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
 7	benefited	benefit	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
 8	from	from	ADP	IN	_	10	case	10:case	_
@@ -11345,7 +11345,7 @@
 # text = They generally do not explode catastrophically.
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 2	generally	generally	ADV	RB	_	5	advmod	5:advmod	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	explode	explode	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	catastrophically	catastrophically	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
@@ -14536,7 +14536,7 @@
 26	rebellion	rebellion	NOUN	NN	Number=Sing	24	obj	24:obj	_
 27	if	if	SCONJ	IN	_	30	mark	30:mark	_
 28	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	30:nsubj|34:nsubj|42:nsubj	_
-29	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	30	aux	30:aux	_
+29	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	30	aux	30:aux	_
 30	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	22	advcl	22:advcl:if	_
 31	an	a	DET	DT	Definite=Ind|PronType=Art	32	det	32:det	_
 32	education	education	NOUN	NN	Number=Sing	30	obj	30:obj	_
