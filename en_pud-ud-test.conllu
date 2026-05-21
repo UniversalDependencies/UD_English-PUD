@@ -1691,7 +1691,7 @@
 # parallel_id = pud/n01027041
 # text = I asked her afterwards if she understood why people might vote for Trump.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	asked	ask	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
 4	afterwards	afterwards	ADV	RB	_	2	advmod	2:advmod	_
 5	if	if	SCONJ	IN	_	7	mark	7:mark	_
@@ -4301,7 +4301,7 @@
 5	e-mail	e-mail	NOUN	NN	Number=Sing	1	obl	1:obl:by	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
-8	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+8	tried	try	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
 10	hand	hand	NOUN	NN	Number=Sing	8	obj	8:obj	_
 11	at	at	SCONJ	IN	_	12	mark	12:mark	_
@@ -5069,7 +5069,7 @@
 # parallel_id = pud/n01080042
 # text = I wanted to watch it with them, but they decided they’d rather watch it without me in the end.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	_
-2	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	watch	watch	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
@@ -5501,7 +5501,7 @@
 # text = “I loved the tropical colours,” he says.
 1	“	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	loved	love	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	ccomp	10:ccomp	_
+3	loved	love	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	ccomp	10:ccomp	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	tropical	tropical	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	colours	colour	NOUN	NNS	Number=Plur	3	obj	3:obj	SpaceAfter=No
@@ -5601,14 +5601,14 @@
 # parallel_id = pud/n01090004
 # text = I looked at motocross and the more I looked, this one woman’s face kept coming up, in photographs that looked as if they were from the 1970s.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	looked	look	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	at	at	ADP	IN	_	4	case	4:case	_
 4	motocross	motocross	NOUN	NN	Number=Sing	2	obl	2:obl:at	_
 5	and	and	CCONJ	CC	_	16	cc	16:cc	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	more	more	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
-9	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	16:advcl	SpaceAfter=No
+9	looked	look	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	advcl	16:advcl	SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	16:punct	_
 11	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	13:det	_
 12	one	one	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	_
@@ -6103,7 +6103,7 @@
 # text = After I discovered a rich seam of internet discussion on the subject, my list had grown inordinately long and covered almost every state in the union.
 1	After	after	SCONJ	IN	_	3	mark	3:mark	_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	discovered	discover	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	advcl	17:advcl:after	_
+3	discovered	discover	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	advcl	17:advcl:after	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 5	rich	rich	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	seam	seam	NOUN	NN	Number=Sing	3	obj	3:obj	_
@@ -6134,7 +6134,7 @@
 # parallel_id = pud/n01097041
 # text = I spotted a few.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	spotted	spot	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	spotted	spot	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	few	few	ADJ	JJ	Degree=Pos	2	obj	2:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -7582,7 +7582,7 @@
 12	,	,	PUNCT	,	_	7	punct	7:punct	_
 13	so	so	ADV	RB	_	15	advmod	15:advmod	_
 14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
-15	treated	treat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	parataxis	7:parataxis	_
+15	treated	treat	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	parataxis	7:parataxis	_
 16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	_
 17	like	like	ADP	IN	_	19	case	19:case	_
 18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
@@ -7767,7 +7767,7 @@
 4	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	why	why	ADV	WRB	PronType=Int	7	advmod	7:advmod	_
 6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
-7	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
+7	chose	choose	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
 8	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	7:obj	_
 9	...	...	PUNCT	.	_	4	punct	4:punct	_
 
@@ -8408,7 +8408,7 @@
 # text = I hadn't seen a lot of the episodes and then my phone started lighting up.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2-3	hadn't	_	_	_	_	_	_	_	_
-2	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
+2	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
@@ -8839,7 +8839,7 @@
 8	barn	barn	NOUN	NN	Number=Sing	4	obl	4:obl:at	_
 9	and	and	CCONJ	CC	_	11	cc	11:cc	_
 10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
-11	joked	joke	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+11	joked	joke	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
 12	to	to	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 14	guy	guy	NOUN	NN	Number=Sing	11	obl	11:obl:to	_
@@ -9186,7 +9186,7 @@
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	Pyongyang	Pyongyang	PROPN	NNP	Number=Sing	5	obl	5:obl:in	_
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
+4	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
 5	see	see	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	some	some	DET	DT	PronType=Ind	7	det	7:det	_
 7	people	people	NOUN	NNS	Number=Plur	5	obj	5:obj	_
@@ -20031,7 +20031,7 @@
 13	,	,	PUNCT	,	_	3	punct	3:punct	_
 14	whether	whether	SCONJ	IN	_	16	mark	16:mark	_
 15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj	_
-16	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	3:ccomp	_
+16	knew	know	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	3:ccomp	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 18	writer	writer	NOUN	NN	Number=Sing	16	obj	16:obj	_
 19	Günter	Günter	PROPN	NNP	Number=Sing	18	appos	18:appos	_
