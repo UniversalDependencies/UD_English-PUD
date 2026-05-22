@@ -23927,10 +23927,10 @@
 6	expand	expand	VERB	VB	VerbForm=Inf	0	root	0:root	_
 7	until	until	SCONJ	IN	_	15	mark	15:mark	_
 8	ships	ship	NOUN	NNS	Number=Plur	15	nsubj:pass	15:nsubj:pass	_
-9	big	big	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
-10	enough	enough	ADJ	RB	_	8	acl	8:acl	_
+9	big	big	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+10	enough	enough	ADV	RB	_	9	advmod	9:advmod	_
 11	to	to	PART	TO	_	12	mark	12:mark	_
-12	cross	cross	VERB	VB	VerbForm=Inf	10	advcl	10:advcl:to	_
+12	cross	cross	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:to	_
 13	seas	sea	NOUN	NNS	Number=Plur	12	obj	12:obj	_
 14	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	15:aux:pass	_
 15	built	build	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	6:advcl:until	SpaceAfter=No
