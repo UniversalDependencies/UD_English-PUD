@@ -16274,7 +16274,7 @@
 15	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 16	ground	ground	NOUN	NN	Number=Sing	18	compound	18:compound	SpaceAfter=No
 17	-	-	PUNCT	HYPH	_	18	punct	18:punct	SpaceAfter=No
-18	based	base	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	amod	20:amod	_
+18	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	amod	20:amod	_
 19	radar	radar	NOUN	NN	Number=Sing	20	compound	20:compound	_
 20	operators	operator	NOUN	NNS	Number=Plur	15	obj	15:obj|26:nsubj:xsubj	_
 21	watching	watch	VERB	VBG	VerbForm=Ger	20	acl	20:acl	_
