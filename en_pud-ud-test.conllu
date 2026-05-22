@@ -2173,7 +2173,7 @@
 18	to	to	PART	TO	_	19	mark	19:mark	_
 19	advance	advance	VERB	VB	VerbForm=Inf	15	advcl	15:advcl:to	_
 20	whatever	whatever	DET	WDT	PronType=Rel	22	det	22:det	_
-21	shared	share	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	amod	22:amod	_
+21	shared	share	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	amod	22:amod	_
 22	agenda	agenda	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
 23	there	there	PRON	EX	PronType=Dem	24	expl	24:expl	_
 24	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	19:ccomp	SpaceAfter=No
