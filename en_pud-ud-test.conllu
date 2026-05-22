@@ -12678,7 +12678,7 @@
 6	Mongolia	Mongolia	PROPN	NNP	Number=Sing	11	nsubj:pass	11:nsubj:pass	_
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
 8	China	China	PROPN	NNP	Number=Sing	6	conj	6:conj:and|11:nsubj:pass	_
-9	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	aux	11:aux	_
+9	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	aux	11:aux	_
 10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	aux:pass	11:aux:pass	_
 11	administered	administer	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	3:ccomp	_
 12	by	by	ADP	IN	_	14	case	14:case	_
