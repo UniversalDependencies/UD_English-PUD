@@ -3556,7 +3556,7 @@
 10	,	,	PUNCT	,	_	13	punct	13:punct	_
 11	social	social	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	media	media	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
-13	lit	light	VERB	VBD	Mood=Ind|Number=Plur|VerbForm=Fin	0	root	0:root	_
+13	lit	light	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 14	up	up	ADP	RP	_	13	compound:prt	13:compound:prt	_
 15	with	with	ADP	IN	_	16	case	16:case	_
 16	comments	comment	NOUN	NNS	Number=Plur	13	obl	13:obl:with	_
