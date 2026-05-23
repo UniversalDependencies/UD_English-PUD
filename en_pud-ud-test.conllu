@@ -10359,7 +10359,7 @@
 15	%	%	SYM	NN	Number=Sing	24	nsubj	24:nsubj	_
 16	of	of	ADP	IN	_	17	case	17:case	_
 17	children	child	NOUN	NNS	Number=Plur	15	nmod	15:nmod:of	_
-18	aged	age	VERB	VBN	Tense=Past|VerbForm=Part	17	acl	17:acl	_
+18	aged	age	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 19	5	5	NUM	CD	NumForm=Digit|NumType=Card	18	obj	18:obj	_
 20	to	to	ADP	IN	_	21	case	21:case	_
 21	14	14	NUM	CD	NumForm=Digit|NumType=Card	19	nmod	19:nmod:to	_
@@ -10373,7 +10373,7 @@
 29	%	%	SYM	NN	Number=Sing	36	nsubj	36:nsubj	_
 30	of	of	ADP	IN	_	31	case	31:case	_
 31	children	child	NOUN	NNS	Number=Plur	29	nmod	29:nmod:of	_
-32	aged	aged	ADJ	JJ	Degree=Pos	31	acl	31:acl	_
+32	aged	aged	ADJ	JJ	Degree=Pos	31	amod	31:amod	_
 33	7	7	NUM	CD	NumForm=Digit|NumType=Card	32	obj	32:obj	_
 34	to	to	ADP	IN	_	35	case	35:case	_
 35	14	14	NUM	CD	NumForm=Digit|NumType=Card	33	nmod	33:nmod:to	_
@@ -12796,7 +12796,7 @@
 1	Ramesses	Ramesses	PROPN	NNP	Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	logistically	logistically	ADV	RB	_	4	advmod	4:advmod	_
-4	unable	unable	ADJ	JJ	Degree=Pos	1	acl	1:acl	_
+4	unable	unable	ADJ	JJ	Degree=Pos	1	amod	1:amod	_
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	sustain	sustain	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
 7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
@@ -13131,7 +13131,7 @@
 16	,	,	PUNCT	,	_	18	punct	18:punct	_
 17	or	or	CCONJ	CC	_	18	cc	18:cc	_
 18	die	die	VERB	VB	VerbForm=Inf	8	conj	3:ccomp|8:conj:or	_
-19	young	young	ADJ	JJ	Degree=Pos	5	acl	5:acl	_
+19	young	young	ADJ	JJ	Degree=Pos	18	advcl	18:advcl	_
 20	in	in	ADP	IN	_	22	case	22:case	_
 21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
 22	battlefield	battlefield	NOUN	NN	Number=Sing	18	obl	18:obl:in	_
