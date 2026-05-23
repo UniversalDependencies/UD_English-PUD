@@ -7040,7 +7040,7 @@
 7	oceans	ocean	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 8	would	would	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
 9	contain	contain	VERB	VB	VerbForm=Inf	6	ccomp	6:ccomp	_
-10	more	more	ADJ	RBR	_	11	amod	11:amod	_
+10	more	more	ADJ	JJR	Degree=Cmp	11	amod	11:amod	_
 11	plastic	plastic	NOUN	NNS	Number=Sing	9	obj	9:obj	_
 12	than	than	ADP	IN	_	13	case	13:case	_
 13	fish	fish	NOUN	NNS	Number=Plur	10	obl	10:obl:than	_
