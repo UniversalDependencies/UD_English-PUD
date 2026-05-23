@@ -2583,7 +2583,7 @@
 26	and	and	CCONJ	CC	_	28	cc	28:cc	_
 27	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	nmod:poss	28:nmod:poss	_
 28	temperament	temperament	NOUN	NN	Number=Sing	20	conj	20:conj:and|29:nsubj	_
-29	make	make	VERB	VB	VerbForm=Inf	16	ccomp	16:ccomp	_
+29	make	make	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	16:ccomp	_
 30	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	29:obj|31:nsubj:xsubj	_
 31	unfit	unfit	ADJ	JJ	Degree=Pos	29	xcomp	29:xcomp	_
 32	for	for	ADP	IN	_	33	case	33:case	_
