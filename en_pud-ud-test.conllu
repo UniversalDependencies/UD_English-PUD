@@ -803,7 +803,7 @@
 # parallel_id = pud/n01016014
 # text = The South Korean company initially thought a battery fault was to blame, and switched its own component for a third-party power cell.
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-2	South	South	PROPN	NNP	_	3	compound	3:compound	_
+2	South	South	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	Korean	Korean	ADJ	JJ	Degree=Pos	4	amod	4:amod	Proper=True
 4	company	company	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|15:nsubj	_
 5	initially	initially	ADV	RB	_	6	advmod	6:advmod	_
@@ -3729,7 +3729,7 @@
 # parallel_id = pud/n01058052
 # text = After North Carolina passed its restrictive voting-rights bill in 2013, Campbell went around to churches teaching people how to deal with challenges to their registration.
 1	After	after	SCONJ	IN	_	4	mark	4:mark	_
-2	North	north	PROPN	NNP	_	3	compound	3:compound	_
+2	North	north	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	Carolina	Carolina	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
 4	passed	pass	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	advcl	15:advcl:after	_
 5	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
@@ -7683,9 +7683,9 @@
 1	London	London	PROPN	NNP	Number=Sing	6	nmod:poss	6:nmod:poss	SpaceAfter=No
 2	’s	's	PART	POS	_	1	case	1:case	_
 3	landmark	landmark	NOUN	NN	Number=Sing	6	compound	6:compound	_
-4	South	South	PROPN	NNP	_	5	compound	5:compound	_
-5	Bank	Bank	PROPN	NNP	_	6	compound	6:compound	_
-6	Tower	Tower	PROPN	NNP	_	7	nsubj	7:nsubj	_
+4	South	South	PROPN	NNP	Number=Sing	5	compound	5:compound	_
+5	Bank	Bank	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Tower	Tower	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
 7	commissioned	commission	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	interior	interior	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	designer	designer	NOUN	NN	Number=Sing	10	nmod:desc	10:nmod:desc	_
@@ -10227,7 +10227,7 @@
 8	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	created	create	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
-11	East	east	PROPN	NNP	_	12	compound	12:compound	_
+11	East	east	PROPN	NNP	Number=Sing	12	compound	12:compound	_
 12	African	African	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
 13	Rift	rift	PROPN	NNP	Number=Sing	9	obj	9:obj	SpaceAfter=No
 14	,	,	PUNCT	,	_	19	punct	19:punct	_
@@ -15811,9 +15811,9 @@
 16	in	in	ADP	IN	_	17	case	17:case	_
 17	Roma	Roma	PROPN	NNP	Number=Sing	15	nmod	15:nmod:in	_
 18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	22:cop	_
-19	North	North	PROPN	NNP	_	21	compound	21:compound	SpaceAfter=No
+19	North	North	PROPN	NNP	Number=Sing	21	compound	21:compound	SpaceAfter=No
 20	-	-	PUNCT	HYPH	_	21	punct	21:punct	SpaceAfter=No
-21	West	West	PROPN	NNP	_	22	compound	22:compound	_
+21	West	West	PROPN	NNP	Number=Sing	22	compound	22:compound	_
 22	India	India	PROPN	NNP	Number=Sing	0	root	0:root	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	22:punct	_
 
@@ -17455,7 +17455,7 @@
 2	1981	1981	NUM	CD	NumForm=Digit|NumType=Card	3	compound	3:compound	_
 3	album	album	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 4	Wild	Wild	ADJ	JJ	Degree=Pos	5	amod	5:amod	Proper=True
-5	West	West	PROPN	NNP	_	3	appos	3:appos	_
+5	West	West	PROPN	NNP	Number=Sing	3	appos	3:appos	_
 6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
 7	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 8	of	of	ADP	IN	_	11	case	11:case	_
@@ -20112,7 +20112,7 @@
 20	in	in	ADP	IN	_	21	case	21:case	_
 21	Tanzania	Tanzania	PROPN	NNP	Number=Sing	18	obl	18:obl:in	_
 22	in	in	ADP	IN	_	24	case	24:case	_
-23	East	east	PROPN	NNP	_	24	compound	24:compound	_
+23	East	east	PROPN	NNP	Number=Sing	24	compound	24:compound	_
 24	Africa	Africa	PROPN	NNP	Number=Sing	21	nmod	21:nmod:in	SpaceAfter=No
 25	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -24105,7 +24105,7 @@
 9	of	of	SCONJ	IN	_	10	mark	10:mark	_
 10	living	live	VERB	VBG	VerbForm=Ger	8	acl	8:acl:of	_
 11	in	in	ADP	IN	_	13	case	13:case	_
-12	South	south	PROPN	NNP	_	13	compound	13:compound	_
+12	South	south	PROPN	NNP	Number=Sing	13	compound	13:compound	_
 13	America	America	PROPN	NNP	Number=Sing	10	obl	10:obl:in	SpaceAfter=No
 14	,	,	PUNCT	,	_	10	punct	10:punct	_
 15	far	far	ADV	RB	Degree=Pos	16	advmod	16:advmod	_
