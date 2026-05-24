@@ -690,7 +690,7 @@
 3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	date	date	NOUN	NN	Number=Sing	12	nsubj	12:nsubj|13:nsubj:xsubj|17:nsubj:xsubj	_
-6	for	for	SCONJ	IN	_	7	case	7:case	_
+6	for	for	SCONJ	IN	_	7	mark	7:mark	_
 7	cutting	cut	VERB	VBG	VerbForm=Ger	5	acl	5:acl:for	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 9	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	10:amod	_
@@ -965,7 +965,7 @@
 7	wi-fi	wi-fi	NOUN	NN	Number=Sing	5	obj	5:obj|9:nsubj:xsubj	_
 8	more	more	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 9	useful	useful	ADJ	JJ	Degree=Pos	5	xcomp	5:xcomp	_
-10	than	than	SCONJ	IN	_	12	case	12:case	_
+10	than	than	SCONJ	IN	_	12	mark	12:mark	_
 11	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	12	cop	12:cop	_
 12	able	able	ADJ	JJ	Degree=Pos	9	advcl	9:advcl:than	_
 13	to	to	PART	TO	_	14	mark	14:mark	_
@@ -25655,7 +25655,7 @@
 18	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	iobj	17:iobj	_
 19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
 20	option	option	NOUN	NN	Number=Sing	17	obj	17:obj	_
-21	of	of	SCONJ	IN	_	23	case	23:case	_
+21	of	of	SCONJ	IN	_	23	mark	23:mark	_
 22	either	either	CCONJ	CC	_	23	cc:preconj	23:cc:preconj	_
 23	withdrawing	withdraw	VERB	VBG	VerbForm=Ger	20	acl	20:acl:of	_
 24	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
