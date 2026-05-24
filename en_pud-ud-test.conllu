@@ -5580,7 +5580,7 @@
 # parallel_id = pud/n01089033
 # text = Wintour herself appears briefly, and is filmed putting her sunglasses on before being interviewed.
 1	Wintour	Wintour	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|8:nsubj:pass	_
-2	herself	herself	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod:unmarked	1:nmod:unmarked	_
+2	herself	herself	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	1	nmod:unmarked	1:nmod:unmarked	_
 3	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	briefly	briefly	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -11899,7 +11899,7 @@
 9	than	than	ADP	IN	_	8	fixed	8:fixed	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 11	deserts	desert	NOUN	NNS	Number=Plur	7	conj	4:obl:in|7:conj:rather_than	_
-12	themselves	themselves	PRON	PRP	Number=Plur|Person=3|PronType=Prs	11	nmod:unmarked	11:nmod:unmarked	_
+12	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Emp|Reflex=Yes	11	nmod:unmarked	11:nmod:unmarked	_
 13	where	where	ADV	WRB	PronType=Rel	20	advmod	20:advmod	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 15	finer	finer	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
@@ -14665,7 +14665,7 @@
 14	war	war	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	_
 15	on	on	ADP	IN	_	16	case	16:case	_
 16	humanity	humanity	NOUN	NN	Number=Sing	12	nmod	12:nmod:on	_
-17	itself	itself	PRON	PRP	Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nmod:unmarked	16:nmod:unmarked	SpaceAfter=No
+17	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	16	nmod:unmarked	16:nmod:unmarked	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # newdoc id = w01079
