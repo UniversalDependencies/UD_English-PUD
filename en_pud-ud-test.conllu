@@ -5544,7 +5544,7 @@
 5	suggest	suggest	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	advcl	16:advcl	_
 6	that	that	SCONJ	IN	_	8	mark	8:mark	_
 7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
-8	get	get	VERB	VB	VerbForm=Inf	5	ccomp	5:ccomp	_
+8	get	get	VERB	VB	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	5:ccomp	_
 9	Frank	Frank	PROPN	NNP	Number=Sing	8	obj	8:obj|11:nsubj:xsubj	_
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	model	model	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
@@ -16120,7 +16120,7 @@
 4	instructed	instruct	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	that	that	SCONJ	IN	_	7	mark	7:mark	_
 6	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
-7	be	be	AUX	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
+7	be	be	VERB	VB	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
 8	no	no	DET	DT	PronType=Neg	10	det	10:det	_
 9	excessive	excessive	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
 10	displays	display	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
@@ -18387,7 +18387,7 @@
 14	suggesting	suggest	VERB	VBG	VerbForm=Ger	8	advcl	8:advcl	_
 15	that	that	SCONJ	IN	_	17	mark	17:mark	_
 16	Rona	Rona	PROPN	NNP	Number=Sing	17	nsubj	17:nsubj	_
-17	work	work	VERB	VB	VerbForm=Inf	14	ccomp	14:ccomp	_
+17	work	work	VERB	VB	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	14:ccomp	_
 18	with	with	ADP	IN	_	19	case	19:case	_
 19	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	17:obl:with	_
 20	to	to	PART	TO	_	21	mark	21:mark	_
