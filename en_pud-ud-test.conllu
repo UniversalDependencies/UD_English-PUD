@@ -5904,7 +5904,7 @@
 21	Celtic	Celtic	ADJ	NNP	Degree=Pos	24	amod	24:amod	Proper=True
 22	and	and	CCONJ	CC	_	23	cc	23:cc	_
 23	Irish	Irish	ADJ	NNP	Degree=Pos	21	conj	21:conj:and|24:amod	Proper=True
-24	Seas	sea	PROPN	NNPS	Number=Sing	10	nmod	10:nmod:in	SpaceAfter=No
+24	Seas	sea	PROPN	NNPS	Number=Plur	10	nmod	10:nmod:in	SpaceAfter=No
 25	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 # sent_id = n01093025
