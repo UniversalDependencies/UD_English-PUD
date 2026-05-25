@@ -10836,7 +10836,7 @@
 26	Meza	Meza	PROPN	NNP	Number=Sing	25	flat	25:flat	_
 27	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	aux:pass	29:aux:pass	_
 28	promptly	promptly	ADV	RB	_	29	advmod	29:advmod	_
-29	relieved	relieved	ADJ	JJ	Degree=Pos	5	conj	5:conj:and	_
+29	relieved	relieve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	conj	5:conj:and	_
 30	of	of	ADP	IN	_	32	case	32:case	_
 31	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	nmod:poss	32:nmod:poss	_
 32	command	command	NOUN	NN	Number=Sing	29	obl	29:obl:of	SpaceAfter=No
@@ -20062,8 +20062,8 @@
 11	SPIEGEL	Spiegel	PROPN	NNP	Number=Sing	10	iobj	10:iobj	_
 12	that	that	SCONJ	IN	_	15	mark	15:mark	_
 13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	15:nsubj:pass	_
-14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	15:aux	_
-15	convinced	convinced	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	_
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	15:aux:pass	_
+15	convinced	convince	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	ccomp	10:ccomp	_
 16	that	that	SCONJ	IN	_	22	mark	22:mark	_
 17	one	one	NUM	CD	NumForm=Word|NumType=Card	22	nsubj	22:nsubj|24:nsubj:xsubj	_
 18	of	of	ADP	IN	_	20	case	20:case	_
