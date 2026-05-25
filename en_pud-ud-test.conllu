@@ -1158,7 +1158,7 @@
 27	why	why	ADV	WRB	PronType=Int	32	advmod	32:advmod	_
 28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
 29	section	section	NOUN	NN	Number=Sing	32	nsubj:pass	32:nsubj:pass	_
-30	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	aux:pass	32:aux:pass	_
+30	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	aux	32:aux	_
 31	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	32	aux:pass	32:aux:pass	_
 32	closed	close	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	ccomp	26:ccomp	SpaceAfter=No
 33	.	.	PUNCT	.	_	14	punct	14:punct	_
@@ -12588,7 +12588,7 @@
 19	an	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
 20	area	area	NOUN	NN	Number=Sing	9	nmod	9:nmod:within|25:nsubj:pass	_
 21	that	that	PRON	WDT	PronType=Rel	25	nsubj:pass	20:ref	_
-22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	25:aux:pass	_
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	25:aux	_
 23	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	25	aux:pass	25:aux:pass	_
 24	rapidly	rapidly	ADV	RB	_	25	advmod	25:advmod	_
 25	built	build	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	acl:relcl	20:acl:relcl	_
