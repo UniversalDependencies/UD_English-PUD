@@ -10377,7 +10377,7 @@
 33	7	7	NUM	CD	NumForm=Digit|NumType=Card	32	obj	32:obj	_
 34	to	to	ADP	IN	_	35	case	35:case	_
 35	14	14	NUM	CD	NumForm=Digit|NumType=Card	33	nmod	33:nmod:to	_
-36	combined	combine	VERB	VBN	Tense=Past|VerbForm=Part	24	conj	12:ccomp|24:conj:and	_
+36	combined	combine	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	conj	12:ccomp|24:conj:and	_
 37	work	work	NOUN	NN	Number=Sing	36	obj	36:obj	_
 38	and	and	CCONJ	CC	_	39	cc	39:cc	_
 39	school	school	NOUN	NN	Number=Sing	37	conj	36:obj|37:conj:and	SpaceAfter=No
@@ -13242,7 +13242,7 @@
 5	,	,	PUNCT	,	_	8	punct	8:punct	_
 6	Shen	Shen	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj|12:nsubj	_
 7	successfully	successfully	ADV	RB	_	8	advmod	8:advmod	_
-8	dredged	dredge	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+8	dredged	dredge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	canal	canal	NOUN	NN	Number=Sing	8	obj	8:obj	_
 11	and	and	CCONJ	CC	_	12	cc	12:cc	_
@@ -19344,7 +19344,7 @@
 17	stood	stand	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	acl:relcl	15:acl:relcl	_
 18	by	by	ADV	RB	_	17	advmod	17:advmod	_
 19	and	and	CCONJ	CC	_	20	cc	20:cc	_
-20	watched	watch	VERB	VBN	Tense=Past|VerbForm=Part	17	conj	15:acl:relcl|17:conj:and	_
+20	watched	watch	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	15:acl:relcl|17:conj:and	_
 21	while	while	SCONJ	IN	_	24	mark	24:mark	_
 22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	23:det	_
 23	retiree	retiree	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
@@ -24933,7 +24933,7 @@
 22	that	that	PRON	WDT	PronType=Rel	25	nsubj	21:ref	_
 23	later	late	ADV	RB	_	24	advmod	24:advmod	_
 24	on	on	ADV	RB	_	25	advmod	25:advmod	_
-25	characterised	characterise	VERB	VBN	Tense=Past|VerbForm=Part	21	acl:relcl	21:acl:relcl	_
+25	characterised	characterise	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	acl:relcl	21:acl:relcl	_
 26	both	both	DET	DT	PronType=Tot	27	det	27:det	_
 27-28	artists'	_	_	_	_	_	_	_	_
 27	artists	artist	NOUN	NNS	Number=Plur	29	nmod:poss	29:nmod:poss	_
