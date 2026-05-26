@@ -2374,7 +2374,7 @@
 19	and	and	CCONJ	CC	_	20	cc	20:cc	_
 20	punish	punish	VERB	VB	VerbForm=Inf	17	conj	15:advcl:to|17:conj:and	_
 21	agents	agent	NOUN	NNS	Number=Plur	20	obj	20:obj	_
-22	found	find	VERB	VBN	Tense=Past|VerbForm=Part	21	acl	21:acl	_
+22	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	acl	21:acl	_
 23	to	to	PART	TO	_	25	mark	25:mark	_
 24	have	have	AUX	VB	VerbForm=Inf	25	aux	25:aux	_
 25	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part	22	xcomp	22:xcomp	_
@@ -2772,7 +2772,7 @@
 9	from	from	ADP	IN	_	10	case	10:case	_
 10	September	September	PROPN	NNP	Number=Sing	8	nmod	8:nmod:from	SpaceAfter=No
 11	,	,	PUNCT	,	_	8	punct	8:punct	_
-12	alleged	allege	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	8:acl	_
+12	alleged	allege	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
 13	to	to	PART	TO	_	14	mark	14:mark	_
 14	come	come	VERB	VB	VerbForm=Inf	12	xcomp	12:xcomp	_
 15	from	from	ADP	IN	_	17	case	17:case	_
@@ -3001,7 +3001,7 @@
 14	preferential	preferential	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	access	access	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
 16	,	,	PUNCT	,	_	7	punct	7:punct	_
-17	accorded	accord	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	7:acl	_
+17	accorded	accord	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
 18	to	to	ADP	IN	_	19	case	19:case	_
 19	individuals	individual	NOUN	NNS	Number=Plur	17	obl	17:obl:to	_
 20	or	or	CCONJ	CC	_	21	cc	21:cc	_
@@ -3267,7 +3267,7 @@
 12	,	,	PUNCT	,	_	11	punct	11:punct	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 14	protein	protein	NOUN	NN	Number=Sing	11	appos	11:appos|22:nsubj	_
-15	found	find	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
+15	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
 16	in	in	ADP	IN	_	19	case	19:case	_
 17	red	red	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
 18	blood	blood	NOUN	NN	Number=Sing	19	compound	19:compound	_
@@ -3413,7 +3413,7 @@
 4	most	most	ADV	RBS	Degree=Sup	5	advmod	5:advmod	_
 5	common	common	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	tumour	tumour	NOUN	NN	Number=Sing	0	root	0:root	_
-7	found	find	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+7	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
 8	in	in	ADP	IN	_	9	case	9:case	_
 9	babies	baby	NOUN	NNS	Number=Plur	7	obl	7:obl:in	SpaceAfter=No
 10	,	,	PUNCT	,	_	6	punct	6:punct	_
@@ -3696,7 +3696,7 @@
 3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 4	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	questions	question	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_
+6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
 7	unanswered	unanswered	ADJ	JJ	Degree=Pos	6	xcomp	6:xcomp	SpaceAfter=No
 8	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -4166,7 +4166,7 @@
 12	power	power	NOUN	NN	Number=Sing	11	obj	11:obj	_
 13	to	to	ADP	IN	_	16	case	16:case	_
 14	carefully	carefully	ADV	RB	_	15	advmod	15:advmod	_
-15	educated	educate	VERB	VBN	Tense=Past|VerbForm=Part	16	amod	16:amod	_
+15	educated	educate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	amod	16:amod	_
 16	guardians	guardian	NOUN	NNS	Number=Plur	11	obl	11:obl:to	SpaceAfter=No
 17	.	.	PUNCT	.	_	8	punct	8:punct	_
 
@@ -4826,7 +4826,7 @@
 # text = Australia, hardened by their recent games in the Rugby Championship, were in a higher gear.
 1	Australia	Australia	PROPN	NNP	Number=Sing	17	nsubj	17:nsubj	SpaceAfter=No
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
-3	hardened	harden	VERB	VBN	Tense=Past|VerbForm=Part	1	acl	1:acl	_
+3	hardened	harden	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	acl	1:acl	_
 4	by	by	ADP	IN	_	7	case	7:case	_
 5	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 6	recent	recent	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
@@ -4927,7 +4927,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 5	so	so	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
 6	-	-	PUNCT	HYPH	_	7	punct	7:punct	SpaceAfter=No
-7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	9:amod	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	amod	9:amod	_
 8	true	true	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	stories	story	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj|12:nsubj	_
 10	that	that	PRON	WDT	PronType=Rel	12	nsubj:pass	9:ref	_
@@ -5869,7 +5869,7 @@
 8	”	"	PUNCT	''	_	6	punct	6:punct	_
 9	without	without	ADP	IN	_	12	case	12:case	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-11	proposed	propose	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	12:amod	_
+11	proposed	propose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	amod	12:amod	_
 12	limits	limit	NOUN	NNS	Number=Plur	6	obl	6:obl:without	SpaceAfter=No
 13	,	,	PUNCT	,	_	6	punct	6:punct	_
 14	one	one	NUM	CD	NumForm=Word|NumType=Card	16	nummod	16:nummod	_
@@ -6036,7 +6036,7 @@
 16	with	with	ADP	IN	_	18	case	18:case	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 18	skills	skill	NOUN	NNS	Number=Plur	15	nmod	15:nmod:with	_
-19	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	18	acl	18:acl	_
+19	needed	need	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	acl	18:acl	_
 20	to	to	PART	TO	_	21	mark	21:mark	_
 21	mount	mount	VERB	VB	VerbForm=Inf	19	xcomp	19:xcomp	_
 22	an	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
@@ -6089,7 +6089,7 @@
 14	–	–	PUNCT	:	_	16	punct	16:punct	_
 15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
 16	concept	concept	NOUN	NN	Number=Sing	6	parataxis	6:parataxis	_
-17	known	know	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	16:acl	_
+17	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	acl	16:acl	_
 18	as	as	ADP	IN	_	21	case	21:case	_
 19	“	"	PUNCT	``	_	21	punct	21:punct	SpaceAfter=No
 20	active	active	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
@@ -6888,7 +6888,7 @@
 # text = The money invested in Premium Bonds, and in other National Savings & Investments accounts, is used to help fund Government spending.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	money	money	NOUN	NN	Number=Sing	18	nsubj:pass	18:nsubj:pass	_
-3	invested	invest	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+3	invested	invest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 4	in	in	ADP	IN	_	6	case	6:case	_
 5	Premium	premium	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	Bonds	bond	NOUN	NNS	Number=Plur	3	obl	3:obl:in	SpaceAfter=No
@@ -7308,7 +7308,7 @@
 2	theory	theory	NOUN	NN	Number=Sing	10	obl	10:obl:in	SpaceAfter=No
 3	,	,	PUNCT	,	_	10	punct	10:punct	_
 4	if	if	SCONJ	IN	_	5	mark	5:mark	_
-5	done	do	VERB	VBN	Tense=Past|VerbForm=Part	10	advcl	10:advcl:if	_
+5	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	10:advcl:if	_
 6	right	right	ADJ	JJ	Degree=Pos	5	xcomp	5:xcomp	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	SpaceAfter=No
@@ -7709,7 +7709,7 @@
 6	trend	trend	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
 7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 8	closely	closely	ADV	RB	_	9	advmod	9:advmod	_
-9	linked	link	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+9	linked	link	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 10	to	to	ADP	IN	_	13	case	13:case	_
 11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
 12	growing	grow	VERB	VBG	VerbForm=Ger	13	amod	13:amod	_
@@ -7743,7 +7743,7 @@
 17	High	high	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
 18	Court	court	NOUN	NN	Number=Sing	12	obl	12:obl:at	SpaceAfter=No
 19	,	,	PUNCT	,	_	12	punct	12:punct	_
-20	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	12:advcl	_
+20	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	12:advcl	_
 21	with	with	ADP	IN	_	23	case	23:case	_
 22	two	two	NUM	CD	NumForm=Word|NumType=Card	23	nummod	23:nummod	_
 23	counts	count	NOUN	NNS	Number=Plur	20	obl	20:obl:with	_
@@ -7880,7 +7880,7 @@
 9	people	people	NOUN	NNS	Number=Plur	7	obl	7:obl:for	_
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	report	report	VERB	VB	VerbForm=Inf	7	ccomp	7:ccomp	_
-12	suspected	suspect	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	13:amod	_
+12	suspected	suspect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	amod	13:amod	_
 13	breaches	breach	NOUN	NNS	Number=Plur	11	obj	11:obj	_
 14	and	and	CCONJ	CC	_	16	cc	16:cc	_
 15	malicious	malicious	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
@@ -8109,7 +8109,7 @@
 14	series	series	NOUN	NN	Number=Sing	10	nmod	10:nmod:in	SpaceAfter=No
 15	,	,	PUNCT	,	_	17	punct	17:punct	_
 16	currently	currently	ADV	RB	_	17	advmod	17:advmod	_
-17	billed	bill	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	10:acl	_
+17	billed	bill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
 18	as	as	ADP	IN	_	21	case	21:case	_
 19	"	"	PUNCT	``	_	21	punct	21:punct	SpaceAfter=No
 20	The	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Proper=True
@@ -8232,7 +8232,7 @@
 10	mountain	mountain	NOUN	NN	Number=Sing	8	obj	8:obj	_
 11	of	of	ADP	IN	_	12	case	12:case	_
 12	debt	debt	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_
-13	accumulated	accumulate	VERB	VBN	Tense=Past|VerbForm=Part	12	acl	12:acl	_
+13	accumulated	accumulate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	acl	12:acl	_
 14	by	by	ADP	IN	_	16	case	16:case	_
 15	local	local	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
 16	governments	government	NOUN	NNS	Number=Plur	13	obl	13:obl:by	_
@@ -9143,7 +9143,7 @@
 # sent_id = n01149002
 # parallel_id = pud/n01149002
 # text = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
-1	Buried	bury	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	14:advcl	_
+1	Buried	bury	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	14:advcl	_
 2	100	100	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	_
 3	meters	meter	NOUN	NNS	Number=Plur	8	obl:unmarked	8:obl:unmarked	_
 4	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
@@ -9252,7 +9252,7 @@
 # sent_id = n01150042
 # parallel_id = pud/n01150042
 # text = Designed by Juan Carlos Salas, the award-winning building has a sculptural appearance and every detail carries meaning.
-1	Designed	design	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	11:acl	_
+1	Designed	design	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
 2	by	by	ADP	IN	_	3	case	3:case	_
 3	Juan	Juan	PROPN	NNP	Number=Sing	1	obl	1:obl:by	_
 4	Carlos	Carlos	PROPN	NNP	Number=Sing	3	flat	3:flat	_
@@ -9283,7 +9283,7 @@
 3	wo	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	help	help	VERB	VB	VerbForm=Inf	23	ccomp	23:ccomp	_
-6	deceased	decease	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	7:amod	_
+6	deceased	decease	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	amod	7:amod	_
 7	people	people	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	11:punct	_
 9	but	but	CCONJ	CC	_	11	cc	11:cc	_
@@ -9320,7 +9320,7 @@
 10	'	's	PART	POS	_	9	case	9:case	_
 11	guild	guild	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	11:punct	_
-13	run	run	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	11:acl	_
+13	run	run	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
 14	by	by	ADP	IN	_	18	case	18:case	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 16-17	town's	_	_	_	_	_	_	_	_
@@ -9524,7 +9524,7 @@
 1	Darius	Darius	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
 3	highly	highly	ADV	RB	_	4	advmod	4:advmod	_
-4	regarded	regard	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	5:amod	_
+4	regarded	regard	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	amod	5:amod	_
 5	commander	commander	NOUN	NN	Number=Sing	8	nsubj	8:nsubj|10:nsubj:xsubj	_
 6	Megabazus	Megabazus	PROPN	NNP	Number=Sing	5	appos	5:appos	_
 7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	8:cop	_
@@ -9660,7 +9660,7 @@
 8	El	El	PROPN	NNP	Number=Sing	0	root	0:root	_
 9	Greco	Greco	PROPN	NNP	Number=Sing	8	flat	8:flat	SpaceAfter=No
 10	,	,	PUNCT	,	_	8	punct	8:punct	_
-11	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	8:acl	_
+11	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
 12	by	by	ADP	IN	_	13	case	13:case	_
 13	Yannis	Yannis	PROPN	NNP	Number=Sing	11	obl	11:obl:by	_
 14	Smaragdis	Smaragdis	PROPN	NNP	Number=Sing	13	flat	13:flat	SpaceAfter=No
@@ -9787,7 +9787,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 6	most	most	ADV	RBS	Degree=Sup	7	advmod	7:advmod	_
 7	widely	widely	ADV	RB	_	8	advmod	8:advmod	_
-8	accepted	accept	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	9:amod	_
+8	accepted	accept	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	amod	9:amod	_
 9	form	form	NOUN	NN	Number=Sing	0	root	0:root	_
 10	of	of	ADP	IN	_	13	case	13:case	_
 11	air	air	NOUN	NN	Number=Sing	12	compound	12:compound	_
@@ -9818,7 +9818,7 @@
 18	establish	establish	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	_
 19	synoptic	synoptic	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	climatologies	climatology	NOUN	NNS	Number=Plur	18	obj	18:obj	_
-21	based	base	VERB	VBN	Tense=Past|VerbForm=Part	20	acl	20:acl	_
+21	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	acl	20:acl	_
 22	on	on	ADP	IN	_	24	case	24:case	_
 23	this	this	DET	DT	Number=Sing|PronType=Dem	24	det	24:det	_
 24	idea	idea	NOUN	NN	Number=Sing	21	obl	21:obl:on	_
@@ -10055,7 +10055,7 @@
 2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	also	also	ADV	RB	_	2	advmod	2:advmod	_
 4	languages	language	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
-5	derived	derive	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	4:acl	_
+5	derived	derive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 6	from	from	ADP	IN	_	7	case	7:case	_
 7	Finnish	Finnish	PROPN	NNP	Number=Sing	5	obl	5:obl:from	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	10:punct	_
@@ -10063,7 +10063,7 @@
 10	evolved	evolve	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	7:acl	_
 11	separately	separately	ADV	RB	_	10	advmod	10:advmod	SpaceAfter=No
 12	,	,	PUNCT	,	_	10	punct	10:punct	_
-13	known	know	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	4:acl	_
+13	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 13.1	known	know	VERB	VBN	Tense=Past|VerbForm=Part	_	_	4:acl|13:conj:and	_
 14	as	as	ADP	IN	_	15	case	15:case	_
 15	Meänkieli	Meänkieli	PROPN	NNP	Number=Sing	13	obl	13:obl:as	_
@@ -10217,7 +10217,7 @@
 # sent_id = w01017004
 # parallel_id = pud/w01017004
 # text = Shaped by global plate tectonic forces that have created the East African Rift, East Africa is the site of Mount Kilimanjaro and Mount Kenya, the two tallest peaks in Africa.
-1	Shaped	shape	VERB	VBN	Tense=Past|VerbForm=Part	19	advcl	19:advcl	_
+1	Shaped	shape	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	advcl	19:advcl	_
 2	by	by	ADP	IN	_	6	case	6:case	_
 3	global	global	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 4	plate	plate	NOUN	NN	Number=Sing	5	compound	5:compound	_
@@ -10309,7 +10309,7 @@
 23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
 24	system	system	NOUN	NN	Number=Sing	22	obj	22:obj	_
 25	of	of	ADP	IN	_	27	case	27:case	_
-26	forced	force	VERB	VBN	Tense=Past|VerbForm=Part	27	amod	27:amod	_
+26	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	amod	27:amod	_
 27	labour	labour	NOUN	NN	Number=Sing	24	nmod	24:nmod:of	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	2:punct	_
 
@@ -10407,7 +10407,7 @@
 17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 18	Sahara	Sahara	PROPN	NNP	Number=Sing	19	compound	19:compound	_
 19	desert	desert	NOUN	NN	Number=Sing	15	nmod	15:nmod:of	_
-20	located	locate	VERB	VBN	Tense=Past|VerbForm=Part	19	acl	19:acl	_
+20	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	acl	19:acl	_
 21	just	just	ADV	RB	_	24	advmod	24:advmod	_
 22	to	to	ADP	IN	_	24	case	24:case	_
 23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
@@ -10508,7 +10508,7 @@
 13	sea	sea	NOUN	NN	Number=Sing	10	nmod	10:nmod:to	SpaceAfter=No
 14	,	,	PUNCT	,	_	20	punct	20:punct	_
 15	cultures	culture	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj|22:nsubj:xsubj	_
-16	centered	center	VERB	VBN	Tense=Past|VerbForm=Part	15	acl	15:acl	_
+16	centered	center	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	15:acl	_
 17	on	on	ADP	IN	_	19	case	19:case	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 19	Mediterranean	Mediterranean	PROPN	NNP	Number=Sing	16	obl	16:obl:on	_
@@ -10666,7 +10666,7 @@
 18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 19	rich	rich	ADJ	JJ	Degree=Pos	22	nmod	22:nmod:for	SpaceAfter=No
 20	,	,	PUNCT	,	_	19	punct	19:punct	_
-21	imported	import	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	22:amod	_
+21	imported	import	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	amod	22:amod	_
 22	wine	wine	NOUN	NN	Number=Sing	4	conj	2:nmod:like|4:conj:and	SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	25:punct	_
 24	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	25:aux:pass	_
@@ -10864,7 +10864,7 @@
 2	amount	amount	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
 3	of	of	ADP	IN	_	4	case	4:case	_
 4	goods	goods	NOUN	NNS	Number=Plur	2	nmod	2:nmod:of	_
-5	transported	transport	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	4:acl	_
+5	transported	transport	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 6	on	on	ADP	IN	_	8	case	8:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	Danube	Danube	PROPN	NNP	Number=Sing	5	obl	5:obl:on	_
@@ -11305,7 +11305,7 @@
 7	volcanology	volcanology	NOUN	NN	Number=Sing	6	xcomp	6:xcomp	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	7:punct	_
 9	sometimes	sometimes	ADV	RB	PronType=Ind	10	advmod	10:advmod	_
-10	spelled	spell	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	7:acl	_
+10	spelled	spell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
 11	vulcanology	vulcanology	NOUN	NN	Number=Sing	10	xcomp	10:xcomp	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	6:punct	_
 
@@ -11789,7 +11789,7 @@
 6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
 7	small	small	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	canoe	canoe	NOUN	NN	Number=Sing	5	obj	5:obj	_
-9	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	8:acl	_
+9	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
 10	by	by	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	Australian	Australian	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
@@ -11927,7 +11927,7 @@
 11	lying	lie	VERB	VBG	VerbForm=Ger	10	acl	10:acl	_
 12	on	on	ADP	IN	_	15	case	15:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
-14	exposed	expose	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	15:amod	_
+14	exposed	expose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	amod	15:amod	_
 15	ground	ground	NOUN	NN	Number=Sing	11	obl	11:obl:on	_
 16	begin	begin	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 17	to	to	PART	TO	_	18	mark	18:mark	_
@@ -12244,7 +12244,7 @@
 29	Panama	Panama	PROPN	NNP	Number=Sing	27	nmod	27:nmod:of	SpaceAfter=No
 30	)	)	PUNCT	-RRB-	_	20	punct	20:punct	_
 31	as	as	SCONJ	IN	_	32	mark	32:mark	_
-32	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	11	xcomp	11:xcomp	_
+32	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	11:xcomp	_
 33	to	to	ADP	IN	_	37	case	37:case	_
 34	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
 35	"	"	PUNCT	``	_	37	punct	37:punct	SpaceAfter=No
@@ -12355,7 +12355,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	essay	essay	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_
-4	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+4	published	publish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 5	as	as	ADP	IN	_	6	case	6:case	_
 6	Undersea	undersea	PROPN	NNP	Number=Sing	4	obl	4:obl:as	SpaceAfter=No
 7	,	,	PUNCT	,	_	11	punct	11:punct	_
@@ -12548,7 +12548,7 @@
 4	National	national	ADJ	NNP	Degree=Pos	5	amod	5:amod	Proper=True
 5	Park	Park	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	7:punct	_
-7	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_
+7	established	establish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
 8	in	in	ADP	IN	_	9	case	9:case	_
 9	1879	1879	NUM	CD	NumForm=Digit|NumType=Card	7	obl	7:obl:in	SpaceAfter=No
 10	,	,	PUNCT	,	_	7	punct	7:punct	_
@@ -12559,7 +12559,7 @@
 14	's	's	PART	POS	_	13	case	13:case	_
 15	second	second	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	19	amod	19:amod	_
 16	officially	officially	ADV	RB	_	17	advmod	17:advmod	_
-17	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	19:amod	_
+17	established	establish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	amod	19:amod	_
 18	national	national	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
 19	park	park	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	19:punct	_
@@ -12625,7 +12625,7 @@
 2	,	,	PUNCT	,	_	9	punct	9:punct	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 4	newly	newly	ADV	RB	_	5	advmod	5:advmod	_
-5	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	6:amod	_
+5	established	establish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	_
 6	Republic	republic	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
 7	of	of	ADP	IN	_	8	case	8:case	Proper=True
 8	China	China	PROPN	NNP	Number=Sing	6	nmod	6:nmod:of	_
@@ -12717,7 +12717,7 @@
 # text = The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	area	area	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
-3	controlled	control	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+3	controlled	control	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 4	by	by	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	Bogd	Bogd	PROPN	NNP	Number=Sing	3	compound	3:compound	_
@@ -12902,7 +12902,7 @@
 # sent_id = w01053031
 # parallel_id = pud/w01053031
 # text = Given that Herod was in Jerusalem at that time, Pilate decided to send Jesus to Herod to be tried.
-1	Given	give	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	12:advcl	_
+1	Given	give	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	12:advcl	_
 2	that	that	SCONJ	IN	_	6	mark	6:mark	_
 3	Herod	Herod	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
@@ -13103,7 +13103,7 @@
 11	would	would	AUX	MD	VerbForm=Fin	12	aux	12:aux	_
 12	create	create	VERB	VB	VerbForm=Inf	0	root	0:root	_
 13	works	work	NOUN	NNS	Number=Plur	12	obj	12:obj	_
-14	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	13:acl	_
+14	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
 15	by	by	ADP	IN	_	18	case	18:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 17	Trojan	Trojan	PROPN	NNP	Number=Sing	18	compound	18:compound	_
@@ -13253,7 +13253,7 @@
 16	of	of	ADP	IN	_	18	case	18:case	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 18	silt	silt	NOUN	NN	Number=Sing	15	nmod	15:nmod:of	_
-19	gathered	gather	VERB	VBN	Tense=Past|VerbForm=Part	18	acl	18:acl	_
+19	gathered	gather	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	acl	18:acl	_
 20	as	as	ADP	IN	_	22	case	22:case	_
 21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
 22	fertilizer	fertilizer	NOUN	NN	Number=Sing	19	obl	19:obl:as	SpaceAfter=No
@@ -13437,7 +13437,7 @@
 18	rites	rite	NOUN	NNS	Number=Plur	16	obj	16:obj	_
 19	and	and	CCONJ	CC	_	20	cc	20:cc	_
 20	offerings	offering	NOUN	NNS	Number=Plur	18	conj	16:obj|18:conj:and	_
-21	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part	20	acl	20:acl	_
+21	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	acl	20:acl	_
 22	proper	proper	ADJ	JJ	Degree=Pos	21	xcomp	21:xcomp	SpaceAfter=No
 23	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -13460,7 +13460,7 @@
 # text = Cultic remains discovered at the site were a row of ten large standing stones, known as massebot, oriented north-south, the tallest of which was 3 meters high, with an altar-type structure in the middle, and a large, square, stone basin.
 1	Cultic	cultic	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	remains	remains	NOUN	NNS	Number=Ptan	9	nsubj	9:nsubj	_
-3	discovered	discover	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+3	discovered	discover	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 4	at	at	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	site	site	NOUN	NN	Number=Sing	3	obl	3:obl:at	_
@@ -13473,11 +13473,11 @@
 13	standing	standing	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	stones	stone	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of|26:nmod:of	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	16:punct	_
-16	known	know	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
+16	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
 17	as	as	ADP	IN	_	18	case	18:case	_
 18	massebot	massebot	NOUN	NNS	Number=Plur	16	obl	16:obl:as	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	20:punct	_
-20	oriented	orient	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
+20	oriented	orient	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
 21	north	north	ADV	RB	_	23	advmod	23:advmod	SpaceAfter=No
 22	-	-	PUNCT	HYPH	_	23	punct	23:punct	SpaceAfter=No
 23	south	south	ADV	RB	_	20	advmod	20:advmod	SpaceAfter=No
@@ -13650,7 +13650,7 @@
 11	of	of	ADP	IN	_	12	case	12:case	_
 12	birth	birth	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	SpaceAfter=No
 13	,	,	PUNCT	,	_	14	punct	14:punct	_
-14	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+14	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
 15	by	by	ADP	IN	_	17	case	17:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	day	day	NOUN	NN	Number=Sing	14	obl	14:obl:by	_
@@ -13706,7 +13706,7 @@
 12	of	of	ADP	IN	_	13	case	13:case	_
 13	weekdays	weekday	NOUN	NNS	Number=Plur	11	nmod	11:nmod:of	SpaceAfter=No
 14	,	,	PUNCT	,	_	15	punct	15:punct	_
-15	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	11:acl	_
+15	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
 16	below	below	ADP	IN	_	17	case	17:case	_
 17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obl	15:obl:below	_
 18	by	by	ADP	IN	_	20	case	20:case	_
@@ -13733,7 +13733,7 @@
 4	and	and	CCONJ	CC	_	6	cc	6:cc	_
 5	other	other	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	feasts	feast	NOUN	NNS	Number=Plur	3	conj	3:conj:and|11:nsubj	_
-7	observed	observe	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+7	observed	observe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
 8	by	by	ADP	IN	_	10	case	10:case	_
 9	Thai	Thai	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
 10	Chinese	Chinese	PROPN	NNP	Number=Sing	7	obl	7:obl:by	_
@@ -14373,7 +14373,7 @@
 2	Ping	Ping	PROPN	NNP	Number=Sing	1	flat	1:flat	_
 3	Mei	Mei	PROPN	NNP	Number=Sing	1	flat	1:flat	SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	5:punct	_
-5	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	1	acl	1:acl	_
+5	published	publish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	acl	1:acl	_
 6	in	in	ADP	IN	_	7	case	7:case	_
 7	1610	1610	NUM	CD	NumForm=Digit|NumType=Card	5	obl	5:obl:in	SpaceAfter=No
 8	,	,	PUNCT	,	_	5	punct	5:punct	_
@@ -14491,7 +14491,7 @@
 8	proxies	proxy	NOUN	NNS	Number=Plur	3	obl	3:obl:as	_
 9	for	for	ADP	IN	_	10	case	10:case	_
 10	earnings	earnings	NOUN	NNS	Number=Ptan	8	nmod	8:nmod:for	_
-11	forgone	forgo	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	10:acl	_
+11	forgone	forgo	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
 12	by	by	ADP	IN	_	13	case	13:case	_
 13	rebellion	rebellion	NOUN	NN	Number=Sing	11	obl	11:obl:by	SpaceAfter=No
 14	,	,	PUNCT	,	_	21	punct	21:punct	_
@@ -14508,7 +14508,7 @@
 # sent_id = w01075039
 # parallel_id = pud/w01075039
 # text = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
-1	Phrased	phrase	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+1	Phrased	phrase	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 2	another	another	DET	DT	PronType=Ind	3	det	3:det	_
 3	way	way	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 4	:	:	PUNCT	:	_	1	punct	1:punct	_
@@ -15149,7 +15149,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	huge	huge	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	army	army	NOUN	NN	Number=Sing	2	nmod	2:nmod:against	_
-7	enlisted	enlist	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+7	enlisted	enlist	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
 8	by	by	ADP	IN	_	9	case	9:case	_
 9	Venice	Venice	PROPN	NNP	Number=Sing	7	obl	7:obl:by	_
 10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	11:aux:pass	_
@@ -15259,7 +15259,7 @@
 13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
 14	grave	grave	NOUN	NN	Number=Sing	15	compound	15:compound	_
 15	goods	goods	NOUN	NNS	Number=Plur	11	conj	8:obl:from|11:conj:and	_
-16	contained	contain	VERB	VBN	Tense=Past|VerbForm=Part	15	acl	15:acl	_
+16	contained	contain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	15:acl	_
 17	within	within	ADP	IN	_	18	case	18:case	_
 18	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	obl	16:obl:within	SpaceAfter=No
 19	.	.	PUNCT	.	_	8	punct	8:punct	_
@@ -15410,7 +15410,7 @@
 7	for	for	ADP	IN	_	9	case	9:case	_
 8	metal	metal	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	parts	part	NOUN	NNS	Number=Plur	6	nmod	6:nmod:for	_
-10	used	use	VERB	VBN	Tense=Past|VerbForm=Part	9	acl	9:acl	_
+10	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
 11	in	in	ADP	IN	_	12	case	12:case	_
 12	machinery	machinery	NOUN	NN	Number=Sing	10	obl	10:obl:in	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -15679,7 +15679,7 @@
 17	mostly	mostly	ADV	RB	_	18	advmod	18:advmod	_
 18	Chinese	Chinese	PROPN	NNPS	Number=Plur	15	appos	15:appos	_
 19	(	(	PUNCT	-LRB-	_	20	punct	20:punct	SpaceAfter=No
-20	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	18	parataxis	18:parataxis	_
+20	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	parataxis	18:parataxis	_
 21	at	at	ADP	IN	_	23	case	23:case	_
 22	7.5	7.5	NUM	CD	NumForm=Digit|NumType=Card	23	compound	23:compound	_
 23	million	million	NUM	CD	NumForm=Word|NumType=Card	20	obl	20:obl:at	SpaceAfter=No
@@ -16022,7 +16022,7 @@
 12	and	and	CCONJ	CC	_	14	cc	14:cc	_
 13	other	other	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	professionals	professional	NOUN	NNS	Number=Plur	11	conj	9:obl:with|11:conj:and	_
-15	involved	involve	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
+15	involved	involve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
 16	in	in	ADP	IN	_	18	case	18:case	_
 17	military	military	NOUN	NN	Number=Sing	18	compound	18:compound	_
 18	technology	technology	NOUN	NN	Number=Sing	15	obl	15:obl:in	SpaceAfter=No
@@ -16890,7 +16890,7 @@
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 3	job	job	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	advertisement	advertisement	NOUN	NN	Number=Sing	14	obl	14:obl:following	_
-5	found	find	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	4:acl	_
+5	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 6	by	by	ADP	IN	_	8	case	8:case	_
 7	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 8	sister	sister	NOUN	NN	Number=Sing	5	obl	5:obl:by	_
@@ -17081,7 +17081,7 @@
 15	have	have	VERB	VB	VerbForm=Inf	13	xcomp	13:xcomp	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	princess	princess	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
-18	animated	animate	VERB	VBN	Tense=Past|VerbForm=Part	15	ccomp	15:ccomp	_
+18	animated	animate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	ccomp	15:ccomp	_
 19	entirely	entirely	ADV	RB	_	18	advmod	18:advmod	_
 20	at	at	ADP	IN	_	22	case	22:case	_
 21	one	one	NUM	CD	NumForm=Word|NumType=Card	22	nummod	22:nummod	_
@@ -17094,7 +17094,7 @@
 1	With	with	ADP	IN	_	3	case	3:case	_
 2	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	appearance	appearance	NOUN	NN	Number=Sing	7	obl	7:obl:with	_
-4	finalized	finalize	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	3:acl	SpaceAfter=No
+4	finalized	finalize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	Jasmine	Jasmine	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj|12:nsubj:xsubj	_
 7	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -17675,7 +17675,7 @@
 2	included	include	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	three	three	NUM	CD	NumForm=Word|NumType=Card	4	nummod	4:nummod	_
 4	tracks	track	NOUN	NNS	Number=Plur	2	obj	2:obj	_
-5	cowritten	cowrite	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	4:acl	_
+5	cowritten	cowrite	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 6	with	with	ADP	IN	_	9	case	9:case	_
 7-8	Rafferty's	_	_	_	_	_	_	_	_
 7	Rafferty	Rafferty	PROPN	NNP	Number=Sing	9	nmod:poss	9:nmod:poss	_
@@ -17807,7 +17807,7 @@
 # text = The patterns presented by the data from the Petén region and Uaxactun allowed for these sites to fit within the cultural development of the Maya lowlands.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	patterns	pattern	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
-3	presented	present	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+3	presented	present	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 4	by	by	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	data	data	NOUN	NN	Number=Sing	3	obl	3:obl:by	_
@@ -17913,7 +17913,7 @@
 14	elaborate	elaborate	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
 15	story	story	NOUN	NN	Number=Sing	16	compound	16:compound	_
 16	arc	arc	NOUN	NN	Number=Sing	12	obj	12:obj	_
-17	centered	center	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	16:acl	_
+17	centered	center	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	acl	16:acl	_
 18	on	on	ADP	IN	_	21	case	21:case	_
 19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
 20	villainous	villainous	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
@@ -17946,7 +17946,7 @@
 12	to	to	ADP	IN	_	19	case	19:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 14	independently	independently	ADV	RB	_	15	advmod	15:advmod	_
-15	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	19:amod	_
+15	published	publish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	amod	19:amod	_
 16	science	science	NOUN	NN	Number=Sing	18	compound	18:compound	SpaceAfter=No
 17	-	-	PUNCT	HYPH	_	18	punct	18:punct	SpaceAfter=No
 18	fiction	fiction	NOUN	NN	Number=Sing	19	compound	19:compound	_
@@ -18065,7 +18065,7 @@
 12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	Proper=True
 13	Yemen	Yemen	PROPN	NNP	Number=Sing	10	nmod	10:nmod:in	SpaceAfter=No
 14	,	,	PUNCT	,	_	15	punct	15:punct	_
-15	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	8:acl	_
+15	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
 16	by	by	ADP	IN	_	17	case	17:case	_
 17	Lasse	Lasse	PROPN	NNP	Number=Sing	15	obl	15:obl:by	_
 18	Hallström	Hallström	PROPN	NNP	Number=Sing	17	flat	17:flat	_
@@ -18119,7 +18119,7 @@
 10	Year	year	NOUN	NN	Number=Sing	11	amod	11:amod	Proper=True
 11	Engagement	engagement	NOUN	NN	Number=Sing	6	appos	6:appos	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	13:punct	_
-13	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+13	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
 14	by	by	ADP	IN	_	15	case	15:case	_
 15	Nicholas	Nicholas	PROPN	NNP	Number=Sing	13	obl	13:obl:by	_
 16	Stoller	Stoller	PROPN	NNP	Number=Sing	15	flat	15:flat	_
@@ -18148,7 +18148,7 @@
 14	,	,	PUNCT	,	_	15	punct	15:punct	_
 15	Looper	Looper	PROPN	NNP	Number=Sing	13	appos	13:appos	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	15:punct	_
-17	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	13:acl	_
+17	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
 18	by	by	ADP	IN	_	19	case	19:case	_
 19	Rian	Rian	PROPN	NNP	Number=Sing	17	obl	17:obl:by	_
 20	Johnson	Johnson	PROPN	NNP	Number=Sing	19	flat	19:flat	_
@@ -18691,7 +18691,7 @@
 17	1954	1954	NUM	CD	NumForm=Digit|NumType=Card	15	nmod:unmarked	15:nmod:unmarked	SpaceAfter=No|TemporalNPAdjunct=Yes
 18	)	)	PUNCT	-RRB-	_	17	punct	17:punct	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	20:punct	_
-20	played	play	VERB	VBN	Tense=Past|VerbForm=Part	15	acl	15:acl	_
+20	played	play	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	15:acl	_
 21	by	by	ADP	IN	_	22	case	22:case	_
 22	Audrey	Audrey	PROPN	NNP	Number=Sing	20	obl	20:obl:by	_
 23	Hepburn	Hepburn	PROPN	NNP	Number=Sing	22	flat	22:flat	SpaceAfter=No
@@ -19189,7 +19189,7 @@
 3	of	of	ADP	IN	_	4	case	4:case	Proper=True
 4	London	London	PROPN	NNP	Number=Sing	2	nmod	2:nmod:of	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	6:punct	_
-6	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+6	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 7	on	on	ADP	IN	_	8	case	8:case	_
 8	30	30	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:on	_
 9	May	May	PROPN	NNP	Number=Sing	8	nmod:unmarked	8:nmod:unmarked	_
@@ -19200,7 +19200,7 @@
 14	part	part	NOUN	NN	Number=Sing	12	obj	12:obj	_
 15	of	of	ADP	IN	_	16	case	16:case	_
 16	territory	territory	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	_
-17	claimed	claim	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	16:acl	_
+17	claimed	claim	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	acl	16:acl	_
 18	by	by	ADP	IN	_	19	case	19:case	_
 19	Albania	Albania	PROPN	NNP	Number=Sing	17	obl	17:obl:by	SpaceAfter=No
 20	,	,	PUNCT	,	_	12	punct	12:punct	_
@@ -20724,7 +20724,7 @@
 30	with	with	ADP	IN	_	32	case	32:case	_
 31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	32:det	_
 32	government	government	NOUN	NN	Number=Sing	29	nmod	29:nmod:with	_
-33	formed	form	VERB	VBN	Tense=Past|VerbForm=Part	32	acl	32:acl	_
+33	formed	form	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	32	acl	32:acl	_
 34	in	in	ADP	IN	_	35	case	35:case	_
 35	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	33	obl	33:obl:in	SpaceAfter=No
 36	.	.	PUNCT	.	_	23	punct	23:punct	_
@@ -20919,7 +20919,7 @@
 3	included	include	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	time	time	NOUN	NN	Number=Sing	3	obj	3:obj	_
-6	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_
+6	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	travel	travel	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 9	to	to	ADP	IN	_	12	case	12:case	_
@@ -20977,7 +20977,7 @@
 15	working	working	VERB	NN	Number=Sing	16	amod	16:amod	_
 16	hours	hour	NOUN	NNS	Number=Plur	11	obl	11:obl:from	_
 17	actually	actually	ADV	RB	_	18	advmod	18:advmod	_
-18	completed	complete	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	16:acl	SpaceAfter=No
+18	completed	complete	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	acl	16:acl	SpaceAfter=No
 19	,	,	PUNCT	,	_	4	punct	4:punct	_
 20	without	without	SCONJ	IN	_	22	mark	22:mark	_
 21	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	22	cop	22:cop	_
@@ -20996,7 +20996,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	working	working	VERB	NN	Number=Sing	3	amod	3:amod	_
 3	time	time	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
-4	undertaken	undertake	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	3:acl	_
+4	undertaken	undertake	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
 5	in	in	ADP	IN	_	8	case	8:case	_
 6	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	8:det	_
 7	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	8	amod	8:amod	_
@@ -21411,7 +21411,7 @@
 22	per	per	ADP	IN	_	23	case	23:case	_
 23	litre	litre	NOUN	NN	Number=Sing	21	nmod	21:nmod:per	SpaceAfter=No
 24	,	,	PUNCT	,	_	19	punct	19:punct	_
-25	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	29	case	29:case	_
+25	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	29	case	29:case	_
 26	with	with	ADP	IN	_	29	case	29:case	_
 27	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
 28	eurozone	eurozone	PROPN	NNP	Number=Sing	29	amod	29:amod	_
@@ -21485,7 +21485,7 @@
 # parallel_id = pud/n04007015
 # text = As stated, the decision is the prerogative of the ECB and would appear inappropriate for the Bank to speak on its behalf by excluding the possibility of looking at other alternatives.
 1	As	as	SCONJ	IN	_	2	mark	2:mark	_
-2	stated	state	VERB	VBN	Tense=Past|VerbForm=Part	8	advcl	8:advcl:as	SpaceAfter=No
+2	stated	state	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	8:advcl:as	SpaceAfter=No
 3	,	,	PUNCT	,	_	8	punct	8:punct	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	decision	decision	NOUN	NN	Number=Sing	8	nsubj	8:nsubj|14:nsubj|15:nsubj:xsubj|20:nsubj:xsubj	_
@@ -21637,7 +21637,7 @@
 4	examples	example	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	_
 5	of	of	ADP	IN	_	6	case	6:case	_
 6	research	research	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
-7	applied	apply	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+7	applied	apply	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
 8	under	under	ADP	IN	_	10	case	10:case	_
 9	safety	safety	NOUN	NN	Number=Sing	10	compound	10:compound	_
 10	measures	measure	NOUN	NNS	Number=Plur	7	obl	7:obl:under	_
@@ -21849,7 +21849,7 @@
 24	600,000	600000	NUM	CD	NumForm=Digit|NumType=Card	26	nummod	26:nummod	_
 25	more	more	ADJ	JJR	Degree=Cmp	26	amod	26:amod	_
 26	people	people	NOUN	NNS	Number=Plur	22	nsubj	22:nsubj	_
-27	employed	employ	VERB	VBN	Tense=Past|VerbForm=Part	26	acl	26:acl	_
+27	employed	employ	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	acl	26:acl	_
 28	than	than	SCONJ	IN	_	30	mark	30:mark	_
 29	there	there	PRON	EX	PronType=Dem	30	expl	30:expl	_
 30	were	be	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	advcl	27:advcl:than	_
@@ -22392,7 +22392,7 @@
 # sent_id = w02001041
 # parallel_id = pud/w02001041
 # text = Founded in 1925 as games for everyman, the open air theater on the great steps in front of St. Michael still attracts a diverse public.
-1	Founded	found	VERB	VBN	Tense=Past|VerbForm=Part	23	acl	23:acl	_
+1	Founded	found	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	acl	23:acl	_
 2	in	in	ADP	IN	_	3	case	3:case	_
 3	1925	1925	NUM	CD	NumForm=Digit|NumType=Card	1	obl	1:obl:in	_
 4	as	as	ADP	IN	_	5	case	5:case	_
@@ -22445,7 +22445,7 @@
 4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 5	telegraphic	telegraphic	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	system	system	NOUN	NN	Number=Sing	14	nsubj:pass	14:nsubj:pass	_
-7	equipped	equip	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+7	equipped	equip	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
 8	with	with	ADP	IN	_	12	case	12:case	_
 9	34	34	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	12:nummod	_
 10	fire	fire	NOUN	NN	Number=Sing	11	compound	11:compound	_
@@ -23308,7 +23308,7 @@
 # parallel_id = pud/w02015087
 # text = The displaced nuns were moved to the Eibingen cloister.
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-2	displaced	displace	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	3:amod	_
+2	displaced	displace	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	amod	3:amod	_
 3	nuns	nun	NOUN	NNS	Number=Plur	5	nsubj:pass	5:nsubj:pass	_
 4	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	5:aux:pass	_
 5	moved	move	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -23586,7 +23586,7 @@
 9	that	that	PRON	DT	Number=Sing|PronType=Dem	7	obl	7:obl:to	_
 10	of	of	ADP	IN	_	13	case	13:case	_
 11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
-12	fortified	fortify	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	13:amod	_
+12	fortified	fortify	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	amod	13:amod	_
 13	city	city	NOUN	NN	Number=Sing	9	nmod	9:nmod:of	SpaceAfter=No
 14	.	.	PUNCT	.	_	7	punct	7:punct	_
 
@@ -23624,7 +23624,7 @@
 11	of	of	ADP	IN	_	13	case	13:case	_
 12	fifty	fifty	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	_
 13	people	people	NOUN	NNS	Number=Plur	10	nmod	10:nmod:of	_
-14	accused	accuse	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	13:acl	_
+14	accused	accuse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
 15	of	of	ADP	IN	_	16	case	16:case	_
 16	witchcraft	witchcraft	NOUN	NN	Number=Sing	14	obl	14:obl:of	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	3:punct	_
@@ -23678,7 +23678,7 @@
 10	ship	ship	NOUN	NN	Number=Sing	11	compound	11:compound	_
 11	Endurance	Endurance	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	11:punct	_
-13	captained	captain	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	11:acl	_
+13	captained	captain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
 14	by	by	ADP	IN	_	17	case	17:case	_
 15	Sir	Sir	PROPN	NNP	Number=Sing	16	nmod:desc	16:nmod:desc	_
 16	Ernest	Ernest	PROPN	NNP	Number=Sing	13	obl	13:obl	_
@@ -23838,7 +23838,7 @@
 13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
 14	pattern	pattern	NOUN	NN	Number=Sing	3	parataxis	3:parataxis	_
 15	largely	largely	ADV	RB	_	16	advmod	16:advmod	_
-16	dictated	dictate	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
+16	dictated	dictate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
 17	by	by	ADP	IN	_	19	case	19:case	_
 18	Greek	Greek	ADJ	JJ	Degree=Pos	19	amod	19:amod	Proper=True
 19	geography	geography	NOUN	NN	Number=Sing	16	obl	16:obl:by	SpaceAfter=No
@@ -24021,7 +24021,7 @@
 # sent_id = w03009029
 # parallel_id = pud/w03009029
 # text = Financed entirely with Bernard Tapie's own money, these schools were closed in 1994 when he was declared bankrupt.
-1	Financed	finance	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	13:advcl	_
+1	Financed	finance	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	13:advcl	_
 2	entirely	entirely	ADV	RB	_	1	advmod	1:advmod	_
 3	with	with	ADP	IN	_	8	case	8:case	_
 4	Bernard	Bernard	PROPN	NNP	Number=Sing	8	nmod:poss	8:nmod:poss	_
@@ -24167,7 +24167,7 @@
 10	to	to	ADP	IN	_	11	case	11:case	_
 11	Switzerland	Switzerland	PROPN	NNP	Number=Sing	9	obl	9:obl:to	SpaceAfter=No
 12	,	,	PUNCT	,	_	9	punct	9:punct	_
-13	accompanied	accompany	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	9:conj	_
+13	accompanied	accompany	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	conj	9:conj	_
 14	by	by	ADP	IN	_	15	case	15:case	_
 15	Rosane	Rosane	PROPN	NNP	Number=Sing	13	obl	13:obl:by	SpaceAfter=No
 16	,	,	PUNCT	,	_	20	punct	20:punct	_
@@ -25263,7 +25263,7 @@
 3	from	from	ADP	IN	_	4	case	4:case	_
 4	Canada	Canada	PROPN	NNP	Number=Sing	2	obl	2:obl:from	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
-6	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	2	advcl	2:advcl	_
+6	led	lead	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	2:advcl	_
 7	by	by	ADP	IN	_	8	case	8:case	_
 8	Joseph	Joseph	PROPN	NNP	Number=Sing	6	obl	6:obl:by	_
 9	Brant	Brant	PROPN	NNP	Number=Sing	8	flat	8:flat	SpaceAfter=No
