@@ -7706,8 +7706,8 @@
 3	,	,	PUNCT	,	_	9	punct	9:punct	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	tactile	tactile	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
-6	trend	trend	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
-7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+6	trend	trend	NOUN	NN	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 8	closely	closely	ADV	RB	_	9	advmod	9:advmod	_
 9	linked	link	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 10	to	to	ADP	IN	_	13	case	13:case	_
@@ -17080,7 +17080,7 @@
 14	to	to	PART	TO	_	15	mark	15:mark	_
 15	have	have	VERB	VB	VerbForm=Inf	13	xcomp	13:xcomp	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
-17	princess	princess	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+17	princess	princess	NOUN	NN	Number=Sing	18	nsubj:pass	18:nsubj:pass	_
 18	animated	animate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	ccomp	15:ccomp	_
 19	entirely	entirely	ADV	RB	_	18	advmod	18:advmod	_
 20	at	at	ADP	IN	_	22	case	22:case	_
