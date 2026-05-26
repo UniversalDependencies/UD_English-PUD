@@ -10496,7 +10496,7 @@
 1	Due	due	ADJ	JJ	Degree=Pos|ExtPos=ADP	5	case	5:case	_
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-4	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	5:amod	_
+4	shared	share	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	amod	5:amod	_
 5	climate	climate	NOUN	NN	Number=Sing	20	obl	20:obl:due_to	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	7:punct	_
 7	geology	geology	NOUN	NN	Number=Sing	5	conj	5:conj:and|20:obl:due_to	SpaceAfter=No
