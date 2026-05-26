@@ -2016,7 +2016,7 @@
 6	with	with	ADP	IN	_	11	case	11:case	_
 7	deeply	deeply	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 8	-	-	PUNCT	HYPH	_	9	punct	9:punct	SpaceAfter=No
-9	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	11	amod	11:amod	_
+9	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	amod	11:amod	_
 10	religious	religious	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	beliefs	belief	NOUN	NNS	Number=Plur	5	nmod	5:nmod:with	_
 12	who	who	PRON	WP	PronType=Rel	13	nsubj	5:ref	_
@@ -2818,7 +2818,7 @@
 27	,	,	PUNCT	,	_	31	punct	31:punct	_
 28	or	or	CCONJ	CC	_	31	cc	31:cc	_
 29	an	a	DET	DT	Definite=Ind|PronType=Art	31	det	31:det	_
-30	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	31	amod	31:amod	_
+30	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	31	amod	31:amod	_
 31	$	$	SYM	$	_	22	conj	20:nmod:of|22:conj:or	SpaceAfter=No
 32	15,000	15000	NUM	CD	NumForm=Digit|NumType=Card	31	nummod	31:nummod	_
 33	each	each	DET	DT	PronType=Tot	31	obl:unmarked	31:obl:unmarked	_
@@ -4571,7 +4571,7 @@
 1	A	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 2	coal	coal	NOUN	NN	Number=Sing	4	obj	4:obj	SpaceAfter=No
 3	-	-	PUNCT	HYPH	_	4	punct	4:punct	SpaceAfter=No
-4	fired	fire	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	6:amod	_
+4	fired	fire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	_
 5	power	power	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	station	station	NOUN	NN	Number=Sing	16	nsubj	16:nsubj|17:nsubj:xsubj	_
 7	in	in	ADP	IN	_	8	case	8:case	_
@@ -6355,7 +6355,7 @@
 8	to	to	PART	TO	_	9	mark	9:mark	_
 9	prevent	prevent	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
 10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
-11	continued	continue	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	13:amod	_
+11	continued	continue	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	amod	13:amod	_
 12	legislative	legislative	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	paralysis	paralysis	NOUN	NN	Number=Sing	9	obj	9:obj	_
 14	in	in	ADP	IN	_	16	case	16:case	_
@@ -6802,7 +6802,7 @@
 # text = Eon’s fixed rate tariff costs £760 and Avro Energy customers would pay around £760 for its Simple and Select tariff.
 1	Eon	Eon	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	SpaceAfter=No
 2	’s	's	PART	POS	_	1	case	1:case	_
-3	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	4:amod	_
+3	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	amod	4:amod	_
 4	rate	rate	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	tariff	tariff	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 6	costs	cost	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -7418,7 +7418,7 @@
 14	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
 15	tailor	tailor	NOUN	NN	Number=Sing	17	compound	17:compound	SpaceAfter=No
 16	-	-	PUNCT	HYPH	_	17	punct	17:punct	SpaceAfter=No
-17	made	make	VERB	VBN	Tense=Past|VerbForm=Part	14	xcomp	14:xcomp	_
+17	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	xcomp	14:xcomp	_
 18	for	for	ADP	IN	_	21	mark	21:mark	_
 19	Sunday	Sunday	PROPN	NNP	Number=Sing	20	compound	20:compound	_
 20	afternoon	afternoon	NOUN	NN	Number=Sing	21	obl:unmarked	21:obl:unmarked	TemporalNPAdjunct=Yes
@@ -8272,7 +8272,7 @@
 3	insatiable	insatiable	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	appetite	appetite	NOUN	NN	Number=Sing	8	nsubj	8:nsubj|13:nsubj:xsubj	_
 5	for	for	ADP	IN	_	7	case	7:case	_
-6	fried	fry	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	7:amod	_
+6	fried	fry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	amod	7:amod	_
 7	chicken	chicken	NOUN	NN	Number=Sing	4	nmod	4:nmod:for	_
 8	used	use	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 9	to	to	PART	TO	_	13	mark	13:mark	_
@@ -13577,7 +13577,7 @@
 # text = The oldest known historical reference to the city is to be found on an inscription of conquered sites at Thutmose's temple at Karnak.
 1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 2	oldest	old	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
-3	known	know	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	5:amod	_
+3	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	amod	5:amod	_
 4	historical	historical	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	reference	reference	NOUN	NN	Number=Sing	9	nsubj	9:nsubj|12:nsubj:xsubj	_
 6	to	to	ADP	IN	_	8	case	8:case	_
@@ -15479,7 +15479,7 @@
 5	'	's	PART	POS	_	4	case	4:case	_
 6	compact	compact	ADJ	JJ	Degree=Pos	8	amod	8:amod	SpaceAfter=No
 7	-	-	PUNCT	HYPH	_	8	punct	8:punct	SpaceAfter=No
-8	sized	size	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	10:amod	_
+8	sized	size	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	amod	10:amod	_
 9	Rambler	Rambler	PROPN	NNP	Number=Sing	10	compound	10:compound	_
 10	models	model	NOUN	NNS	Number=Plur	2	nmod	2:nmod	_
 11	spurred	spur	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -15735,10 +15735,10 @@
 11	War	War	PROPN	NNP	Number=Sing	8	nmod	8:nmod:of	_
 12	I	I	NUM	CD	NumForm=Roman|NumType=Card	11	flat	11:flat	_
 13	to	to	ADP	IN	_	15	case	15:case	_
-14	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	15:amod	_
+14	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	amod	15:amod	_
 15	mobility	mobility	NOUN	NN	Number=Sing	3	obl	3:obl:to	_
 16	and	and	CCONJ	CC	_	18	cc	18:cc	_
-17	combined	combine	VERB	VBN	Tense=Past|VerbForm=Part	18	amod	18:amod	_
+17	combined	combine	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	amod	18:amod	_
 18	arms	arm	NOUN	NNS	Number=Plur	15	conj	3:obl:to|15:conj:and	SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -16246,7 +16246,7 @@
 28	,	,	PUNCT	,	_	13	punct	13:punct	_
 29	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	32:cop	_
 30	Ground	ground	PROPN	NNP	Number=Sing	31	compound	31:compound	_
-31	Controlled	control	VERB	VBN	Tense=Past|VerbForm=Part	32	compound	32:compound	_
+31	Controlled	control	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	32	compound	32:compound	_
 32	Approach	approach	PROPN	NNP	Number=Sing	0	root	0:root	_
 33	(	(	PUNCT	-LRB-	_	34	punct	34:punct	SpaceAfter=No
 34	GCA	GCA	PROPN	NNP	Abbr=Yes|Number=Sing	32	appos	32:appos	SpaceAfter=No
@@ -18446,7 +18446,7 @@
 1	Rona	Rona	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	developed	develop	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
-4	enhanced	enhance	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	5:amod	_
+4	enhanced	enhance	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	amod	5:amod	_
 5	method	method	NOUN	NN	Number=Sing	2	obj	2:obj	_
 6	of	of	SCONJ	IN	_	7	mark	7:mark	_
 7	preparing	prepare	VERB	VBG	VerbForm=Ger	5	acl	5:acl:of	_
@@ -20294,7 +20294,7 @@
 37	of	of	ADP	IN	_	41	case	41:case	_
 38	coal	coal	NOUN	NN	Number=Sing	40	compound	40:compound	SpaceAfter=No
 39	-	-	PUNCT	HYPH	_	40	punct	40:punct	SpaceAfter=No
-40	based	base	VERB	VBN	Tense=Past|VerbForm=Part	41	amod	41:amod	_
+40	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	41	amod	41:amod	_
 41	energy	energy	NOUN	NN	Number=Sing	36	obl	36:obl:of	SpaceAfter=No
 42	.	.	PUNCT	.	_	18	punct	18:punct	SpaceAfter=No
 43	"	"	PUNCT	''	_	18	punct	18:punct	_
@@ -21960,7 +21960,7 @@
 # parallel_id = pud/n05003010
 # text = The consulted sources have said that it is "100% Cospedal".
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-2	consulted	consult	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	3:amod	_
+2	consulted	consult	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	amod	3:amod	_
 3	sources	source	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
@@ -22158,7 +22158,7 @@
 8	and	and	CCONJ	CC	_	13	cc	13:cc	_
 9	other	other	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 10	well	well	ADV	RB	Degree=Pos	11	advmod	11:advmod	_
-11	used	use	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	13:amod	_
+11	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	amod	13:amod	_
 12	verbal	verbal	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	devices	device	NOUN	NNS	Number=Plur	1	conj	1:conj:and|14:nsubj	_
 14	fit	fit	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
