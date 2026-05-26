@@ -518,7 +518,7 @@
 6	nations	nation	NOUN	NNS	Number=Plur	4	obj	4:obj|8:nsubj:xsubj	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	help	help	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
-9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	8:obj	_
+9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	8:obj|10:nsubj:xsubj	_
 10	populate	populate	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 12	zoo	zoo	NOUN	NN	Number=Sing	10	obj	10:obj	_
@@ -3111,7 +3111,7 @@
 12	tool	tool	NOUN	NN	Number=Sing	8	obj	8:obj|14:nsubj	_
 13	that	that	PRON	WDT	PronType=Rel	14	nsubj	12:ref	_
 14	helps	help	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
-15	customers	customer	NOUN	NNS	Number=Plur	14	obj	14:obj	_
+15	customers	customer	NOUN	NNS	Number=Plur	14	obj	14:obj|16:nsubj:xsubj	_
 16	monitor	monitor	VERB	VB	VerbForm=Inf	14	xcomp	14:xcomp	_
 17	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
 18	data	data	NOUN	NN	Number=Sing	19	compound	19:compound	_
@@ -3193,7 +3193,7 @@
 15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	16:det	_
 16	product	product	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	_
 17	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	4:conj	_
-18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	obj	17:obj	_
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	obj	17:obj|19:nsubj:xsubj	_
 19	sleep	sleep	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	_
 20	at	at	ADP	IN	_	21	case	21:case	_
 21	night	night	NOUN	NN	Number=Sing	19	obl	19:obl:at	SpaceAfter=No
@@ -3514,7 +3514,7 @@
 15	one	one	NOUN	NN	Number=Sing	9	conj	9:conj:and	_
 16	in	in	ADP	IN	_	17	case	17:case	_
 17	helping	help	VERB	VBG	VerbForm=Ger	15	acl	15:acl:in	_
-18	girls	girl	NOUN	NNS	Number=Plur	17	obj	17:obj	_
+18	girls	girl	NOUN	NNS	Number=Plur	17	obj	17:obj|19:nsubj:xsubj	_
 19	embrace	embrace	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	_
 20	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
 21	own	own	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
@@ -13381,7 +13381,7 @@
 5	wished	wish	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	2:xcomp	_
 6	for	for	SCONJ	IN	_	14	mark	14:mark	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-8	Senate	Senate	PROPN	NNP	Number=Sing	5	obj	5:obj	_
+8	Senate	Senate	PROPN	NNP	Number=Sing	5	obj	5:obj|14:nsubj:xsubj	_
 9	and	and	CCONJ	CC	_	11	cc	11:cc	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 11	state	state	NOUN	NN	Number=Sing	8	conj	8:conj:and|14:nsubj	_
