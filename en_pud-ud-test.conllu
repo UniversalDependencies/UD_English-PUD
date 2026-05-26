@@ -20417,7 +20417,7 @@
 2	contaminants	contaminant	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	only	only	ADV	RB	_	5	advmod	5:advmod	_
-5	attack	attack	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	attack	attack	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 7	undeveloped	undeveloped	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	lungs	lung	NOUN	NNS	Number=Plur	5	obj	5:obj	_
