@@ -4680,7 +4680,7 @@
 1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	15:aux:pass	_
 2	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	divine	divine	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
-4	right	right	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
+4	right	right	NOUN	NN	Number=Sing	15	nsubj:pass	15:nsubj:pass	_
 5	to	to	ADP	IN	_	7	case	7:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	mantle	mantle	NOUN	NN	Number=Sing	4	nmod	4:nmod:to	_
@@ -15199,7 +15199,7 @@
 17	that	that	SCONJ	IN	_	20	mark	20:mark	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 19	classics	classic	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj	_
-20	provided	provide	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	csubj	16:csubj	_
+20	provided	provide	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	csubj:pass	16:csubj:pass	_
 21	moral	moral	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
 22	instruction	instruction	NOUN	NN	Number=Sing	20	obj	20:obj	_
 23	and	and	CCONJ	CC	_	26	cc	26:cc	_
@@ -15551,7 +15551,7 @@
 12	extremely	extremely	ADV	RB	_	13	advmod	13:advmod	_
 13	inappropriate	inappropriate	ADJ	JJ	Degree=Pos	11	xcomp	11:xcomp	_
 14	to	to	PART	TO	_	15	mark	15:mark	_
-15	use	use	VERB	VB	VerbForm=Inf	11	csubj	11:csubj	_
+15	use	use	VERB	VB	VerbForm=Inf	11	csubj:pass	11:csubj:pass	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 17	given	give	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	amod	18:amod	_
 18	name	name	NOUN	NN	Number=Sing	15	obj	15:obj	SpaceAfter=No
