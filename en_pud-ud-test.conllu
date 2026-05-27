@@ -8596,7 +8596,7 @@
 7	workplace	workplace	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	chat	chat	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	tool	tool	NOUN	NN	Number=Sing	2	obj	2:obj	_
-10	poised	poise	VERB	VBN	Tense=Past|VerbForm=Part	9	acl	9:acl	_
+10	poised	poise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
 11	to	to	PART	TO	_	12	mark	12:mark	_
 12	take	take	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	_
 13	on	on	ADP	RP	_	12	compound:prt	12:compound:prt	_
@@ -10518,7 +10518,7 @@
 23	some	some	DET	DT	PronType=Ind	24	det	24:det	_
 24	extent	extent	NOUN	NN	Number=Sing	22	obj	22:obj	_
 25	of	of	ADP	IN	_	27	case	27:case	_
-26	intertwined	intertwine	VERB	VBN	Tense=Past|VerbForm=Part	27	amod	27:amod	_
+26	intertwined	intertwine	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	amod	27:amod	_
 27	culture	culture	NOUN	NN	Number=Sing	24	nmod	24:nmod:of	_
 28	and	and	CCONJ	CC	_	29	cc	29:cc	_
 29	history	history	NOUN	NN	Number=Sing	27	conj	24:nmod:of|27:conj:and	SpaceAfter=No
@@ -13591,7 +13591,7 @@
 14	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
 15	inscription	inscription	NOUN	NN	Number=Sing	12	obl	12:obl:on	_
 16	of	of	ADP	IN	_	18	case	18:case	_
-17	conquered	conquer	VERB	VBN	Tense=Past|VerbForm=Part	18	amod	18:amod	_
+17	conquered	conquer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	amod	18:amod	_
 18	sites	site	NOUN	NNS	Number=Plur	15	nmod	15:nmod:of	_
 19	at	at	ADP	IN	_	22	case	22:case	_
 20-21	Thutmose's	_	_	_	_	_	_	_	_
@@ -14934,7 +14934,7 @@
 # parallel_id = pud/w01083007
 # text = This idealized vision of the Romanov monarchy blinded him to the actual state of his country.
 1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
-2	idealized	idealize	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	3:amod	_
+2	idealized	idealize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	amod	3:amod	_
 3	vision	vision	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
 4	of	of	ADP	IN	_	7	case	7:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
@@ -15490,7 +15490,7 @@
 16	introduce	introduce	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
 17	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
 18	own	own	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
-19	downsized	downsize	VERB	VBN	Tense=Past|VerbForm=Part	20	amod	20:amod	_
+19	downsized	downsize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	amod	20:amod	_
 20	cars	car	NOUN	NNS	Number=Plur	16	obj	16:obj	_
 21	in	in	ADP	IN	_	22	case	22:case	_
 22	1960	1960	NUM	CD	NumForm=Digit|NumType=Card	16	obl	16:obl:in	SpaceAfter=No
@@ -15752,7 +15752,7 @@
 4	also	also	ADV	RB	_	5	advmod	5:advmod	_
 5	received	receive	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 6	excellent	excellent	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
-7	mounted	mount	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	8:amod	_
+7	mounted	mount	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	amod	8:amod	_
 8	swordsmanship	swordsmanship	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	training	training	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
 10	.	.	PUNCT	.	_	5	punct	5:punct	_
@@ -18846,7 +18846,7 @@
 14	and	and	CCONJ	CC	_	15	cc	15:cc	_
 15	stresses	stress	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:and	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
-17	implied	imply	VERB	VBN	Tense=Past|VerbForm=Part	18	amod	18:amod	_
+17	implied	imply	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	amod	18:amod	_
 18	humanism	humanism	NOUN	NN	Number=Sing	15	obj	15:obj	_
 19	inherent	inherent	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
 20	in	in	ADP	IN	_	22	case	22:case	_
@@ -23160,7 +23160,7 @@
 11	1933	1933	NUM	CD	NumForm=Digit|NumType=Card	3	nmod	3:nmod:in	_
 12	there	there	PRON	EX	PronType=Dem	13	expl	13:expl	_
 13	were	be	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-14	dispersed	disperse	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	15:amod	_
+14	dispersed	disperse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	amod	15:amod	_
 15	attempts	attempt	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	_
 16	to	to	PART	TO	_	17	mark	17:mark	_
 17	win	win	VERB	VB	VerbForm=Inf	15	acl	15:acl:to	_
