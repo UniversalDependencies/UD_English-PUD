@@ -14499,7 +14499,7 @@
 16	therefore	therefore	ADV	RB	_	21	advmod	21:advmod	_
 17	that	that	SCONJ	IN	_	21	mark	21:mark	_
 18	lower	low	ADJ	JJR	Degree=Cmp	20	amod	20:amod	_
-19	forgone	forgo	VERB	VBN	Tense=Past|VerbForm=Part	20	amod	20:amod	_
+19	forgone	forgo	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	amod	20:amod	_
 20	earnings	earnings	NOUN	NNS	Number=Ptan	21	nsubj	21:nsubj	_
 21	encourage	encourage	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:and	_
 22	rebellion	rebellion	NOUN	NN	Number=Sing	21	obj	21:obj	SpaceAfter=No
