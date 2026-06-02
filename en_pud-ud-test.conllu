@@ -7422,7 +7422,7 @@
 18	for	for	ADP	IN	_	21	mark	21:mark	_
 19	Sunday	Sunday	PROPN	NNP	Number=Sing	20	compound	20:compound	_
 20	afternoon	afternoon	NOUN	NN	Number=Sing	21	obl:unmarked	21:obl:unmarked	TemporalNPAdjunct=Yes
-21	viewing	view	VERB	VBG	VerbForm=Ger	17	obl	17:obl	SpaceAfter=No
+21	viewing	view	VERB	VBG	VerbForm=Ger	17	advcl	17:advcl	SpaceAfter=No
 22	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = n01119017
