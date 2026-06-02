@@ -9271,7 +9271,7 @@
 17	every	every	DET	DT	PronType=Tot	18	det	18:det	_
 18	detail	detail	NOUN	NN	Number=Sing	19	nsubj	19:nsubj	_
 19	carries	carry	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	12:conj:and	_
-20	meaning	mean	VERB	VBG	VerbForm=Ger	19	obj	19:obj	SpaceAfter=No
+20	meaning	meaning	NOUN	NN	Number=Sing	19	obj	19:obj	SpaceAfter=No
 21	.	.	PUNCT	.	_	12	punct	12:punct	_
 
 # sent_id = n01150051
