@@ -20283,7 +20283,7 @@
 26	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
 27	top	top	ADJ	JJ	Degree=Pos	29	amod	29:amod	_
 28	power	power	NOUN	NN	Number=Sing	29	compound	29:compound	_
-29	generator	generator	NOUN	NN	Number=Sing	25	obj	25:obj	_
+29	generator	generator	NOUN	NN	Number=Sing	25	xcomp	25:xcomp	_
 30	in	in	ADP	IN	_	33	case	33:case	_
 31	a	a	DET	DT	Definite=Ind|PronType=Art	33	det	33:det	_
 32	global	global	ADJ	JJ	Degree=Pos	33	amod	33:amod	_
@@ -21948,7 +21948,7 @@
 8	to	to	PART	TO	_	9	mark	9:mark	_
 9	remain	remain	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 10	General	general	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
-11	Secretary	secretary	NOUN	NN	Number=Sing	9	obj	9:obj	_
+11	Secretary	secretary	NOUN	NN	Number=Sing	9	xcomp	9:xcomp	_
 12	of	of	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 14	party	party	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	_
@@ -24753,7 +24753,7 @@
 15	and	and	CCONJ	CC	_	16	cc	16:cc	_
 16	remained	remain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	9:conj:and	_
 17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	18:det	_
-18	member	member	NOUN	NN	Number=Sing	16	obj	16:obj	_
+18	member	member	NOUN	NN	Number=Sing	16	xcomp	16:xcomp	_
 19	of	of	ADP	IN	_	22	case	22:case	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
 21	Protestant	Protestant	PROPN	NNP	Number=Sing	22	compound	22:compound	_
@@ -25664,7 +25664,7 @@
 27	becoming	become	VERB	VBG	VerbForm=Ger	23	conj	20:acl:of|23:conj:or	_
 28	a	a	DET	DT	Definite=Ind|PronType=Art	30	det	30:det	_
 29	public	public	ADJ	JJ	Degree=Pos	30	amod	30:amod	_
-30	enemy	enemy	NOUN	NN	Number=Sing	27	obj	27:obj	SpaceAfter=No
+30	enemy	enemy	NOUN	NN	Number=Sing	27	xcomp	27:xcomp	SpaceAfter=No
 31	,	,	PUNCT	,	_	33	punct	33:punct	_
 32	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	nsubj	33:nsubj	_
 33	understood	understand	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
