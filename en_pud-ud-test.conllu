@@ -4104,7 +4104,7 @@
 8	score	score	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
 9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	2:punct	_
-11	add	add	VERB	VBP	VerbForm=Fin|Mood=Ind|Tense=Pres|Number=Plur|Person=3	0	root	0:root	_
+11	add	add	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 12	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
 13	connective	connective	ADJ	JJ	Degree=Pos	17	amod	17:amod	SpaceAfter=No
 14	,	,	PUNCT	,	_	17	punct	17:punct	_
@@ -10209,7 +10209,7 @@
 12	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 13	2008	2008	NUM	CD	NumForm=Digit|NumType=Card	16	compound	16:compound	_
 14	Summer	summer	PROPN	NNP	Number=Sing	16	compound	16:compound	_
-15	Olympic	olympic	ADJ	NNP	Number=Sing	16	compound	16:compound	_
+15	Olympic	olympic	ADJ	NNP	_	16	compound	16:compound	_
 16	Games	game	PROPN	NNPS	Number=Plur	10	nmod	10:nmod:for	SpaceAfter=No
 17	.	.	PUNCT	.	_	10	punct	10:punct	_
 
