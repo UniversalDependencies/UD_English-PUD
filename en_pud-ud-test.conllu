@@ -10209,7 +10209,7 @@
 12	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 13	2008	2008	NUM	CD	NumForm=Digit|NumType=Card	16	compound	16:compound	_
 14	Summer	summer	PROPN	NNP	Number=Sing	16	compound	16:compound	_
-15	Olympic	olympic	ADJ	NNP	_	16	compound	16:compound	_
+15	Olympic	olympic	ADJ	NNP	Degree=Pos	16	amod	16:amod	_
 16	Games	game	PROPN	NNPS	Number=Plur	10	nmod	10:nmod:for	SpaceAfter=No
 17	.	.	PUNCT	.	_	10	punct	10:punct	_
 
@@ -13165,7 +13165,7 @@
 # text = The last Olympic Games are believed to have been held in 393.
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 2	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
-3	Olympic	Olympic	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+3	Olympic	Olympic	ADJ	NNP	Degree=Pos	4	amod	4:amod	_
 4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	6:nsubj:pass|10:nsubj:xsubj	_
 5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -23367,7 +23367,7 @@
 # text = At the Olympic Games in 2004 in Athens, Ulrich, as winner of the street race, pursued the goal of winning his second gold medal.
 1	At	at	ADP	IN	_	4	case	4:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-3	Olympic	Olympic	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+3	Olympic	Olympic	ADJ	NNP	Degree=Pos	4	amod	4:amod	_
 4	Games	game	NOUN	NNS	Number=Plur	19	obl	19:obl:at	_
 5	in	in	ADP	IN	_	6	case	6:case	_
 6	2004	2004	NUM	CD	NumForm=Digit|NumType=Card	4	nmod	4:nmod:in	_
