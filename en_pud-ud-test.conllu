@@ -7472,7 +7472,7 @@
 4	,	,	PUNCT	,	_	9	punct	9:punct	_
 5	most	most	ADJ	JJS	Degree=Sup	9	nsubj	9:nsubj	_
 6	of	of	ADP	IN	_	7	case	7:case	_
-7	whom	whom	PRON	WP	PronType=Int	5	nmod	3:ref	_
+7	whom	who	PRON	WP	Case=Acc|PronType=Rel	5	nmod	3:ref	_
 8	will	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
 9	have	have	VERB	VB	VerbForm=Inf	3	acl:relcl	3:acl:relcl	_
 10	little	little	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
