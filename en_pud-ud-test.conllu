@@ -2209,7 +2209,7 @@
 12	United	United	ADJ	NNP	Degree=Pos	13	amod	13:amod	_
 13	States	State	PROPN	NNPS	Number=Plur	9	nmod	9:nmod:of	SpaceAfter=No
 14	,	,	PUNCT	,	_	9	punct	9:punct	_
-15	whoever	whoever	PRON	WP	PronType=Rel	9	acl:relcl	9:acl:relcl	_
+15	whoever	whoever	PRON	WP	Case=Nom|PronType=Rel	9	acl:relcl	9:acl:relcl	_
 16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 17	or	or	CCONJ	CC	_	18	cc	18:cc	_
 18	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	conj	15:nsubj|16:conj:or	_
