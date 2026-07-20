@@ -7725,7 +7725,7 @@
 # text = Two years later, Jutting, now 31, is on trial at Hong Kong's High Court, charged with two counts of murder and one of preventing lawful burial.
 1	Two	two	NUM	CD	NumForm=Word|NumType=Card	2	nummod	2:nummod	_
 2	years	year	NOUN	NNS	Number=Plur	3	obl:unmarked	3:obl:unmarked	_
-3	later	late	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
+3	later	late	ADV	RBR	Degree=Cmp	12	advmod	12:advmod	SpaceAfter=No
 4	,	,	PUNCT	,	_	12	punct	12:punct	_
 5	Jutting	Jutting	PROPN	NNP	Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	8:punct	_
@@ -7784,7 +7784,7 @@
 7	,	,	PUNCT	,	_	13	punct	13:punct	_
 8	two	two	NUM	CD	NumForm=Word|NumType=Card	9	nummod	9:nummod	_
 9	years	year	NOUN	NNS	Number=Plur	10	nmod:unmarked	10:nmod:unmarked	_
-10	later	late	ADV	RB	_	13	advmod	13:advmod	SpaceAfter=No
+10	later	late	ADV	RBR	Degree=Cmp	13	advmod	13:advmod	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	13:punct	_
 12	Jutting	Jutting	PROPN	NNP	Number=Sing	13	nsubj	13:nsubj|15:nsubj:xsubj	_
 13	appeared	appear	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -10027,7 +10027,7 @@
 10	until	until	ADP	IN	_	14	case	14:case	_
 11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
 12	much	much	ADV	RB	_	13	advmod	13:advmod	_
-13	later	late	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+13	later	late	ADJ	JJR	Degree=Cmp	14	amod	14:amod	_
 14	date	date	NOUN	NN	Number=Sing	7	obl	7:obl:until	_
 15	(	(	PUNCT	-LRB-	_	16	punct	16:punct	SpaceAfter=No
 16	1918	1918	NUM	CD	NumForm=Digit|NumType=Card	14	appos	14:appos	SpaceAfter=No
@@ -10561,7 +10561,7 @@
 # sent_id = w01020020
 # parallel_id = pud/w01020020
 # text = Later, when Augustus founded the Roman Empire, the Romans referred to the Mediterranean as Mare Nostrum ("Our Sea").
-1	Later	late	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
+1	Later	late	ADV	RBR	Degree=Cmp	12	advmod	12:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	12	punct	12:punct	_
 3	when	when	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 4	Augustus	Augustus	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
@@ -17631,7 +17631,7 @@
 11	musician	musician	NOUN	NN	Number=Sing	12	nmod:desc	12:nmod:desc	_
 12	Tom	Tom	PROPN	NNP	Number=Sing	15	nsubj	15:nsubj	_
 13	Robinson	Robinson	PROPN	NNP	Number=Sing	12	flat	12:flat	_
-14	later	late	ADV	RB	_	15	advmod	15:advmod	_
+14	later	late	ADV	RBR	Degree=Cmp	15	advmod	15:advmod	_
 15	described	describe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
 16	as	as	ADP	IN	_	20	case	20:case	_
 17	"	"	PUNCT	``	_	20	punct	20:punct	SpaceAfter=No
@@ -23324,7 +23324,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	ruins	ruin	NOUN	NNS	Number=Plur	5	nsubj:pass	5:nsubj:pass	_
 3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	5:aux:pass	_
-4	later	late	ADV	RB	_	5	advmod	5:advmod	_
+4	later	late	ADV	RBR	Degree=Cmp	5	advmod	5:advmod	_
 5	built	build	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	over	over	ADP	RP	_	5	compound:prt	5:compound:prt	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	5:punct	_
@@ -24382,7 +24382,7 @@
 23	,	,	PUNCT	,	_	22	punct	22:punct	_
 24	which	which	PRON	WDT	PronType=Rel	27	nsubj:pass	22:ref	_
 25	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	aux:pass	27:aux:pass	_
-26	later	late	ADV	RB	_	27	advmod	27:advmod	_
+26	later	late	ADV	RBR	Degree=Cmp	27	advmod	27:advmod	_
 27	demolished	demolish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	acl:relcl	22:acl:relcl	_
 28	along	along	ADP	RB	_	31	case	31:case	_
 29	with	with	ADP	IN	_	31	case	31:case	_
@@ -24931,7 +24931,7 @@
 20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
 21	arrangements	arrangement	NOUN	NNS	Number=Plur	18	nmod	18:nmod:in|25:nsubj	_
 22	that	that	PRON	WDT	PronType=Rel	25	nsubj	21:ref	_
-23	later	late	ADV	RB	_	24	advmod	24:advmod	_
+23	later	late	ADV	RBR	Degree=Cmp	24	advmod	24:advmod	_
 24	on	on	ADV	RB	_	25	advmod	25:advmod	_
 25	characterised	characterise	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	acl:relcl	21:acl:relcl	_
 26	both	both	DET	DT	PronType=Tot	27	det	27:det	_
