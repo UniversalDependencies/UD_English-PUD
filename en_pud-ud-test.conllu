@@ -12569,7 +12569,7 @@
 # text = First and foremost was the provision of open space for the benefit of townspeople and local residents within an area that was being rapidly built up.
 1	First	first	ADV	RB	_	0	root	0:root	_
 2	and	and	CCONJ	CC	_	3	cc	3:cc	_
-3	foremost	foremost	ADV	RB	_	1	conj	1:conj:and	_
+3	foremost	foremost	ADV	RB	Degree=Pos	1	conj	1:conj:and	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	1:cop	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	provision	provision	NOUN	NN	Number=Sing	1	nsubj	1:nsubj|3:nsubj	_
