@@ -4211,7 +4211,7 @@
 12	call	call	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
 13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj|17:nsubj:xsubj	_
 14	“	"	PUNCT	``	_	17	punct	17:punct	SpaceAfter=No
-15	no	no	ADV	DT	_	16	advmod	16:advmod	_
+15	no	no	ADV	RB	PronType=Neg	16	advmod	16:advmod	_
 16	more	more	ADV	RBR	Degree=Cmp	17	advmod	17:advmod	_
 17	rational	rational	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	_
 18	than	than	SCONJ	IN	_	19	mark	19:mark	_
@@ -4689,7 +4689,7 @@
 10	world	world	NOUN	NN	Number=Sing	12	nmod:poss	12:nmod:poss	SpaceAfter=No
 11	’s	's	PART	POS	_	10	case	10:case	_
 12	best	good	ADJ	JJS	Degree=Sup	4	nmod	4:nmod:as	_
-13	no	no	ADV	RB	_	14	advmod	14:advmod	_
+13	no	no	ADV	RB	PronType=Neg	14	advmod	14:advmod	_
 14	longer	long	ADV	RBR	Degree=Cmp	15	advmod	15:advmod	_
 15	warranted	warrant	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 16	?	?	PUNCT	.	_	15	punct	15:punct	_
@@ -7655,7 +7655,7 @@
 # sent_id = n01125009
 # parallel_id = pud/n01125009
 # text = No longer a throwback to the Seventies, flock – or coating a surface is material – is flying again.
-1	No	no	ADV	RB	_	2	advmod	2:advmod	_
+1	No	no	ADV	RB	PronType=Neg	2	advmod	2:advmod	_
 2	longer	long	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	throwback	throwback	NOUN	NN	Number=Sing	9	acl	9:acl	_
@@ -18981,7 +18981,7 @@
 11	believe	believe	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
 12	that	that	SCONJ	IN	_	16	mark	16:mark	_
 13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj|19:nsubj:xsubj	_
-14	no	no	ADV	RB	_	15	advmod	15:advmod	_
+14	no	no	ADV	RB	PronType=Neg	15	advmod	15:advmod	_
 15	longer	long	ADV	RBR	Degree=Cmp	16	advmod	16:advmod	_
 16	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ccomp	11:ccomp	_
 17	to	to	PART	TO	_	19	mark	19:mark	_
@@ -19381,7 +19381,7 @@
 2	series	series	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
 3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	flat	2:flat	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
-5	no	no	ADV	RB	_	6	advmod	6:advmod	_
+5	no	no	ADV	RB	PronType=Neg	6	advmod	6:advmod	_
 6	longer	long	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 8	old	old	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
@@ -24363,7 +24363,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	racecourse	racecourse	NOUN	NN	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
 6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
-7	no	no	ADV	RB	_	8	advmod	8:advmod	_
+7	no	no	ADV	RB	PronType=Neg	8	advmod	8:advmod	_
 8	longer	long	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 9	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 10	;	;	PUNCT	:	_	9	punct	9:punct	_
