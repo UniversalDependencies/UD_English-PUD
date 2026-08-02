@@ -6179,7 +6179,7 @@
 4	with	with	ADP	IN	_	6	case	6:case	_
 5	two	two	NUM	CD	NumForm=Word|NumType=Card	6	nummod	6:nummod	_
 6	minarets	minaret	NOUN	NNS	Number=Plur	3	nmod	3:nmod:with	_
-7	glides	glide	NOUN	NNS	Number=Plur	0	root	0:root	_
+7	glides	glide	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	by	by	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	7:punct	_
 
@@ -14091,9 +14091,9 @@
 # parallel_id = pud/w01070035
 # text = Two measure the lengths of lunar months.
 1	Two	two	NUM	CD	NumForm=Word|NumType=Card	2	nsubj	2:nsubj	_
-2	measure	measure	NOUN	NN	Number=Sing	0	root	0:root	_
+2	measure	measure	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-4	lengths	length	NOUN	NNS	Number=Plur	2	dep	2:dep	_
+4	lengths	length	NOUN	NNS	Number=Plur	2	obj	2:obj	_
 5	of	of	ADP	IN	_	7	case	7:case	_
 6	lunar	lunar	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	months	month	NOUN	NNS	Number=Plur	4	nmod	4:nmod:of	SpaceAfter=No
