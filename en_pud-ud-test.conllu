@@ -11902,7 +11902,7 @@
 12	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Emp|Reflex=Yes	11	nmod:unmarked	11:nmod:unmarked	_
 13	where	where	ADV	WRB	PronType=Rel	20	advmod	20:advmod	_
 14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
-15	finer	finer	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+15	finer	fine	ADJ	JJR	Degree=Cmp	16	amod	16:amod	_
 16	materials	material	NOUN	NNS	Number=Plur	20	nsubj:pass	20:nsubj:pass	_
 17	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	20:aux	_
 18	already	already	ADV	RB	_	20	advmod	20:advmod	_
