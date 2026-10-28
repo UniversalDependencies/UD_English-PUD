@@ -10359,7 +10359,7 @@
 15	%	%	SYM	NN	Number=Sing	24	nsubj	24:nsubj	_
 16	of	of	ADP	IN	_	17	case	17:case	_
 17	children	child	NOUN	NNS	Number=Plur	15	nmod	15:nmod:of	_
-18	aged	age	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+18	aged	aged	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 19	5	5	NUM	CD	NumForm=Digit|NumType=Card	18	obj	18:obj	_
 20	to	to	ADP	IN	_	21	case	21:case	_
 21	14	14	NUM	CD	NumForm=Digit|NumType=Card	19	nmod	19:nmod:to	_
