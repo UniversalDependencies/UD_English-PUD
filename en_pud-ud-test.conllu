@@ -25050,7 +25050,7 @@
 6	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
 7	so	so	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 8	-	-	PUNCT	HYPH	_	9	punct	9:punct	SpaceAfter=No
-9	called	called	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	amod	11:amod	_
+9	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	amod	11:amod	_
 10	'	'	PUNCT	``	_	11	punct	11:punct	SpaceAfter=No
 11	Andes	Ande	X	FW	Foreign=Yes	4	obl	4:obl:to|18:nsubj:pass	_
 12	de	de	X	FW	Foreign=Yes	11	flat	11:flat	_
