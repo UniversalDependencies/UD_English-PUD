@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_English-PUD:
-commit 32d7cb957d226fec98ae79ed7aa878027bd77544
-Merge: d5f2c87 e173a1b
+commit 638a7358d3c5cd14ae24a2f2b6a81ba07354d632
+Merge: f16eba4 b476442
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'en_pud'
@@ -19,9 +19,9 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 14366 out of 21180 total words have one or more features.
+Features: 14423 out of 21180 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 35 out of 37 found in the corpus.
+Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-PUD/en_pud-ud-test.conllu
@@ -45,7 +45,7 @@ Validity: 1
 (weight=0.37037037037037) * (score{size}=0.441975318590489) = 0.163694562440922
 (weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
 (weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
-(weight=0.111111111111111) * (score{udeprels}=0.945945945945946) = 0.105105105105105
-(TOTAL score=0.506330531743558) * (availability=1) * (validity=1) = 0.506330531743558
+(weight=0.111111111111111) * (score{udeprels}=0.918918918918919) = 0.102102102102102
+(TOTAL score=0.503327528740555) * (availability=1) * (validity=1) = 0.503327528740555
 STARS = 2.5
-UD_English-PUD	0.506330531743558	2.5
+UD_English-PUD	0.503327528740555	2.5
