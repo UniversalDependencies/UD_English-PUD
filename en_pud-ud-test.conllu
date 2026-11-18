@@ -4074,7 +4074,7 @@
 6	Zay	Zay	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj|10:nsubj:xsubj	_
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
 8	Zayion	Zayion	PROPN	NNP	Number=Sing	6	conj	6:conj:and|9:nsubj|10:nsubj:xsubj	_
-9	described	describe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+9	described	describe	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 10	recording	record	VERB	VBG	VerbForm=Ger	9	xcomp	9:xcomp	_
 11	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
 12	version	version	NOUN	NN	Number=Sing	10	obj	10:obj	_
@@ -10709,7 +10709,7 @@
 8	Danevirke	Danevirke	PROPN	NNP	Number=Sing	5	nmod	5:nmod:between	_
 9	and	and	CCONJ	CC	_	10	cc	10:cc	_
 10	Husum	Husum	PROPN	NNP	Number=Sing	8	conj	5:nmod:between|8:conj:and	_
-11	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	12:aux	_
+11	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux	12:aux	_
 12	frozen	freeze	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 13	solid	solid	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	_
 14	in	in	ADP	IN	_	17	case	17:case	_
@@ -12405,7 +12405,7 @@
 4	Brooks	Brooks	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj|15:nsubj	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
 6	Carson	Carson	PROPN	NNP	Number=Sing	4	conj	4:conj:and|9:nsubj	_
-7	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	9:aux	_
+7	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	9:aux	_
 8	largely	largely	ADV	RB	_	9	advmod	9:advmod	_
 9	finished	finish	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
@@ -14412,7 +14412,7 @@
 12	growth	growth	NOUN	NN	Number=Sing	13	compound	13:compound	_
 13	rate	rate	NOUN	NN	Number=Sing	5	conj	5:conj:and|15:nsubj	_
 14	all	all	DET	DT	PronType=Tot	15	advmod	15:advmod	_
-15	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+15	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 16	significant	significant	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 17	effects	effect	NOUN	NNS	Number=Plur	15	obj	15:obj	_
 18	on	on	SCONJ	IN	_	19	mark	19:mark	_
@@ -24163,7 +24163,7 @@
 6	and	and	CCONJ	CC	_	8	cc	8:cc	_
 7	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 8	wife	wife	NOUN	NN	Number=Sing	5	conj	5:conj:and|9:nsubj	_
-9	returned	return	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+9	returned	return	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 10	to	to	ADP	IN	_	11	case	11:case	_
 11	Switzerland	Switzerland	PROPN	NNP	Number=Sing	9	obl	9:obl:to	SpaceAfter=No
 12	,	,	PUNCT	,	_	9	punct	9:punct	_
@@ -25147,7 +25147,7 @@
 7	dozens	dozen	NOUN	NNS	Number=Plur	5	nmod	5:nmod:in	_
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	banks	bank	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	_
-10	lead	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+10	lead	lead	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 11	to	to	ADP	IN	_	13	case	13:case	_
 12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
 13	flight	flight	NOUN	NN	Number=Sing	10	obl	10:obl:to	_
