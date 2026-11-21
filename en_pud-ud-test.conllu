@@ -17080,7 +17080,7 @@
 14	to	to	PART	TO	_	15	mark	15:mark	_
 15	have	have	VERB	VB	VerbForm=Inf	13	xcomp	13:xcomp	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
-17	princess	princess	NOUN	NN	Number=Sing	15	obj	15:obj	_
+17	princess	princess	NOUN	NN	Number=Sing	15	obj	15:obj|18:nsubj:pass:xsubj	_
 18	animated	animate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	xcomp	15:xcomp	_
 19	entirely	entirely	ADV	RB	_	18	advmod	18:advmod	_
 20	at	at	ADP	IN	_	22	case	22:case	_
