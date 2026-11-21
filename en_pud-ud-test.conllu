@@ -2363,7 +2363,7 @@
 8	in	in	ADP	IN	_	9	case	9:case	_
 9	Ontario	Ontario	PROPN	NNP	Number=Sing	7	nmod	7:nmod:in	_
 10	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-11	more	more	ADJ	JJR	Degree=Cmp	12	nsubj	12:nsubj|15:nsubj:xsubj	_
+11	more	more	ADJ	JJR	Degree=Cmp	12	nsubj	12:nsubj|15:nsubj:pass:xsubj	_
 12	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	10:ccomp	_
 13	to	to	PART	TO	_	15	mark	15:mark	_
 14	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	15:aux:pass	_
@@ -8845,7 +8845,7 @@
 14	guy	guy	NOUN	NN	Number=Sing	11	obl	11:obl:to	_
 15	that	that	SCONJ	IN	_	20	mark	20:mark	_
 16	clearly	clearly	ADV	RB	_	20	advmod	20:advmod	_
-17	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj|23:nsubj:xsubj	_
+17	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj|23:nsubj:pass:xsubj	_
 18-19	didn't	_	_	_	_	_	_	_	_
 18	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	20:aux	_
 19	n't	not	PART	RB	Polarity=Neg	20	advmod	20:advmod	_
@@ -13166,7 +13166,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 2	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 3	Olympic	Olympic	ADJ	NNP	Degree=Pos	4	amod	4:amod	_
-4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	6:nsubj:pass|10:nsubj:xsubj	_
+4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	6:nsubj:pass|10:nsubj:pass:xsubj	_
 5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 7	to	to	PART	TO	_	10	mark	10:mark	_
@@ -13579,7 +13579,7 @@
 2	oldest	old	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
 3	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	amod	5:amod	_
 4	historical	historical	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	reference	reference	NOUN	NN	Number=Sing	9	nsubj	9:nsubj|12:nsubj:xsubj	_
+5	reference	reference	NOUN	NN	Number=Sing	9	nsubj	9:nsubj|12:nsubj:pass:xsubj	_
 6	to	to	ADP	IN	_	8	case	8:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	city	city	NOUN	NN	Number=Sing	5	nmod	5:nmod:to	_
@@ -18859,7 +18859,7 @@
 # text = A proper theology would therefore have to be constructed in the light of its future goal.
 1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
 2	proper	proper	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
-3	theology	theology	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|9:nsubj:xsubj	_
+3	theology	theology	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|9:nsubj:pass:xsubj	_
 4	would	would	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
 5	therefore	therefore	ADV	RB	_	6	advmod	6:advmod	_
 6	have	have	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -18980,7 +18980,7 @@
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	believe	believe	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
 12	that	that	SCONJ	IN	_	16	mark	16:mark	_
-13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj|19:nsubj:xsubj	_
+13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj|19:nsubj:pass:xsubj	_
 14	no	no	ADV	RB	PronType=Neg	15	advmod	15:advmod	_
 15	longer	long	ADV	RBR	Degree=Cmp	16	advmod	16:advmod	_
 16	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ccomp	11:ccomp	_
@@ -20517,7 +20517,7 @@
 1	If	if	SCONJ	IN	_	5	mark	5:mark	_
 2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	Democrat	Democrat	PROPN	NNP	Number=Sing	4	compound	4:compound	_
-4	opponent	opponent	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|8:nsubj:xsubj	_
+4	opponent	opponent	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|8:nsubj:pass:xsubj	_
 5	were	be	VERB	VBD	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:if	_
 6	to	to	PART	TO	_	8	mark	8:mark	_
 7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	8:aux:pass	_
@@ -20625,7 +20625,7 @@
 16	twenty	twenty	NUM	CD	NumForm=Word|NumType=Card	17	nummod	17:nummod	_
 17	years	year	NOUN	NNS	Number=Plur	9	nmod	9:nmod:over	_
 18	leave	leave	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-19	much	much	ADJ	JJ	Degree=Pos	18	obj	18:obj|22:nsubj:xsubj	_
+19	much	much	ADJ	JJ	Degree=Pos	18	obj	18:obj|22:nsubj:pass:xsubj	_
 20	to	to	PART	TO	_	22	mark	22:mark	_
 21	be	be	AUX	VB	VerbForm=Inf	22	aux:pass	22:aux:pass	_
 22	desired	desire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	xcomp	18:xcomp	SpaceAfter=No
@@ -24599,7 +24599,7 @@
 6	First	First	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	7	amod	7:amod	Proper=True
 7	Coalition	Coalition	PROPN	NNP	Number=Sing	3	nmod	3:nmod:of	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	11:punct	_
-9	light	light	NOUN	NN	Number=Sing	11	nsubj	11:nsubj|14:nsubj:xsubj	_
+9	light	light	NOUN	NN	Number=Sing	11	nsubj	11:nsubj|14:nsubj:pass:xsubj	_
 10	quickly	quickly	ADV	RB	_	11	advmod	11:advmod	_
 11	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	to	to	SCONJ	TO	_	14	mark	14:mark	_
